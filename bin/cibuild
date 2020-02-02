@@ -13,5 +13,5 @@ export RUBY_HEAP_FREE_MIN=100000
 export RUBY_HEAP_SLOTS_INCREMENT=400000
 export RUBY_HEAP_SLOTS_GROWTH_FACTOR=1
 
-gem install spandx -v '0.4.0'
+gem install spandx -v '0.4.1'
 spandx build -d ./data/
