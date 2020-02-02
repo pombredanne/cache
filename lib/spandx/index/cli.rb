@@ -18,6 +18,9 @@ module Spandx
         puts "v#{Spandx::Index::VERSION}"
       end
       map %w[--version -v] => :version
+
+      require_relative 'commands/build'
+      register Spandx::Index::Commands::Build, 'build', 'build [SUBCOMMAND]', 'Command description...'
     end
   end
 end
