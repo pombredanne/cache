@@ -1,9 +1,5 @@
-RSpec.describe Spandx::Index do
-  it "has a version number" do
-    expect(Spandx::Index::VERSION).not_to be nil
-  end
+# frozen_string_literal: true
 
-  it "does something useful" do
-    expect(false).to eq(true)
-  end
+RSpec.describe Spandx::Index do
+  specify { expect(Spandx::Index::VERSION).not_to be_nil }
 end
