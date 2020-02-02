@@ -17,7 +17,7 @@ module Spandx
         require_relative 'version'
         puts "v#{Spandx::Index::VERSION}"
       end
-      map %w(--version -v) => :version
+      map %w[--version -v] => :version
     end
   end
 end

@@ -1,4 +1,8 @@
-require "spandx/index/version"
+# frozen_string_literal: true
+
+require 'net/hippie'
+
+require 'spandx/index/version'
 
 module Spandx
   module Index
