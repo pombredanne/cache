@@ -11,7 +11,7 @@ module Spandx
             @options = options
           end
 
-          def execute(input: $stdin, output: $stdout)
+          def execute(output: $stdout)
             # Command logic goes here ...
             output.puts 'OK'
           end
