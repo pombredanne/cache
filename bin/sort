@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+(0x00..0xFF).map { |x| x.to_s(16).upcase.rjust(2, '0').downcase }.each do |hex|
+  path = File.join('.index', hex, 'nuget')
+  IO.write(path, IO.readlines(path).sort.uniq.join)
+end

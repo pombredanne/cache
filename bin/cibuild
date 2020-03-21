@@ -1,17 +1,16 @@
+#!/bin/bash
 
+set -euxo pipefail
 
-
-
-
-# GC customizations
-#!/bin/sh
 cd "$(dirname "$0")/.."
+
 echo ["$(date "+%H:%M:%S")"] "==> Started at…"
 export RUBY_GC_HEAP_INIT_SLOTS=800000
 export RUBY_GC_MALLOC_LIMIT=79000000
 export RUBY_HEAP_FREE_MIN=100000
 export RUBY_HEAP_SLOTS_GROWTH_FACTOR=1
 export RUBY_HEAP_SLOTS_INCREMENT=400000
+
 gem install spandx -v '~> 0.7'
-set -e
 spandx index build -d .
+./bin/sort
