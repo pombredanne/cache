@@ -1,0 +1,21 @@
+name: update
+on:
+  schedule:
+    - cron: '* 15 * * *'
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: install ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - name: Run bin/cibuild
+        run: |
+          git config --local user.name "GitHub"
+          git config --local user.email "noreply@github.com"
+          bin/update
