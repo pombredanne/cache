@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 =begin
-
 Total pages: 10_094
 Total items: 5_509_765
 [5509765, "https://api.nuget.org/v3/catalog0/page10094.json"]
@@ -15,8 +14,10 @@ Template:
 | 100_000   |          |
 | 1_000_000 |          |
 ====================================
+| 5_509_765 |          | N/A       |
+====================================
 
-No Threads
+Single Thread
 ====================================
 | count     | time (s) | guess (s) |
 ====================================
