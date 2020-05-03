@@ -83,6 +83,8 @@ class Nuget
   end
 
   def run(cache)
+    GC.start
+    GC.disable
     threads = 8.times.map do |n|
       Thread.new do
         count = 0
@@ -91,11 +93,8 @@ class Nuget
           break if item == :stop
 
           count +=1
-          puts ['dequeueing', count, item].inspect
-          cache.insert(
-            item['id'] || item['nuget:id'],
-            item['version'] || item['nuget:version'],
-            [item['licenseExpression']])
+          puts [Thread.current.object_id, count].inspect
+          cache.insert(item['id'] || item['nuget:id'], item['version'] || item['nuget:version'], [item['licenseExpression']])
         end
       end
     end
@@ -105,6 +104,8 @@ class Nuget
         fetch_page("https://api.nuget.org/v3/catalog0/page#{n}.json")
       end
     end
+    GC.enable
+    GC.start
     threads.count.times { queue.enq(:stop) }
     threads.each(&:join)
     cache.rebuild_index
@@ -114,7 +115,6 @@ class Nuget
     command.run(url) do |response|
       json = Oj.load(response.body)
       json['items'].each do |item|
-        #puts ['queueing', item].inspect
         queue.enq(item)
       end
     rescue => error
@@ -123,6 +123,5 @@ class Nuget
   end
 end
 
-GC.disable
 cache = Spandx::Core::Cache.new('nuget', root: File.expand_path('.index'))
 Nuget.new.run(cache)
