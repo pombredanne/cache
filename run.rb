@@ -39,7 +39,10 @@ gemfile do
 
   gem 'oj'
   gem 'typhoeus'
+  gem 'spandx', git: 'https://github.com/mokhan/spandx.git', branch: 'concurrency'
 end
+
+trap("SIGINT") { exit(1) }
 
 puts "Starting..."
 Oj.default_options = { mode: :strict }
@@ -72,27 +75,47 @@ class Command
 end
 
 class Nuget
-  attr_reader :command
+  attr_reader :command, :queue
 
   def initialize
     @command = Command.new
     @queue = Queue.new
   end
 
-  def run
+  def run(cache)
+    threads = 8.times.map do |n|
+      Thread.new do
+        count = 0
+        loop do
+          item = queue.deq
+          break if item == :stop
+
+          count +=1
+          puts ['dequeueing', count, item].inspect
+          cache.insert(
+            item['id'] || item['nuget:id'],
+            item['version'] || item['nuget:version'],
+            [item['licenseExpression']])
+        end
+      end
+    end
     command.run('https://api.nuget.org/v3/catalog0/index.json') do |response|
       json = Oj.load(response.body)
       0.upto(json['count']) do |n|
         fetch_page("https://api.nuget.org/v3/catalog0/page#{n}.json")
       end
     end
+    threads.count.times { queue.enq(:stop) }
+    threads.each(&:join)
+    cache.rebuild_index
   end
 
   def fetch_page(url)
     command.run(url) do |response|
       json = Oj.load(response.body)
       json['items'].each do |item|
-        @queue.enq(item)
+        #puts ['queueing', item].inspect
+        queue.enq(item)
       end
     rescue => error
       puts error.inspect
@@ -101,4 +124,5 @@ class Nuget
 end
 
 GC.disable
-Nuget.new.run
+cache = Spandx::Core::Cache.new('nuget', root: File.expand_path('.index'))
+Nuget.new.run(cache)
