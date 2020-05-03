@@ -83,17 +83,15 @@ class Nuget
   end
 
   def run(cache)
+    start = Time.now.to_i
     GC.start
     GC.disable
     threads = 8.times.map do |n|
       Thread.new do
-        count = 0
         loop do
           item = queue.deq
           break if item == :stop
 
-          count +=1
-          puts [Thread.current.object_id, count].inspect
           cache.insert(item['id'] || item['nuget:id'], item['version'] || item['nuget:version'], [item['licenseExpression']])
         end
       end
@@ -104,11 +102,22 @@ class Nuget
         fetch_page("https://api.nuget.org/v3/catalog0/page#{n}.json")
       end
     end
-    GC.enable
+    now = Time.now.to_i
+    puts "Downloaded catalogue in #{now - start} seconds."
     GC.start
+    previous = queue.size
+    until queue.empty?
+      tmp = queue.size
+      puts "Drained: #{previous - tmp}/second. Remaining: #{tmp}"
+      previous = tmp
+      sleep 1
+    end
+    puts "Completed writes to disk in #{Time.now.to_i - now} seconds."
     threads.count.times { queue.enq(:stop) }
     threads.each(&:join)
+    GC.start
     cache.rebuild_index
+    GC.enable
   end
 
   def fetch_page(url)
