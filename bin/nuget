@@ -11,6 +11,4 @@ export RUBY_HEAP_FREE_MIN=100000
 export RUBY_HEAP_SLOTS_GROWTH_FACTOR=1
 export RUBY_HEAP_SLOTS_INCREMENT=400000
 
-gem install spandx -v '~> 0.7'
-spandx build --index=nuget -d .index
-./bin/sort
+time ruby ./bin/nuget.rb 2>/dev/null
