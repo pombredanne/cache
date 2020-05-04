@@ -84,8 +84,6 @@ class Nuget
 
   def run(cache)
     start = Time.now.to_i
-    GC.start
-    GC.disable
     threads = 8.times.map do |n|
       Thread.new do
         loop do
@@ -104,7 +102,6 @@ class Nuget
     end
     now = Time.now.to_i
     puts "Downloaded catalogue in #{now - start} seconds."
-    GC.start
     previous = queue.size
     until queue.empty?
       tmp = queue.size
@@ -115,9 +112,7 @@ class Nuget
     puts "Completed writes to disk in #{Time.now.to_i - now} seconds."
     threads.count.times { queue.enq(:stop) }
     threads.each(&:join)
-    GC.start
     cache.rebuild_index
-    GC.enable
   end
 
   def fetch_page(url)
