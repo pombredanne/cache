@@ -6,4 +6,4 @@ cd "$(dirname "$0")/.."
 
 echo ["$(date "+%H:%M:%S")"] "==> Started at…"
 
-time ruby ./bin/nuget.rb 2>/dev/null
+time ruby ./bin/nuget.rb
