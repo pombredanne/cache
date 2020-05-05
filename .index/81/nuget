@@ -7925,6 +7925,7 @@
 "Tago.Infra.Abstractions","3.0.0-preview-02",""
 "Tago.Infra.Abstractions","3.0.0-preview-03",""
 "Tago.Infra.Abstractions","3.0.0-preview-04",""
+"Taitans.Abp.AuditLogging.Domain.Shared","0.0.7",""
 "Taitans.Abp.AuditLogging.Domain.Shared","2.6.0",""
 "TamTam.NuGet.Umbraco.DashboardExtension","1.0.0",""
 "TamTam.NuGet.Umbraco.DashboardExtension","1.0.0-CI00004",""

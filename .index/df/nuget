@@ -8283,6 +8283,7 @@
 "TTRider.FluidSql.Postgres","1.10.4-beta-4",""
 "TTRider.FluidSql.Postgres","1.10.4-beta-5",""
 "TTRider.FluidSql.Postgres","1.10.5",""
+"Taitans.Abp.AuditLogging.MongoDB","0.0.7",""
 "Taitans.Abp.AuditLogging.MongoDB","2.6.0",""
 "TamTam.ConditionalRobots","1.0.1.5",""
 "TechBounty.BootLux.Domain.Logging.Service","0.1.0-p20200222.5",""

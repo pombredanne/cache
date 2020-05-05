@@ -10083,6 +10083,7 @@
 "TagBites.DB.Npgsql","1.0.0-preview6",""
 "TagBites.DB.Npgsql","1.0.0-preview7",""
 "TagBites.DB.Npgsql","1.0.0-preview8",""
+"Taitans.Abp.OcelotManagement.EntityFrameworkCore","0.0.7",""
 "Taitans.Abp.OcelotManagement.EntityFrameworkCore","0.2.0",""
 "Taitans.Abp.OcelotManagement.EntityFrameworkCore","2.3.0",""
 "Taitans.Abp.OcelotManagement.EntityFrameworkCore","2.3.1",""
