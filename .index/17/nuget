@@ -7453,6 +7453,7 @@
 "QRest.AspNetCore","0.4.2-beta",""
 "QRest.AspNetCore","0.4.3-beta",""
 "QRest.AspNetCore","1.0.0",""
+"QRest.AspNetCore","1.1.0-preview",""
 "QazLatynConverter.Net","1.0.0",""
 "QuantConnect.Algorithm.Python","2.4.0.3493",""
 "Quarks.Runtime","0.1.0",""
