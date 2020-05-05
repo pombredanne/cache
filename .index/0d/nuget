@@ -7539,6 +7539,7 @@
 "TGC.Core","2.3.4",""
 "TGC.Core","2.4.1",""
 "TS.Sdk.StaticFace.Detector","1.0.0",""
+"Taitans.Abp.AuditLogging.EntityFrameworkCore","0.0.7",""
 "Taitans.Abp.AuditLogging.EntityFrameworkCore","2.6.0",""
 "Taitans.Abp.Ocelot.Application","0.1.4",""
 "Taitans.Abp.Ocelot.Application","0.1.5",""

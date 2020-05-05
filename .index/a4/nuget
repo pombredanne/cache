@@ -9121,6 +9121,7 @@
 "TWCore.Messaging.NATS","3.0.0-beta3",""
 "TWCore.Messaging.NATS","3.0.0-beta4",""
 "TWCore.Messaging.NATS","3.0.0-beta5",""
+"Taitans.Abp.SaasManagement.MongoDB","0.0.7",""
 "Taitans.Abp.SaasManagement.MongoDB","2.6.0",""
 "Talon.LMServerServiceQA","0.0.1.13",""
 "Talon.LMServerServiceQA","1.0.0.2",""

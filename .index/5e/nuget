@@ -8888,6 +8888,7 @@
 "TableDependency","1.0.1.2",""
 "TableDependency","2.0.0",""
 "TableDependency","2.0.1",""
+"Taitans.Abp.AuditLogging.Domain","0.0.7",""
 "Taitans.Abp.AuditLogging.Domain","2.6.0",""
 "Taitans.Owin.Security.Aes","1.0.0-alpha01",""
 "TallyDemo","1.0.2",""
