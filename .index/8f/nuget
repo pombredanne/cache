@@ -3609,6 +3609,7 @@
 "ImageResizer.FluentExtensions","1.0.0.6",""
 "ImageResizerCore.AspNet","1.0.0",""
 "ImageResizerCore.AspNet","2.0.0",""
+"ImageResizerCore.AspNet","2.0.1",""
 "ImageWizard.MongoDB","1.0.0",""
 "ImageWizard.MongoDB","1.0.1",""
 "ImageWizard.MongoDB","1.0.2",""
