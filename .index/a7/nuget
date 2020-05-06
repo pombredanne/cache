@@ -1035,6 +1035,7 @@
 "CDK.EC2.KeyPair","1.0.1",""
 "CDK.EC2.KeyPair","1.1.0",""
 "CDK.EC2.KeyPair","1.2.0",""
+"CDK.EC2.KeyPair","1.2.1",""
 "CData.Evernote","19.0.7285",""
 "CData.Evernote","19.0.7354",""
 "CData.SAPByDesign","19.0.7354",""
