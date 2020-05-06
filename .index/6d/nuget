@@ -12816,6 +12816,7 @@
 "cloudscribe.Core.Storage.NoDb","3.0.9",""
 "cloudscribe.Core.Storage.NoDb","4.0.0",""
 "cloudscribe.Core.Storage.NoDb","4.0.0-preview20190901",""
+"cloudscribe.Core.Storage.NoDb","4.0.1",""
 "cloudscribe.Setup.MSSQL","1.0.0-beta1",""
 "com.spoiledcat.simplejson","2.0.0",""
 "contratos.dll","2.0.0",""
