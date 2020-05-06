@@ -7183,6 +7183,7 @@
 "RI.Framework.Extensions.Json","0.7.0",""
 "RMA","1.0.0",""
 "ROOTNET-PROOF-v5.30.00.win32.vc10","2.5.0",""
+"RSMassTransit.Client.AzureServiceBus.Core","0.1.0",""
 "RSMassTransit.Client.AzureServiceBus.Core","0.1.0-rc1",""
 "RaceLogic","1.0.3",""
 "Radovan.Plugin","1.0.0.20",""
