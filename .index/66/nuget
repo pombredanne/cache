@@ -2724,6 +2724,7 @@
 "FreeSql.Provider.MsAccess","1.4.0-preview20200411",""
 "FreeSql.Provider.MsAccess","1.5.0-preview0502",""
 "FreeSql.Provider.MsAccess","1.5.0-preview0507",""
+"FreeSql.Provider.MsAccess","1.5.0-preview0508",""
 "FunScript.TypeScript.Binding.rx_backpressure","1.1.0.37",""
 "FxSsh.PwAuth","1.0.0",""
 "FxSsh.PwAuth","1.0.1",""
