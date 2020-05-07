@@ -8605,6 +8605,7 @@
 "PostSharp.Patterns.Caching.Azure","6.6.4-rc",""
 "PostSharp.Patterns.Caching.Azure","6.6.6",""
 "PostSharp.Patterns.Caching.Azure","6.6.7",""
+"PostSharp.Patterns.Caching.Azure","6.7.1-preview",""
 "PowershellTestProvider","0.1.0-pre",""
 "PowershellTestProvider","0.2.0-pre",""
 "Prettig.Di.Configuration","0.0.1-alpha",""

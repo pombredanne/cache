@@ -7425,6 +7425,7 @@
 "PostSharp.Compiler.Settings","6.6.4-rc",""
 "PostSharp.Compiler.Settings","6.6.6",""
 "PostSharp.Compiler.Settings","6.6.7",""
+"PostSharp.Compiler.Settings","6.7.1-preview",""
 "PostSharp.Patterns.Caching.Memcached","5.0.10-preview",""
 "PostSharp.Patterns.Caching.Memcached","5.0.11-preview",""
 "PostSharp.Patterns.Model.Controls","3.2.11-alpha",""

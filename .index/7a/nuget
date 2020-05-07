@@ -7706,6 +7706,7 @@
 "PostSharp.Patterns.Caching.Redis","6.6.4-rc",""
 "PostSharp.Patterns.Caching.Redis","6.6.6",""
 "PostSharp.Patterns.Caching.Redis","6.6.7",""
+"PostSharp.Patterns.Caching.Redis","6.7.1-preview",""
 "PowerShellGAC","1.0.1",""
 "PractMicroServiceAdvertModels","1.0.0",""
 "PrettyPrintNet","1.1.0",""

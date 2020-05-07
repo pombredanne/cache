@@ -3756,6 +3756,7 @@
 "FreeSql.Provider.Oracle","1.4.0-preview20200411",""
 "FreeSql.Provider.Oracle","1.5.0-preview0502",""
 "FreeSql.Provider.Oracle","1.5.0-preview0507",""
+"FreeSql.Provider.Oracle","1.5.0-preview0508",""
 "FsharpNetInterop","0.1.0",""
 "FsiEval","0.1.0-alpha",""
 "FsiEval","0.1.1-alpha",""
