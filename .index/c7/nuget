@@ -1316,6 +1316,7 @@
 "Coherence.EcsSync","0.0.0-a04",""
 "Coherence.Editor.Controller","0.0.0-a04",""
 "Coherence.Editor.Controller","0.0.0-a05",""
+"Coherence.Editor.Controller","0.0.0-a06",""
 "CollabSamplePackage","1.0.0",""
 "Collector.Common.FeatureFlags.LaunchDarkly","3.0.0",""
 "Collector.Common.FeatureFlags.LaunchDarkly","3.0.1",""
