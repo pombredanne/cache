@@ -1061,6 +1061,7 @@
 "ActiveQueryBuilder.PostgreSQLMetadataProvider","3.5.6.1113",""
 "ActiveQueryBuilder.PostgreSQLMetadataProvider","3.5.8.1115",""
 "ActiveQueryBuilder.PostgreSQLMetadataProvider","3.6.0.1159",""
+"ActiveQueryBuilder.PostgreSQLMetadataProvider","3.6.1.1160",""
 "AdvancedStringBuilder","0.1.0",""
 "AdvertApt.Models","1.0.0",""
 "Aggregator.Tests","1.0.0.2",""
