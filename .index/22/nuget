@@ -6625,6 +6625,7 @@
 "Pulumi.Kubernetes","2.0.0",""
 "Pulumi.Kubernetes","2.0.0-beta.1",""
 "Pulumi.Kubernetes","2.0.0-beta.2",""
+"Pulumi.Kubernetes","2.1.0",""
 "Pulumi.Kubernetes","2.1.0-alpha.1586894135+g27b08cd8",""
 "Pulumi.Kubernetes","2.1.0-alpha.1586984222+geb0a2e11",""
 "Pulumi.Kubernetes","2.1.0-alpha.1587070043+geda7a456",""
