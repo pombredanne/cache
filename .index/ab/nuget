@@ -5634,6 +5634,7 @@
 "Psibr.Extensions.AspNetCore.KeyVaultLocalMacros.WebJobs","1.0.14",""
 "Psibr.Extensions.AspNetCore.KeyVaultLocalMacros.WebJobs","1.0.15",""
 "Psibr.Extensions.AspNetCore.KeyVaultLocalMacros.WebJobs","1.0.18",""
+"PuppeteerSharp.Contrib.Extensions.Unsafe","2.0.0",""
 "PureActive.Core.Reactive","1.0.111-prerelease",""
 "PureActive.Core.Reactive","1.0.113-prerelease",""
 "PureActive.Core.Reactive","1.0.117-prerelease",""
