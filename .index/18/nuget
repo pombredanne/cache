@@ -10014,6 +10014,7 @@
 "TCM.SuperX.GashaponService.Protocols","1.1.1",""
 "TFS.API","11.0.50727.1",""
 "TPOAppLogger","1.0.0",""
+"TSql.RestApi.Core","0.9.0",""
 "TZM.XFrameworkCore.Postgre","1.0.0",""
 "TZM.XFrameworkCore.Postgre","1.0.3",""
 "TZM.XFrameworkCore.Postgre","1.0.4",""
