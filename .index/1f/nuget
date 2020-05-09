@@ -1819,6 +1819,7 @@
 "CK.DB.User.UserOidc","8.1.0",""
 "CK.DB.User.UserOidc","8.1.1",""
 "CK.DB.User.UserOidc","8.2.0",""
+"CK.DB.User.UserOidc","9.0.0",""
 "CK.GraphX","1.0.7",""
 "CK.GraphX","1.0.8",""
 "CS.Util","1.0.6",""
