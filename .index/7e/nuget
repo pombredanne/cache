@@ -2719,6 +2719,7 @@
 "DSFramework.Domain.Abstractions","1.0.0",""
 "DSFramework.Domain.Abstractions","1.0.0-beta0001",""
 "DSFramework.Domain.Abstractions","1.1.0-alpha0006",""
+"Dapper.TSql.RestApi","0.8.0",""
 "DashReportViewer.Shared","1.0.0",""
 "DashReportViewer.Shared","1.0.1",""
 "DashReportViewer.Shared","1.0.10",""
