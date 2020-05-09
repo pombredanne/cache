@@ -1972,6 +1972,7 @@
 "CK.DB.User.UserPassword.Tests","8.1.0",""
 "CK.DB.User.UserPassword.Tests","8.1.1",""
 "CK.DB.User.UserPassword.Tests","8.2.0",""
+"CK.DB.User.UserPassword.Tests","9.0.0",""
 "CLIUtils.Config","1.1.0",""
 "CLIUtils.Config","1.2.0",""
 "CLIUtils.Config","1.3.0",""

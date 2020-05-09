@@ -1274,6 +1274,8 @@
 "CK.AspNet.Auth","8.2.0",""
 "CK.AspNet.Auth","8.2.1",""
 "CK.AspNet.Auth","8.2.2",""
+"CK.AspNet.Auth","9.0.0",""
+"CK.DB.TokenStore.Tests","0.10.0",""
 "CK.DB.TokenStore.Tests","0.2.0",""
 "CK.DB.TokenStore.Tests","0.3.0",""
 "CK.DB.TokenStore.Tests","0.4.0",""

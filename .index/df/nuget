@@ -6440,6 +6440,7 @@
 "OpenSSL.X509Certificate2.Provider","1.3.0",""
 "OpenWaves.Pagination","1.0.85.243",""
 "OpenWaves.Pagination","1.0.87.197",""
+"Orbitfog.Core.Database.Mapper","0.1.0",""
 "Orchard.Module.Piedone.Combinator","2.0.0",""
 "Orchard.Setup","0.0.1-alpha",""
 "Orchard.Setup","2.0.0-preview",""

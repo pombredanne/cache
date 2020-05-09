@@ -4320,6 +4320,7 @@
 "Hud.Authorization.DbServices","1.0.1",""
 "Hunter.Authentication.Token.Creation.Jwt.Abstractions","1.3.1.26",""
 "Hunter.Authentication.Token.Creation.Jwt.Abstractions","1.3.1.330",""
+"Hunter.Authentication.Token.Creation.Jwt.Abstractions","1.3.1.392",""
 "Hunter.EventBus.MessageTransport.STAN","1.3.2.38",""
 "Hunter.EventBus.MessageTransport.STAN","1.3.2.40",""
 "Hunter.EventBus.MessageTransport.STAN","1.3.2.41",""

@@ -1852,6 +1852,7 @@
 "DevLib.Xml","2.8.9.42690",""
 "DevLib.Xml","2.9.0.37965",""
 "DickinsonBros.SQL.Abstractions","1.0.0",""
+"DickinsonBros.SQL.Abstractions","1.1.0",""
 "DogmaSolutions.Data.Sql.Fluent.ForSqlServer","2.0.354",""
 "DogmaSolutions.Machines.S7","2.0.354",""
 "Dolittle.Runtime.Events.Migration","1.0.0",""
