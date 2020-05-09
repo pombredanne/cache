@@ -5095,6 +5095,7 @@
 "Hangfire.HttpJob.Agent.MysqlConsole","1.0.4",""
 "Hangfire.HttpJob.Agent.MysqlConsole","1.1.0",""
 "Hangfire.HttpJob.Agent.MysqlConsole","1.1.1",""
+"Hangfire.HttpJob.Agent.MysqlConsole","1.1.3",""
 "Hangfire.Pipeline.SqlServer","0.1.0",""
 "Hangfire.RecurringJobAdmin","0.0.1",""
 "Hangfire.RecurringJobAdmin","0.0.2",""
