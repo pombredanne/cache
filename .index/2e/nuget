@@ -6892,6 +6892,7 @@
 "ServiceModel.Grpc","1.0.0-pre1",""
 "ServiceModel.Grpc","1.0.0-pre2",""
 "ServiceModel.Grpc","1.0.1",""
+"ServiceModel.Grpc","1.1.0",""
 "ServiceStack.Authentication.Layer","0.0.0",""
 "ServiceStack.Authentication.Layer","0.1.0",""
 "ServiceStack.Authentication.Layer","0.1.0-pre0017",""

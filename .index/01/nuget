@@ -8338,6 +8338,7 @@
 "Python.Runtime","2.7.9",""
 "QD.EntityFrameworkCore.UnitOfWork","1.0.0",""
 "QD.EntityFrameworkCore.UnitOfWork","1.0.0-alpha",""
+"QD.EntityFrameworkCore.UnitOfWork","2.0.0",""
 "QRCoder.NETCore21","1.0.0",""
 "QRCoder.NETCore21","1.1.0",""
 "Qc.WechatSdk","1.0.0",""
