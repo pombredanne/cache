@@ -5896,6 +5896,7 @@
 "Net.Http.WebApi.OData","5.0.0-preview231",""
 "Net.Http.WebApi.OData","5.0.1",""
 "Net.Http.WebApi.OData","5.0.1-preview20200501.1",""
+"Net.Http.WebApi.OData","5.1.0-preview20200510.1",""
 "NetCorePal.WebStorage.Abstractions","1.0.0",""
 "NetworkHandler","1.0.0",""
 "NewsAPI","0.1.0",""
