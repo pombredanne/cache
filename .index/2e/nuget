@@ -1739,6 +1739,7 @@
 "Connatix.NLogKinesisTarget","1.0.5",""
 "Connatix.NLogKinesisTarget","1.0.6",""
 "Connatix.NLogKinesisTarget","1.0.7",""
+"ConnectingApps.IntegrationFixture","3.1.0",""
 "Console.Host.ApplicationInsights","0.0.4.30",""
 "Console.Host.ApplicationInsights","0.0.5.31",""
 "Console.Host.ApplicationInsights","0.0.6.32",""

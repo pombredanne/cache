@@ -6085,6 +6085,7 @@
 "Microsoft.AspNetCore.Mvc.ViewFeatures","2.2.0-preview2-35157",""
 "Microsoft.AspNetCore.Mvc.ViewFeatures","2.2.0-preview3-35497",""
 "Microsoft.Azure.Cosmos.Encryption","1.0.0-preview",""
+"Microsoft.Azure.Cosmos.Encryption","1.0.0-preview2",""
 "Microsoft.CodeAnalysis.CSharp.fr","1.0.0-beta1-20141031-01",""
 "Microsoft.Crm.Sdk.Proxy","5.0.12",""
 "Microsoft.Crm.Sdk.Proxy","5.0.12.1",""

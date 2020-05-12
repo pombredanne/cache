@@ -7743,6 +7743,8 @@
 "Steeltoe.Common.Security","3.0.0-m1",""
 "Steeltoe.Common.Security","3.0.0-m2",""
 "StreamExtensions","1.0.0",""
+"StreamExtensions","1.0.1",""
+"StreamExtensions","1.0.2",""
 "StringRandomizer","1.0.0",""
 "StringRandomizer","1.0.0-beta",""
 "StringRandomizer","1.0.0-pre",""

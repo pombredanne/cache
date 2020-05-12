@@ -4856,6 +4856,7 @@
 "Logary.Targets.Elasticsearch","5.0.0-rc.7",""
 "Logary.Targets.Elasticsearch","5.0.0-rc.8",""
 "Logary.Targets.Elasticsearch","5.0.0-rc.9",""
+"Logary.Targets.Elasticsearch","5.0.1",""
 "LoggerUtility","1.0.0",""
 "LoggerUtility","1.0.1",""
 "LogicArt.Arch.Infrastructure.DependencyResolution.Lamar","3.0.0",""

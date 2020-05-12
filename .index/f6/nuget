@@ -4189,6 +4189,7 @@
 "Logary.Ingestion.TCP","5.0.0-rc.7",""
 "Logary.Ingestion.TCP","5.0.0-rc.8",""
 "Logary.Ingestion.TCP","5.0.0-rc.9",""
+"Logary.Ingestion.TCP","5.0.1",""
 "Logary.Targets.Riemann","3.0.0",""
 "Logary.Targets.Riemann","3.0.1",""
 "Logary.Targets.Riemann","3.0.2",""
