@@ -1595,6 +1595,7 @@
 "Akka.Persistence.MongoDb","1.4.1-beta637187777031872868",""
 "Akka.Persistence.MongoDb","1.4.1-rc1",""
 "Akka.Persistence.MongoDb","1.4.1-rc3",""
+"Akka.Persistence.MongoDb","1.4.2",""
 "Akka.Visualizer","1.0.0",""
 "Algorist.TestUtilities.EntityFrameworkCore","1.0.7",""
 "Algorist.TestUtilities.EntityFrameworkCore","1.0.8",""
