@@ -2780,6 +2780,7 @@
 "DogStatsD-CSharp-Client","3.4.0-rc1",""
 "DogStatsD-CSharp-Client","4.0.0",""
 "DogStatsD-CSharp-Client","4.0.1",""
+"DogStatsD-CSharp-Client","5.0.0",""
 "Dolittle.Runtime.Events.InMemory","2.0.0",""
 "Dolittle.Runtime.Events.InMemory","2.0.1",""
 "Dolittle.Runtime.Events.InMemory","2.0.2",""
