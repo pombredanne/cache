@@ -6444,6 +6444,7 @@
 "PackagePush_Returns200IfMinClientVersionPolicyMet.636688408089127140","1.0.0",""
 "Palit.AspNetCore.JsonPatch.Extensions.Generate","1.0.0",""
 "Panopta-Agent","1.0.0",""
+"Papabytes.Packages.Web","1.0.0",""
 "PasswordHash","1.0.0",""
 "PasswordHash","1.1.0",""
 "PeanutButter.TestUtils.MVC.NugetPackage","1.0.1",""
