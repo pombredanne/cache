@@ -2231,6 +2231,7 @@
 "E2E.SymbolsPackage.191010.183921.3282589","1.0.0",""
 "ECommerce.Data.RedisProvider","1.0.0",""
 "ECommerce.Data.RedisProvider","1.0.1",""
+"ENode.AggregateSnapshotStore","1.0.0",""
 "EasyCaching.Serialization.MessagePack","0.1.0",""
 "EasyCaching.Serialization.MessagePack","0.1.1",""
 "EasyCaching.Serialization.MessagePack","0.1.2",""
