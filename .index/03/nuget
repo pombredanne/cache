@@ -1479,6 +1479,7 @@
 "AspNetCore.HealthChecks.MongoDb","3.0.1",""
 "AspNetCore.HealthChecks.MongoDb","3.1.0",""
 "AspNetCore.HealthChecks.MongoDb","3.1.1",""
+"AspNetCore.HealthChecks.Prometheus.Metrics","3.1.1",""
 "AspNetCore.Mvc.HttpActionResults.Informational.Extensions","0.1.0",""
 "AspNetCore.Mvc.HttpActionResults.Informational.Extensions","0.1.1",""
 "AspNetCore.Mvc.HttpActionResults.Informational.Extensions","0.2.0",""
