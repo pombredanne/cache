@@ -9047,6 +9047,7 @@
 "protobuf-net.Protogen","3.0.0-alpha.143",""
 "protobuf-net.Protogen","3.0.0-alpha.91",""
 "psyXml","1.0.0",""
+"rock.monitoring","1.0.1.1",""
 "runtime.debian.8-x64.Microsoft.NETCore.ILDAsm","1.0.10",""
 "runtime.debian.8-x64.Microsoft.NETCore.ILDAsm","1.0.11",""
 "runtime.debian.8-x64.Microsoft.NETCore.ILDAsm","1.0.12",""
