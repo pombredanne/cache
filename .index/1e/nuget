@@ -1958,6 +1958,7 @@
 "Baishijiaju.MicroService.Infrastructure.Messages.RabbitMQ.AutoFacIntegration","2.2.2.2-outune04",""
 "Baishijiaju.MicroService.Infrastructure.Messages.RabbitMQ.AutoFacIntegration","2.2.2.2-outune05",""
 "Balea.Api.Store","3.0.0",""
+"Balea.Api.Store","3.0.0-preview29",""
 "Baltsoft.LogDNA.Extensions.Logging","1.1.0",""
 "Baltsoft.LogDNA.Extensions.Logging","1.1.1",""
 "Baltsoft.LogDNA.Extensions.Logging","1.1.2",""
