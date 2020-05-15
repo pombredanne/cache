@@ -1467,6 +1467,7 @@
 "CorrelatorSharp.Logging.LoggerProvider.NLog","1.0.1",""
 "Cosmos.Data.Extensions.SqlKata","0.1.1",""
 "Cosmos.Data.Extensions.SqlKata","0.1.4",""
+"Cosmos.Data.Extensions.SqlKata","0.1.4.1",""
 "Couchbase.Lite.Mapping","1.0.0",""
 "Couchbase.Lite.Mapping","1.0.1",""
 "Couchbase.Lite.Mapping","1.0.2",""

@@ -1467,6 +1467,7 @@
 "CoreJWT2","0.1.0-alpha",""
 "Cosmos.Data.Statements","0.1.1",""
 "Cosmos.Data.Statements","0.1.4",""
+"Cosmos.Data.Statements","0.1.4.1",""
 "Cosmos.Db.Sql.Api.Domain","1.0.0-alpha",""
 "Cosmos.Db.Sql.Api.Domain","1.0.0-preview",""
 "Cosmos.Db.Sql.Api.Domain","1.1.0-preview",""

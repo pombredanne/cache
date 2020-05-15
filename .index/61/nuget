@@ -2265,6 +2265,7 @@
 "CorpOS.AzureUtilities","1.0.0",""
 "Cosmos.Data.Extensions.DependencyInjection","0.1.1",""
 "Cosmos.Data.Extensions.DependencyInjection","0.1.4",""
+"Cosmos.Data.Extensions.DependencyInjection","0.1.4.1",""
 "Cosmos.Logging.RunsOn.AspNetCore","0.1.0",""
 "Cosmos.Logging.RunsOn.AspNetCore","0.1.0-alpha3-103001",""
 "Cosmos.Logging.RunsOn.AspNetCore","0.1.0-alpha3-103007",""
