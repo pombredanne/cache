@@ -2706,6 +2706,7 @@
 "Elsa.Activities.Workflows","1.2.2.50-preview",""
 "Enable.Extensions.Messaging.AzureServiceBus","0.1.3",""
 "Enable.Extensions.Messaging.AzureServiceBus","0.1.5",""
+"Encompis.Shared.Utils","1.0.0",""
 "EnergyTrading.Logging.Log4Net","2.8.1.112",""
 "EnergyTrading.Logging.Log4Net","2.8.1.27",""
 "EnergyTrading.Logging.Log4Net","2.8.1.28",""
