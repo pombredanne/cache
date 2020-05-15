@@ -455,6 +455,7 @@
 "ActiveQueryBuilder.InformixMetadataProvider","3.5.8.1115",""
 "ActiveQueryBuilder.InformixMetadataProvider","3.6.0.1159",""
 "ActiveQueryBuilder.InformixMetadataProvider","3.6.1.1160",""
+"ActiveQueryBuilder.InformixMetadataProvider","3.6.2.1161",""
 "Advista.Api.Edge.Backend.Client.NumberInfo","1.0.60",""
 "Aetna.GUIDE.GUI_ADOAccess","5.0.7",""
 "Afx.AspNetCore.Mvc","6.1.0",""
