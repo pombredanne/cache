@@ -2112,6 +2112,7 @@
 "Cosmos.Business.Extensions.FileTypeSniffer.Library.Image","0.1.2",""
 "Cosmos.Data.Extensions.MySql","0.1.1",""
 "Cosmos.Data.Extensions.MySql","0.1.4",""
+"Cosmos.Data.Extensions.MySql","0.1.4.1",""
 "Cosmos.RestApi","1.0.29",""
 "Cosmos.RestApi","1.0.30",""
 "Cosmos.RestApi","1.0.31",""

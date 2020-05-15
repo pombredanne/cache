@@ -1981,6 +1981,7 @@
 "Coscine.Logging","1.2.0",""
 "Cosmos.Data.Extensions.PostgreSql","0.1.1",""
 "Cosmos.Data.Extensions.PostgreSql","0.1.4",""
+"Cosmos.Data.Extensions.PostgreSql","0.1.4.1",""
 "CppPinvokeGenerator","0.1.1",""
 "CppPinvokeGenerator","0.1.2",""
 "CppPinvokeGenerator","0.1.3",""
