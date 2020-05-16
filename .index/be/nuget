@@ -2233,6 +2233,7 @@
 "CoreExtensions.Enumerable","1.0.2",""
 "CoreLib.Application.Cryptography","0.1.20123.2",""
 "Cosmos.Dapper.SqlServer","0.1.1",""
+"Cosmos.Dapper.SqlServer","0.1.4.1",""
 "CosmosDbSubCollections","0.0.1",""
 "CoubSharp","0.0.1-alpha",""
 "CoubSharp","0.0.2-alpha",""
