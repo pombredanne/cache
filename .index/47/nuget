@@ -813,6 +813,7 @@
 "Amazon.CDK.AWS.CloudTrail","1.36.1",""
 "Amazon.CDK.AWS.CloudTrail","1.37.0",""
 "Amazon.CDK.AWS.CloudTrail","1.38.0",""
+"Amazon.CDK.AWS.CloudTrail","1.39.0",""
 "Amazon.CDK.AWS.CloudTrail","1.4.0-devpreview",""
 "Amazon.CDK.AWS.CloudTrail","1.5.0-devpreview",""
 "Amazon.CDK.AWS.CloudTrail","1.6.0-devpreview",""
