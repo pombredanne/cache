@@ -2142,6 +2142,7 @@
 "Corvus.Extensions","0.8.0",""
 "Cosmin.AdvertApi.Models","1.0.0",""
 "Cosmos.Dapper.PostgreSql","0.1.1",""
+"Cosmos.Dapper.PostgreSql","0.1.4.1",""
 "Costura","0.1.0",""
 "Costura","0.10.0",""
 "Costura","0.12.0",""
