@@ -30,7 +30,6 @@ Single Thread
 ====================================
 =end
 
-
 puts "Installing gems..."
 require 'bundler/inline'
 
@@ -39,7 +38,7 @@ gemfile do
 
   gem 'oj'
   gem 'typhoeus'
-  gem 'spandx', git: 'https://github.com/mokhan/spandx.git', branch: 'concurrency'
+  gem 'spandx'
 end
 
 trap("SIGINT") { exit(1) }

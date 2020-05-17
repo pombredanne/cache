@@ -2,9 +2,6 @@ name: update
 on:
   schedule:
     - cron: '* 15 * * *'
-  push:
-    branches:
-      - master
 jobs:
   nuget:
     runs-on: ubuntu-latest
