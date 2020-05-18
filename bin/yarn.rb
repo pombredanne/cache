@@ -74,9 +74,7 @@ class Yarn
         cache.insert(name, version, [])
       else
         x = json['versions'] ? json.fetch('versions').fetch(version) : json
-        license = x['license']
-        puts [name, version, license].inspect
-        cache.insert(name, version, [license])
+        cache.insert(name, version, [x['license']])
       end
     end
   end

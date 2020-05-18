@@ -6,7 +6,6 @@ cd "$(dirname "$0")/.."
 
 echo ["$(date "+%H:%M:%S")"] "==> Started at…"
 
-rm -f .index/**/yarn
 time ruby ./bin/yarn.rb
 
 if git status | grep 'nothing to commit'; then
