@@ -5116,6 +5116,7 @@
 "Handlebars.Extension.Logging","1.0.2.11-beta",""
 "Handlebars.Extension.Logging","1.0.2.12-beta",""
 "Handlebars.Extension.Logging","1.0.2.13-beta",""
+"Handlebars.Extension.Logging","1.0.3",""
 "Handlebars.Extension.Logging","1.3.0",""
 "HangFire.Azure.QueueStorage","0.0.1",""
 "Hangfire.HttpJob.Ext","1.0.0",""
