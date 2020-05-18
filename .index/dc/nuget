@@ -5948,6 +5948,7 @@
 "MassTransit.Ninject","6.3.2-develop.2691+sha.3ded01b",""
 "MassTransit.Ninject","6.3.2-develop.2694+sha.4230fd5",""
 "MassTransit.Ninject","6.3.2-develop.2697+sha.03c2dd0",""
+"MassTransit.Ninject","6.3.2-develop.2702+sha.86538ab",""
 "MassTransit.RabbitMq.Extensions.Hosting.Dummy","1.0.0",""
 "MassTransit.RabbitMq.Extensions.Hosting.Dummy","1.0.17",""
 "MassTransit.RabbitMq.Extensions.Hosting.Dummy","1.0.20",""
