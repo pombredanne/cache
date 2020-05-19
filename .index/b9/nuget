@@ -8893,6 +8893,7 @@
 "Seq.Input.AzureEventHub","1.0.1",""
 "Serilog.Sinks.Grafana.Loki","3.0.0",""
 "Serilog.Sinks.Grafana.Loki","3.0.1",""
+"Serilog.Sinks.Grafana.Loki","3.1.0",""
 "Sers.CL.Socket.ThreadWait","2.1.1.250",""
 "Sers.CL.Socket.ThreadWait","2.1.1.290",""
 "Sers.CL.Socket.ThreadWait","2.1.1.291",""
