@@ -58,7 +58,7 @@ class NPM
           item = queue.deq
           break if item == :stop
 
-          cache.insert(item['name'], item['version'], [item['license']])
+          cache.insert(item['name'], item['version'], [item['license']].compact)
         end
       end
     end
@@ -71,7 +71,11 @@ class NPM
         command.run("https://replicate.npmjs.com/#{key}/") do |response|
           json = Oj.load(response.body)
           json['versions'].each do |version, data|
-            queue.enq(data)
+            queue.enq({
+              'name' => data['name'],
+              'version' => data['version'],
+              'license' => data['license']
+            })
           end
         end
       end
