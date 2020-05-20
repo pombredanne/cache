@@ -5,52 +5,23 @@ require 'etc'
 gemfile do
   source 'https://rubygems.org'
 
+  gem 'async-http'
   gem 'oj'
-  gem 'typhoeus'
   gem 'spandx'
 end
+
+require 'async'
+require 'async/barrier'
+require 'async/http/internet'
 
 trap("SIGINT") { exit(1) }
 
 puts "Starting..."
 Oj.default_options = { mode: :strict }
 
-class Command
-  attr_reader :hydra
-
-  def initialize(hydra: Typhoeus::Hydra.hydra)
-    @hydra = hydra
-    @started = false
-  end
-
-  def run(url)
-    request = Typhoeus::Request.new(url, followlocation: true, accept_encoding: 'gzip')
-    request.on_complete do |response|
-      yield response
-    end
-    hydra.queue(request)
-    start!
-  end
-
-  private
-
-  def start!
-    return if @started
-
-    @started = true
-    hydra.run
-  end
-end
-
 class NPM
-  attr_reader :command, :queue
-
-  def initialize
-    @command = Command.new
-    @queue = Queue.new
-  end
-
-  def run(cache)
+  def self.run(cache)
+    queue = Queue.new
     start = Time.now.to_i
     threads = Etc.nprocessors.times.map do |n|
       Thread.new do
@@ -58,27 +29,40 @@ class NPM
           item = queue.deq
           break if item == :stop
 
-          cache.insert(item['name'], item['version'], [item['license']].compact)
+          cache.insert(item[:name], item[:version], [item[:license]].compact)
         end
       end
     end
 
-    command.run("https://replicate.npmjs.com/registry/_all_docs") do |response|
-      json = Oj.load(response.body)
-      json['rows'].each do |object|
+    if !File.exist?('_all_docs')
+      exit 1 unless system('wget https://replicate.npmjs.com/registry/_all_docs')
+    end
+
+    Async do
+      internet = Async::HTTP::Internet.new
+      barrier = Async::Barrier.new
+      headers = [['accept', 'application/json']]
+
+      json = Oj.load(IO.read('_all_docs'))
+      json.fetch('rows', []).each do |object|
         _id = object['id']
         key = object['key']
-        command.run("https://replicate.npmjs.com/#{key}/") do |response|
-          json = Oj.load(response.body)
-          json['versions'].each do |version, data|
-            queue.enq({
-              'name' => data['name'],
-              'version' => data['version'],
-              'license' => data['license']
-            })
+
+        barrier.async do
+          begin
+            response = internet.get("https://replicate.npmjs.com/#{key}/", headers)
+            json = Oj.load(response.read)
+            json.fetch('versions', []).each do |version, data|
+              queue.enq(name: data['name'], version: data['version'], license: data['license'])
+            end
+          rescue
+            puts "ERROR: https://replicate.npmjs.com/#{key}/"
           end
         end
       end
+      barrier.wait
+    ensure
+      internet&.close
     end
 
     now = Time.now.to_i
@@ -96,18 +80,6 @@ class NPM
     threads.each(&:join)
     cache.rebuild_index
   end
-
-  private
-
-  def fetch_dependency(name, cache)
-    command.run("https://replicate.npmjs.com/#{name}/") do |response|
-      json = Oj.load(response.body)
-      json['versions'].each do |version, data|
-        puts [data['name'], data['version'], data['license']].inspect
-      end
-    end
-  end
 end
 
-cache = Spandx::Core::Cache.new('npm', root: File.expand_path('.index'))
-NPM.new.run(cache)
+NPM.run(Spandx::Core::Cache.new('npm', root: File.expand_path('.index')))
