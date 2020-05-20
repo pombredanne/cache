@@ -1,0 +1,18 @@
+name: nuget
+on:
+  schedule:
+    - cron: '0 15 * * *'
+jobs:
+  nuget:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: install ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      - name: Update nuget cache
+        run: |
+          git config --local user.name "GitHub"
+          git config --local user.email "noreply@github.com"
+          bin/nuget
