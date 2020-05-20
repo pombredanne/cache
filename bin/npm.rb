@@ -5,19 +5,35 @@ require 'etc'
 gemfile do
   source 'https://rubygems.org'
 
-  gem 'async-http'
   gem 'oj'
   gem 'spandx'
+  gem 'typhoeus'
 end
-
-require 'async'
-require 'async/barrier'
-require 'async/http/internet'
 
 trap("SIGINT") { exit(1) }
 
 puts "Starting..."
 Oj.default_options = { mode: :strict }
+
+class Command
+  attr_reader :hydra
+
+  def initialize(hydra: Typhoeus::Hydra.hydra)
+    @hydra = hydra
+  end
+
+  def run(url)
+    request = Typhoeus::Request.new(url, followlocation: true, accept_encoding: 'gzip')
+    request.on_complete do |response|
+      yield response
+    end
+    hydra.queue(request)
+  end
+
+  def start!
+    hydra.run
+  end
+end
 
 class NPM
   def self.run(cache)
@@ -34,36 +50,30 @@ class NPM
       end
     end
 
-    if !File.exist?('_all_docs')
-      exit 1 unless system('wget https://replicate.npmjs.com/registry/_all_docs')
-    end
+    system("rm _all_docs") if File.exist?("_all_docs")
+    exit 1 unless system('wget https://replicate.npmjs.com/registry/_all_docs')
 
-    Async do
-      internet = Async::HTTP::Internet.new
-      barrier = Async::Barrier.new
-      headers = [['accept', 'application/json']]
-
-      json = Oj.load(IO.read('_all_docs'))
-      json.fetch('rows', []).each do |object|
-        _id = object['id']
-        key = object['key']
-
-        barrier.async do
-          begin
-            response = internet.get("https://replicate.npmjs.com/#{key}/", headers)
-            json = Oj.load(response.read)
-            json.fetch('versions', []).each do |version, data|
-              queue.enq(name: data['name'], version: data['version'], license: data['license'])
-            end
-          rescue
-            puts "ERROR: https://replicate.npmjs.com/#{key}/"
+    command = Command.new
+    json = Oj.load(IO.read('_all_docs'))
+    json.fetch('rows', []).each do |object|
+      _id = object['id']
+      key = object['key'].sub('/', '%2f')
+      command.run("https://replicate.npmjs.com/#{key}") do |response|
+        if response.success?
+          json = Oj.load(response.body)
+          json.fetch('versions', []).each do |version, data|
+            queue.enq(name: data['name'], version: data['version'], license: data['license'])
           end
+        elsif response.code == 0
+          puts response.return_message
+        else
+          puts "ERROR: #{response.code} #{key}"
         end
+      rescue
+        puts "ERROR: https://replicate.npmjs.com/#{key}/"
       end
-      barrier.wait
-    ensure
-      internet&.close
     end
+    command.start!
 
     now = Time.now.to_i
     puts "Downloaded catalogue in #{now - start} seconds."
