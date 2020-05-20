@@ -1,9 +1,9 @@
-name: update
+name: NPM
 on:
   schedule:
-    - cron: '* 15 * * *'
+    - cron: '0 16 * * *'
 jobs:
-  nuget:
+  npm:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -11,8 +11,8 @@ jobs:
         uses: actions/setup-ruby@v1
         with:
           ruby-version: 2.7
-      - name: Update nuget cache
+      - name: Update NPM cache
         run: |
           git config --local user.name "GitHub"
           git config --local user.email "noreply@github.com"
-          bin/nuget
+          bin/npm
