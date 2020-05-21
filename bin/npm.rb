@@ -62,7 +62,7 @@ class NPM
         if response.success?
           json = Oj.load(response.body)
           json.fetch('versions', []).each do |version, data|
-            queue.enq(name: data['name'], version: data['version'], license: data['license'])
+            queue.enq(name: data['name'], version: data['version'], license: data.dig('license', 'type') || data['license'])
           end
         elsif response.code == 0
           puts response.return_message
