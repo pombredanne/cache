@@ -2860,6 +2860,7 @@
 "FixedWidthParserWriter","1.0.7",""
 "FixedWidthParserWriter","1.0.8",""
 "FixedWidthParserWriter","1.0.9",""
+"FixedWidthParserWriter","1.1.0",""
 "FluentMigratorWarningsRunner","1.0.0",""
 "FluffySpoon.AspNet.LetsEncrypt.Aws","1.123.0",""
 "FluffySpoon.AspNet.LetsEncrypt.Aws","1.124.0",""
