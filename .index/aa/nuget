@@ -2048,6 +2048,7 @@
 "Convey.MessageBrokers.Outbox.Mongo","0.4.321",""
 "Convey.MessageBrokers.Outbox.Mongo","0.4.322",""
 "Convey.MessageBrokers.Outbox.Mongo","0.4.325",""
+"Convey.MessageBrokers.Outbox.Mongo","0.4.327",""
 "Core.Logging.log4net","1.0.0",""
 "CoreExtensions.DbType","1.0.0",""
 "CoreFrameworkBase","1.0.7385.34915",""
