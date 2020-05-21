@@ -7142,6 +7142,8 @@
 "Ninject.Extensions.Wcf.Selfhost","3.2.3-unstable-003",""
 "Ninject.Extensions.Wcf.Selfhost","3.2.3-unstable-004",""
 "NorthwindDAL","1.0.0",""
+"NosFramework.Extensions.Serialization.DotNetProviders.DI.Unity","1.0.0",""
+"NosFramework.Extensions.Serialization.DotNetProviders.DI.Unity","1.0.2-alpha.2",""
 "Npgsql.EntityFrameworkCore.PostgreSQL.Trigrams","3.1.0",""
 "Npgsql.EntityFrameworkCore.PostgreSQL.Trigrams","3.1.0-preview2",""
 "Npgsql.EntityFrameworkCore.PostgreSQL.Trigrams","3.1.0-preview3",""
