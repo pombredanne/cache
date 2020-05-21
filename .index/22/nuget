@@ -6602,6 +6602,7 @@
 "Pulumi.Keycloak","2.2.1",""
 "Pulumi.Keycloak","2.3.0-alpha.1589295879+g1f7a0f1",""
 "Pulumi.Keycloak","2.3.0-alpha.1589859696+g7cdf13d",""
+"Pulumi.Keycloak","2.3.0-alpha.1590083903+ge1af04e",""
 "Pulumi.Kubernetes","1.3.2-preview",""
 "Pulumi.Kubernetes","1.3.3-preview",""
 "Pulumi.Kubernetes","1.3.4-preview",""
