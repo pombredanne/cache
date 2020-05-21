@@ -3224,6 +3224,7 @@
 "E2E.SemVer2StableMetadataUnlisted.190808.233927.8222019","1.0.0+metadata",""
 "E2E.SymbolsPackage.190321.103346.8704926","1.0.0",""
 "E2E.SymbolsPackage.200320.185147.8337456","1.0.0",""
+"E2E.SymbolsPackage.200521.222910.9014933","1.0.0",""
 "ECardPass.Project.BLL","1.0.2.8",""
 "EFAuditing.MongoDB","1.0.0",""
 "EFAuditing.MongoDB","1.0.1",""
