@@ -5976,6 +5976,7 @@
 "MembershipAdapter","0.7.0",""
 "MembershipAdapter","0.7.1",""
 "MessageKeeper","1.0.0",""
+"MessagePack.CSharpFunctionalExtensions","1.0.0-beta",""
 "MetaPack.Core","0.1.0",""
 "MetaPack.Core","0.1.0-beta1",""
 "MetaPack.Core","0.1.0-beta2",""

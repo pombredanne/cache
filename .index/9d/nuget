@@ -903,6 +903,7 @@
 "Amazon.CDK.AWS.LakeFormation","1.7.0-devpreview",""
 "Amazon.CDK.AWS.LakeFormation","1.8.0-devpreview",""
 "Amazon.CDK.AWS.LakeFormation","1.9.0-devpreview",""
+"Annalect.MediaPlanner.Domain.Core","1.0.0",""
 "AnotherDependentPackage124","3.0.0",""
 "Ans.MVC.Codegen","3.0.0",""
 "Ans.MVC.Codegen","3.0.1",""
