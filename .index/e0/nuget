@@ -9170,6 +9170,7 @@
 "TestEnvironment.Docker.Containers.Mongo","1.0.3",""
 "TestEnvironment.Docker.Containers.Mongo","1.0.4",""
 "TestEnvironment.Docker.Containers.Mongo","1.0.5",""
+"TestEnvironment.Docker.Containers.Mongo","1.0.6",""
 "TestV2FeedPackagesAppearInFeedInOrderTest.636208942411803626.5","1.0.0",""
 "TestV2FeedPackagesAppearInFeedInOrderTest.636276996621073030.0","1.0.0",""
 "TestV2FeedPackagesAppearInFeedInOrderTest.636313427750555817.7","1.0.0",""
