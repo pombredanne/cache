@@ -2189,6 +2189,7 @@
 "DataSuit","0.3.0-beta",""
 "DatabaseWrapper.Sqlite","3.0.0",""
 "DatabaseWrapper.Sqlite","3.0.0.2",""
+"DatabaseWrapper.Sqlite","3.0.0.3",""
 "Databasic.OdbcSql","1.2.4",""
 "Databasic.OdbcSql","1.2.5",""
 "Databasic.OdbcSql","1.2.6",""
