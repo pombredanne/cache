@@ -2827,6 +2827,7 @@
 "E2E.SemVer1StableUnlisted.181128.211323.2215425","1.0.0",""
 "E2E.SemVer1StableUnlisted.191113.212625.4225081","1.0.0",""
 "E2E.SemVer1StableUnlisted.200205.235031.4049080","1.0.0",""
+"E2E.SemVer2DueToSemVer2Dep.200521.223623.5256354","1.0.0-beta",""
 "E2E.SemVer2Prerel.190327.210424.2242871","1.0.0-alpha.1",""
 "E2E.SemVer2Prerel.190409.202942.5147955","1.0.0-alpha.1",""
 "E2E.SemVer2Prerel.190628.004539.5172225","1.0.0-alpha.1",""

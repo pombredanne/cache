@@ -7671,6 +7671,7 @@
 "Microsoft.Extensions.Identity.Stores","5.0.0-preview.4.20257.10",""
 "Microsoft.MobileBlazorBindings.Core","0.1.173-beta",""
 "Microsoft.MobileBlazorBindings.Core","0.2.42-preview",""
+"Microsoft.MobileBlazorBindings.Core","0.3.26-preview",""
 "Microsoft.NETFramework.ReferenceAssemblies.net451","1.0.0",""
 "Microsoft.NETFramework.ReferenceAssemblies.net451","1.0.0-preview.1",""
 "Microsoft.NETFramework.ReferenceAssemblies.net451","1.0.0-preview.2",""
