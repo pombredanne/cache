@@ -1394,6 +1394,7 @@
 "Arachnid.Core.Hopac","1.0.0-aci-7",""
 "Arachnid.Core.Hopac","1.0.0-alpha001",""
 "Ardin.ScrapySharp","1.0.0",""
+"Ascon.Pilot.ServerExtensions.SDK","20.19.1-alpha",""
 "AspNet.SessionState.NCache.OpenSource","5.0.2",""
 "AspNet4x.Diagnostics.HealthChecks","1.0.0",""
 "AspNet4x.Diagnostics.HealthChecks","1.0.1",""

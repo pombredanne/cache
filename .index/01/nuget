@@ -1498,6 +1498,7 @@
 "Buran.Core.Library","1.5.4",""
 "Buran.Core.Library","1.6.0",""
 "C1.EntityFrameworkCore.OData","1.0.20201.23",""
+"C1.EntityFrameworkCore.OData","1.0.20201.25",""
 "C1.LightSwitch.Olap.Server","3.0.20131.10-beta",""
 "C1.LightSwitch.Olap.Server","3.0.20131.11-beta",""
 "C1.LightSwitch.Olap.Server","3.0.20131.12-beta",""

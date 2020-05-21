@@ -2565,6 +2565,7 @@
 "CrossPlatformLibrary.Messaging","2.0.0-pre5",""
 "CrossPlatformLiveData.iOS","1.0.1",""
 "CrossPlatformLiveData.iOS","1.0.2",""
+"CrossPlatformLiveData.iOS","1.0.5",""
 "CrossSync.Entity.Abstractions.EF","0.1.0",""
 "CrossSync.Entity.Abstractions.EF","1.0.0",""
 "Crossroads.Web.Common","1.0.0",""
