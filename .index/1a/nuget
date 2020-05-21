@@ -8060,6 +8060,7 @@
 "dotnet-list","1.0.0",""
 "eDDMS.Sample.SDK","1.0.0",""
 "ee.itcollege.keruul.DAL.Base.EF","1.0.3",""
+"ee.itcollege.tparts.pcbuilder.Contracts.Domain.Base","1.0.0",""
 "elmah.bootstrapper","1.0.0",""
 "elmah.bootstrapper","1.0.0-beta1",""
 "elmah.bootstrapper","1.0.0-beta2",""
