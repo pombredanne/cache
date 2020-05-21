@@ -1,7 +1,7 @@
 name: nuget
 on:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: '42 * * * *'
 jobs:
   nuget:
     runs-on: ubuntu-latest
