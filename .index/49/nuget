@@ -631,6 +631,7 @@
 "ArtifactDeckCodeDotNet","2.0.0",""
 "ArtifactDeckCodeDotNet","3.0.0",""
 "AsNum.Throttle.CrossProcess","1.0.1",""
+"AsNum.Throttle.CrossProcess","1.0.2",""
 "AspNetCore.HealthChecks.OpenIdConnectServer","2.2.0",""
 "AspNetCore.HealthChecks.OpenIdConnectServer","2.2.1",""
 "AspNetCore.HealthChecks.OpenIdConnectServer","2.2.2",""
