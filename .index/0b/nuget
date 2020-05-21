@@ -2144,6 +2144,8 @@
 "CrewTrak.Public.Api.V1.ClientModule","2.3.0-test.1",""
 "CrewTrak.Public.Api.V1.ClientModule","2.3.1",""
 "CrewTrak.Public.Api.V1.ClientModule","2.4.0-test.1",""
+"CrewTrak.Public.Api.V1.ClientModule","2.4.0-test.2",""
+"CrewTrak.Public.Api.V1.ClientModule","2.4.1",""
 "Cross.Pipelines","0.10.2-beta",""
 "Cross.Pipelines","0.13.0-beta",""
 "Crosslight.Xamarin.GooglePlayServices.AppInvite","27.0.0",""

@@ -8311,6 +8311,7 @@
 "Pulumi.Rancher2","2.1.1",""
 "Pulumi.Rancher2","2.2.0-alpha.1589295800+ga1c8af6",""
 "Pulumi.Rancher2","2.2.0-alpha.1589831227+g73600ab",""
+"Pulumi.Rancher2","2.2.0-alpha.1590081651+gee61758",""
 "PureActive.Logger.Provider.Serilog","1.0.101-prerelease",""
 "PureActive.Logger.Provider.Serilog","1.0.102-prerelease",""
 "PureActive.Logger.Provider.Serilog","1.0.103-prerelease",""
