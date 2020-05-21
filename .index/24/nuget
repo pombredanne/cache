@@ -8790,6 +8790,7 @@
 "SPSA.ESales.Vtex.Api.RestClient","1.1.9",""
 "SPSA.ESales.Vtex.Api.RestClient","1.2.0",""
 "SPSA.ESales.Vtex.Api.RestClient","1.2.1",""
+"SPSA.ESales.Vtex.Api.RestClient","1.2.2",""
 "SQLitePCLRaw.provider.sqlcipher","2.0.0",""
 "SQLitePCLRaw.provider.sqlcipher","2.0.0-pre20190620134904",""
 "SQLitePCLRaw.provider.sqlcipher","2.0.0-pre20190621100518",""
