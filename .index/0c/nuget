@@ -5637,6 +5637,7 @@
 "NetTAP","1.1.0",""
 "NetToolBox.HealthChecks.BlobStorage","0.1.4",""
 "NetToolBox.HealthChecks.BlobStorage","0.1.5",""
+"NetToolBox.HealthChecks.BlobStorage","0.1.6",""
 "NickDarvey.ServiceFabric.AspNetCore.Configuration","2.0.1",""
 "NightCore.Interop.Imm32","0.0.1",""
 "NightCore.Interop.Imm32","0.0.2",""
