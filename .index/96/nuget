@@ -2714,6 +2714,7 @@
 "DataAccess.Core.EF","1.0.3",""
 "DatabaseWrapper.Postgresql","3.0.0",""
 "DatabaseWrapper.Postgresql","3.0.0.2",""
+"DatabaseWrapper.Postgresql","3.0.0.3",""
 "Dataflow.Linq","1.0.0-beta-1",""
 "DbMocker","1.1.0",""
 "DbMocker","1.2.0",""
