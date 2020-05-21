@@ -11493,6 +11493,7 @@
 "dotnet-objsql-sqlgen","3.0.0-rc2-1",""
 "dotnetcore.cord.connector","0.0.1",""
 "dotnetcore.cord.connector","0.0.5",""
+"dotnetcore.cord.connector","0.0.6",""
 "eFormed.SendGrid","2019.3.12.3",""
 "eFormed.SendGrid","2019.3.15.1",""
 "eFormed.SendGrid","2019.3.15.2",""
