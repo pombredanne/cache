@@ -2081,6 +2081,7 @@
 "EA.Core.Auth","2.0.1",""
 "EDN","0.1.0",""
 "EFCore.Cassandra","1.0.0",""
+"EFCore.Cassandra","2.0.0",""
 "EFCoreBulk","1.2.104",""
 "EFCoreBulk","1.2.106",""
 "EFCoreBulk","1.2.107",""
