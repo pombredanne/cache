@@ -704,6 +704,7 @@
 "Amazon.CDK.AWS.CodePipeline.Actions","1.38.0",""
 "Amazon.CDK.AWS.CodePipeline.Actions","1.39.0",""
 "Amazon.CDK.AWS.CodePipeline.Actions","1.40.0",""
+"Amazon.CDK.AWS.CodePipeline.Actions","1.41.0",""
 "Amazon.CDK.AWS.CodePipeline.Actions","1.9.0-devpreview",""
 "AngouriMath","1.0.11",""
 "AngouriMath","1.0.12",""

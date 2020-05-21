@@ -343,6 +343,7 @@
 "Amadevus.RecordGenerator.Attributes","0.6.0",""
 "Amazon.CDK.CloudFormation.Include","1.39.0",""
 "Amazon.CDK.CloudFormation.Include","1.40.0",""
+"Amazon.CDK.CloudFormation.Include","1.41.0",""
 "Amazon.S3","0.1.0",""
 "Amazon.S3","0.1.1",""
 "Amazon.S3","0.1.2",""

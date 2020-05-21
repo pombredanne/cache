@@ -783,6 +783,7 @@
 "Amazon.CDK.AWS.GuardDuty","1.39.0",""
 "Amazon.CDK.AWS.GuardDuty","1.4.0-devpreview",""
 "Amazon.CDK.AWS.GuardDuty","1.40.0",""
+"Amazon.CDK.AWS.GuardDuty","1.41.0",""
 "Amazon.CDK.AWS.GuardDuty","1.5.0-devpreview",""
 "Amazon.CDK.AWS.GuardDuty","1.6.0-devpreview",""
 "Amazon.CDK.AWS.GuardDuty","1.6.1-devpreview",""
