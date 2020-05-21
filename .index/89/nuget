@@ -6172,6 +6172,7 @@
 "Microsoft.Bot.Framework.CSharp.CoreBot","4.5.1",""
 "Microsoft.Bot.Framework.CSharp.CoreBot","4.6.2",""
 "Microsoft.Bot.Framework.CSharp.CoreBot","4.7.0",""
+"Microsoft.Bot.Framework.CSharp.CoreBot","4.9.1",""
 "Microsoft.Build.Tasks.SourceControl","1.0.0-beta-62905-03",""
 "Microsoft.Build.Tasks.SourceControl","1.0.0-beta-62908-01",""
 "Microsoft.Owin.Hosting","0.18.0-alpha",""

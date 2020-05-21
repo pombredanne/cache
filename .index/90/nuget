@@ -8339,6 +8339,7 @@
 "Steeltoe.Security.Authentication.CloudFoundryOwin","2.4.3",""
 "StockSharp.Bitbank","5.0.0",""
 "StockSharp.Bitbank","5.0.1",""
+"StockSharp.Studio.Community","5.0.0",""
 "StorageMate.Azure","0.1.0",""
 "StorageMate.Azure","0.1.1",""
 "StorageMate.Azure","0.1.2",""
