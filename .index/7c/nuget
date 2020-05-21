@@ -1180,6 +1180,7 @@
 "AvroSchemaGenerator","1.5.0",""
 "AvroSchemaGenerator","1.5.1",""
 "AvroSchemaGenerator","1.5.2",""
+"Az.MessageQueue.Core","1.0.1.10",""
 "Az.MessageQueue.Core","1.0.1.6",""
 "Az.MessageQueue.Core","1.0.1.7",""
 "Az.MessageQueue.Core","1.0.1.8",""
