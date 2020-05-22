@@ -4407,6 +4407,7 @@
 "IdentityServer4.Contrib.AspNetCore.Testing","3.1.1",""
 "IdentityServer4.Contrib.AspNetCore.Testing","4.0.0-rc.0",""
 "IdentityServer4.Contrib.AspNetCore.Testing","4.0.0-rc.1",""
+"IdentityServer4.Contrib.AspNetCore.Testing","4.0.0-rc.2",""
 "Idg.CSharpNuGetActionsExemplar","0.1.0",""
 "Idg.CSharpNuGetActionsExemplar","0.1.0-preview.5",""
 "Idg.CSharpNuGetActionsExemplar","0.1.0-publish-to-nuget.6",""

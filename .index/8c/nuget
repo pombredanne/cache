@@ -829,6 +829,7 @@
 "App.Metrics.Health.Abstractions","3.2.0",""
 "App.Metrics.Health.Abstractions","3.2.0-dev0002",""
 "AppImpact.Security.Core","4.28.0",""
+"AppImpact.Security.Core","4.29.2",""
 "ApplicationHelper.Windows.Forms","1.0.0",""
 "ApplicationHelper.Windows.Forms","1.0.1",""
 "ApplicationHelper.Windows.Forms","1.0.2",""
