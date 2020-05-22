@@ -7163,6 +7163,7 @@
 "NorthwindDAL","1.0.0",""
 "NosFramework.Extensions.Serialization.DotNetProviders.DI.Unity","1.0.0",""
 "NosFramework.Extensions.Serialization.DotNetProviders.DI.Unity","1.0.2-alpha.2",""
+"NosFramework.Extensions.Serialization.DotNetProviders.DI.Unity","1.0.2.5",""
 "Npgsql.EntityFrameworkCore.PostgreSQL.Trigrams","3.1.0",""
 "Npgsql.EntityFrameworkCore.PostgreSQL.Trigrams","3.1.0-preview2",""
 "Npgsql.EntityFrameworkCore.PostgreSQL.Trigrams","3.1.0-preview3",""
