@@ -3210,6 +3210,7 @@
 "Equinox.SqlStreamStore.Postgres","2.0.1-alpha.0.21",""
 "Equinox.SqlStreamStore.Postgres","2.0.1-alpha.0.37",""
 "Equinox.SqlStreamStore.Postgres","2.0.2",""
+"Equinox.SqlStreamStore.Postgres","2.1.0",""
 "Equinox.SqlStreamStore.Postgres","3.0.0-alpha.3",""
 "Eric.Utils.Core","1.0.0",""
 "EsbOnContainer.Common.Encrypt","1.0.3",""
