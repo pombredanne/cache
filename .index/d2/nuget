@@ -892,6 +892,7 @@
 "App.Metrics.AspNetCore.Mvc","4.0.0-preview1.0.6",""
 "App.Metrics.AspNetCore.Mvc","4.0.0-preview1.0.7",""
 "App.Metrics.AspNetCore.Mvc","4.0.0-preview1.0.9",""
+"App.Metrics.AspNetCore.Mvc","4.1.0-preview.0.15",""
 "AppBlocks.Monitoring.Sdk","0.2.0-betta.1",""
 "AppBlocks.Monitoring.Sdk","0.2.0-betta.2",""
 "AppBlocks.Monitoring.Sdk","0.2.0-betta.3",""

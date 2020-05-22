@@ -1148,6 +1148,7 @@
 "App.Metrics.Extensions.Hosting","4.0.0-preview1.0.6",""
 "App.Metrics.Extensions.Hosting","4.0.0-preview1.0.7",""
 "App.Metrics.Extensions.Hosting","4.0.0-preview1.0.9",""
+"App.Metrics.Extensions.Hosting","4.1.0-preview.0.15",""
 "AppCore.Commands","0.1.0",""
 "AppCore.Logging.Abstractions","0.1.0",""
 "AppDynamics.Configuration","1.0.0",""
