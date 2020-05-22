@@ -12,7 +12,7 @@ if git status | grep 'nothing to commit'; then
   echo 'Nothing to commit'
 else
   git add -A .index
-  git commit -m 'Update index'
+  git commit -m 'Update NPM index'
   git fetch origin
   git rebase origin/master
   git push origin master
