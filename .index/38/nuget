@@ -10420,6 +10420,7 @@
 "dotnet-sos","3.1.122203",""
 "dotnet-sos","3.1.57502",""
 "ee.itcollege.kalasb.BLL.Base","1.0.0",""
+"ee.itcollege.tekald.BLL.Base","1.0.0",""
 "fix8.dependencies.poco","1.5.20140509.1",""
 "fix8.dependencies.poco","1.6.20151130.1",""
 "fnx.math","1.0.0",""
