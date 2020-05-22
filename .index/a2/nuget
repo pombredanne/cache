@@ -4703,6 +4703,7 @@
 "Halforbit.DataStores.TableStores.AzureTables","2.1.13",""
 "Halforbit.DataStores.TableStores.AzureTables","2.1.14",""
 "Halforbit.DataStores.TableStores.AzureTables","2.2.0",""
+"Halforbit.DataStores.TableStores.AzureTables","2.2.1",""
 "Hangfire.SimpleInjector","1.3.0",""
 "Hangfire.SimpleInjector","1.3.1",""
 "Haven.ServiceBus.Rabbit.Consumer","1.0.5835.19093",""
