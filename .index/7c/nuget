@@ -726,6 +726,7 @@
 "Affecto.Patterns.Domain.UnitOfWork.Autofac","6.0.0-prerelease07",""
 "Aftnet.Experimental.FCEUMM","0.1.0",""
 "AhmedNagy.GridExporter.Excel","1.0.0",""
+"Akira.Infrastructure.Logger","1.0.0",""
 "Alamut.Extensions.Microsoft.DependencyInjection","0.0.1",""
 "Albatross.Database.Ioc.SimpleInjector","1.0.1",""
 "Albatross.Database.Ioc.SimpleInjector","1.0.2",""
