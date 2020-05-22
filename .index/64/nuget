@@ -7317,6 +7317,7 @@
 "Samhammer.MalwareScan.Client","1.2.0",""
 "Samhammer.MalwareScan.Client","1.3.0",""
 "Sample.CoreEventSender","1.0.0",""
+"Sample.CoreEventSender","1.0.1",""
 "SandS.Algorithm.Extensions.EnumerableExtensions","2.0.0",""
 "SandS.Algorithm.Extensions.EnumerableExtensions","2.0.1",""
 "SandS.Algorithm.Extensions.EnumerableExtensions","2.0.1.1",""
