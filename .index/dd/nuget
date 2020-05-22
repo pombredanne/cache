@@ -3555,6 +3555,7 @@
 "Hangfire.Extension.RecurringJobs","1.0.1",""
 "Hangfire.Extension.RecurringJobs","1.0.2",""
 "Hangfire.Extension.RecurringJobs","2.0.0",""
+"Harmony.Infrastructure.netcoreapp3.1","1.0.0",""
 "Harnisch.Extensions.TypeNameHelper.Sources","2.1.0",""
 "HarvestNet","0.0.0.1",""
 "Harvester.Databus","1.0.0",""
