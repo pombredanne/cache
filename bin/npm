@@ -13,5 +13,7 @@ if git status | grep 'nothing to commit'; then
 else
   git add -A .index
   git commit -m 'Update index'
-  git push origin
+  git fetch origin
+  git rebase origin/master
+  git push origin master
 fi
