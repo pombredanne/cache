@@ -2847,6 +2847,7 @@
 "DirectoryInfoEx","1.0.27",""
 "DistributedEventBus.EventBusRabbitMQ","1.0.0",""
 "DistributedEventBus.EventBusRabbitMQ","1.0.1",""
+"DistributedEventBus.EventBusRabbitMQ","1.0.2",""
 "DnsClient","1.0.0",""
 "DnsClient","1.0.0-beta-1005",""
 "DnsClient","1.0.0-beta-1011",""
