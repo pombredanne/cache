@@ -4053,6 +4053,7 @@
 "Grapecity.DataVisualization","0.1.236",""
 "Grapecity.DataVisualization","0.1.239",""
 "Grapecity.DataVisualization","0.1.241",""
+"Grapecity.DataVisualization","0.1.243",""
 "GraphQL.Server.Core.New","2.2.0-dev",""
 "GraphiteWeb.StructureMap","1.0.100",""
 "GraphiteWeb.StructureMap","1.0.101",""
@@ -10808,3 +10809,4 @@
 "xyxandwxx.LobLib","1.0.0.3",""
 "xyxandwxx.LobLib","1.0.1",""
 "xyxandwxx.LobLib","1.0.2",""
+"zaozaoniao.QueryBuilderExtension","0.0.1",""
