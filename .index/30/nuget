@@ -491,6 +491,7 @@
 "App.Metrics.AspNetCore.Core","4.0.0-preview1.0.6",""
 "App.Metrics.AspNetCore.Core","4.0.0-preview1.0.7",""
 "App.Metrics.AspNetCore.Core","4.0.0-preview1.0.9",""
+"App.Metrics.AspNetCore.Core","4.1.0-preview.0.15",""
 "AppLoggerSample180822","1.0.0",""
 "AppLogger_TestByJ","1.0.0",""
 "Appfail.WebForms","1.0.0",""

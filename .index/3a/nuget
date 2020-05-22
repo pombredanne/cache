@@ -688,6 +688,7 @@
 "App.Metrics.Formatters.Graphite","4.0.0-preview1.0.5",""
 "App.Metrics.Formatters.Graphite","4.0.0-preview1.0.7",""
 "App.Metrics.Formatters.Graphite","4.0.0-preview1.0.9",""
+"App.Metrics.Formatters.Graphite","4.1.0-preview.0.15",""
 "AppLoggerTestKrapus","1.0.1",""
 "Aptacode.Forms.Wpf","1.0.0",""
 "Apworks.EventStore.SQLServer","3.0.15-preview",""
