@@ -9401,6 +9401,8 @@
 "SIL.BuildTasks.AWS","2.3.0",""
 "SIL.BuildTasks.AWS","2.3.0-beta.14",""
 "SIL.BuildTasks.AWS","2.3.1",""
+"SIL.BuildTasks.AWS","2.3.2",""
+"SIL.BuildTasks.AWS","2.3.2-beta.2",""
 "SMon","0.0.1",""
 "SMon","0.1.0",""
 "SQLitePCL.pretty.netstandard","1.0.0",""
