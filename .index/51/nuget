@@ -9050,6 +9050,7 @@
 "Silk.NET.OpenGL.Legacy.Extensions.ATI","1.1.1",""
 "Silk.NET.OpenGL.Legacy.Extensions.ATI","1.2.0",""
 "Silk.NET.OpenGL.Legacy.Extensions.ATI","1.2.1",""
+"SimpleTrading.TickHistory.Persistence.Grpc","1.0.1",""
 "SimpleVersion.Git","0.1.0-alpha1.16",""
 "Simusharp.Nuke.Addon.RevitTestTasks","0.2.0",""
 "Sincemeet.Sadp.Common","1.0.3",""

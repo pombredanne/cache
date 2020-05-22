@@ -935,6 +935,7 @@
 "Bastion.Senders.TwilioSender","3.1.7",""
 "Bastion.Senders.TwilioSender","3.1.8",""
 "Bastion.Senders.TwilioSender","3.1.9",""
+"Bastion.Senders.TwilioSender","3.2.0-alpha",""
 "Beeming.AspNetCore.SecurityHeaders","2018.8.11.12",""
 "Beeming.AspNetCore.SecurityHeaders","2018.8.11.13",""
 "Beeming.AspNetCore.SecurityHeaders","2018.8.11.14",""

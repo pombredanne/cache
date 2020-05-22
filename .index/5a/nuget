@@ -9826,6 +9826,7 @@
 "VSSDK.Editor","12.0.4",""
 "VSSDK.Editor","14.0.4-preview",""
 "Validatum","1.0.0-rc.1",""
+"Validatum","1.0.0-rc.2",""
 "VerifyPackageKeySupportsFullAndTempApiKeys.636481940228767698","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636573536982239288","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636778283420490950","1.0.0",""

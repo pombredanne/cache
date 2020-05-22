@@ -2915,6 +2915,7 @@
 "HttpClientMiddleware.HeaderPassthroughMiddleware","2.2.0",""
 "HttpClientMiddleware.HeaderPassthroughMiddleware","2.3.0",""
 "HuajiTech.CoolQ.Messaging","0.3.0-alpha.1",""
+"HuajiTech.CoolQ.Messaging","0.3.0-alpha.2",""
 "Hunter.Captcha.Numeric","1.3.0.324",""
 "Hunter.Captcha.Numeric","1.3.0.329",""
 "Hunter.Captcha.Numeric","1.3.0.381",""
