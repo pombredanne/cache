@@ -7783,6 +7783,7 @@
 "TestContainers.Container.Database","1.4.8",""
 "TestContainers.Container.Database","1.4.9",""
 "TestContainers.Container.Database","1.5.0",""
+"TestStringLibrary","1.0.0",""
 "TestV2FeedFindPackagesById.636258060824021221","1.0.0",""
 "TestV2FeedFindPackagesById.636258060824021221","2.0.0",""
 "TestV2FeedPackagesAppearInFeedInOrderTest.636208756991619752.1","1.0.0",""

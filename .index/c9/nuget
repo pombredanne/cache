@@ -1949,6 +1949,7 @@
 "App.Metrics.Formatters.Datadog","2.0.2",""
 "AppImpact.Templating.Razor","4.26.3",""
 "AppImpact.Templating.Razor","4.28.0",""
+"AppImpact.Templating.Razor","4.29.2",""
 "AppLogger9_NKM","1.0.0",""
 "AppLoggerSampleTest","1.0.0",""
 "AppLogger_Mark","1.0.0",""
