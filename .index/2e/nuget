@@ -6252,6 +6252,8 @@
 "Quarks.FluentNHibernate.Conventions.HasMany.NotKeyNullable","1.0.0",""
 "Quarks.Retrier","1.0.0",""
 "Quarks.Retrier","1.0.1",""
+"QueryBuilder.Extension","0.0.1",""
+"QueryBuilder.Extension","2.0.2",""
 "ROOTNET-Dynamic-v5.34.13.win32.vc10","2.6.0",""
 "Raf.AdoNet.Core","1.0.0.1",""
 "Raf.AdoNet.Core","1.0.0.2",""

@@ -7118,6 +7118,8 @@
 "P3.Ed25519.HdKey","1.0.1",""
 "POL.Common","0.1.0",""
 "POL.Common","1.0.0",""
+"PSC.Accounting.XeroConnector","1.0.0",""
+"PSC.Accounting.XeroConnector","1.0.1",""
 "PackagePush_Returns200IfMinClientVersionPolicyMet.636674476384218513","1.0.0",""
 "PackagePush_Returns200IfMinProtocolVersionPolicyMet.636782654979914857","1.0.0",""
 "Packt.CS7.SheredLibrary","1.0.0",""
