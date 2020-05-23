@@ -2497,6 +2497,7 @@
 "ExtCore.Events","5.1.0",""
 "EyeTribe.Controls","0.9.77",""
 "EyeTribe.Controls","0.9.77.2",""
+"EzCQRS.Abstractions","1.0.0",""
 "EzLib4Net.Util","1.0.0",""
 "FH.Cache.Serialization.MessagePack","0.0.1",""
 "FSharp.Data.HiveProvider","0.0.1",""
