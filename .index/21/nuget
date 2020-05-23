@@ -1127,6 +1127,7 @@
 "Backbone.SignalR","0.6.1-signalrRC1",""
 "Backbone.SignalR","0.6.2-signalrRC2",""
 "Backbone.SignalR","0.7.0",""
+"BamlParser.NetStandard","1.0.0",""
 "Bario.Core.Domain","1.0.0",""
 "Base2art.Web.App.Logging","1.0.0",""
 "Base2art.Web.Messages","1.0.0",""
