@@ -2663,6 +2663,7 @@
 "CloudState.CSharpSupport.Internal","3.11.0-rc0.3",""
 "CloudState.CSharpSupport.Internal","3.12.0-rc1",""
 "CloudState.CSharpSupport.Internal","3.12.0-rc2",""
+"Cloudmersive.APIClient.NETCore.Speech","2.0.1",""
 "Cloudy.d3bug","2018.6.28.10",""
 "CochesNuGetMol","1.0.0",""
 "CodeBlocks.Core.Auth","1.2.0",""

@@ -2514,6 +2514,7 @@
 "EventCrop.Consumer.DependencyInjection","0.0.2",""
 "EventCrop.Consumer.DependencyInjection","0.0.3",""
 "EventCrop.Consumer.DependencyInjection","0.0.4",""
+"EventCrop.Consumer.DependencyInjection","0.0.5",""
 "EventStore.EventSourcing","1.0.0",""
 "EvoPdf.PdfSecurity.NetCore","8.0.0",""
 "ExamdaConsul.AspNetCore","0.7.3.1",""
