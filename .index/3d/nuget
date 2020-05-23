@@ -7891,6 +7891,7 @@
 "Serilog.Sinks.File.Header","1.0.1",""
 "Serilog.Sinks.File.Header","1.0.2",""
 "Serilog.Ui.PostgreSqlProvider","1.0.0",""
+"Serilog.Ui.PostgreSqlProvider","1.0.1",""
 "Services.IO","1.0.0",""
 "SessionMessage.Core","1.0.0",""
 "SessionMessage.Core","1.0.1",""
