@@ -1275,6 +1275,7 @@
 "BCI.ValidationService","1.0.4",""
 "BCI.ValidationService","1.0.5",""
 "BCI.ValidationService","1.0.6",""
+"BCVP.Sample.IRepository","1.0.0",""
 "BDriven.UnitTest","1.0.0-alpha",""
 "BDriven.UnitTest","1.0.0-beta",""
 "BDriven.UnitTest","1.0.0-charlie",""
