@@ -9556,6 +9556,7 @@
 "SourceFusion.Core","0.9.6-alpha",""
 "SpanNetty.Codecs.Http","0.7.0-beta-2005150500",""
 "SpanNetty.Codecs.Http","0.7.0-beta-2005152230",""
+"SpanNetty.Codecs.Http","0.7.0-beta-2005240418",""
 "Spark.Web.Mvc2","1.5.1",""
 "Spark.Web.Mvc2","1.5.1.5",""
 "Spark.Web.Mvc2","1.5.1.6",""

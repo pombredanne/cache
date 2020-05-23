@@ -7806,6 +7806,7 @@
 "Ocelot.Provider.Consul","15.0.5",""
 "Ocelot.Provider.Consul","15.0.6",""
 "Ocelot.Provider.Consul","15.0.7",""
+"Ocelot.Provider.Consul","16.0.0",""
 "OctoPlusCore.Octopus","0.0.1-alpha",""
 "OctoPlusCore.Octopus","0.0.2-alpha",""
 "OddJob","0.0.20",""

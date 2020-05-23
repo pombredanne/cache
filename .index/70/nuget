@@ -2750,6 +2750,7 @@
 "Fake.DotNet.Cli.IntegrationTests","5.9.1",""
 "Fake.DotNet.Cli.IntegrationTests","5.9.2",""
 "Fake.DotNet.Cli.IntegrationTests","5.9.3",""
+"FakeImageGenerator","1.0.0",""
 "Falcon.Service.Tiers.Client","1.0.0",""
 "FcNet.FormStyleJson","1.0.0",""
 "FcNet.FormStyleJson","1.0.1",""
