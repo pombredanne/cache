@@ -3602,6 +3602,7 @@
 "Herald.MessageQueue.HealthCheck.RabbitMq","2.0.0",""
 "Herald.MessageQueue.HealthCheck.RabbitMq","2.0.1",""
 "Herald.MessageQueue.HealthCheck.RabbitMq","3.0.0",""
+"Herald.MessageQueue.HealthCheck.RabbitMq","3.1.0",""
 "HiNetCloud.Enterprises.Framework.Develop.AutoEntities","20.3.22.10",""
 "HiNetCloud.Enterprises.Framework.Develop.AutoEntities","20.3.22.11",""
 "HiNetCloud.Enterprises.Framework.Develop.AutoEntities","20.3.22.16",""

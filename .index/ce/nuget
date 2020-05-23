@@ -4727,6 +4727,7 @@
 "Herald.MessageQueue.HealthCheck.Kafka","2.0.0",""
 "Herald.MessageQueue.HealthCheck.Kafka","2.0.1",""
 "Herald.MessageQueue.HealthCheck.Kafka","3.0.0",""
+"Herald.MessageQueue.HealthCheck.Kafka","3.1.0",""
 "HiJack.Microsoft","1.0.0",""
 "HidSharp","1.3.0",""
 "HidSharp","1.4.0",""
