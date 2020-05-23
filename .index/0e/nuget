@@ -11720,6 +11720,7 @@
 "spark_sdk","2.15.9",""
 "spark_sdk","2.16.0",""
 "spark_sdk","2.16.1",""
+"spark_sdk","2.16.2",""
 "srihash-cli","0.1.0",""
 "srihash-cli","0.1.1",""
 "tuxedo","0.9.0-alpha",""

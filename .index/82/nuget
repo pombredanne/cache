@@ -2492,6 +2492,7 @@
 "FluentAssertions.AssertMultiple","0.0.1",""
 "FluentCommander.Database.SqlServer","1.0.1",""
 "FluentCommander.Database.SqlServer","1.0.2",""
+"FluentCommander.Database.SqlServer","1.0.5",""
 "FluorettoEngine","0.1.0",""
 "FluorettoEngine","0.1.1",""
 "Fluxor.Blazor.Web","3.0.0",""
