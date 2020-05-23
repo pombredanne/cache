@@ -8940,6 +8940,7 @@
 "ServiceFabricSdkContrib.Services","0.1.8-beta",""
 "ServiceFabricSdkContrib.Services","0.1.9-beta",""
 "ServiceHub.Domain.Base","1.0.0",""
+"ServiceHub.Domain.Base","1.0.1",""
 "ServiceMock","1.0.0",""
 "ServiceMock","1.0.1",""
 "ServiceStack.OrmLite.SqlServer.Core","1.0.10",""
