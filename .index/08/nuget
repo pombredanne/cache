@@ -9851,6 +9851,7 @@
 "VerifyKeyReturns400IfScopeNotMet.636675556522327477","1.0.0",""
 "VerifyKeyReturns400IfScopeNotMet.636758427133662729","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636758299496930204","1.0.0",""
+"Vip.Notification","1.0.2",""
 "Vitality.EntityFrameworkCore","0.1.0-beta311445621",""
 "Vitality.EntityFrameworkCore","0.1.0-beta355197022",""
 "Volo.Abp.AuditLogging.MongoDB","0.10.0",""

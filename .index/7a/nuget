@@ -3562,6 +3562,7 @@
 "FSharp.Data.JsonProvider","0.5.0",""
 "FXStreet.Email.Standard","1.1.0",""
 "FaceDTO","1.0.0",""
+"FakeImageGenerator.Xunit","1.0.0",""
 "Falcon.PublicBlockchain.EMRGateway","0.0.3",""
 "Falcon.PublicBlockchain.EMRGateway","1.0.0",""
 "Falcon.PublicBlockchain.EMRGateway","2.0.0",""
