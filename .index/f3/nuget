@@ -1952,6 +1952,7 @@
 "Core.EventStore.Mongo","1.1.1",""
 "Core.EventStore.Mongo","1.1.2",""
 "CoreArk.Packages.Services","1.0.0",""
+"CoreArk.Packages.Services","1.0.1",""
 "CoreExtensions.Collection","1.0.0",""
 "Correspondence","1.1.0.1",""
 "Correspondence","1.1.0.2",""
