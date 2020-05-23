@@ -6611,6 +6611,7 @@
 "Marain.Tenancy.Hosting.AspNetCore","0.1.0",""
 "Marain.Tenancy.Hosting.AspNetCore","0.2.0",""
 "Marain.Tenancy.Hosting.AspNetCore","0.3.0-59-deployment-advertise-service.9",""
+"Marain.Tenancy.Hosting.AspNetCore","0.3.0-arm-retry-tweaks.3",""
 "Marain.Tenancy.Hosting.AspNetCore","0.3.0-corvus-tenancy-update.15",""
 "Marain.Tenancy.Hosting.AspNetCore","0.3.0-corvus-tenancy-update.17",""
 "Marain.Tenancy.Hosting.AspNetCore","0.3.0-corvus-tenancy-update.31",""

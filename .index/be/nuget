@@ -5361,6 +5361,7 @@
 "MapiEx","0.0.1",""
 "MapiEx","0.0.2",""
 "Marain.Tenancy.ClientTenantProvider","0.3.0-59-deployment-advertise-service.9",""
+"Marain.Tenancy.ClientTenantProvider","0.3.0-arm-retry-tweaks.3",""
 "Marain.Tenancy.ClientTenantProvider","0.3.0-corvus-tenancy-update.15",""
 "Marain.Tenancy.ClientTenantProvider","0.3.0-corvus-tenancy-update.17",""
 "Marain.Tenancy.ClientTenantProvider","0.3.0-corvus-tenancy-update.31",""

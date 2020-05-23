@@ -5712,6 +5712,7 @@
 "Marain.Operations.ControlClient","0.9.0-67-marain-common-deployment-scripts.4",""
 "Marain.Operations.ControlClient","0.9.0-68-clienttenantprovider.4",""
 "Marain.Operations.ControlClient","0.9.0-68-clienttenantprovider.5",""
+"Marain.Operations.ControlClient","0.9.0-arm-retry-tweaks.1",""
 "Marain.Operations.ControlClient","0.9.0-idg10-deployment-spike.3",""
 "Marain.Operations.ControlClient","0.9.0-idg10-deployment-spike.4",""
 "Marain.Operations.ControlClient","0.9.0-powershell-deploy.13",""

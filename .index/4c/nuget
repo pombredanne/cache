@@ -5939,6 +5939,7 @@
 "Mapsui.Forms","2.0.0-rc.5",""
 "Mapsui.Forms","2.0.1",""
 "Marain.Workflow.Storage.AzureCosmos","0.2.0-43-marain-deployment.9",""
+"Marain.Workflow.Storage.AzureCosmos","0.2.0-arm-retry-tweaks.1",""
 "Marain.Workflow.Storage.AzureCosmos","0.2.0-powershell-deploy.24",""
 "Marain.Workflow.Storage.AzureCosmos","0.2.0-powershell-deploy.33",""
 "Marain.Workflow.Storage.AzureCosmos","0.2.0-powershell-deploy.43",""

@@ -4111,6 +4111,7 @@
 "MapSuiteDependency-NetTopologySuite","10.4.0",""
 "MapSuiteDependency-NetTopologySuite","10.5.0",""
 "MapSuiteDependency-NetTopologySuite","10.6.0",""
+"Marain.Workflow.Tenancy.Sql","0.2.0-arm-retry-tweaks.1",""
 "Marain.Workflow.Tenancy.Sql","0.2.0-powershell-deploy.24",""
 "Marain.Workflow.Tenancy.Sql","0.2.0-powershell-deploy.33",""
 "Marain.Workflow.Tenancy.Sql","0.2.0-powershell-deploy.43",""
