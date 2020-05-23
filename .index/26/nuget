@@ -6805,6 +6805,7 @@
 "Serilog.UI","1.0.0",""
 "Serilog.UI","1.0.1",""
 "Serilog.UI","1.0.2",""
+"Serilog.UI","1.0.3",""
 "Serilog.Utilities.ConcurrentCorrelator","1.0.0",""
 "Serilog.Utilities.ConcurrentCorrelator","1.0.1.5",""
 "Serilog.Utilities.ConcurrentCorrelator","1.0.1.7",""
