@@ -4955,6 +4955,7 @@
 "Herald.MessageQueue.HealthCheck.AzureStorageQueue","2.0.0",""
 "Herald.MessageQueue.HealthCheck.AzureStorageQueue","2.0.1",""
 "Herald.MessageQueue.HealthCheck.AzureStorageQueue","3.0.0",""
+"Herald.MessageQueue.HealthCheck.AzureStorageQueue","3.1.0",""
 "HiNetCloud.Enterprises.Framework.Rtc.AutoEntities","20.4.18.8",""
 "HiNetCloud.Enterprises.NetCloudHelper.Faces.Business","20.3.23.1",""
 "HiNetCloud.Enterprises.NetCloudHelper.Faces.Business","20.3.24.19",""

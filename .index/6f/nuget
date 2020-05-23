@@ -4433,6 +4433,7 @@
 "Herald.MessageQueue.HealthCheck.Sqs","2.0.0",""
 "Herald.MessageQueue.HealthCheck.Sqs","2.0.1",""
 "Herald.MessageQueue.HealthCheck.Sqs","3.0.0",""
+"Herald.MessageQueue.HealthCheck.Sqs","3.1.0",""
 "HiNetCloud.Enterprises.Framework.DynamicCrm","20.3.20.18",""
 "HiNetCloud.Enterprises.Framework.DynamicCrm","20.3.21.10",""
 "HiNetCloud.Enterprises.Framework.DynamicCrm","20.3.21.9",""
