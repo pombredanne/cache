@@ -7758,6 +7758,7 @@
 "OrchardCoreModule.WebApi.Abstractions","0.0.3",""
 "OrchardCoreModule.WebApi.Abstractions","0.0.4",""
 "OrchardCoreModule.WebApi.Abstractions","0.0.5",""
+"Orthogonal.Persistence.EventStore","1.0.0",""
 "OsmSharp.IO.Binary","0.0.10-alpha",""
 "OsmSharp.IO.Binary","0.0.11-alpha",""
 "OsmSharp.IO.Binary","0.0.12-alpha",""
