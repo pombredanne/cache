@@ -6429,6 +6429,7 @@
 "ManagePackageSource","0.1.0.14",""
 "Marain.Workflow.Abstractions","0.1.0",""
 "Marain.Workflow.Abstractions","0.2.0-43-marain-deployment.9",""
+"Marain.Workflow.Abstractions","0.2.0-arm-retry-tweaks.1",""
 "Marain.Workflow.Abstractions","0.2.0-powershell-deploy.24",""
 "Marain.Workflow.Abstractions","0.2.0-powershell-deploy.33",""
 "Marain.Workflow.Abstractions","0.2.0-powershell-deploy.43",""

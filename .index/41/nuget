@@ -4561,6 +4561,7 @@
 "MapInfo.QA.MapBasicComFramework","1.0.0",""
 "MapInfo.QA.MapBasicComFramework","1.0.0.0",""
 "Marain.Workflow.Tenancy.Abstractions","0.2.0-43-marain-deployment.9",""
+"Marain.Workflow.Tenancy.Abstractions","0.2.0-arm-retry-tweaks.1",""
 "Marain.Workflow.Tenancy.Abstractions","0.2.0-powershell-deploy.24",""
 "Marain.Workflow.Tenancy.Abstractions","0.2.0-powershell-deploy.33",""
 "Marain.Workflow.Tenancy.Abstractions","0.2.0-powershell-deploy.43",""
