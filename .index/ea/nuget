@@ -12185,6 +12185,7 @@
 "Serilog.Sinks.MSSqlServer","5.4.1-dev-00334",""
 "Serilog.Sinks.MSSqlServer","5.4.1-dev-00336",""
 "Serilog.Sinks.MSSqlServer","5.4.1-dev-00338",""
+"Serilog.Sinks.MSSqlServer","5.4.1-dev-00341",""
 "ServiceAccountSCLogin","1.0.0",""
 "ServiceBasis.Abstraction","1.0.0-CI-20200302-043242",""
 "ServiceBasis.Abstraction","1.0.0-CI-20200302-045500",""

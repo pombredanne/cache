@@ -9894,6 +9894,7 @@
 "TraceSourceLogger","2.2.0.1",""
 "Transformalize.Provider.PostgreSql.Autofac","0.4.0-beta",""
 "Transformalize.Provider.PostgreSql.Autofac","0.6.28-beta",""
+"Transistors-Library","1.0.0",""
 "Triarc.Mlink.V1.DynamicDocument","1.8.0",""
 "Triarc.Mlink.V1.DynamicDocument","2.0.0",""
 "Triarc.Mlink.V1.DynamicDocument","2.0.0-alpha.0",""
