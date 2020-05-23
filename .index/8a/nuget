@@ -8562,6 +8562,7 @@
 "Quarks.FluentNHibernate.Conventions.Property.Column","1.0.0",""
 "Quarks.IDictionaryExtensions.GetValueOrDefault","1.0.0",""
 "Qubus.Errors","1.0.0",""
+"Qubus.Errors","1.1.0",""
 "QuicNet","1.0.0",""
 "Quick.Properties","1.0.0",""
 "RBProcess.Nuget","1.0.0",""
