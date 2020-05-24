@@ -10549,6 +10549,7 @@
 "SanteDB.Messaging.FHIR","1.74.0",""
 "SanteDB.Messaging.FHIR","1.75.0",""
 "SanteDB.Messaging.FHIR","1.79.0",""
+"SanteDB.Messaging.FHIR","2.0.12",""
 "SanteDB.Messaging.FHIR","2.0.6",""
 "Scalider.AspNetCore.Core","1.0.0",""
 "Scalider.AspNetCore.Core","1.1.0",""

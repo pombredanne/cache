@@ -9208,6 +9208,7 @@
 "OctoPackAssemblyVersion","1.0.1",""
 "OdataToEntity.EfCore.DynamicDataContext","2.4.0",""
 "OdataToEntity.EfCore.DynamicDataContext","2.5.0",""
+"OdataToEntity.EfCore.DynamicDataContext","2.5.0.2",""
 "Omu.ValueInjecter","1.0.0",""
 "OneHome.Security.GithubAccount","0.2.0-rc1",""
 "OneUpTech.OneUpFramework.Reports.Engine","1.0.0",""

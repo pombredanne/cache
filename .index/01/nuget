@@ -2525,6 +2525,7 @@
 "DatabaseSandboxer.SQlServer","1.1.2",""
 "DatabaseSandboxer.SQlServer","1.1.3",""
 "Datapoint.Cqrs.Mediator.Extensions.Microsoft.DependencyInjection","1.0.0",""
+"Datapoint.Cqrs.Mediator.Extensions.Microsoft.DependencyInjection","2.0.0",""
 "DbReader","1.0.1",""
 "DbReader","1.0.1-beta-1",""
 "DbReader","1.0.1-beta-2",""
