@@ -9602,6 +9602,7 @@
 "Verify.ImageMagick","0.1.3",""
 "Verify.ImageMagick","1.0.0",""
 "Verify.ImageMagick","1.1.0",""
+"Verify.ImageMagick","1.2.0",""
 "VerifyKeyReturns400IfScopeNotMet.636575168347489745","1.0.0",""
 "VerifyKeyReturns400IfScopeNotMet.636753092652365634","1.0.0",""
 "VerifyPackageKeySupportsFullAndTempApiKeys.636474913212769166","1.0.0",""
