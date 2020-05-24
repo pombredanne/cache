@@ -12687,6 +12687,7 @@
 "lastsignal.chain.netcore","3.0.0",""
 "libconfig_vc120","1.4.9.3",""
 "libconfig_vc120","1.4.9.4",""
+"libtorch-cuda-10.2-linux-x64-part2-primary","0.3.52215",""
 "mapguide-api-web-x64","2.4.0.7096",""
 "mapguide-api-web-x64","2.4.1.7767",""
 "mapguide-api-web-x64","2.5.0.7449",""
