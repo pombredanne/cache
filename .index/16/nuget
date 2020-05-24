@@ -4901,6 +4901,7 @@
 "Lime.Protocol.Serialization","0.7.91-beta",""
 "Lime.Protocol.Serialization","0.7.93-beta",""
 "LiteDB.Async","0.0.1",""
+"LiteDB.Async","0.0.2",""
 "Logary.Targets.Zipkin","3.0.0",""
 "Logary.Targets.Zipkin","3.0.1",""
 "Logary.Targets.Zipkin","3.0.2",""
