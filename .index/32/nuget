@@ -3909,6 +3909,7 @@
 "KissLog.AspNetCore","2.5.3",""
 "KissLog.AspNetCore","2.5.5",""
 "KissLog.AspNetCore","2.5.6",""
+"Knet.Kudu.Client","0.1.0-preview.1",""
 "KnightBus.Azure.Storage.Messages","1.0.1",""
 "KnightBus.Azure.Storage.Messages","2.0.0",""
 "KnightBus.Azure.Storage.Messages","2.1.0",""

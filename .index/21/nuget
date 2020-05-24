@@ -5067,6 +5067,7 @@
 "Hangfire.PostgreSql.Revised","1.4.4",""
 "Hangfire_net40","1.1.1",""
 "Harpy.IoC.LiteDb","1.0.8",""
+"Harpy.IoC.LiteDb","1.0.8.13",""
 "Harpy.IoC.LiteDb","1.0.8.9",""
 "Haven.ServiceBus.NServiceBus.Consumer","1.0.5835.19087",""
 "Hazelcast.Net","3.10.0",""
