@@ -8850,6 +8850,7 @@
 "Vereyon.Web.FlashMessage","1.1.0",""
 "Vereyon.Web.FlashMessage","1.1.0-beta1",""
 "Vereyon.Web.FlashMessage","1.2.0",""
+"Vereyon.Web.FlashMessage","2.0.0",""
 "Vereyon.Web.FlashMessage","2.0.0-beta2",""
 "VerifyKeyReturns400IfScopeNotMet.636892345026120719","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636348693477680564","1.0.0",""
