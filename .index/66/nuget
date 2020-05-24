@@ -10326,6 +10326,7 @@
 "lib.com.ef.nuget","2.2.0",""
 "librdkafka.symbols","0.9.3-pre-20",""
 "librdkafka.symbols","0.9.3-pre-wip1",""
+"libtorch-cuda-10.2-win-x64-part4-primary","1.5.0",""
 "linqdb.net.linux.embedded.leveldb.anycpu","1.3.0",""
 "linqdb.net.linux.embedded.leveldb.anycpu","1.4.0",""
 "linqdb.net.linux.embedded.leveldb.anycpu","1.5.0",""
