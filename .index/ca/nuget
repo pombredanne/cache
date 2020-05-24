@@ -3555,6 +3555,7 @@
 "FluentDbTools.Extensions.MSDependencyInjection","1.2.8",""
 "FluentDbTools.Extensions.MSDependencyInjection","1.2.9",""
 "FluentFiles.Converters","1.0.0",""
+"FluentSanitation.AspNetCore","0.1.1-master-g2d16d27eda",""
 "Flux.MongoDb","1.0.0",""
 "Flux.MongoDb","1.0.1",""
 "Flux.MongoDb","1.1.0",""
