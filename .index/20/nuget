@@ -3162,6 +3162,7 @@
 "DistributedEventBus.EventBusServiceBus","1.0.0",""
 "DistributedEventBus.EventBusServiceBus","1.0.1",""
 "DistributedEventBus.EventBusServiceBus","1.0.2",""
+"DistributedEventBus.EventBusServiceBus","1.0.3",""
 "DnsCryptProxyConfiguration","2.0.42-beta",""
 "DoOrSave.LiteDB","1.0.0",""
 "DoOrSave.LiteDB","1.0.0-alpha",""

@@ -2513,6 +2513,7 @@
 "EInfrastructure.Core.Config.StorageExtensions","2.0.0-beta-046",""
 "EInfrastructure.Core.Config.StorageExtensions","2.0.0-beta-047",""
 "ENode.PublishedVersionStore.Redis","1.0.0",""
+"ENode.PublishedVersionStore.Redis","1.0.1",""
 "EPiDefaultValues","1.0.0",""
 "Eastupright.EnterpriseLibrary.Common","2013.10.2",""
 "Eastupright.EnterpriseLibrary.Common","2013.11.27",""

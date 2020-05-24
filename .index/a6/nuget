@@ -695,6 +695,7 @@
 "Adisware.juipp","1.0.6",""
 "AdvanttechHMI","1.9.5.1",""
 "AdvanttechHMI","1.9.5.2",""
+"AggregateSnapshotStore.Redis","1.0.0",""
 "Agmostudio.RPC.Reactive","1.0.0",""
 "Agmostudio.RPC.Reactive","1.0.1",""
 "Aimoca.Enyim.Caching","1.0.0",""
