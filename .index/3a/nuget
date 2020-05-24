@@ -2018,6 +2018,7 @@
 "Core.ServiceMiddleware","2.1.1",""
 "Core.ServiceMiddleware","2.1.2",""
 "CoreHashLib","1.0.0",""
+"Courier.RestClient","1.0.0-CI-20200524-040453",""
 "CoverArtArchive","1.0.0",""
 "CoverArtArchive","2.0.0",""
 "Cqs.Components","0.0.1-alpha1",""
