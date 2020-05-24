@@ -7860,6 +7860,7 @@
 "SenseNet.Search.Lucene29.Common","7.3.0",""
 "SenseNet.Search.Lucene29.Common","7.3.1",""
 "SenseNet.Search.Lucene29.Common","7.4.0",""
+"Serilog.Sinks.Notepad2","0.0.1-alpha",""
 "Serraview.Apis.Utilisation","0.0.2.14",""
 "Serraview.Apis.Utilisation","0.0.2.18",""
 "ServerPaging.Business","1.0.0",""
