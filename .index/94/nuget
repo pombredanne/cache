@@ -10066,6 +10066,7 @@
 "SolutionReader","1.0.0",""
 "Sonar.Lib.S3Presign","1.0.0",""
 "Sonar.Lib.S3Presign","1.0.0.1",""
+"Sonar.Lib.S3Presign","1.0.0.2",""
 "SourceMax.Web.IoC","1.0.0",""
 "SourceMax.Web.IoC","1.0.0.1",""
 "SourceMax.Web.IoC","1.1.0",""

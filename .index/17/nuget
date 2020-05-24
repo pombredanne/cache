@@ -3869,6 +3869,7 @@
 "FloatsCanNeverBeEqual","1.0.0",""
 "FluentDbTools.Example.Database","1.0.1",""
 "FluentLogger.log4net","3.0.0.30",""
+"FluentSanitation","0.1.1-master-g2d16d27eda",""
 "FluentSecurity.BasicAuth","1.0.0",""
 "FluentSharp.HtmlAgilityPack.WinForms","5.5.162",""
 "FluentSharp.HtmlAgilityPack.WinForms","5.5.163",""
