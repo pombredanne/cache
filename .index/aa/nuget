@@ -6458,6 +6458,7 @@
 "MoonMig.DataPipe.SqlData","1.0.9",""
 "MoonMig.SimpleThreadPool","1.0.0",""
 "MoonMig.SimpleThreadPool","1.0.5",""
+"MsSqlMetadataLoader","0.0.0.1",""
 "MultiLineCollapsingToolbar.Binding","1.5.0",""
 "Mushroom","0.1.0",""
 "Mushroom","0.1.1",""
