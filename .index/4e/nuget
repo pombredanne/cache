@@ -1226,6 +1226,7 @@
 "Blockcore.Features.PoA","1.0.6",""
 "Blockcore.Features.PoA","1.0.7",""
 "Blockcore.Features.PoA","1.0.8",""
+"Blockcore.Features.PoA","1.0.9",""
 "Blocks.Boot.MySqlProvider","1.18.421",""
 "Blocks.Boot.MySqlProvider","1.18.919",""
 "Blue.Authentication.Clients.Scim","1.5.0",""

@@ -6503,6 +6503,7 @@
 "RequestResponseLogging.NetCore","1.0.0",""
 "RequestResponseLogging.NetCore","1.0.1",""
 "RequestResponseLogging.NetCore","1.0.2",""
+"RequiredIf.Core","1.0.0",""
 "ResourcePooling.Async.Abstractions","1.0.0+3a33a5d67517cc30e0e4c4023694dab9be785515",""
 "ResourcePooling.Async.Abstractions","1.1.0+ec22dd33b3156e0c7b1afc73d1e5dca28a2e1158",""
 "ResourcePooling.Async.Abstractions","1.2.0+f6f7e21dfca0f56c1708467d477397e11e859a77",""

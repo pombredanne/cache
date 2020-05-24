@@ -3901,6 +3901,7 @@
 "DotNet.Glob.Benchmarks","3.0.5",""
 "DotNet.Glob.Benchmarks","3.1.0-alpha0004",""
 "DotNet.Glob.Benchmarks","3.1.0-alpha0009",""
+"DotNet.Glob.Benchmarks","3.1.0-issue-75.1",""
 "DotNetCore.Natasha.DynamicCache","1.0.0",""
 "DotNetCore.Natasha.DynamicCache","1.1.0",""
 "DotNetCore.Natasha.DynamicCache","1.1.1",""
