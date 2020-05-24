@@ -8435,6 +8435,7 @@
 "PriXm-Detector","0.6.2",""
 "Prodicus.Interfaces.AppModel","1.0.12",""
 "Project.Data.Core.MongoDB","1.0.0",""
+"Prometheus.Client.HealthChecks","0.1.0",""
 "PromptCLI","1.0.0",""
 "PromptCLI","1.1.0",""
 "PropertyChanging.ReactiveUI.WinRT.Fody","1.25.3",""

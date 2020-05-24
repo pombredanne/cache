@@ -5025,6 +5025,7 @@
 "Hangfire.Redis.StackExchange","1.8.3",""
 "Harpy.Domain.LiteDB","1.0.5",""
 "Harpy.Domain.LiteDB","1.0.8",""
+"Harpy.Domain.LiteDB","1.0.8.13",""
 "Harpy.Domain.LiteDB","1.0.8.9",""
 "HashBasedIncrementalBuild.MSBuild","1.0.0-alpha10",""
 "HashBasedIncrementalBuild.MSBuild","1.0.0-alpha11",""
