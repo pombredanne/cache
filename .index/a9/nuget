@@ -10643,6 +10643,7 @@
 "Verify.Aspose","1.4.0",""
 "Verify.Aspose","1.4.1",""
 "Verify.Aspose","1.5.0",""
+"Verify.Aspose","1.6.0",""
 "VerifyKeyReturns400IfScopeNotMet.636476637715641471","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636753092863036562","1.0.0",""
 "VerifyPackageKey_Returns404ForMissingPackage.636531960506014275","1.0.0",""
