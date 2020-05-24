@@ -651,6 +651,7 @@
 "Asynq","1.0.2-preview2",""
 "Asynq","1.0.2-preview3",""
 "Asynq","1.0.3",""
+"Asynq","1.0.4",""
 "Atlas.Security.Authentication.NetCore","1.0.0",""
 "Atlas.Security.Authentication.NetCore","1.0.1",""
 "Atlas.ServiceBus.RabbitMQ","0.0.16",""

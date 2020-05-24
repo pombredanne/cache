@@ -1623,6 +1623,7 @@
 "DanDeven.NugetTeste3.NugetTeste3","0.0.8",""
 "DanDeven.NugetTeste3.NugetTeste3","0.0.9",""
 "Dapper.SqlExtensions","1.0.0",""
+"DapperBaseDal","1.0.0",""
 "DataDome.Owin","2.0.0-rc",""
 "DataDome.Owin","2.0.1-rc",""
 "DataDome.Owin","2.1.1-rc",""
