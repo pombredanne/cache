@@ -1675,6 +1675,7 @@
 "Dasync.Hosting.AspNetCore","2.0.0-beta2",""
 "DataMap","1.0.0",""
 "Datapoint.Cqrs.Mediator","1.0.0",""
+"Datapoint.Cqrs.Mediator","2.0.0",""
 "DbUtility","1.0.0",""
 "Dbosoft.YaNco.Native","3.0.0",""
 "Dbosoft.YaNco.Native","3.0.0-rc0001",""
