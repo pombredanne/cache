@@ -9547,6 +9547,7 @@
 "libc.web.ratelimit","0.4.0",""
 "libc.web.ratelimit","0.5.0",""
 "libtorch-cuda-10.2-linux-x64","0.3.52215",""
+"libtorch-cuda-10.2-linux-x64","1.5.0",""
 "log4net_mohit","1.0.0",""
 "maskedinput.TypeScript.DefinitelyTyped","0.0.1",""
 "maskedinput.TypeScript.DefinitelyTyped","0.0.2",""

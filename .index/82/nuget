@@ -9924,6 +9924,7 @@
 "libpogodi.redist","1.0.1.2",""
 "libpogodi.redist","1.0.1.3",""
 "libpogodi.redist","1.0.1.4",""
+"libtorch-cuda-10.2-linux-x64-part1","1.5.0",""
 "luaparse.TypeScript.DefinitelyTyped","0.0.1",""
 "maquette.TypeScript.DefinitelyTyped","0.0.1",""
 "maquette.TypeScript.DefinitelyTyped","0.0.2",""

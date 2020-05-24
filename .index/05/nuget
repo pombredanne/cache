@@ -2897,6 +2897,7 @@
 "Eto.Platform.Gtk","2.5.0-rc.3",""
 "Eto.Platform.Gtk","2.5.0-rc.4",""
 "Eto.Platform.Gtk","2.5.0-rc.6",""
+"EventCrop.Consumer.Deserializers.Binary","0.0.3",""
 "Exceader","1.0.0",""
 "Expecto.Hopac","7.0.0",""
 "Expecto.Hopac","7.0.1",""
