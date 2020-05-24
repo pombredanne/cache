@@ -3134,6 +3134,7 @@
 "EventCrop.Producer.Redis","0.0.4",""
 "EventCrop.Producer.Redis","0.0.5",""
 "EventCrop.Producer.Redis","0.0.6",""
+"EventCrop.Producer.Redis","0.0.7",""
 "EventDispatcher","1.0.0-CI00000",""
 "EventFlow.MsSql","0.0.179-alpha",""
 "EventFlow.MsSql","0.0.40-alpha",""

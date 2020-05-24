@@ -3365,6 +3365,7 @@
 "FreeSql.Provider.Sqlite","1.4.0-preview20200409",""
 "FreeSql.Provider.Sqlite","1.4.0-preview20200410",""
 "FreeSql.Provider.Sqlite","1.4.0-preview20200411",""
+"FreeSql.Provider.Sqlite","1.5.0",""
 "FreeSql.Provider.Sqlite","1.5.0-preview0502",""
 "FreeSql.Provider.Sqlite","1.5.0-preview0507",""
 "FreeSql.Provider.Sqlite","1.5.0-preview0508",""
