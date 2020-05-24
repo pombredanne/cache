@@ -7524,6 +7524,7 @@
 "OceanWebSystems.Extensions.Caching.AzureTableStorage","1.0.3",""
 "Ocelot.Provider.ZooKeeper","0.2.0",""
 "Ocr.Wrapper","1.0.0",""
+"Ocr.Wrapper","1.0.1",""
 "Ofn.ServiceFabric.Cache.Abstractions","0.1.0-alpha1",""
 "Oika.Libs.Merror","2.0.0",""
 "Olive.Aws","2.1.10",""

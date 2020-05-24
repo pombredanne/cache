@@ -3133,6 +3133,8 @@
 "EventCrop.Consumer.Redis","0.0.5",""
 "EventCrop.Consumer.Redis","0.0.6",""
 "EventCrop.Consumer.Redis","0.0.7",""
+"EventCrop.Consumer.Redis","0.0.8",""
+"EventCrop.Consumer.Redis","0.0.9",""
 "EventWay.MessageBusDispatcher.MsSql","1.0.0-CI-20180824-100708",""
 "EventWay.MessageBusDispatcher.MsSql","1.0.0-CI-20180824-101142",""
 "EventWay.MessageBusDispatcher.MsSql","1.0.0-CI-20180827-154018",""
