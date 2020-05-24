@@ -10008,6 +10008,7 @@
 "XAct.Settings.Host.Db.EF.CodeFirst","0.0.990",""
 "XKit.Lib.Connector.Protocols.Http","0.8.0",""
 "XKit.Lib.Connector.Protocols.Http","0.9.0",""
+"XKit.Lib.Connector.Protocols.Http","0.9.1",""
 "XLabs.Serialization.ProtoBuf","2.0.0",""
 "XLabs.Serialization.ProtoBuf","2.0.0-pre13",""
 "XLabs.Serialization.ProtoBuf","2.0.0-pre2",""
