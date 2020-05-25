@@ -8919,6 +8919,8 @@
 "Ninject.MockingKernel.Moq","3.2.2-unstable-007",""
 "Ninject.MockingKernel.Moq","3.3.0",""
 "Ninject.MockingKernel.Moq","3.3.0-beta1",""
+"Nito.DependencyInjection.InstanceBuilder","1.0.0-pre-02",""
+"Nito.DependencyInjection.InstanceBuilder","1.0.0-pre01",""
 "Nodatime.Webapi","1.0.0",""
 "NonConfigurable.EnterpriseLibrary.Common","6.0.1311",""
 "NonConfigurable.EnterpriseLibrary.Common","6.0.1312",""

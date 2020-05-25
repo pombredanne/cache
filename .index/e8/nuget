@@ -4938,6 +4938,7 @@
 "Lykke.MarginTrading.CommissionService.Contracts","1.7.9",""
 "Lykke.MarginTrading.CommissionService.Contracts","1.8.0",""
 "Lykke.MarginTrading.CommissionService.Contracts","1.9.0",""
+"LykkeBiz.RabbitMqBroker","8.0.0",""
 "MEMC.WinUI.Controls","1.0.0",""
 "MEMC.WinUI.Controls","1.0.1",""
 "MEMC.WinUI.Controls","1.0.2",""
