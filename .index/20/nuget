@@ -1595,6 +1595,7 @@
 "AspNetCore.Identity.Mongo","6.3.5",""
 "AspNetCore.Identity.Mongo","6.7.0",""
 "AspNetCore.Identity.Mongo","6.7.1",""
+"AspNetCore.TypedActionResults","1.0.0",""
 "AssemblyExtensions","0.0.1",""
 "AssemblyExtensions","0.0.2",""
 "Asterisk.NET","1.6.3.1",""
