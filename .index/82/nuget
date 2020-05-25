@@ -1811,6 +1811,7 @@
 "Cogito.Extensions.Configuration.Autofac","2.0.5",""
 "Cogito.Extensions.Configuration.Autofac","2.0.6",""
 "Cogito.Extensions.Configuration.Autofac","2.0.7",""
+"Common.NetCoreWebUtility","0.0.2",""
 "CommonWebInfrastructure.ExtensionHelpers","1.0.0.10",""
 "CommonWebInfrastructure.ExtensionHelpers","1.0.0.11",""
 "CommonWebInfrastructure.ExtensionHelpers","1.0.0.12",""
