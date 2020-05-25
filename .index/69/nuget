@@ -10501,6 +10501,7 @@
 "ThinkGeo.MapSuite.WmsServer","11.0.0-beta006",""
 "ThinkingHome.Migrator.Providers.SqlServer","3.0.0",""
 "ThinkingHome.Migrator.Providers.SqlServer","3.1.0",""
+"ThinkingHome.Migrator.Providers.SqlServer","3.2.0",""
 "TimeMachine","0.0.1",""
 "TimeMachine","1.0.0",""
 "Timeline.Engine","1.0.0",""

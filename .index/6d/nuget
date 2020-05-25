@@ -8730,6 +8730,7 @@
 "Security.Core.Authentication","2.0.7",""
 "Security.Core.Authentication","2.0.8",""
 "Security.Core.Authentication","2.0.9",""
+"SecurityRoleComparision","1.0.0",""
 "Selenium.WebDriver.Extensions.QuerySelector","1.1.0-alpha1",""
 "Selenium.WebDriver.Extensions.QuerySelector","1.1.109-alpha",""
 "Selenium.WebDriver.Extensions.QuerySelector","1.1.111-alpha",""
