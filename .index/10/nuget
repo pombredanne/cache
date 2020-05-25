@@ -7793,6 +7793,7 @@
 "OrchardCore.Application.Cms.Core.Targets","1.0.0-rc1-10004",""
 "Orthogonal.Persistence.AzureBlob","1.0.0",""
 "Orthogonal.Persistence.AzureBlob","1.0.1",""
+"Orthogonal.Persistence.AzureBlob","1.0.2",""
 "OwinSessionMiddleware.WebApi","1.0.0.1",""
 "OwinSessionMiddleware.WebApi","1.0.0.10",""
 "OwinSessionMiddleware.WebApi","1.0.0.2",""
