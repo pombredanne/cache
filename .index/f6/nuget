@@ -7897,6 +7897,7 @@
 "SignalR.EventAggregatorProxy.Client.DotNet","1.4.141",""
 "SignalR.EventAggregatorProxy.Client.DotNet","1.5.158",""
 "SimplePredictiveTextMH","1.0.0",""
+"SimpleTrading.Internal.Report.AzureStorage","1.0.0",""
 "SimpleTrading.TickHistory.AzureStorage","1.0.0",""
 "SimplyTestData","0.5.0",""
 "SimplyTestData","0.5.1",""

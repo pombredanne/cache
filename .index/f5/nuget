@@ -11452,6 +11452,7 @@
 "dk.nita.saml20.ext.sessionstore.sqlserver","2.0.2-alpha",""
 "dk.nita.saml20.ext.sessionstore.sqlserver","2.0.3",""
 "dk.nita.saml20.ext.sessionstore.sqlserver","2.0.4",""
+"dk.nita.saml20.ext.sessionstore.sqlserver","2.0.5",""
 "dk.nita.saml20.ext.sessionstore.sqlserver","3.0.0-alpha",""
 "dotNeteG.SamplePackage","1.0.0",""
 "dotNeteG.SamplePackage","2.0.0",""
