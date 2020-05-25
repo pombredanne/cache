@@ -4691,6 +4691,7 @@
 "Microsoft.ReportViewer.Runtime.WinForms","9.0.21022.8",""
 "MigraDoc-PDFsharp-GDI-barcodes","1.50.4000-beta3b",""
 "MigraDoc-PDFsharp-GDI-barcodes","1.50.4000-beta3b-debug",""
+"MiniProfiler.Providers.RavenDB","4.2.0-preview.26",""
 "MintPlayer.AspNetCore.SitemapXml","1.0.0",""
 "MintPlayer.AspNetCore.SitemapXml","1.0.1",""
 "MintPlayer.AspNetCore.SitemapXml","1.0.2",""
