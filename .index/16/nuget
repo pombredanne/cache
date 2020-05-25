@@ -5765,6 +5765,7 @@
 "Naos.Diagnostics.Recipes.MachineMemory","1.3.24",""
 "Naos.Diagnostics.Recipes.MachineMemory","1.3.26",""
 "Naos.Diagnostics.Recipes.MachineMemory","1.3.27",""
+"Naos.Diagnostics.Recipes.MachineMemory","1.3.28",""
 "Narato.ServiceFabric.TestService","1.0.0.17-beta",""
 "Narato.ServiceFabric.TestService","1.0.0.5",""
 "NathanTest.SharedLibrary","1.0.0",""
