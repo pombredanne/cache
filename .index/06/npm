@@ -18020,6 +18020,7 @@
 "@rollingversions/test-single-npm-package-circleci","3.0.0",""
 "@rollingversions/test-single-npm-package-circleci","3.1.0",""
 "@rollingversions/test-single-npm-package-circleci","3.2.0",""
+"@rollingversions/test-single-npm-package-circleci","3.3.0-canary-33",""
 "@rombass/slugger","1.0.0","ISC"
 "@rombass/slugger","2.0.0","ISC"
 "@rooks/use-fork-ref","3.4.0","MIT"

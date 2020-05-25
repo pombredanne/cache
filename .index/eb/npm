@@ -31294,6 +31294,7 @@
 "htmldiff-js","1.0.5","ISC"
 "htmlev","1.0.0",""
 "htmlev","1.0.1",""
+"htmllinter-plugin-stylelint","0.2.0",""
 "htmlparse","0.0.2","MIT"
 "htmlparse","0.0.3","MIT"
 "htmlparse","0.0.4","MIT"

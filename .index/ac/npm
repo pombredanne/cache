@@ -12109,6 +12109,8 @@
 "@nestify/console","0.3.4","MIT"
 "@nestify/console","0.3.5","MIT"
 "@nestify/console","0.3.6","MIT"
+"@nestjs-libs/playwright","0.0.1",""
+"@nestjs-libs/playwright","0.0.2",""
 "@nestpack/config","0.0.1","MIT"
 "@nestpack/config","0.0.2","MIT"
 "@nestpack/config","0.0.3","MIT"
