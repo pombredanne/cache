@@ -8355,6 +8355,7 @@
 "Pulumi.Gcp","3.6.0-alpha.1589913664+g7c3e3651",""
 "Pulumi.Gcp","3.7.0-alpha.1590163216+g8bd3f006",""
 "Pulumi.Gcp","3.7.0-alpha.1590173532+gec489bc8",""
+"Pulumi.Gcp","3.7.0-alpha.1590415808+g2fca23e3",""
 "Pulumi.Rabbitmq","0.0.1-preview-alpha.1575637991+g14ce5fd",""
 "Pulumi.Rabbitmq","1.0.0-preview",""
 "Pulumi.Rabbitmq","1.1.0-preview-alpha.1576354510+gb168589",""
