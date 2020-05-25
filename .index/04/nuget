@@ -2139,6 +2139,7 @@
 "E2E.SemVer2StableMetadataUnlisted.191018.202141.9263580","1.0.0+metadata",""
 "ECargo.EventSourceProxy.NetStandard","1.0.0",""
 "ECargo.EventSourceProxy.NetStandard","4.0.0",""
+"ECargo.EventSourceProxy.NetStandard","5.0.0",""
 "EWS-Api-2.0","1.0.0",""
 "EWS-Api-2.0","1.0.1",""
 "EZhouXin.ELogs","1.0.0",""
