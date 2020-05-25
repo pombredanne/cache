@@ -3309,6 +3309,7 @@
 "IF.APM.OpenTracing.Jaeger","1.0.0",""
 "IF.APM.OpenTracing.Jaeger","1.1.0",""
 "IF.APM.OpenTracing.Jaeger","1.2.0",""
+"IF.APM.OpenTracing.Jaeger","1.2.1",""
 "IM.Wcs.OrderPolicy","1.0.1",""
 "IME.WCF.SecurityFramework.Abstractions","1.2.2",""
 "IME.WCF.SecurityFramework.Abstractions","1.2.4",""
