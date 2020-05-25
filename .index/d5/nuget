@@ -2860,6 +2860,7 @@
 "Essensoft.AspNetCore.Payment.Alipay","3.1.7",""
 "Essensoft.AspNetCore.Payment.Alipay","3.1.8",""
 "Essensoft.AspNetCore.Payment.Snowflake","1.0.0",""
+"EventHub.Domain.Core","1.0.0",""
 "EventSourcing.Rebuild.Messages","1.0.0.19",""
 "EventSourcing.Rebuild.Messages","1.0.0.20",""
 "EventSourcing.Rebuild.Messages","1.0.0.21",""
