@@ -11811,6 +11811,7 @@
 "SD.LLBLGen.Pro.DQE.PostgreSql","5.6.3-hotfix-20200225",""
 "SD.LLBLGen.Pro.DQE.PostgreSql","5.6.3-hotfix-20200330",""
 "SD.LLBLGen.Pro.DQE.PostgreSql","5.6.3-hotfix-20200427",""
+"SD.LLBLGen.Pro.DQE.PostgreSql","5.7.0",""
 "SD.LLBLGen.Pro.DQE.PostgreSql","5.7.0-Beta-20200417",""
 "SD.LLBLGen.Pro.DQE.PostgreSql","5.7.0-Beta-20200428",""
 "SFA.DAS.AccountsApiSubstitute.WebAPI","1.0.0.57039",""
