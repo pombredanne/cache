@@ -11313,6 +11313,7 @@
 "ee.itcollege.alari.lagle.Contracts.BLL.Base","1.0.0",""
 "ee.itcollege.keruul.BLL.Base","1.0.3",""
 "ee.itcollege.kroide.DAL.Base.EF","1.0.0",""
+"ee.itcollege.tasull.Contracts.DAL.base","1.0.0",""
 "ee.taltech.tapaal.Contracts.DAL.Base","1.0.0",""
 "eze.cpp_redis.development","1.0.0-CI00006",""
 "flot.TypeScript.DefinitelyTyped","0.0.1",""
