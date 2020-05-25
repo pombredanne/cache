@@ -2222,6 +2222,7 @@
 "EntityFrameworkCore.Pluralize","2.1.1",""
 "EntityFrameworkCore.Pluralize","2.2.3",""
 "EntityFrameworkCore.Pluralize","2.2.3.1",""
+"EntityFrameworkCore.Temporal.Standard","1.0.0",""
 "EntityFrameworkExtension","1.0.0",""
 "EntityFrameworkExtension","1.1.0",""
 "EntityFrameworkExtension","2.0.0",""

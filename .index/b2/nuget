@@ -1788,6 +1788,8 @@
 "Citms.Common.Hystrix","1.0.3-preview",""
 "CloudNDevOps.Newtonsoft.Extensions","1.0.1-beta1",""
 "CloudNDevOps.Newtonsoft.Extensions","1.0.2",""
+"CloudNDevOps.Newtonsoft.Extensions","1.0.3",""
+"CloudNDevOps.Newtonsoft.Extensions","1.0.4",""
 "CnSharp.VisualStudio.TFS","1.0.0",""
 "CnSharp.VisualStudio.TFS","1.1.1",""
 "CnSharp.VisualStudio.TFS","1.1.2",""
