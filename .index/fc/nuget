@@ -5828,6 +5828,7 @@
 "HcfNS.Mqtt.Server.AspNetCore","3.0.0",""
 "HcfNS.Mqtt.Server.AspNetCore","3.0.1",""
 "HcfNS.Mqtt.Server.AspNetCore","3.1.0",""
+"HcfNS.Mqtt.Server.AspNetCore","3.1.1",""
 "HdrHistogram","1.0.120-prerelease",""
 "HdrHistogram","1.14.0",""
 "HdrHistogram","1.18.0",""
