@@ -4385,6 +4385,7 @@
 "KY.Generator.CLI.Core","3.3.0",""
 "KY.Generator.CLI.Core","3.4.0",""
 "KamiSama.Extensions.NLog","2.2.0",""
+"KamiSama.Extensions.NLog","2.2.1",""
 "Karambolo.AspNetCore.Bundling.Less","1.0.0",""
 "Karambolo.AspNetCore.Bundling.Less","1.0.0-rc1",""
 "Karambolo.AspNetCore.Bundling.Less","1.1.0",""

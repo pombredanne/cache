@@ -7571,6 +7571,7 @@
 "SecByte.Xunit.Gherkin","1.1.0",""
 "SecurityServer.ClientLib","1.0.1",""
 "SecurityServer.ClientLib","1.1.6",""
+"Selenium.CefSharp.Driver","0.1.0",""
 "Selenium.WebDriver.GeckoDriver.Win64","0.11.1",""
 "Selenium.WebDriver.GeckoDriver.Win64","0.12.0",""
 "Selenium.WebDriver.GeckoDriver.Win64","0.13.0",""
