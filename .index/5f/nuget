@@ -9852,6 +9852,7 @@
 "Serilog.Sinks.Json","1.0.0-beta-203",""
 "Service.Core-PsFramework","1.0.0",""
 "Service.Core-PsFramework","1.0.1",""
+"Service.Core-PsFramework","1.0.10",""
 "Service.Core-PsFramework","1.0.2",""
 "Service.Core-PsFramework","1.0.3",""
 "Service.Core-PsFramework","1.0.4",""
