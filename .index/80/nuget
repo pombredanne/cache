@@ -1366,6 +1366,7 @@
 "Bryllite.Utils.NabiLog","0.5.5",""
 "Bryllite.Utils.NabiLog","0.6.0",""
 "Bulletin.Storage.S3","0.1.13",""
+"Bulletin.Storage.S3","0.1.14",""
 "BusinessDay.Calculation","1.0.0",""
 "ByteArray","1.0.0",""
 "ByteArray","1.0.1",""
