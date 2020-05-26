@@ -6637,6 +6637,7 @@
 "Quamotion.DiscUtils.OpticalDiscSharing","0.15.3-g3f963cf606",""
 "Quamotion.DiscUtils.OpticalDiscSharing","0.15.4",""
 "QuantConnect.Lean.Sun","1.0.1",""
+"QueryBuilder.Core","1.0.1",""
 "QvxLib.Connector","1.0.2.3",""
 "R2.Routing.DependencyRegistration.Autofac","0.1.0",""
 "R2.Routing.DependencyRegistration.Autofac","0.1.1",""

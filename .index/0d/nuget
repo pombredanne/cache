@@ -5779,6 +5779,7 @@
 "PoliticsAndWarAPIAccess.MongoDBCacheEngine","1.0.75",""
 "PoliticsAndWarAPIAccess.MongoDBCacheEngine","1.0.80",""
 "PoliticsAndWarAPIAccess.MongoDBCacheEngine","1.0.88",""
+"PoliticsAndWarAPIAccess.MongoDBCacheEngine","1.0.92",""
 "Pomelo.Data.InfluxDB","1.0.0-CI-20180705-140719",""
 "Pomelo.Data.InfluxDB","1.0.0-CI-20180803-140829",""
 "Pooka.Repo.EF","1.2.6",""
