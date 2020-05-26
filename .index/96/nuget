@@ -3291,6 +3291,7 @@
 "EntityFramework.Extended.Spec","6.1.0.168",""
 "EntityFramework.Extended.Spec","6.1.1.168",""
 "EntityFrameworkCore.Extensions.Events.Common","1.0.1",""
+"EntityFrameworkCore.Extensions.Events.Common","1.1.0",""
 "Errordite.Client.Mvc","1.2.11",""
 "Errordite.Client.Mvc","1.2.9.1",""
 "Errordite.Client.Mvc","1.2.9.3",""

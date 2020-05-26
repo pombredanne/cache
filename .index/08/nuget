@@ -3064,6 +3064,7 @@
 "E2E.SemVer2PrerelUnlisted.190822.232102.9147988","1.0.0-alpha.1",""
 "E2E.SemVer2StableMetadata.200118.015359.9799688","1.0.0+metadata",""
 "E2E.SemVer2StableMetadata.200428.002148.1678798","1.0.0+metadata",""
+"E2E.SemVer2StableMetadata.200526.184014.6802767","1.0.0+metadata",""
 "E2E.SemVer2StableMetadataUnlisted.171026.115143.8534208","1.0.0+metadata",""
 "E2E.SemVer2StableMetadataUnlisted.180626.233217.5378058","1.0.0+metadata",""
 "E2E.SemVer2StableMetadataUnlisted.181115.223732.9022076","1.0.0+metadata",""

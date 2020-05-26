@@ -3102,6 +3102,7 @@
 "Genbox.SimpleS3.Extensions.HttpClientFactory","0.1.0-alpha8",""
 "Genbox.SimpleS3.Extensions.HttpClientFactory","0.1.0-alpha9",""
 "GenericPaymentService","1.0.0",""
+"GenericSearch","1.0.0-preview.1",""
 "Geocoder.Esri","0.0.1",""
 "GhostLine.GhostLine","1.0.1",""
 "Glav.CognitiveServices.FluentApi.Face","0.9.0",""

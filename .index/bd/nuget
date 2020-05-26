@@ -3004,6 +3004,7 @@
 "E2E.SemVer2DueToSemVer2Dep.190725.234300.1795909","1.0.0-beta",""
 "E2E.SemVer2DueToSemVer2Dep.190731.195236.1142318","1.0.0-beta",""
 "E2E.SemVer2Prerel.170914.181229.9923497","1.0.0-alpha.1",""
+"E2E.SemVer2Prerel.200526.184103.4408888","1.0.0-alpha.1",""
 "E2E.SemVer2PrerelRelisted.170801.211403.4904439","1.0.0-alpha.1",""
 "E2E.SemVer2PrerelRelisted.180302.022918.7579330","1.0.0-alpha.1",""
 "E2E.SemVer2PrerelRelisted.180808.171158.7886790","1.0.0-alpha.1",""
