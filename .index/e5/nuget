@@ -1947,6 +1947,7 @@
 "Cortside.Common.Command","1.0.86-receiver-hosted-service",""
 "Cortside.Common.Command","1.0.87-receiver-hosted-service",""
 "Cortside.Common.Command","1.0.89-develop",""
+"Cortside.Common.Command","1.0.90-delayed-retry",""
 "CosmosDb","1.0.2",""
 "CosmosDb","1.0.3",""
 "CrawlDNews","1.0.0",""

@@ -2080,6 +2080,7 @@
 "Cortside.Common.BootStrap","1.0.86-receiver-hosted-service",""
 "Cortside.Common.BootStrap","1.0.87-receiver-hosted-service",""
 "Cortside.Common.BootStrap","1.0.89-develop",""
+"Cortside.Common.BootStrap","1.0.90-delayed-retry",""
 "CouchConveyor.Redis","0.1.0",""
 "Cpbp.Core","1.0.0",""
 "Cpbp.Core","1.0.1",""

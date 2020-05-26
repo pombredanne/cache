@@ -2751,6 +2751,7 @@
 "Cortside.Common.Configuration","1.0.86-receiver-hosted-service",""
 "Cortside.Common.Configuration","1.0.87-receiver-hosted-service",""
 "Cortside.Common.Configuration","1.0.89-develop",""
+"Cortside.Common.Configuration","1.0.90-delayed-retry",""
 "Cosmos.Data.Extensions.SqlServer","0.1.1",""
 "Cosmos.Data.Extensions.SqlServer","0.1.4",""
 "Cosmos.Data.Extensions.SqlServer","0.1.4.1",""
