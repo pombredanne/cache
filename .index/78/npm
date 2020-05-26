@@ -9895,6 +9895,7 @@
 "@nuxt/cli-edge","3.0.0-26498895.c9ece103","MIT"
 "@nx-aws/s3","0.3.4",""
 "@nx-aws/s3","0.4.0",""
+"@nx-aws/s3","0.5.0",""
 "@nylira/vue-page-split","1.0.0","MIT"
 "@nylira/vue-page-split","1.0.1","MIT"
 "@nylira/vue-page-split","1.1.0","MIT"
