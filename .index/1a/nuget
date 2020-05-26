@@ -566,6 +566,7 @@
 "Az.Storage.AzureBlobStorage","1.0.1.15",""
 "Az.Storage.AzureBlobStorage","1.0.1.25",""
 "Az.Storage.AzureBlobStorage","1.0.1.27",""
+"Az.Storage.AzureBlobStorage","1.0.1.28",""
 "AzureBlobContainerSync","1.0.0",""
 "AzureBlobContainerSync","1.0.1",""
 "AzureKeyVaultUtility","1.0.0",""

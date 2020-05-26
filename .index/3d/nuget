@@ -6379,6 +6379,7 @@
 "NServiceBus.Raw.DelayedRetries","3.0.2",""
 "NServiceBus.Raw.DelayedRetries","3.1.0",""
 "NServiceBus.Raw.DelayedRetries","3.1.1",""
+"NServiceBus.Raw.DelayedRetries","3.2.1",""
 "NServiceLocator","1.0.4293.1115",""
 "NServiceLocator","1.0.4317.39679",""
 "NServiceLocator","1.0.4409.4182",""
