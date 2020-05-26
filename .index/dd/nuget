@@ -7544,6 +7544,8 @@
 "SequelNet.Connector.MySql2","3.0.38",""
 "SequelNet.Connector.MySql2","3.0.39",""
 "SequelNet.Connector.MySql2","3.0.40",""
+"SequelNet.Connector.MySql2","3.0.41",""
+"SequelNet.Connector.MySql2","3.0.42",""
 "Server.Connection","1.0.1",""
 "ServiceEndpoint","4.0.0",""
 "ServiceProtocol","1.0.1",""
