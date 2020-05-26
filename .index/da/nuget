@@ -8807,6 +8807,7 @@
 "SerializerSharp","1.0.2.1",""
 "Serilog.Sinks.ElmahIo.AspNet.Test","1.0.0",""
 "Serilog.Sinks.InsightOps","0.1.0-dev",""
+"Serilog.Sinks.InsightOps","0.2.0",""
 "Serilog.Sinks.SendGridEmail","1.0.0",""
 "Serilog.Sinks.SendGridEmail","2.0.0",""
 "Serilog.ThrowContext","0.1.0",""
