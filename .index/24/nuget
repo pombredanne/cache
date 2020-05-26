@@ -7656,6 +7656,7 @@
 "OpenMessage.Serializer.Hyperion","1.0.0-preview-8.4",""
 "OpenMessage.Serializer.Hyperion","1.0.0-preview-8.5",""
 "OpenMessage.Serializer.Hyperion","1.0.0-preview-8.6",""
+"OpenMessage.Serializer.Hyperion","1.0.0-preview-8.7",""
 "OpenTracing.Tracer.Abstractions","0.1.0",""
 "Optivem.Platform.Core.Common.Mapping","1.0.0",""
 "Optivem.Platform.Core.Common.Mapping","1.0.3",""

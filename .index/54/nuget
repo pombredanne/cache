@@ -8162,6 +8162,7 @@
 "OpenMessage.Serializer.MsgPackCli","1.0.0-preview-8.4",""
 "OpenMessage.Serializer.MsgPackCli","1.0.0-preview-8.5",""
 "OpenMessage.Serializer.MsgPackCli","1.0.0-preview-8.6",""
+"OpenMessage.Serializer.MsgPackCli","1.0.0-preview-8.7",""
 "OpenServer.Client","1.0.0",""
 "OpenServer.Client","1.0.1",""
 "OpenServer.Client","1.0.2",""
