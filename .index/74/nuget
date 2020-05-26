@@ -2437,6 +2437,7 @@
 "EasyAbp.Abp.EventBus.CAP.SqlServer","2.5.1",""
 "EasyAbp.Abp.EventBus.CAP.SqlServer","2.5.2",""
 "EasyAbp.Abp.EventBus.CAP.SqlServer","2.7.0",""
+"EasyAbp.Abp.EventBus.CAP.SqlServer","2.8.0",""
 "EasyCrud.EF","0.3.5561.38439",""
 "EasyCrud.EF","0.3.5563.965",""
 "EasyCrud.EF","0.3.5633.561",""

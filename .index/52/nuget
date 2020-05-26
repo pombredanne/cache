@@ -811,6 +811,7 @@
 "AsNum.Throttle.Redis","1.0.1",""
 "AsNum.Throttle.Redis","1.0.1.1",""
 "AsNum.Throttle.Redis","1.0.2",""
+"AsNum.Throttle.Redis","1.0.3",""
 "AspSqlProceduresUpdater","1.0.0",""
 "AspectCore.Lite.Autofac","1.0.0-rc-1026",""
 "AspectCore.Lite.Autofac","1.0.0-rc-1027",""
