@@ -303,6 +303,7 @@
 "AWSSDK.SageMakerRuntime","3.3.101.79",""
 "AWSSDK.SageMakerRuntime","3.3.101.8",""
 "AWSSDK.SageMakerRuntime","3.3.101.80",""
+"AWSSDK.SageMakerRuntime","3.3.101.81",""
 "AWSSDK.SageMakerRuntime","3.3.101.9",""
 "AWSSDK.SageMakerRuntime","3.5.0-beta",""
 "AWSSDKCPP-CloudFormation.symbols","0.12.20100515.12",""

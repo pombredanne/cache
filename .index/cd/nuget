@@ -5964,6 +5964,7 @@
 "NuGet.SolutionRestoreManager.Interop","5.6.0-preview.3.6558+863fc6bb184cccfe12caa03bea91b0ddc48843da",""
 "NuGet.SolutionRestoreManager.Interop","5.7.0-preview.1.6592+4dbf16e68eabf507b9f156c801b1b7c3b0586e43",""
 "NuGetFunctionalTest_52f8e27d89b8412e8c6a87b17549a067","1.0.0",""
+"NuGetFunctionalTest_58b1f6cf7cfb43db98f2a7d29953b91f","1.0.0",""
 "NuGetFunctionalTest_636680486630080156","1.0.0-v636680486630080156",""
 "NuGetFunctionalTest_636680486630080156","1.0.0-v636680487500965137",""
 "NuGetFunctionalTest_636759316284055111","1.0.0-v636759316284055111",""
