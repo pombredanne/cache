@@ -6699,6 +6699,7 @@
 "Naos.Diagnostics.Serialization.Json","1.3.26",""
 "Naos.Diagnostics.Serialization.Json","1.3.27",""
 "Naos.Diagnostics.Serialization.Json","1.3.28",""
+"Naos.Diagnostics.Serialization.Json","1.3.29",""
 "Naos.Recipes.MessageBus.Hangfire.Console.Bootstrapper","1.0.100",""
 "Naos.Recipes.MessageBus.Hangfire.Console.Bootstrapper","1.0.101",""
 "Naos.Recipes.MessageBus.Hangfire.Console.Bootstrapper","1.0.102",""
