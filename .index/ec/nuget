@@ -2890,6 +2890,7 @@
 "Eto.Platform.Gtk3","2.5.0-rc.3",""
 "Eto.Platform.Gtk3","2.5.0-rc.4",""
 "Eto.Platform.Gtk3","2.5.0-rc.6",""
+"Eto.Platform.Gtk3","2.5.1",""
 "EventFlow.ReadStores.Elasticsearch","0.20.1274",""
 "EventFlow.ReadStores.Elasticsearch","0.21.1312",""
 "EventFlow.ReadStores.Elasticsearch","0.22.1393",""
