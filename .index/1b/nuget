@@ -32,6 +32,7 @@
 "AWF.Fabric.Base","2.4.6",""
 "AWF.Fabric.Base","2.4.7",""
 "AWF.Fabric.Base","2.4.8",""
+"AWF.Fabric.Base","2.5.0",""
 "AWSSDK.CloudWatchLogs","3.0.0-preview",""
 "AWSSDK.CloudWatchLogs","3.0.0.1-preview",""
 "AWSSDK.CloudWatchLogs","3.0.1-preview",""
