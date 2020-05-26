@@ -2455,6 +2455,8 @@
 "Cryptography.ECDSA.Secp256k1","1.0.1",""
 "CuiCommandParser","1.0.0",""
 "CustomApiLib","0.0.0",""
+"CustomApiLib","0.0.0.2",""
+"CustomApiLib","0.0.0.3",""
 "DAX.CIM.ContextManager","0.0.1",""
 "DC.Modal","1.0.0-preview-20190326-01",""
 "DD.CBU.Compute.Api.Client_netStd","1.0.0",""
