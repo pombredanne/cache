@@ -7090,6 +7090,7 @@
 "Microsoft.VisualStudio.Shared.VsCodeDebugProtocol","16.3.30820.2",""
 "Microsoft.VisualStudio.Shared.VsCodeDebugProtocol","16.5.40204.1",""
 "Microsoft.VisualStudio.Shared.VsCodeDebugProtocol","16.6.40406.1",""
+"Microsoft.VisualStudio.Shared.VsCodeDebugProtocol","16.7.40526.2",""
 "Microsoft.Web.RedisOutputCacheProvider.Unit.Tests","1.1.0",""
 "Microsoft.WindowsAPICodePack-Shell","1.1.0",""
 "Microsoft.WindowsServer.SystemInsights.Capabilities.AnomalyDetection.Latency","1.0.60",""
