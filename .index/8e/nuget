@@ -2148,6 +2148,7 @@
 "DN.Util.Application","1.0.2",""
 "DN.Util.Application","1.0.3",""
 "DP.EventStore.MongoDb","1.0.6",""
+"DW.SharpTools.Core","3.0.0",""
 "Dacs7","1.0.2",""
 "Dacs7","1.0.2-beta",""
 "Dacs7","1.0.2-beta2",""
