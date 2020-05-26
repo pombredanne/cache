@@ -564,6 +564,7 @@
 "Axm.Utilities","0.0.1",""
 "AyitechTestNuget","1.0.0",""
 "Az.Storage.AzureBlobStorage","1.0.1.15",""
+"Az.Storage.AzureBlobStorage","1.0.1.25",""
 "AzureBlobContainerSync","1.0.0",""
 "AzureBlobContainerSync","1.0.1",""
 "AzureKeyVaultUtility","1.0.0",""
