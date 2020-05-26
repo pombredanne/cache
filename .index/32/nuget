@@ -2623,6 +2623,7 @@
 "FSharpApiSearch","4.0.0",""
 "FSharpApiSearch","4.0.0-beta1",""
 "FSharpApiSearch","4.0.1",""
+"FaceRecognitionDotNet.CUDA102","1.3.0.1",""
 "FaceitClient","1.0.0",""
 "FacetFlow.Elasticsearch.N2","0.9.4-Preview",""
 "Faithlife.Tracing.AspNetMvc","1.0.0-beta1",""

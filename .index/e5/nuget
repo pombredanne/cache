@@ -6724,6 +6724,8 @@
 "Pulsus.Mvc","1.7.0-beta2",""
 "Pulumi.Pagerduty","0.0.1-alpha.1590486721+g04efd3e",""
 "Pulumi.Pagerduty","1.0.0",""
+"Pulumi.Pagerduty","1.0.1",""
+"Pulumi.Pagerduty","1.1.0-alpha.1590491028+g3d59b5a",""
 "QDARC.Queries.Formatter","1.0.0-alpha",""
 "QDARC.Queries.Formatter","1.0.1-alpha",""
 "QDARC.Queries.Formatter","1.0.3-alpha",""
