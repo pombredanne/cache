@@ -2633,6 +2633,7 @@
 "E2E.SemVer2StableMetadataUnlisted.200430.205545.8917933","1.0.0+metadata",""
 "E2E.SymbolsPackage.190531.013458.6793793","1.0.0",""
 "E2E.SymbolsPackage.200109.001632.9581347","1.0.0",""
+"E2E.SymbolsPackage.200526.203313.1396947","1.0.0",""
 "EF.Fake","0.2.0",""
 "EFCoreSecondLevelCacheInterceptor","1.0.0",""
 "EFCoreSecondLevelCacheInterceptor","1.1.0",""
