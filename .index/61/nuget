@@ -3656,6 +3656,7 @@
 "GraphQL.Client.LocalExecution","3.0.2",""
 "GraphQL.Client.LocalExecution","3.0.3",""
 "GraphQL.Client.LocalExecution","3.1.0",""
+"GraphQL.Client.LocalExecution","3.1.1",""
 "GraphQL.EntityFrameworkCore.Helpers","0.1.0",""
 "GraphQL.EntityFrameworkCore.Helpers","0.2.0",""
 "GraphQL.EntityFrameworkCore.Helpers","0.2.1",""
