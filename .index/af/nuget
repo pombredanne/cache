@@ -9776,6 +9776,7 @@
 "dotnet-supported-packages","1.0.0",""
 "dotnet-supported-packages","1.0.0-alpha-0002",""
 "dotnet-supported-packages","1.0.0-alpha-0009",""
+"dotnetCampus.WriteAppVersionTask","1.1.315",""
 "dve.CustomBuildServer","2.0.0",""
 "ee.itcollege.marcse.DAL.Base.EF","1.0.0",""
 "ee.itcollege.masirg.Contracts.Base","1.0.1",""
