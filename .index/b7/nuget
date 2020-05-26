@@ -6177,6 +6177,7 @@
 "NetCoreStack.Common","1.0.0-rc-93",""
 "NetCoreStack.Common","1.0.0-rc-97",""
 "NetGrpcGen","0.1.0",""
+"NetGrpcGen","0.2.0-alpha.2",""
 "NetModular.Module.PersonnelFiles.Infrastructure","1.4.1",""
 "NetModular.Module.PersonnelFiles.Infrastructure","1.4.2",""
 "NetModular.Module.PersonnelFiles.Infrastructure","1.5.0",""
