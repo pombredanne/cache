@@ -13370,6 +13370,7 @@
 "runtime.linux-arm64.runtime.native.System.IO.Ports","5.0.0-preview.2.20160.6",""
 "runtime.linux-arm64.runtime.native.System.IO.Ports","5.0.0-preview.3.20214.6",""
 "runtime.linux-arm64.runtime.native.System.IO.Ports","5.0.0-preview.4.20251.6",""
+"securirolecomparision","1.0.0",""
 "shensigzs.Utilities","1.0.0.8",""
 "simplDeploy.Integration","1.0.0",""
 "simplDeploy.Integration","1.0.1",""
