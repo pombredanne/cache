@@ -2234,6 +2234,7 @@
 "Envoc.Core.Mapping.Automapper","7.0.3",""
 "Envoc.Core.Mapping.Automapper","7.0.4",""
 "Envoc.Core.Mapping.Automapper","7.9.4",""
+"Epcon.PostgreSql","1.0.0",""
 "Esri.ArcGISRuntime.Xamarin.iOS","100.0.0",""
 "Esri.ArcGISRuntime.Xamarin.iOS","100.1.0",""
 "Esri.ArcGISRuntime.Xamarin.iOS","100.2.0",""

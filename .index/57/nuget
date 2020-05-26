@@ -3009,6 +3009,7 @@
 "Enyim.Memcached2.Extensions.AspNetCore","0.6.4+master.47fccfe",""
 "Enyim.Memcached2.Extensions.AspNetCore","0.6.7+master.47fccfe",""
 "Enyim.Memcached2.Extensions.AspNetCore","0.6.8+master.8395a34",""
+"Epcon.Centrifugo","1.0.0",""
 "Erden.EventSourcing.Targets.EventStore","0.0.1-alpha",""
 "Erden.EventSourcing.Targets.EventStore","0.0.2-alpha",""
 "Erden.EventSourcing.Targets.EventStore","0.0.3-alpha",""
