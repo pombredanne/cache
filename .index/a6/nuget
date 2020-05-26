@@ -8813,6 +8813,8 @@
 "Serilog.Builder","1.0.7",""
 "Serilog.Builder","1.0.8",""
 "Serilog.Builder","1.0.9",""
+"Serilog.Builder","1.1.0",""
+"Serilog.Builder","1.1.0-preview.5",""
 "Serilog.Sinks.ContextRollingFile","0.1.0",""
 "Serilog.Sinks.ContextRollingFile","0.1.1",""
 "Serilog.Sinks.Tls","1.0.0",""
