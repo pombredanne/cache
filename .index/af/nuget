@@ -4023,6 +4023,7 @@
 "Microsoft.Language.Xml","1.1.2",""
 "Microsoft.Language.Xml","1.1.20",""
 "Microsoft.ML.CodeGenerator","0.16.0",""
+"Microsoft.ML.CodeGenerator","0.17.0",""
 "Microsoft.ML.CodeGenerator","0.17.0-preview",""
 "Microsoft.ML.CodeGenerator","0.17.0-preview2",""
 "Microsoft.NETCore.Jit","0.0.1-alpha",""

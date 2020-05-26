@@ -5273,6 +5273,7 @@
 "Microsoft.ML.LightGbm","1.4.0",""
 "Microsoft.ML.LightGbm","1.4.0-preview",""
 "Microsoft.ML.LightGbm","1.4.0-preview2",""
+"Microsoft.ML.LightGbm","1.5.0",""
 "Microsoft.ML.LightGbm","1.5.0-preview",""
 "Microsoft.ML.LightGbm","1.5.0-preview2",""
 "Microsoft.Orleans.Transactions.DynamoDB","2.0.0",""
