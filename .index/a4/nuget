@@ -2550,6 +2550,7 @@
 "EInfrastructure.Core.Redis","2.0.1-beta-027",""
 "EInfrastructure.Core.Redis","2.1.0",""
 "EInfrastructure.Core.Redis","2.1.1",""
+"EInfrastructure.Core.Redis","2.2.0",""
 "EPAS.Enum","1.0.2",""
 "EPAS.Enum","1.0.3",""
 "EPPlus.Core.Signed","1.5.4",""

@@ -5047,6 +5047,7 @@
 "MarshmallowPie.Processing.AzureServiceBus","11.0.0-preview.97",""
 "MarshmallowPie.Processing.AzureServiceBus","11.0.0-preview.98",""
 "MarshmallowPie.Processing.AzureServiceBus","11.0.0-preview.99",""
+"MassTransit.KafkaIntegration","7.0.0-develop.2723+sha.ddf6144",""
 "Matrix.Framework","1.0.0",""
 "Matt.Math.Stats.Wilson","1.0.0",""
 "Matt.Math.Stats.Wilson","1.0.1",""
