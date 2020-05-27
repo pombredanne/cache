@@ -5146,6 +5146,7 @@
 "MD.Core.DynamoDb","0.1.0",""
 "MMLib.Ocelot.Provider.AppConfiguration","0.0.1",""
 "MMLib.Ocelot.Provider.AppConfiguration","1.0.0",""
+"MMLib.Ocelot.Provider.AppConfiguration","1.1.0",""
 "MSBuildWithStyleCop","1.0.0",""
 "MSBuildWithStyleCop","1.0.1",""
 "MSPack.Processor.Anootation","0.0.0",""
