@@ -1229,6 +1229,7 @@
 "Akka.Persistence.Query.Sql","1.4.4",""
 "Akka.Persistence.Query.Sql","1.4.5",""
 "Akka.Persistence.Query.Sql","1.4.6",""
+"Akka.Persistence.Query.Sql","1.4.7",""
 "Almego.Open.DefaultValueSupplier","1.0.0",""
 "Altcoiner.Client","1.0.0",""
 "Alternet.Studio.Syntax.Parsers.Clangd","6.0.0",""
