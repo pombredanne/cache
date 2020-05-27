@@ -2612,6 +2612,7 @@
 "EInfrastructure.Core.AutoFac.MySql.AspNetCore","2.0.1-beta-027",""
 "EInfrastructure.Core.AutoFac.MySql.AspNetCore","2.1.0",""
 "EInfrastructure.Core.AutoFac.MySql.AspNetCore","2.1.1",""
+"EInfrastructure.Core.AutoFac.MySql.AspNetCore","2.2.0",""
 "EMZAM.DevTools.EmzApiClient","1.0.0",""
 "EMZAM.DevTools.EmzApiClient","1.0.1",""
 "EasyDox.Morpher","1.0.10",""
