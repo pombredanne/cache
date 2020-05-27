@@ -8370,6 +8370,7 @@
 "Pulumi.Gcp","3.7.0-alpha.1590415808+g2fca23e3",""
 "Pulumi.Gcp","3.7.0-alpha.1590504506+ga8d2f014",""
 "Pulumi.Gcp","3.7.0-alpha.1590508626+gf130bf20",""
+"Pulumi.Gcp","3.7.0-alpha.1590583231+g8b6886ee",""
 "Pulumi.Rabbitmq","0.0.1-preview-alpha.1575637991+g14ce5fd",""
 "Pulumi.Rabbitmq","1.0.0-preview",""
 "Pulumi.Rabbitmq","1.1.0-preview-alpha.1576354510+gb168589",""

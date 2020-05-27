@@ -7897,6 +7897,7 @@
 "NuGetGallery.FunctionalTests.SearchWindows8CuratedFeed","636723.919033.791495",""
 "NuGetGallery.FunctionalTests.SearchWindows8CuratedFeed","636725.442136.798052",""
 "NugetDeployement","2.0.0",""
+"NugetTestPkgLibrary.AdditionTest","1.0.0-alpha",""
 "Nukepayload2.Diagnostics.InputInjection","1.0.0-rc1",""
 "Nukepayload2.Diagnostics.InputInjection","1.0.0-rc2",""
 "Nukepayload2.Diagnostics.InputInjection","1.1.2-rc3",""
