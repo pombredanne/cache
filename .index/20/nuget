@@ -1351,6 +1351,7 @@
 "Amazon.CDK.AWS.ElasticLoadBalancingV2.Targets","1.4.0-devpreview",""
 "Amazon.CDK.AWS.ElasticLoadBalancingV2.Targets","1.40.0",""
 "Amazon.CDK.AWS.ElasticLoadBalancingV2.Targets","1.41.0",""
+"Amazon.CDK.AWS.ElasticLoadBalancingV2.Targets","1.42.0",""
 "Amazon.CDK.AWS.ElasticLoadBalancingV2.Targets","1.6.0-devpreview",""
 "Amazon.CDK.AWS.ElasticLoadBalancingV2.Targets","1.6.1-devpreview",""
 "Amazon.CDK.AWS.ElasticLoadBalancingV2.Targets","1.7.0-devpreview",""
