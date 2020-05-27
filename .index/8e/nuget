@@ -2236,6 +2236,7 @@
 "Diamond.Patterns.Repository.EntityFramework","2.9.1",""
 "Diamond.Patterns.Repository.EntityFrameworkCore","2.12.0",""
 "Diamond.Patterns.Repository.EntityFrameworkCore","2.13.0",""
+"Diamond.Patterns.Repository.EntityFrameworkCore","2.14.0",""
 "Ding.Schedulers","1.0.0-preview-20190328-01",""
 "Ding.Schedulers","1.0.0-preview-20190331-01",""
 "Ding.Schedulers","1.0.0-preview-20190331-02",""

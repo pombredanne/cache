@@ -11746,6 +11746,7 @@
 "cloudscribe.SimpleContent.Syndication","5.0.0",""
 "cloudscribe.SimpleContent.Syndication","5.0.0-preview20190902",""
 "cloudscribe.SimpleContent.Syndication","5.0.1",""
+"com.karkal.distributed.Contracts.DAL.Base","1.0.0",""
 "com.zhusmelb.BaseUtil","0.1.0-alpha.1",""
 "com.zhusmelb.BaseUtil","0.1.0-beta.1",""
 "com.zhusmelb.BaseUtil","0.2.0-alpha.1",""
