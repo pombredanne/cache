@@ -50,8 +50,8 @@ class NPM
       end
     end
 
-    system("rm _all_docs") if File.exist?("_all_docs")
-    exit 1 unless system('wget https://replicate.npmjs.com/registry/_all_docs')
+    File.unlink("_all_docs") if File.exist?("_all_docs")
+    exit 1 unless system('wget --quiet https://replicate.npmjs.com/registry/_all_docs')
 
     command = Command.new
     json = Oj.load(IO.read('_all_docs'))
@@ -65,12 +65,12 @@ class NPM
             queue.enq(name: data['name'], version: data['version'], license: data.dig('license', 'type') || data['license'])
           end
         elsif response.code == 0
-          puts response.return_message
+          STDERR.puts response.return_message
         else
-          puts "ERROR: #{response.code} #{key}"
+          STDERR.puts "ERROR: #{response.code} #{key}"
         end
       rescue
-        puts "ERROR: https://replicate.npmjs.com/#{key}/"
+        STDERR.puts "ERROR: https://replicate.npmjs.com/#{key}/"
       end
     end
     command.start!
