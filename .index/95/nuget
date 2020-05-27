@@ -11052,6 +11052,7 @@
 "XCore.DeferredTasks","1.1.2-beta",""
 "XCore.DeferredTasks","1.1.3-beta",""
 "XPike.Configuration.Caching","1.1.3",""
+"XUCore.NetCore.AccessControl","1.0.0",""
 "XUtils","1.0.0",""
 "XUtils","1.0.0.1",""
 "Xam.Plugins.Android.ExoPlayer.Cast","2.11.3",""
