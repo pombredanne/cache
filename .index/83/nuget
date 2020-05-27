@@ -3991,6 +3991,7 @@
 "E2E.SemVer2StableMetadataUnlisted.190826.173733.4787964","1.0.0+metadata",""
 "E2E.SymbolsPackage.191113.212625.5162611","1.0.0",""
 "E2E.SymbolsPackage.200326.170905.3638928","1.0.0",""
+"E2E.SymbolsPackage.200527.215708.9968054","1.0.0",""
 "ECS.Annotations","0.1.0",""
 "EFFC.Frame.Net.Resource.DB2","1.1.1",""
 "EFFC.Frame.Net.Resource.MySQL","1.0.1",""
