@@ -4322,6 +4322,7 @@
 "ImpruvIT.DataValidation.MSTest","0.2.1",""
 "In.Infrastructure.Cqrs.Command.Nats","1.0.2",""
 "In.Infrastructure.Cqrs.Command.Nats","1.0.3",""
+"In.Infrastructure.Cqrs.Command.Nats","1.0.4",""
 "InJaEE","1.0.1",""
 "Innofactor.SuomiFiIdentificationClient","1.0.0",""
 "Innofactor.SuomiFiIdentificationClient","1.10.0",""
