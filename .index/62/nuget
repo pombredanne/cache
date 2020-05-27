@@ -1080,6 +1080,7 @@
 "AspNetCoreCompression","1.0.0",""
 "AspNetCoreCompression","1.0.1",""
 "AspNetRoutingFeatureToggle","0.1.1",""
+"Atlas.OrderQuilt.Client","1.0.0",""
 "Auth0-WCF-Service-JWT","0.9.4",""
 "Auth0-WCF-Service-JWT","0.9.5",""
 "Auth0-WCF-Service-JWT","0.9.6",""
