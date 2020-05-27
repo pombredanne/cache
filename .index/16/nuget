@@ -710,6 +710,7 @@
 "Akka.Streams.Kafka","1.0.0-beta2",""
 "Akka.Streams.Kafka","1.0.0-rc1",""
 "Akka.Streams.Kafka","1.0.0-rc2",""
+"Akka.Streams.Kafka","1.0.1",""
 "Albelli.Extensions.Configuration.AmazonEC2ParameterStore","0.1.0-a-pr-1-merge000-0010",""
 "Albelli.Extensions.Configuration.AmazonEC2ParameterStore","0.1.0-a-pr-3-merge000-0003",""
 "Albelli.Extensions.Configuration.AmazonEC2ParameterStore","0.1.0-a-pr-3-merge000-0004",""

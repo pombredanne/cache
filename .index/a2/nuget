@@ -4228,6 +4228,7 @@
 "GS.BuildingBlocks.Queries.Bus.InMemory","2.0.1",""
 "GS.BuildingBlocks.Queries.Bus.InMemory","2.0.5",""
 "GSS.APIs.SecurityProvider","1.0.0",""
+"GSS.APIs.SecurityProvider","4.0.3",""
 "GameArchitect.Tasks.CodeGeneration.CSharp","1.0.0",""
 "GameArchitect.Tasks.CodeGeneration.CSharp","1.0.1",""
 "GameArchitect.Tasks.CodeGeneration.CSharp","1.1.6",""
