@@ -7856,6 +7856,7 @@
 "Ofl.Configuration.DependencyInjection.Autofac","2.0.7",""
 "Ofl.Configuration.DependencyInjection.Autofac","2.0.8",""
 "Okra.Data","0.9.7",""
+"Onion.AspNetCore","0.0.1",""
 "OpenCV.Win.Photo","310.5.7-dev",""
 "OpenCV.Win.Photo","310.6.0",""
 "OpenCV.Win.Photo","310.6.1",""
