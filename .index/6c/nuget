@@ -10063,6 +10063,7 @@
 "ee.itcollege.japent.Contracts.Base","1.0.0",""
 "ee.itcollege.japent.Contracts.Base","1.0.3",""
 "ee.itcollege.prpost.BLL.Base.Contracts","1.0.0",""
+"ee.itcollege.rulind.Contracts.BLL.Base","1.0.0",""
 "ee.itcollege.wistra.distributed.Contracts.BLL.Base","1.0.0",""
 "error-stack-parser.TypeScript.DefinitelyTyped","0.0.1",""
 "flightplan.TypeScript.DefinitelyTyped","0.0.1",""

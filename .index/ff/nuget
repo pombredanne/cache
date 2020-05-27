@@ -6792,6 +6792,7 @@
 "SSRD.IdentityUI.Account","2.0.0-alpha",""
 "SSRD.IdentityUI.Account","2.0.0-alpha2",""
 "SSRD.IdentityUI.Account","2.0.0-alpha3",""
+"SSRD.IdentityUI.Account","2.0.1",""
 "SSW.DataOnion.DependencyResolution.Autofac.EF6","1.0.0",""
 "SSW.DataOnion.DependencyResolution.Autofac.EF6","1.0.0-alpha-2",""
 "SSW.DataOnion.DependencyResolution.Autofac.EF6","1.0.0-alpha-3",""
