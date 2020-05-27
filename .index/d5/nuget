@@ -2870,6 +2870,7 @@
 "EventHub.Domain.Core","1.0.0",""
 "EventHub.Domain.Core","1.0.1",""
 "EventHub.Domain.Core","1.0.2",""
+"EventHub.Domain.Core","1.0.3",""
 "EventSourcing.Rebuild.Messages","1.0.0.19",""
 "EventSourcing.Rebuild.Messages","1.0.0.20",""
 "EventSourcing.Rebuild.Messages","1.0.0.21",""
