@@ -3859,6 +3859,8 @@
 "FastTracker.Transport.AliyunLog","0.0.9",""
 "FastTracker.Transport.AliyunLog","0.1.0",""
 "FastTracker.Transport.AliyunLog","0.1.1",""
+"FastTracker.Transport.AliyunLog","0.1.2",""
+"FastTracker.Transport.AliyunLog","0.1.3",""
 "Fate.Infrastructure.OcelotStore.RedisProvider","1.0.0",""
 "FazelMan.Core.EntityFrameworkCore","1.0.0",""
 "FengYun.QuartzServer.WebHost","1.0.1",""
