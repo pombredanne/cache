@@ -2901,6 +2901,7 @@
 "DynamicDataDisplayWpf","0.4.0",""
 "DynamicVNET.Lib.AspNetCore","1.0.0-alpha",""
 "DynamicVNET.Lib.AspNetCore","1.0.1-alpha",""
+"Dynamicweb.Ecommerce.CheckoutHandlers.Adyen","1.0.0",""
 "Dynamicweb.Scheduling.PIM.EmailNotificationsAddIn","1.0.0",""
 "Dynamicweb.Scheduling.PIM.EmailNotificationsAddIn","1.0.1",""
 "Dynamicweb.Scheduling.PIM.EmailNotificationsAddIn","1.0.2",""
