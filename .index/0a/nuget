@@ -5421,6 +5421,7 @@
 "InfluxDB.Client.Core","1.8.0-dev.669",""
 "InfluxDB.Client.Core","1.8.0-dev.748",""
 "InfluxDB.Client.Core","1.9.0-dev.762",""
+"InfluxDB.Client.Core","1.9.0-dev.786",""
 "Infrastructure.Context","1.0.0",""
 "InlineRegularExpressionBuilder.DebugPackage","1.1.0",""
 "Intent.RoslynWeaver.Attributes","1.0.0",""
