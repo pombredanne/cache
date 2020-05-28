@@ -4476,6 +4476,7 @@
 "MassTransit.Interop.NServiceBus","7.0.0-develop.2724+sha.07b8b82",""
 "MassTransit.Interop.NServiceBus","7.0.0-develop.2731+sha.86d163c",""
 "MassTransit.Interop.NServiceBus","7.0.0-develop.2740+sha.35dc489",""
+"MassTransit.Interop.NServiceBus","7.0.0-develop.2741+sha.edffcab",""
 "MassiveDynamicProxyGenerator","1.0.0",""
 "MassiveDynamicProxyGenerator","1.1.0",""
 "MassiveDynamicProxyGenerator","1.2.0",""
