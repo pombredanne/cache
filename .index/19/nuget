@@ -5594,6 +5594,7 @@
 "MicronOptics.Hyperion.Communication","2.0.0",""
 "MicronOptics.Hyperion.Communication","2.0.1",""
 "MicronOptics.Hyperion.Communication","2.1.0",""
+"MicronOptics.Hyperion.Communication","2.2.0",""
 "Microsoft.ApplicationInsights.Telemetry.Web","0.8.0-build10578",""
 "Microsoft.AspNet.Authentication.JwtBearer","1.0.0-beta8",""
 "Microsoft.AspNet.Authentication.JwtBearer","1.0.0-rc1-final",""
