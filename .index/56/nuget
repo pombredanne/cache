@@ -9979,6 +9979,8 @@
 "RabbitMQ.Client","6.0.0-rc1",""
 "RabbitMQ.Client","6.0.1-alpha.0.2",""
 "RabbitMQ.Client","6.1.0-rc.1",""
+"RabbitMQ.Client","6.1.0-rc.1.12",""
+"RabbitMQ.Client","6.1.0-rc.2",""
 "RadleR.Requests.Abstractions","1.0.1-CI-20190926-145110",""
 "RadleR.Requests.Abstractions","1.0.1-CI-20191002-181253",""
 "RadleR.Requests.Abstractions","1.0.1-CI-20191002-181605",""

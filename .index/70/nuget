@@ -10689,6 +10689,7 @@
 "rk.data.npgsql","2.2.0",""
 "rk.serial","1.0.0",""
 "rubberband-sharp","1.0.0",""
+"runid.core","2.0.1",""
 "runtime.ios.7-arm64.Microsoft.NETCore.Runtime.Mono","5.0.0-preview.3.20214.6",""
 "runtime.linux.System.Net.Sockets","4.1.0-beta-23409",""
 "runtime.linux.System.Net.Sockets","4.1.0-beta-23516",""
