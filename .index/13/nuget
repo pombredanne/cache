@@ -2772,6 +2772,7 @@
 "DSFramework.Serilog.Sink.MongoDB","0.5.4",""
 "DX.Data.Xpo.Identity.Persistent","17.2.3.1",""
 "DalSoft.RestClient.Testing","1.0.0",""
+"DalSoft.RestClient.Testing","1.0.1",""
 "DanTest","1.0.0",""
 "DanTest","1.0.1",""
 "Dangr.Deploy","0.1.0",""
