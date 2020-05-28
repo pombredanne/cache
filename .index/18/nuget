@@ -6000,6 +6000,7 @@
 "Microsoft.Bot.Builder.Adapters.Slack","4.8.0-rc0",""
 "Microsoft.Bot.Builder.Adapters.Slack","4.9.0-preview",""
 "Microsoft.Bot.Builder.Adapters.Slack","4.9.1-preview",""
+"Microsoft.Bot.Builder.Adapters.Slack","4.9.2-preview",""
 "Microsoft.Bot.Builder.CognitiveServices","1.0.0",""
 "Microsoft.Bot.Builder.CognitiveServices","1.0.1",""
 "Microsoft.Bot.Builder.CognitiveServices","1.0.2",""

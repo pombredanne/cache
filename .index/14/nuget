@@ -4374,6 +4374,7 @@
 "Microsoft.Bot.Builder.Adapters.Twilio","4.8.0-rc0",""
 "Microsoft.Bot.Builder.Adapters.Twilio","4.9.0-preview",""
 "Microsoft.Bot.Builder.Adapters.Twilio","4.9.1-preview",""
+"Microsoft.Bot.Builder.Adapters.Twilio","4.9.2-preview",""
 "Microsoft.CST.AttackSurfaceAnalyzer","2.2.10-beta-g106685ca9a",""
 "Microsoft.CST.AttackSurfaceAnalyzer","2.2.11-beta-g8b0ce20c0e",""
 "Microsoft.CST.AttackSurfaceAnalyzer","2.2.12-beta-g9e5ae0a4c9",""

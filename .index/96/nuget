@@ -5295,6 +5295,7 @@
 "Microsoft.Bot.Builder.LanguageGeneration","4.8.0-rc0",""
 "Microsoft.Bot.Builder.LanguageGeneration","4.9.0",""
 "Microsoft.Bot.Builder.LanguageGeneration","4.9.1",""
+"Microsoft.Bot.Builder.LanguageGeneration","4.9.2",""
 "Microsoft.CodeAnalysis.CodeActions","0.6.4033103-beta",""
 "Microsoft.CodeAnalysis.CodeActions","0.7.4052301-beta",""
 "Microsoft.CodeAnalysis.CodeActions","0.7.4091001-CTP4",""
