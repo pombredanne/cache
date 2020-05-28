@@ -6100,6 +6100,7 @@
 "NetCoreKit.Template.Standard","0.1.96",""
 "NetCoreKit.Template.Standard","0.1.99",""
 "NetExtensions.Infra.SqlServer","1.0.0-preview.3.20181.2",""
+"NetExtensions.Infra.SqlServer","1.0.0-preview.4.20220.10",""
 "NetMQ.WebSockets","0.1.0-beta",""
 "NetMQ.WebSockets","0.2.0-beta",""
 "NetMQ.WebSockets","0.3.0-beta",""

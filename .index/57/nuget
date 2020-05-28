@@ -9743,6 +9743,7 @@
 "Touch.Serialization.Cryptography","1.0.2",""
 "Triodor.Cc4s.Utils","1.0.0",""
 "Tscc.Codec.MessagePack","1.0.0",""
+"Tscc.Codec.MessagePack","1.0.1",""
 "TwainDotNet.Win","1.0.0",""
 "Twilio.Monitor","1.0.0",""
 "Twilio.Monitor","1.1.0",""

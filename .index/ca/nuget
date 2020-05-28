@@ -2823,6 +2823,7 @@
 "Entitas.CodeGeneration.Plugins","1.13.0",""
 "EntityFrameworkCore.L.Extension","1.0.1",""
 "EntityFrameworkCore.L.Extension","1.0.2",""
+"Erick.AuthCenter.Frontend","2.0.0",""
 "ErrorUnit.Logger_log4net","1.0.0-rc",""
 "ErrorUnit.Logger_log4net","1.0.1-rc",""
 "ErrorUnit.Logger_log4net","1.0.2",""
