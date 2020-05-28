@@ -6610,6 +6610,8 @@
 "NetCoreKit.Template.Grpc.EfCore","0.1.130",""
 "NetExtensions.Extensions.SQLite.InMemoryDb","1.0.0",""
 "NetExtensions.Extensions.SQLite.InMemoryDb","1.0.1",""
+"NetExtensions.Extensions.SQLite.InMemoryDb","1.0.1-preview.4.20220.10",""
+"NetExtensions.Extensions.SQLite.InMemoryDb","1.0.2-preview.4.20220.10",""
 "NetModular.Lib.Host.Electron","1.4.1",""
 "NetModular.Lib.Host.Electron","1.4.2",""
 "NetModular.Lib.Host.Electron","1.4.3",""
