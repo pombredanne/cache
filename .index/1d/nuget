@@ -586,6 +586,7 @@
 "App.Metrics.Reporting.Graphite","4.0.0-preview1.0.7",""
 "App.Metrics.Reporting.Graphite","4.0.0-preview1.0.9",""
 "App.Metrics.Reporting.Graphite","4.1.0-preview.0.15",""
+"App.Metrics.Reporting.Graphite","4.1.0-preview.0.17",""
 "AppFx.BZ","1.0.0.157",""
 "AppFx.BZ","1.0.0.196",""
 "AppLabs.EntityFramework.Base","1.0.0",""
