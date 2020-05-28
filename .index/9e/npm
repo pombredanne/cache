@@ -3677,6 +3677,7 @@
 "@creditkarma/thrift-client-timing-filter","0.15.2",""
 "@creditkarma/thrift-client-timing-filter","0.15.3",""
 "@creditkarma/thrift-client-timing-filter","0.16.0",""
+"@creditkarma/thrift-client-timing-filter","0.16.1",""
 "@croquet/react","0.1.0",""
 "@croquet/react","0.1.0-lerna.3",""
 "@croquet/react","0.1.1",""
