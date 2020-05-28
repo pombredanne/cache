@@ -7434,6 +7434,7 @@
 "SenseNet.Security.Messaging.Msmq","2.3.0",""
 "SenseNet.Security.Messaging.Msmq","2.4.0",""
 "SenseNet.Security.Messaging.Msmq","2.5.0",""
+"SereneApi.DependencyInjection","1.0.3.1-alpha",""
 "SerializerDotNet","1.0.0",""
 "SerializerDotNet","1.0.1",""
 "SerializerDotNet","1.0.2",""
