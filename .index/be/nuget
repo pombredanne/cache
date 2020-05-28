@@ -1522,6 +1522,7 @@
 "Ark.Tools.FtpClient.SftpClient","2.3.1-beta03",""
 "Ark.Tools.FtpClient.SftpClient","2.3.2",""
 "Ark.Tools.FtpClient.SftpClient","2.4.0",""
+"Ark.Tools.FtpClient.SftpClient","2.5.0-beta01",""
 "ArmanCms.Domain","1.0.0",""
 "ArrangeDependencies.Core","1.0.0",""
 "ArrayOfBytes.OAuth.Client","1.0.0",""
