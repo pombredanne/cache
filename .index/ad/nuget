@@ -538,6 +538,8 @@
 "AWSSDKCPP-MobileAnalytics.symbols","0.12.20140605.12",""
 "Abb.CqrsEs.AspNetCore","1.10.0",""
 "Abb.CqrsEs.AspNetCore","1.10.0-alpha0002",""
+"Abb.CqrsEs.AspNetCore","1.11.0",""
+"Abb.CqrsEs.AspNetCore","1.11.0-alpha0001",""
 "ActiveScriptEngine","1.0.0",""
 "ActiveScriptEngine","1.0.1",""
 "ActiveScriptEngine","1.1.0",""
