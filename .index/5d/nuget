@@ -2941,6 +2941,7 @@
 "Fake.Documentation.DocFx","5.9.1",""
 "Fake.Documentation.DocFx","5.9.2",""
 "Fake.Documentation.DocFx","5.9.3",""
+"FangPage.Data.SqlServer","1.0.0",""
 "FeatureToggle.RavenDB","2.0.0",""
 "FeatureToggle.RavenDB","2.0.1",""
 "FeatureToggle.RavenDB","2.2.0",""

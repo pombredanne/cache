@@ -935,6 +935,8 @@
 "Bastion.Senders.SmsSender.Abstractions","3.1.9",""
 "Bastion.Senders.SmsSender.Abstractions","3.2.0-alpha",""
 "Bastion.Senders.SmsSender.Abstractions","3.2.0-beta",""
+"Bastion.Senders.SmsSender.Abstractions","3.2.0-beta.1",""
+"Bastion.Senders.SmsSender.Abstractions","3.2.0-beta.2",""
 "Bau.AssemblyInfo","0.0.0-placeholder",""
 "BclContrib-Extend","0.1.0",""
 "BclContrib-Extend","0.1.1",""

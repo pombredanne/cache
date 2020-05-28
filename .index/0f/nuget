@@ -1563,6 +1563,8 @@
 "Bastion.Messages","3.1.9",""
 "Bastion.Messages","3.2.0-alpha",""
 "Bastion.Messages","3.2.0-beta",""
+"Bastion.Messages","3.2.0-beta.1",""
+"Bastion.Messages","3.2.0-beta.2",""
 "Bastion.PlaidClient","4.0.0",""
 "Bastion.PlaidClient","4.0.1",""
 "BatchProcessor.AWS.DynamoDB.DataStore","1.0.0",""

@@ -915,6 +915,8 @@
 "Basic.Logger","1.0.6",""
 "Bastion.Senders.Abstractions","3.2.0-alpha",""
 "Bastion.Senders.Abstractions","3.2.0-beta",""
+"Bastion.Senders.Abstractions","3.2.0-beta.1",""
+"Bastion.Senders.Abstractions","3.2.0-beta.2",""
 "BatchDI.AspNetCore","1.1.0",""
 "BatchDI.AspNetCore","1.2.0",""
 "BatchDI.AspNetCore","1.2.2",""

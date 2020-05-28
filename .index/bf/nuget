@@ -1042,6 +1042,8 @@
 "Bastion.Senders.EmailSender.Abstractions","3.1.9",""
 "Bastion.Senders.EmailSender.Abstractions","3.2.0-alpha",""
 "Bastion.Senders.EmailSender.Abstractions","3.2.0-beta",""
+"Bastion.Senders.EmailSender.Abstractions","3.2.0-beta.1",""
+"Bastion.Senders.EmailSender.Abstractions","3.2.0-beta.2",""
 "Be.Vlaanderen.Basisregisters.StreetNameRegistry.Projector","2.8.9",""
 "BeYourMarket","1.0.0",""
 "BeYourMarket","1.0.102",""
