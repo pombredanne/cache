@@ -9222,6 +9222,7 @@
 "Vendr.Core.Web","1.1.2",""
 "Vendr.Core.Web","1.1.3",""
 "Vendr.Core.Web","1.1.4",""
+"Vendr.Core.Web","1.2.0",""
 "VerifyKeyReturns400IfScopeNotMet.636627895471104476","1.0.0",""
 "VerifyPackageKeySupportsFullAndTempApiKeys.636313396183831772","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636942444224856744","1.0.0",""

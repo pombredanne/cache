@@ -2974,6 +2974,7 @@
 "ERabbitMQ","20.8.1.1",""
 "ET.Bullet","1.0.0.7",""
 "ET.Bullet","1.0.0.8",""
+"Eastpoint.Email.SendGrid","3.0.6",""
 "EasyAbp.SharedResources.HttpApi.Client","0.0.1",""
 "EasyAbp.SharedResources.HttpApi.Client","0.0.2",""
 "EasyAbp.SharedResources.HttpApi.Client","0.0.3",""
