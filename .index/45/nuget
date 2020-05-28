@@ -7661,6 +7661,7 @@
 "SleetExe","3.0.7+git.cca830f",""
 "SleetExe","3.1.11+git.d19f2ea",""
 "SleetExe","3.1.8+git.0c22077",""
+"Slug.Hasher","1.0.0",""
 "SmartConfig.DataStores.SQLite","5.0.0-beta1",""
 "SmartConfig.DataStores.SQLite","5.0.1-beta",""
 "SmartConfig.DataStores.SQLite","5.0.2",""
