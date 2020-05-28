@@ -487,6 +487,7 @@
 "App.Metrics.AspNetCore.Endpoints","4.0.0-preview1.0.7",""
 "App.Metrics.AspNetCore.Endpoints","4.0.0-preview1.0.9",""
 "App.Metrics.AspNetCore.Endpoints","4.1.0-preview.0.15",""
+"App.Metrics.AspNetCore.Endpoints","4.1.0-preview.0.17",""
 "Archetype.Courier","1.12.2",""
 "Archetype.Courier","1.12.2.1",""
 "Archetype.Courier","1.12.3",""
