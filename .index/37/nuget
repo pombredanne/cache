@@ -1356,6 +1356,7 @@
 "Abp.Modules.Core.Infrastructure.EntityFramework","0.3.0.1",""
 "Abp.Modules.Core.Infrastructure.EntityFramework","0.3.1.2",""
 "Abp.Modules.Core.Infrastructure.EntityFramework","0.3.2",""
+"AbsolutePublicAPI","2.0.0",""
 "Action98.DotNetCore","1.0.0",""
 "Action98.DotNetCore","1.0.1",""
 "Action98.DotNetCore","1.0.2",""

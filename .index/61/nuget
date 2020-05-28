@@ -5534,6 +5534,7 @@
 "Microsoft.Bot.Builder.ApplicationInsights","4.8.0",""
 "Microsoft.Bot.Builder.ApplicationInsights","4.9.0",""
 "Microsoft.Bot.Builder.ApplicationInsights","4.9.1",""
+"Microsoft.Bot.Builder.ApplicationInsights","4.9.2",""
 "Microsoft.Build.NoTargets","1.0.106-g3460688510",""
 "Microsoft.Build.NoTargets","1.0.110",""
 "Microsoft.Build.NoTargets","1.0.12",""

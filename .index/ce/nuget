@@ -6799,6 +6799,7 @@
 "Microsoft.Bot.Builder.Dialogs","4.8.0",""
 "Microsoft.Bot.Builder.Dialogs","4.9.0",""
 "Microsoft.Bot.Builder.Dialogs","4.9.1",""
+"Microsoft.Bot.Builder.Dialogs","4.9.2",""
 "Microsoft.EntityFrameworkCore.LazyLoading","1.1.1",""
 "Microsoft.EntityFrameworkCore.LazyLoading","1.1.1-beta1",""
 "Microsoft.EntityFrameworkCore.LazyLoading","1.1.1-beta2",""
