@@ -2767,6 +2767,7 @@
 "@atomist/sdm-pack-lifecycle-bitbucket","0.2.0-master.20190821142904","Apache-2.0"
 "@atomist/sdm-pack-lifecycle-bitbucket","0.2.0-master.20190910074409","Apache-2.0"
 "@atomist/sdm-pack-lifecycle-bitbucket","0.2.0-master.20190916023504","Apache-2.0"
+"@aurorabp/simplealertcomponent","0.1.0",""
 "@authereum/ascii","0.0.1-beta.0","MIT"
 "@authereum/ascii","0.0.1-beta.1","MIT"
 "@authereum/ascii","0.0.1-beta.2","MIT"
