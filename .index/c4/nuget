@@ -8286,6 +8286,7 @@
 "SeleniumHelpers.Het.Cak","1.0.7",""
 "SenseNet.MongoDbBlobStorage","7.1.1",""
 "SenseNet.MongoDbBlobStorage","7.2.0",""
+"SereneApi.Extras","0.1.1.1",""
 "Serilog.Sinks.AzureDocumentDB","1.4.155",""
 "Serilog.Sinks.AzureDocumentDB","1.4.168",""
 "Serilog.Sinks.AzureDocumentDB","1.4.182",""
