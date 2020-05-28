@@ -4873,6 +4873,8 @@
 "Kraken.Core.Windows","4.7.0.8",""
 "Kraken.Core.Windows","4.7.0.9",""
 "Krypton.Docking.Experimental","5.500.2003",""
+"KubernetesDotnetDiagnostics","0.1.0-rc.1+584c1010",""
+"KubernetesDotnetDiagnostics","0.1.0-rc.2+05605afe",""
 "LAN.Core.DependencyInjection.SimpleInjector","1.2.4",""
 "LAN.Core.DependencyInjection.SimpleInjector","1.2.7",""
 "LAN.Core.DependencyInjection.SimpleInjector","1.3.0",""

@@ -5691,6 +5691,8 @@
 "KryptonToolkitSuite5450RibbonModule","5.450.818",""
 "KryptonToolkitSuite5450RibbonModule","5.450.828",""
 "KryptonToolkitSuite5450RibbonModule","5.450.850",""
+"KubernetesSecretDecode","0.1.0-rc.4+f32d74b1",""
+"KubernetesSecretDecode","0.1.0-rc.5+db417252",""
 "Kugar.Core.Log.ExceptionlessFactory","1.0.1",""
 "Kugar.Core.Log.ExceptionlessFactory","1.0.2",""
 "LBPLibrary","1.0.1",""
