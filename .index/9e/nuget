@@ -10031,6 +10031,7 @@
 "VerifyKeyReturns400IfScopeNotMet.636572555740658096","1.0.0",""
 "VerifyPackageKey_Returns404ForMissingPackage.636573537519664875","1.0.0",""
 "ViennaNET.Diagnostic","1.0.0",""
+"ViennaNET.Diagnostic","1.0.1.115",""
 "ViennaNET.Diagnostic","1.0.1.76",""
 "ViennaNET.Diagnostic","1.0.1.79",""
 "VineClient","1.0.3",""

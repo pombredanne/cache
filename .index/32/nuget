@@ -8673,6 +8673,7 @@
 "VerifyKeyReturns400IfScopeNotMet.636778283309707042","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636960547390353135","1.0.0",""
 "ViennaNET.HttpClient","1.0.0",""
+"ViennaNET.HttpClient","1.0.1.115",""
 "ViennaNET.HttpClient","1.0.1.76",""
 "ViennaNET.HttpClient","1.0.1.79",""
 "Vintasoft.Imaging.Annotation.Dicom","1.4.11.1",""

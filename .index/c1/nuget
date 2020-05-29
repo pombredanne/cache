@@ -11060,6 +11060,7 @@
 "VT.Lib.MongoDB","0.1.0",""
 "VerifyKeyReturns400IfScopeNotMet.636723918916456894","1.0.0",""
 "ViennaNET.WebApi.Configurators.HttpClients.Jwt","1.0.0",""
+"ViennaNET.WebApi.Configurators.HttpClients.Jwt","1.0.1.115",""
 "ViennaNET.WebApi.Configurators.HttpClients.Jwt","1.0.1.76",""
 "ViennaNET.WebApi.Configurators.HttpClients.Jwt","1.0.1.79",""
 "Vin.Abp.Utility","1.0.0",""

@@ -2781,6 +2781,7 @@
 "Dnc.AspNetCore.Ui","1.1.1",""
 "Dneedy.Specflow.Synchotron","1.0.0",""
 "Dneedy.Specflow.Synchotron","1.0.1",""
+"Dneedy.Specflow.Synchotron","2.0.0",""
 "Dolittle.Applications.Contracts","4.0.0-beta.1",""
 "Dolittle.Runtime.Management","5.0.0-alpha.16",""
 "Dolittle.Serialization.Protobuf","2.0.0",""
