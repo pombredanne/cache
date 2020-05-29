@@ -1171,6 +1171,7 @@
 "Axis.Pollux.Common.Caching.Redis","4.1.0",""
 "Axum.Soap","1.0.1",""
 "Azys.Schedule","0.0.0.1",""
+"BE.Squidex.Gateways","0.0.1-alpha",""
 "BSExtensions","1.0.0",""
 "BSExtensions","1.0.10",""
 "BSExtensions","1.0.11",""
