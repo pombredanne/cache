@@ -759,6 +759,7 @@
 "Alternet.Studio.Syntax.Parsers.Python","6.0.5",""
 "AmazonS3.ClientFactory","1.1.0",""
 "AmazonS3.ClientFactory","1.1.1",""
+"AmazonS3.ClientFactory","1.1.2",""
 "Amido.Stacks.Configuration","0.1.83",""
 "Amido.Stacks.Configuration","0.1.84",""
 "Amido.Testing.Jwt","1.0.0",""
