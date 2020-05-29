@@ -1776,6 +1776,7 @@
 "C1.Xaml.WPF.Olap","4.5.20193.685",""
 "C1.Xaml.WPF.Olap","4.5.20201.697",""
 "CDSuperSocket.ProtoBase","1.0.0.6",""
+"CDSuperSocket.ProtoBase","1.0.0.7",""
 "CDorst.DevOps.Build.Functions.RunDotnetCommand","1.0.0",""
 "CDorst.DevOps.VersionControl.Functions.AddAndCommitAppveyorNugetBuildYml","1.0.0",""
 "CESCSharp.Styleguide","2.1.0",""

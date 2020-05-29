@@ -2890,6 +2890,7 @@
 "EZNEW.Data.SqlServer","2.1.4",""
 "EZNEW.Data.SqlServer","2.1.5",""
 "EZNEW.Data.SqlServer","2.2.0",""
+"EasyAbp.EShop.Domain.Shared","0.1.20",""
 "EasyAbp.PaymentService.Domain","0.1.0",""
 "EasyAbp.PaymentService.Domain","0.1.1",""
 "EasyAbp.PaymentService.Domain","0.1.2",""
