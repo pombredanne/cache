@@ -3605,6 +3605,7 @@
 "Fluent.Architecture.EntityFramework.MySQL","2.0.3.2-beta05",""
 "Fluent.Architecture.EntityFramework.MySQL","2.0.3.2-beta06",""
 "Fluent.Architecture.EntityFramework.MySQL","2.0.3.2-beta07",""
+"FluentChainOfResponsibility","1.0.0",""
 "FluentHttpRequest","1.0.0",""
 "FluentHttpRequest","1.0.1",""
 "FluentHttpRequest","1.0.2",""
