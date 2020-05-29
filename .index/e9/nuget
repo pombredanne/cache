@@ -10998,6 +10998,7 @@
 "log4net-kafka","1.1.0-RC1",""
 "log4net-kafka","1.1.1-RC1",""
 "log4net-kafka","1.2.1-RC1",""
+"log4net-kafka","1.2.2-RC1",""
 "log4net.samples.smtpappender","1.0.0",""
 "log4net.samples.smtpappender","1.1.0",""
 "logger-discord-provider","1.0.0",""
