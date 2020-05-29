@@ -10865,6 +10865,8 @@
 "Xamarin.GooglePlayServices.Drive","71.1600.0-preview8",""
 "Xamarin.GooglePlayServices.Drive","71.1600.0-preview9",""
 "Xamarin.GooglePlayServices.Drive","71.1600.1",""
+"Xamarin.LocalDrive.Connector","1.0.1-alpha",""
+"Xamarin.LocalDrive.Connector","1.0.2-alpha",""
 "Xamarin.NetworkManager.Droid","1.0.0",""
 "Xamarin.Toast","4.0.0",""
 "Xamarin.UIProvider.iOS","1.0.0",""
