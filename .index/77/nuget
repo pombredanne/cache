@@ -10661,6 +10661,8 @@
 "libLLVM.runtime.win-x86","10.0.0",""
 "libLLVM.runtime.win-x86","8.0.0",""
 "libLLVM.runtime.win-x86","9.0.0",""
+"magic.lambda.mime","5.0.0",""
+"magic.lambda.mime","5.0.1",""
 "me.raimondlu.DAL.Base.EF","1.0.0",""
 "me.raimondlu.DAL.Base.EF","1.0.1",""
 "mfccollectionutilities","1.0.0",""

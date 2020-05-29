@@ -969,6 +969,7 @@
 "App.Metrics.Reporting.Datadog","4.0.0-preview1.0.9",""
 "App.Metrics.Reporting.Datadog","4.1.0-preview.0.15",""
 "App.Metrics.Reporting.Datadog","4.1.0-preview.0.17",""
+"App.Metrics.Reporting.Datadog","4.1.0-preview.0.18",""
 "AppCore.Events.Logging","0.1.0",""
 "AppLock","1.0.0",""
 "AppLoggerCore","1.0.0",""
