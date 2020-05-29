@@ -5339,6 +5339,7 @@
 "LightestNight.System.EventSourcing.SqlStreamStore.MySql","1.1.1",""
 "LightestNight.System.EventSourcing.SqlStreamStore.MySql","1.1.2",""
 "LightestNight.System.EventSourcing.SqlStreamStore.MySql","1.1.3",""
+"LightestNight.System.EventSourcing.SqlStreamStore.MySql","1.1.4",""
 "Linn.Common.Messaging.RabbitMQ","1.0.0",""
 "Linn.Common.Messaging.RabbitMQ","1.1.0",""
 "Linn.Common.Messaging.RabbitMQ","1.1.1",""
