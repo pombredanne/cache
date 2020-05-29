@@ -6412,6 +6412,7 @@
 "Security.HMACAuthentication","1.0.0",""
 "Security.HMACAuthentication","1.0.1",""
 "Security.HMACAuthentication","1.0.1.1",""
+"Selenium.SelectorAttribute","1.0.0",""
 "Selfish.Salon.Data","1.0.0",""
 "SendBird.iOS","0.1.1",""
 "Serilog.Ui.MsSqlServerProvider","1.0.0",""

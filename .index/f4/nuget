@@ -7229,6 +7229,8 @@
 "Lotus.Serialization","1.0.3-alpha",""
 "LouieTest.Acme.BookStore.Application.Contracts","1.0.0",""
 "Lusa.Abstractions","0.9.0",""
+"LxmScheduler.QuartzCenter","1.0.0",""
+"LxmScheduler.QuartzCenter","1.0.1",""
 "LyeKJ.TestLog","1.0.0",""
 "MAQ.Logger","1.0.0",""
 "MAQ.Logger","1.1.0",""
