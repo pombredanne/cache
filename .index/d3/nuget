@@ -9842,6 +9842,7 @@
 "VaultLib.Support.Carbon","1.1.2",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636330359071254116","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636595048287884425","1.0.0",""
+"ViennaNET.Orm.PostgreSql.DefaultConfiguration","1.0.1.115",""
 "ViennaNET.Orm.PostgreSql.DefaultConfiguration","1.0.1.76",""
 "ViennaNET.Orm.PostgreSql.DefaultConfiguration","1.0.1.79",""
 "VikiPrint.Driver","0.1.0",""

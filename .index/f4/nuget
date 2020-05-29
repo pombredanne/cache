@@ -11141,6 +11141,7 @@
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636531263642853057","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636790309643160621","1.0.0",""
 "ViennaNET.WebApi.Configurators.HttpClients.Ntlm","1.0.0",""
+"ViennaNET.WebApi.Configurators.HttpClients.Ntlm","1.0.1.115",""
 "ViennaNET.WebApi.Configurators.HttpClients.Ntlm","1.0.1.76",""
 "ViennaNET.WebApi.Configurators.HttpClients.Ntlm","1.0.1.79",""
 "Vildmark.Maths","0.1.0",""

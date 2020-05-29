@@ -10882,6 +10882,7 @@
 "VerifyPackageKeySupportsFullAndTempApiKeys.636452629322203948","1.0.0",""
 "Vesper.Test.AWS.EventsRuleLambda","0.8.0",""
 "ViennaNET.WebApi.Configurators.Kestrel","1.0.0",""
+"ViennaNET.WebApi.Configurators.Kestrel","1.0.1.115",""
 "ViennaNET.WebApi.Configurators.Kestrel","1.0.1.76",""
 "ViennaNET.WebApi.Configurators.Kestrel","1.0.1.79",""
 "VisualCppTools.Community.D14Layout","14.10.25017",""
