@@ -3151,6 +3151,7 @@
 "DotNetOpenApi.AspNetCore","1.0.0-CI-00028",""
 "DotNetOpenApi.AspNetCore","1.0.0-CI-00029",""
 "DotNetOpenApi.AspNetCore","1.0.0-CI-00030",""
+"DotnetWorkflow","1.0.2",""
 "Dotnettency.HostingEnvironment","1.2.0-unstable0011",""
 "Dotnettency.HostingEnvironment","1.2.1",""
 "Dotnettency.HostingEnvironment","1.3.0",""
