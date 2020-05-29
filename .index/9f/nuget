@@ -7317,6 +7317,7 @@
 "MentKit.Events.Receiver.Kafka","1.0.2",""
 "MentKit.Events.Receiver.Kafka","1.0.3",""
 "MentKit.Events.Receiver.Kafka","1.0.4",""
+"MentKit.Events.Receiver.Kafka","1.0.5",""
 "MessageHandleUtility","1.0.0.3",""
 "Messaging.Sample.Sender","1.1.0",""
 "MhLabs.WebApi.Observability","0.0.1",""
