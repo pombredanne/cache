@@ -4561,6 +4561,7 @@
 "GraphQL.Client.Abstractions.Websocket","3.0.3",""
 "GraphQL.Client.Abstractions.Websocket","3.1.0",""
 "GraphQL.Client.Abstractions.Websocket","3.1.1",""
+"GraphQL.Client.Abstractions.Websocket","3.1.2",""
 "GraphQL.Common","1.0.0",""
 "GraphQL.Common","1.0.0-beta1",""
 "GraphQL.Common","1.0.0-beta2",""
