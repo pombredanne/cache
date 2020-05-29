@@ -9798,6 +9798,7 @@
 "TestMultipleVersion.635285957420554595","1.0.0",""
 "TestMultipleVersion.635285957420554595","2.0.0",""
 "TestNugetLoggerPackage","1.0.0",""
+"TestNugetLoggerPackage","1.0.1",""
 "TestRunner","1.0.0",""
 "TestRunner","1.1.0",""
 "TestRunner","1.10.0",""

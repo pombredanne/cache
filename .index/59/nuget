@@ -2950,6 +2950,7 @@
 "Dolittle.ReadModels.MongoDB","5.0.0-alpha.8",""
 "Dolittle.ReadModels.MongoDB","5.0.0-alpha.9",""
 "Dolittle.ReadModels.MongoDB","5.0.0-rc.1",""
+"Dolittle.ReadModels.MongoDB","5.0.0-rc.2",""
 "Dolittle.TimeSeries.Modules.Connectors","6.0.0",""
 "Dolittle.TimeSeries.Modules.Connectors","6.1.0",""
 "Dolittle.TimeSeries.Modules.Connectors","6.2.0",""
