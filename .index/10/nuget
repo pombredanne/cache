@@ -1114,6 +1114,7 @@
 "CLK.AspNet.Identity.EntityFramework","2.2.1",""
 "CLK.AspNet.Identity.EntityFramework","2.2.1-beta1",""
 "CLK.AspNet.Identity.EntityFramework","2.2.2",""
+"CMakeParser.VisualStudio","2.0.0",""
 "CSHTML5.Wrappers.Syncfusion.EssentialJS1.Common","1.0.0-alpha01-001",""
 "CSHTML5.Wrappers.Syncfusion.EssentialJS1.Common","1.0.0-alpha01-002",""
 "CSharpToTypeScript.Core","0.0.1",""
