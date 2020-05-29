@@ -3970,6 +3970,7 @@
 "Highrock.CommonLib.SqlSugar.Expand","1.0.6.4",""
 "HiveMP.AdministrativeSession","1.7.6",""
 "Hl7toXmlFile","1.0.0",""
+"HoconConfigReader","1.0.0",""
 "Hop.Api.Server.Core","1.0.0",""
 "Hop.Api.Server.Core","1.1.0",""
 "Hop.Api.Server.Core","4.0.0",""
