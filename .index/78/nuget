@@ -4537,6 +4537,7 @@
 "GraphQL.Client.Serializer.SystemTextJson","3.0.3",""
 "GraphQL.Client.Serializer.SystemTextJson","3.1.0",""
 "GraphQL.Client.Serializer.SystemTextJson","3.1.1",""
+"GraphQL.Client.Serializer.SystemTextJson","3.1.2",""
 "Graphs","1.0.0",""
 "GreyMagic","2.0.0",""
 "Groomgy.HealthChecks.AspNetCore.Orleans","0.2.0",""
