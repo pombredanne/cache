@@ -1302,6 +1302,8 @@
 "@aws-amplify/ui-vue","0.2.6-unstable.8",""
 "@aws-amplify/ui-vue","0.2.6-unstable.9",""
 "@aws-amplify/ui-vue","0.2.7-unstable.1",""
+"@aws-amplify/ui-vue","0.2.7-unstable.5",""
+"@aws-amplify/ui-vue","0.2.7-unstable.6",""
 "@aws-cdk/aws-appmesh","0.27.0","Apache-2.0"
 "@aws-cdk/aws-appmesh","0.28.0","Apache-2.0"
 "@aws-cdk/aws-appmesh","0.29.0","Apache-2.0"

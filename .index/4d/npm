@@ -7889,6 +7889,7 @@
 "@jongleberry/svgo","1.0.0","MIT"
 "@jonnieves/makemodule","1.0.0","ISC"
 "@joyo-angular/pipe-digit-uppercase","1.0.100",""
+"@joyo-angular/pipe-digit-uppercase","2.0.0",""
 "@joyo-ionic/model","1.1.100","MIT"
 "@joyo-ionic/model","1.1.101","MIT"
 "@joyo-ionic/model","1.1.102","MIT"

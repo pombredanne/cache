@@ -13919,6 +13919,7 @@
 "@thc/webpack-quark-html","1.0.0","MIT"
 "@thc/webpack-quark-html","1.0.0-beta.0","MIT"
 "@theia/vscode-builtin-github-authentication","0.3.0-next.027b6b709c",""
+"@theia/vscode-builtin-github-authentication","0.3.0-next.028241b160",""
 "@theia/vscode-builtin-github-authentication","0.3.0-next.03b322ec44",""
 "@theia/vscode-builtin-github-authentication","0.3.0-next.040034f7ae",""
 "@theia/vscode-builtin-github-authentication","0.3.0-next.078b57357e",""
