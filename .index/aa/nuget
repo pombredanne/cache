@@ -6091,6 +6091,7 @@
 "Med.Comun.Datos.ICore","2.0.0",""
 "Med.Comun.Datos.ICore","2.0.0-beta",""
 "MediatR.RequestAuthorization.AspNetCore","1.0.0",""
+"MediatR.RequestAuthorization.AspNetCore","1.0.1",""
 "Meetup.Api","0.1.0-alpha",""
 "MergeSort","1.0.0",""
 "MergeSort","1.1.6",""

@@ -10297,6 +10297,7 @@
 "linq2db.SqlServer","2.9.8",""
 "linq2db.SqlServer","3.0.0-preview.1",""
 "linq2db.SqlServer","3.0.0-preview.2",""
+"linq2db.SqlServer","3.0.0-rc.0",""
 "linqtohtml","1.0.0",""
 "loctanvo.fluent.time","0.1.11",""
 "loctanvo.fluent.time","0.1.12",""

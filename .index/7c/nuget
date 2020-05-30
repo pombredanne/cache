@@ -11634,6 +11634,7 @@
 "linq2db.Sybase","2.9.8",""
 "linq2db.Sybase","3.0.0-preview.1",""
 "linq2db.Sybase","3.0.0-preview.2",""
+"linq2db.Sybase","3.0.0-rc.0",""
 "log4net-1.2.15","1.2.15",""
 "log4net.Csv","1.0.0",""
 "log4net.Csv","1.0.1",""

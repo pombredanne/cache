@@ -9921,6 +9921,7 @@
 "linq2db.MySqlConnector","2.9.8",""
 "linq2db.MySqlConnector","3.0.0-preview.1",""
 "linq2db.MySqlConnector","3.0.0-preview.2",""
+"linq2db.MySqlConnector","3.0.0-rc.0",""
 "lmdb-v120-clean","0.9.14",""
 "log4.net.Layout.JsonLayout","1.0.0",""
 "log4.net.Layout.JsonLayout","1.0.1",""
