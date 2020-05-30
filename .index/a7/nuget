@@ -6195,6 +6195,7 @@
 "NHBinder","1.0.0",""
 "NHBinder","1.1.0",""
 "NHibernate.Driver.OracleManagedDataAccessCore","1.0.0",""
+"NHibernate.Driver.OracleManagedDataAccessCore","1.0.1",""
 "NLog.IndentException","0.1.5",""
 "NLog.IndentException","0.1.6",""
 "NLog.IndentException","0.1.7",""
