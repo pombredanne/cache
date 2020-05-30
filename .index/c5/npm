@@ -9436,6 +9436,8 @@
 "@nothingness/level","0.0.5","ISC"
 "@nothingness/level","0.1.0","ISC"
 "@nothingness/level","0.1.1","ISC"
+"@notum-cz/cra-template-notum-material-ui","0.1.0",""
+"@notum-cz/cra-template-notum-material-ui","1.0.0",""
 "@npm-polymer/platinum-push-messaging","1.0.3","http://polymer.github.io/LICENSE.txt"
 "@npm/pg-db-session","1.3.2","MIT"
 "@ntkog/koop-provider-csv","1.0.0","MIT"

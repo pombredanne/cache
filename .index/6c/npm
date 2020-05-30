@@ -10688,6 +10688,7 @@
 "@infinitaslearning/marv-mssql-driver","0.0.1","MIT"
 "@inotom/vue-svg-loading","1.0.0","MIT"
 "@inotom/vue-svg-loading","2.0.0","MIT"
+"@inrupt/lit-generated-vocab-inrupt-ui-component","0.3.11",""
 "@inrupt/lit-generated-vocab-inrupt-ui-component","0.3.9",""
 "@inrupt/solid-react-components","0.1.0","MIT"
 "@inrupt/solid-react-components","0.1.0-rc.0","MIT"

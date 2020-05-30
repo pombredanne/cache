@@ -10604,6 +10604,7 @@
 "@gridplus/docker-events","0.1.1","ISC"
 "@gridplus/docker-events","1.0.0","ISC"
 "@gsp-cmp/oas-view-model","0.0.1",""
+"@gsp-cmp/oas-view-model","0.0.2",""
 "@guardian/bridget","0.52.0","ISC"
 "@guardian/bridget","0.53.0","ISC"
 "@guardian/bridget","0.54.0","ISC"

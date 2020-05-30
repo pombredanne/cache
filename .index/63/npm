@@ -23696,6 +23696,7 @@
 "@qventura/common-node","0.2.6","ISC"
 "@qventura/common-node","0.3.0","ISC"
 "@r-val/updaters","0.0.4","MIT"
+"@radon-extension/plugin-listenbrainz","0.0.0",""
 "@rafaelcalpena/custom-node-module","0.0.2","MIT"
 "@rafaelcalpena/custom-node-module","0.1.2","MIT"
 "@ramda/repeat","0.26.1","MIT"

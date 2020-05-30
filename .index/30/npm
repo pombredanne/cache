@@ -14477,6 +14477,7 @@
 "@radic/reset-evals","1.0.3","MIT"
 "@radic/reset-evals","1.0.4","MIT"
 "@radic/yargs","5.0.0","MIT"
+"@radon-extension/plugin-librefm","0.0.0",""
 "@raguilera82/angular-github-library","1.0.0","MIT"
 "@raguilera82/angular-github-library","1.0.1","MIT"
 "@raguilera82/angular-github-library","2.0.0","MIT"

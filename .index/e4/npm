@@ -16465,6 +16465,7 @@
 "@sqlutils/pg-upsert","0.0.2",""
 "@sqlutils/pg-upsert","0.0.3",""
 "@sqlutils/pg-upsert","0.0.4",""
+"@sqlutils/pg-upsert","0.1.0",""
 "@stackstorm/module-filter","1.0.0","Apache-2.0"
 "@stackstorm/module-filter","1.0.0-pre.5","Apache-2.0"
 "@stackstorm/module-filter","2.0.0","Apache-2.0"
