@@ -6725,6 +6725,7 @@
 "RelyDB.Foundation","13.6.11.1",""
 "RelyDB.Foundation","13.6.11.2",""
 "Reminders.Infrastructure.CrossCutting","3.0.0",""
+"RepoDb.MySqlConnector","1.0.0",""
 "ReportViewer14_MSA","1.0.0",""
 "RestApi.Client.Abstractions","2.2.0-preview.1",""
 "RestApi.Client.Abstractions","2.2.0-preview.2",""
