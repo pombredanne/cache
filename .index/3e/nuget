@@ -7978,6 +7978,7 @@
 "ServiceConcurrency","1.0.0",""
 "ServiceConcurrency","1.0.1",""
 "ServiceConcurrency","1.1.0",""
+"ServiceConcurrency","1.1.1",""
 "ServiceStack.Authentication.OAuth2.Signed","4.0.48",""
 "ServiceStack.Authentication.OAuth2.Signed","4.0.50",""
 "ServiceStack.Authentication.OAuth2.Signed","4.0.52",""

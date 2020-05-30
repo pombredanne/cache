@@ -12397,6 +12397,7 @@
 "edge-vsemodule","1.0.0",""
 "ee.itcollege.dauuka.Contracts.BLL.Base","1.0.0",""
 "ee.itcollege.krruub.Contracts.DAL.Base","1.0.0",""
+"ee.itcollege.visiig.Contracts.BLL.Base","1.0.0",""
 "elfar.sqlclient","1.0.5",""
 "elfar.sqlclient","1.0.6",""
 "elfar.sqlclient","1.0.7",""
