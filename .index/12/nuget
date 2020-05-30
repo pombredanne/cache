@@ -8951,6 +8951,8 @@
 "RServer","1.0.0.1",""
 "RServer","1.0.0.2",""
 "RServer","1.0.0.3",""
+"RServer","1.0.0.4",""
+"RServer","1.0.0.5",""
 "Raalabs.TimeSeries.Modules.IoTEdge","6.3.7",""
 "Rabbit.Components.Web.SignalR","1.0.0.1",""
 "Rabbit.Components.Web.SignalR","1.2.0",""
