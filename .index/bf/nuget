@@ -2443,6 +2443,7 @@
 "Dmp.DbEngineLaucher","1.0.0-CI00018",""
 "DockerizedTesting.Redis","1.0.1",""
 "DockerizedTesting.Redis","1.1.0",""
+"DockerizedTesting.Redis","1.2.0",""
 "Dolittle.Runtime.Execution","2.0.0-alpha2.106",""
 "Dolittle.Runtime.Execution","2.0.0-alpha2.107",""
 "Dolittle.Runtime.Execution","2.0.0-alpha2.115",""

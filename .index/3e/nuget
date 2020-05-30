@@ -1635,6 +1635,7 @@
 "Docker.DotNet.X509","3.125.2",""
 "DockerizedTesting.Kafka","1.0.0",""
 "DockerizedTesting.Kafka","1.1.0",""
+"DockerizedTesting.Kafka","1.2.0",""
 "DocoticPdf","4.1.5706.1",""
 "Dolittle.Runtime.Queries.Validation","1.0.0",""
 "Dolittle.Runtime.Queries.Validation","2.0.0",""

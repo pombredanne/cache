@@ -7611,6 +7611,7 @@
 "RabbitMQ.Client.Core.DependencyInjection","3.2.1",""
 "RabbitMQ.Client.Core.DependencyInjection","4.0.0",""
 "RabbitMQ.Client.Core.DependencyInjection","4.1.0",""
+"RabbitMQ.Client.Core.DependencyInjection","4.1.1",""
 "Radical.Bootstrapper","0.0.1",""
 "Radical.Bootstrapper","0.0.2",""
 "Radical.Bootstrapper","0.0.3",""
