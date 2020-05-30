@@ -6556,6 +6556,7 @@
 "Scf.RabbitMQProvider","3.9.6",""
 "Scf.RabbitMQProvider","3.9.7.2",""
 "Scf.RabbitMQProvider","3.9.7.4",""
+"Scf.RabbitMQProvider","3.9.7.5",""
 "SchemaGenerator","1.0.0",""
 "SchemaGenerator","1.0.1",""
 "ScopedApiKeysCanOnlyPushAndUnlistWithCorrectScopes_636579470296483378","1.0.0",""

@@ -1287,6 +1287,7 @@
 "CA.Blocks.SQLServerDataAccess","2.1.14-CI-20200131-034815",""
 "CA.Blocks.SQLServerDataAccess","2.1.16-CI-20200514-034352",""
 "CA.Blocks.SQLServerDataAccess","2.1.18-CI-20200514-060834",""
+"CA.Blocks.SQLServerDataAccess","2.2.19-CI-20200530-023939",""
 "CBS_CBT.Polux","0.1.0",""
 "CData.AWSDataManagement","19.0.7156",""
 "CData.AWSDataManagement","19.0.7285",""
