@@ -7370,6 +7370,7 @@
 "Serilog.Sinks.Network.Signed","0.0.0",""
 "Serilog.Sinks.Network.Signed","1.2.0.48",""
 "Serilog.Sinks.Network.Signed","1.2.0.49",""
+"Serilog.Sinks.Site24x7","1.0.0",""
 "Serilog.Sinks.Udp","2.0.0",""
 "Serilog.Sinks.Udp","2.1.0",""
 "Serilog.Sinks.Udp","2.2.0",""
