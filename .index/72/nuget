@@ -2633,6 +2633,7 @@
 "DnxTestConsoleApp.Infrastructure","1.0.0",""
 "DocSite","1.0.0-preview1",""
 "DockerizedTesting.RabbitMQ","1.0.0",""
+"DockerizedTesting.RabbitMQ","1.2.0",""
 "DoduFx.Db","1.0.0",""
 "Dolittle.AspNetCore.Debugging.Swagger.SwaggerGen","1.0.0",""
 "Dolittle.AspNetCore.Debugging.Swagger.SwaggerGen","2.0.0",""
