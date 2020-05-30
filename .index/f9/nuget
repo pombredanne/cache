@@ -8798,6 +8798,7 @@
 "Shared.DataAccess.SqlBuilder","0.0.9-beta",""
 "Shared.Quiz.Persistence.MongoDb","1.0.0",""
 "Shared.Quiz.Persistence.MongoDb","1.1.0",""
+"Shared.Quiz.Persistence.MongoDb","1.2.0",""
 "SharpDX.Toolkit.Graphics","2.4.0",""
 "SharpDX.Toolkit.Graphics","2.4.1",""
 "SharpDX.Toolkit.Graphics","2.4.2",""

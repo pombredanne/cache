@@ -4431,6 +4431,7 @@
 "GitVersionTask","5.3.2",""
 "GitVersionTask","5.3.3",""
 "GitVersionTask","5.3.4",""
+"GitVersionTask","5.3.5",""
 "Go2.Architecture.NHibernate","2.1.1",""
 "GoLive.Saturn.Auditing.AuditProvider","1.0.97",""
 "Google.Apis.Monitoring.v3","1.11.0.445",""
