@@ -7520,6 +7520,7 @@
 "Snapchat.ApiClient","0.0.5-beta",""
 "Snapchat.ApiClient","0.0.6-beta",""
 "SnappetCustom.Swashbuckle.AspNetCore.SwaggerUI","2.4.991",""
+"Snp.Libs.Multitenant","3.1.1",""
 "Soarus.ServiceBus.Azure.ServiceBus.EventHub.Publisher","1.0.5814.29466",""
 "Soarus.ServiceBus.Azure.ServiceBus.EventHub.Publisher","1.0.5814.29516",""
 "Soarus.ServiceBus.Azure.ServiceBus.EventHub.Publisher","1.0.5815.20050",""
