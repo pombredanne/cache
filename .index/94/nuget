@@ -9875,6 +9875,7 @@
 "Scf.SqlServerProvider","3.9.3",""
 "Scf.SqlServerProvider","3.9.7.2",""
 "Scf.SqlServerProvider","3.9.7.3",""
+"Scf.SqlServerProvider","3.9.7.6",""
 "SchemaPack.Analyzer","0.4.0",""
 "Schematiq.Collections","0.1.0",""
 "SecretServer.PasswordApply","1.0.0",""
