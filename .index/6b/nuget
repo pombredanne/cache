@@ -9000,6 +9000,7 @@
 "Sequor.Libs.Infrastructure.SeedWork","1.0.7",""
 "Sequor.Libs.Infrastructure.SeedWork","1.0.8",""
 "Sequor.Libs.Infrastructure.SeedWork","1.0.9",""
+"SereneApi.Abstractions","1.0.1.1-alpha",""
 "Serilog.Sinks.EventLog.Tests","0.0.0",""
 "Serilog.Sinks.Splunk.TCP","1.0.0",""
 "Serilog.Sinks.Splunk.TCP","1.0.0-dev-00210",""
