@@ -10659,6 +10659,7 @@
 "linq2db.SqlCe","2.9.8",""
 "linq2db.SqlCe","3.0.0-preview.1",""
 "linq2db.SqlCe","3.0.0-preview.2",""
+"linq2db.SqlCe","3.0.0-rc.0",""
 "log4net.Kafka.Appender","1.0.0",""
 "log4net.Kafka.Appender","1.1.0",""
 "log4net.Kafka.Appender","1.2.0",""

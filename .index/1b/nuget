@@ -10883,6 +10883,7 @@
 "linq2db.Oracle.Unmanaged","2.9.8",""
 "linq2db.Oracle.Unmanaged","3.0.0-preview.1",""
 "linq2db.Oracle.Unmanaged","3.0.0-preview.2",""
+"linq2db.Oracle.Unmanaged","3.0.0-rc.0",""
 "lodash.latest","4.13.1",""
 "logjoint.plugintool","0.0.1",""
 "logjoint.plugintool","0.0.2",""

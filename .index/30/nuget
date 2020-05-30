@@ -11963,6 +11963,7 @@
 "libclang.runtime.freebsd.11-x64","10.0.0",""
 "libclang.runtime.freebsd.11-x64","8.0.0",""
 "libclang.runtime.freebsd.11-x64","9.0.0",""
+"linq2db.AspNet","3.0.0-rc.0",""
 "logly","1.0.0",""
 "logly","1.0.1",""
 "logly","1.0.2",""

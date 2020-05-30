@@ -11979,6 +11979,7 @@
 "linq2db.SapHana","2.9.8",""
 "linq2db.SapHana","3.0.0-preview.1",""
 "linq2db.SapHana","3.0.0-preview.2",""
+"linq2db.SapHana","3.0.0-rc.0",""
 "lz4.v140.windesktop.msvcstl.dyn.rt-dyn","1.0.0",""
 "lz4.v140.windesktop.msvcstl.dyn.rt-dyn","1.3.1",""
 "mailinbluewrapperv2","1.0.0",""
