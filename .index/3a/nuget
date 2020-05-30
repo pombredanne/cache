@@ -2020,6 +2020,7 @@
 "Convey.Persistence.Redis","0.4.322",""
 "Convey.Persistence.Redis","0.4.325",""
 "Convey.Persistence.Redis","0.4.327",""
+"Convey.Persistence.Redis","0.4.330",""
 "Core.ServiceMiddleware","1.0.0",""
 "Core.ServiceMiddleware","2.1.0",""
 "Core.ServiceMiddleware","2.1.1",""
