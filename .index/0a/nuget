@@ -2185,6 +2185,8 @@
 "DAL.nHibernate","1.0.0",""
 "DProjects.Core","1.0.0",""
 "DProjects.Core","2.0.0",""
+"DProjects.Core","2.0.1",""
+"DProjects.Core.PackageManager","2.0.1",""
 "DW.Interactivity.Unofficial","12.1.7",""
 "DW.Interactivity.Unofficial","12.1.7.1",""
 "DaData.ApiClient","1.0.1",""

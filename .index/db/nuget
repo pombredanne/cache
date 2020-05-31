@@ -2838,6 +2838,7 @@
 "CacheFactory","1.0.2-beta",""
 "CacheFactory","1.0.4-beta",""
 "CacheFactory","1.0.5-beta",""
+"CacheInterceptorsNetCore","1.0.5",""
 "CadWrapper","10.0.0",""
 "Cake.CMakeBuild","0.3.0",""
 "Cake.Npx","1.0.0",""

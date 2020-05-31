@@ -1982,6 +1982,7 @@
 "Cythral.CodeGeneration.Roslyn","0.8.8-alpha-g5e3d795f84",""
 "DLB.Grpc.Extensions.DependencyInjection","1.0.0",""
 "DNNModule","1.0.0",""
+"DProjects.Trader","2.0.1",""
 "DT.SSO.DC","1.0.0",""
 "DT.SSO.DC","1.1.0",""
 "DTI.Common","1.0.1",""
