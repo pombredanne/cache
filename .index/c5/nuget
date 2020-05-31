@@ -1661,6 +1661,7 @@
 "CompositeC1.Email.SendGrid","0.7.0",""
 "ConDep.Execution","5.0.2",""
 "ConDep.Execution","5.0.3",""
+"Confun.Generator.Json","0.1.2-alpha",""
 "ConfuserEx","0.5.0",""
 "ConfuserEx","0.6.0",""
 "ConfuserEx.Build","0.6.0",""
