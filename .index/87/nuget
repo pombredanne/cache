@@ -1119,6 +1119,7 @@
 "COFRS.Postgresql","1.1.70-alpha",""
 "COFRS.Postgresql","1.1.72-alpha",""
 "COFRS.Postgresql","1.1.73-alpha",""
+"COFRS.Postgresql","1.1.74-alpha",""
 "CQ.Library.Security","1.0.0",""
 "CR.Tools.EventStoreSerilogLogger","1.0.0",""
 "CR.Tools.EventStoreSerilogLogger","1.0.0-rc0001",""
