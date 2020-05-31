@@ -9901,6 +9901,7 @@
 "clojure.tools.namespace","0.2.2",""
 "clojure.tools.namespace","0.2.2.1",""
 "clojure.tools.namespace","0.2.7",""
+"clojure.tools.namespace","1.0.0",""
 "cppzmq","4.2.1",""
 "cs-arm-apriori","1.0.1",""
 "d3-dsv.TypeScript.DefinitelyTyped","0.0.1",""
