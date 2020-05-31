@@ -5234,6 +5234,7 @@
 "Microsoft.Bot.Configuration","4.9.1",""
 "Microsoft.Bot.Configuration","4.9.2",""
 "Microsoft.CST.MultiExtractor","0.1.188",""
+"Microsoft.CST.MultiExtractor","0.1.192",""
 "Microsoft.Diagnostics.EventFlow.Inputs.EventSource","1.0.0",""
 "Microsoft.Diagnostics.EventFlow.Inputs.EventSource","1.0.0-preview",""
 "Microsoft.Diagnostics.EventFlow.Inputs.EventSource","1.0.0-preview2",""
