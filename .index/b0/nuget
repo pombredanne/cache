@@ -5511,6 +5511,7 @@
 "Microsoft.EntityFrameworkCore.DynamicLinq","1.0.9.2",""
 "Microsoft.EntityFrameworkCore.DynamicLinq","1.1.0",""
 "Microsoft.EntityFrameworkCore.DynamicLinq","1.1.1",""
+"Microsoft.EntityFrameworkCore.DynamicLinq","1.1.2",""
 "Microsoft.EntityFrameworkCore.Sqlite.NetTopologySuite","2.2.0",""
 "Microsoft.EntityFrameworkCore.Sqlite.NetTopologySuite","2.2.0-preview3-35497",""
 "Microsoft.EntityFrameworkCore.Sqlite.NetTopologySuite","2.2.1",""
