@@ -8201,6 +8201,7 @@
 "SMSC.Clases","1.0.0",""
 "SPOnlineRESTClientCore","1.0.0",""
 "SQLOrmMap.Lib","1.0.0",""
+"SQLib.Sqlite","0.4.0",""
 "SQLite.Net.Platform.WindowsPhone8","2.1.0",""
 "SQLite.Net.Platform.WindowsPhone8","2.2.0",""
 "SQLite.Net.Platform.WindowsPhone8","2.3.0",""
