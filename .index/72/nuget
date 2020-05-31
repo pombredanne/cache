@@ -7723,6 +7723,7 @@
 "ODataQueryHelper.MongoDb","1.0.25",""
 "ODataQueryHelper.MongoDb","1.0.26",""
 "OMH.Common.Email","1.0.0",""
+"OSIsoft.DataViews.Contracts","1.0.2",""
 "ObjectPropertyValidator","1.0.0",""
 "OceanWebSystems.Exceptions","1.0.0",""
 "Ocelot.Security.AuthorizationToken.EntityFramework","1.0.0",""
