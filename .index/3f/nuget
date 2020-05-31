@@ -2809,6 +2809,7 @@
 "Enexure.MicroBus.InfrastructureContracts","3.4.0-pre",""
 "Enexure.MicroBus.InfrastructureContracts","3.5.0",""
 "Enexure.MicroBus.InfrastructureContracts","3.6.0",""
+"Enexure.MicroBus.InfrastructureContracts","3.7.0",""
 "EntityFramework.Repository","0.9.0",""
 "EntityFramework.Repository","1.0.0",""
 "Es.Framework.EventBus","0.0.19",""
