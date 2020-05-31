@@ -4850,6 +4850,7 @@
 "Ninja.Logger.DocumentDb","1.0.7-preview",""
 "Ninja.Logger.DocumentDb","1.0.8-preview",""
 "Ninja.Logger.DocumentDb","1.0.9-preview",""
+"NinjaCsv.Internal","1.0.0",""
 "Nintek.Core.Data","0.1.0",""
 "Nintek.Core.Data","0.2.0",""
 "Nintek.Core.Data","0.3.0",""
