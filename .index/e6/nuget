@@ -9245,6 +9245,7 @@
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636942444224856744","1.0.0",""
 "ViennaNET.WebApi.Runners.BaseKestrel","1.0.0",""
 "ViennaNET.WebApi.Runners.BaseKestrel","1.0.1.115",""
+"ViennaNET.WebApi.Runners.BaseKestrel","1.0.1.116",""
 "ViennaNET.WebApi.Runners.BaseKestrel","1.0.1.76",""
 "ViennaNET.WebApi.Runners.BaseKestrel","1.0.1.79",""
 "Villagra.Microsoft.Media.TimedText","3.0.0.5",""

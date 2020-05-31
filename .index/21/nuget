@@ -10741,6 +10741,7 @@
 "VerifyPackageKeyReturns200ForFullApiKey.636410165832264111","1.0.0",""
 "Vesper.Test.AWS.IotLambdaDynamodb","0.8.0",""
 "ViennaNET.Orm.SQLite.DefaultConfiguration","1.0.1.115",""
+"ViennaNET.Orm.SQLite.DefaultConfiguration","1.0.1.116",""
 "ViennaNET.Orm.SQLite.DefaultConfiguration","1.0.1.76",""
 "ViennaNET.Orm.SQLite.DefaultConfiguration","1.0.1.79",""
 "Vineker_CommonPackage","1.0.1",""

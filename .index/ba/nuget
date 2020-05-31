@@ -9738,6 +9738,7 @@
 "Vertisan.Nebula.Entities","1.0.0.2-preview",""
 "Vertx.TcpBridge.Client","1.0.0",""
 "ViennaNET.Orm.PostgreSql","1.0.1.115",""
+"ViennaNET.Orm.PostgreSql","1.0.1.116",""
 "ViennaNET.Orm.PostgreSql","1.0.1.76",""
 "ViennaNET.Orm.PostgreSql","1.0.1.79",""
 "ViewModelAssertions","1.1.0",""

@@ -4422,6 +4422,7 @@
 "Hunter.EventBus.MessageTransport.STAN","1.3.2.48",""
 "Hunter.EventBus.MessageTransport.STAN","1.3.2.50",""
 "Hunter.EventBus.MessageTransport.STAN","1.3.2.51",""
+"Huy.Framework","1.0.0",""
 "Hygeian.Component.Captcha","1.0.0",""
 "HzNS.Cmdr.Logger.Serilog","1.0.0",""
 "HzNS.Cmdr.Logger.Serilog","1.0.6",""
