@@ -1429,6 +1429,7 @@
 "CK.DB.Res.ResString","9.0.1",""
 "CRC","1.0.0",""
 "Cached.InMemory","0.0.1",""
+"Cached.InMemory","0.0.1-alpha",""
 "Cake.AliaSql","0.1.1",""
 "Cake.AliaSql","0.2.0",""
 "Cake.AliaSql","0.3.0",""
