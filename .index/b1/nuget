@@ -1767,6 +1767,7 @@
 "CacheManager.SQLite","0.7.2",""
 "Cacheable.MediatR","0.2.0",""
 "Cached","0.0.1",""
+"Cached","0.0.1-alpha",""
 "CanalSharp.AspNetCore","0.0.1",""
 "CanalSharp.AspNetCore","0.0.2",""
 "CanalSharp.AspNetCore","0.0.3",""
