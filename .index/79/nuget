@@ -9549,6 +9549,7 @@
 "Vertica.InRiver.Extensions.XmlDataImporter","1.0.0-CI-20180425-092946",""
 "Vertica.InRiver.Extensions.XmlDataImporter","1.0.0-CI-20180426-121629",""
 "ViennaNET.Messaging.RabbitMQQueue","1.0.1.115",""
+"ViennaNET.Messaging.RabbitMQQueue","1.0.1.116",""
 "ViennaNET.Messaging.RabbitMQQueue","1.0.1.76",""
 "ViennaNET.Messaging.RabbitMQQueue","1.0.1.79",""
 "VirtoCommerce.ContentModule.Azure","3.0.0-beta.1",""
