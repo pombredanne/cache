@@ -5337,6 +5337,7 @@
 "Microsoft.AzureML.DataPrep","0.0.0.4-preview",""
 "Microsoft.CorrelationVector","1.0.42",""
 "Microsoft.Extensions.Caching.Cosmos","1.0.0-preview",""
+"Microsoft.Extensions.Caching.Cosmos","1.0.0-preview2",""
 "Microsoft.Extensions.Logging.Debug","1.0.0",""
 "Microsoft.Extensions.Logging.Debug","1.0.0-rc1-final",""
 "Microsoft.Extensions.Logging.Debug","1.0.0-rc2-final",""
