@@ -4801,6 +4801,7 @@
 "FreeSql.Provider.Odbc","1.5.0-preview0525",""
 "FreeSql.Provider.Odbc","1.6.0-preview0101",""
 "FreeSql.Provider.Odbc","1.6.0-preview0102",""
+"FreeSql.Provider.Odbc","1.6.0-preview0601",""
 "FreecraftCore.API.Common.Entity.Identity","4.0.0",""
 "FreecraftCore.API.Common.Entity.Identity","4.0.1",""
 "FreecraftCore.API.Common.Entity.Identity","4.0.10",""

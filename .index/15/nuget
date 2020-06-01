@@ -4330,6 +4330,7 @@
 "FreeSql.Provider.MySqlConnector","1.5.0-preview0525",""
 "FreeSql.Provider.MySqlConnector","1.6.0-preview0101",""
 "FreeSql.Provider.MySqlConnector","1.6.0-preview0102",""
+"FreeSql.Provider.MySqlConnector","1.6.0-preview0601",""
 "Frontend","1.0.0",""
 "Frontend","1.0.1",""
 "Frontend","1.0.2",""
