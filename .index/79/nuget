@@ -1921,6 +1921,7 @@
 "CQELight.Buses.MSMQ","0.9.0",""
 "CQELight.Buses.MSMQ","1.0.0-rc",""
 "CQELight.Buses.MSMQ","1.0.0-rc2",""
+"CRL.RedisProvider","5.0.0",""
 "CSF.CollectionComparers","1.0.0",""
 "CSF.CollectionComparers","1.1.0",""
 "CSF.CollectionComparers","1.1.1",""
