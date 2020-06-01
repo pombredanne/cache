@@ -6288,6 +6288,7 @@
 "OscaroCommon","1.0.0-ci-20160609-072837",""
 "Otc.ComponentModel.Annotations","1.0.0",""
 "Otc.ComponentModel.Annotations","1.0.1",""
+"Otc.Messaging.RabbitMQ.PredefinedTopologies","1.0.0-alpha10+b45",""
 "Otc.Messaging.RabbitMQ.PredefinedTopologies","1.0.0-alpha4+b18",""
 "Otc.Messaging.RabbitMQ.PredefinedTopologies","1.0.0-alpha5+b24",""
 "Otc.Messaging.RabbitMQ.PredefinedTopologies","1.0.0-alpha6+b27",""
