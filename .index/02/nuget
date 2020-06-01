@@ -616,6 +616,7 @@
 "Amazon.CDK.AWS.Lambda.Nodejs","1.40.0",""
 "Amazon.CDK.AWS.Lambda.Nodejs","1.41.0",""
 "Amazon.CDK.AWS.Lambda.Nodejs","1.42.0",""
+"Amazon.CDK.AWS.Lambda.Nodejs","1.42.1",""
 "AmazonS3","1.0.0",""
 "AmazonS3","1.0.1",""
 "AmbientScoping","0.1.0-beta",""

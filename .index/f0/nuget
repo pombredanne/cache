@@ -589,6 +589,7 @@
 "Amazon.CDK.AWS.S3.Deployment","1.40.0",""
 "Amazon.CDK.AWS.S3.Deployment","1.41.0",""
 "Amazon.CDK.AWS.S3.Deployment","1.42.0",""
+"Amazon.CDK.AWS.S3.Deployment","1.42.1",""
 "Amazon.CDK.AWS.S3.Deployment","1.5.0-devpreview",""
 "Amazon.CDK.AWS.S3.Deployment","1.6.0-devpreview",""
 "Amazon.CDK.AWS.S3.Deployment","1.6.1-devpreview",""
