@@ -8313,6 +8313,7 @@
 "SimpleInjector.Integration.WebApi","4.9.0",""
 "SimpleInjector.Integration.WebApi","4.9.1",""
 "SimpleInjector.Integration.WebApi","4.9.2",""
+"SimpleInjector.Integration.WebApi","5.0.0-beta1",""
 "SimpleMediator.Extensions.Microsoft.DependencyInjection","1.0.0",""
 "SimpleMediator.Extensions.Microsoft.DependencyInjection","1.0.3",""
 "SimpleMediator.Extensions.Microsoft.DependencyInjection","1.0.6",""
