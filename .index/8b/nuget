@@ -1,3 +1,4 @@
+"24SevenOffice.MappedApi.Budget","0.13.1",""
 "3b5d844d-a87e-4b26-a607-68e88e2edd72","0.1.0",""
 "3b5d844d-a87e-4b26-a607-68e88e2edd72","0.2.0",""
 "3b5d844d-a87e-4b26-a607-68e88e2edd72","0.3.0",""
@@ -3276,6 +3277,7 @@
 "Google.Apis.ServiceManagement.v1","1.45.0.1927",""
 "Google.Apis.ServiceManagement.v1","1.45.0.1954",""
 "Google.Apis.ServiceManagement.v1","1.45.0.1961",""
+"Google.Apis.ServiceManagement.v1","1.45.0.1967",""
 "GoogleMusicApi.Common","1.0.0",""
 "GoogleTranslateLib","1.0.0",""
 "GraphQL.NewtonsoftJson","3.0.0-preview-1490",""

@@ -8717,6 +8717,7 @@
 "Rabbit.Communication.TextTemplate","1.0.0",""
 "RabbitMQ.Client.OpenTracing","1.0.0-rc.1",""
 "RabbitMQ.Client.OpenTracing","1.0.0-rc.2",""
+"RabbitMQ.Client.OpenTracing","1.0.0-rc.3",""
 "RandomGeekdom.Utility","1.0.0",""
 "RandomGeekdom.Utility","1.0.1",""
 "RandomGeekdom.Utility","1.0.2",""
