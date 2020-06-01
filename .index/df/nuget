@@ -5662,6 +5662,7 @@
 "Microsoft.Azure.CognitiveServices.Language.LUIS.Authoring","3.1.0",""
 "Microsoft.Azure.CognitiveServices.Language.LUIS.Authoring","3.2.0-preview.1",""
 "Microsoft.Azure.CognitiveServices.Language.LUIS.Authoring","3.2.0-preview.2",""
+"Microsoft.Azure.CognitiveServices.Language.LUIS.Authoring","3.2.0-preview.3",""
 "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction","0.10.0-preview",""
 "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction","0.11.0-preview",""
 "Microsoft.Azure.CognitiveServices.Vision.CustomVision.Prediction","0.12.0-preview",""
