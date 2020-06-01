@@ -5863,6 +5863,7 @@
 "QBittorrent.Client","1.6.19346.1",""
 "QBittorrent.Client","1.6.19350.1",""
 "QdCaresUtility.Log.Serilog","1.0.0",""
+"QdCaresUtility.Log.Serilog","1.0.3",""
 "Qiniu.Shared.ExtJson","7.2.15",""
 "Qos.HttpClientExtensions","1.0.0",""
 "QuartzJobMonitoring","1.0.12",""
