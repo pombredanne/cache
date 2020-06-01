@@ -7104,6 +7104,7 @@
 "NRepository.Core","3.3.0",""
 "NRepository.Core","4.0.0",""
 "NS.Zencoder","1.0.7",""
+"NServiceBus.IntegrationTesting","0.0.1",""
 "NSwagTagger.Fody","0.0.1",""
 "NUnitCompanion.Framework","1.1.1",""
 "NUnitCompanion.Framework","1.1.2",""
