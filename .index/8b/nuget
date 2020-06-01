@@ -3594,6 +3594,8 @@
 "Halforbit.DataStores.FileStores.Sftp","2.2.0",""
 "Halforbit.DataStores.FileStores.Sftp","2.2.1",""
 "Halforbit.DataStores.FileStores.Sftp","2.2.2",""
+"Halforbit.DataStores.FileStores.Sftp","2.3.0",""
+"Halforbit.DataStores.FileStores.Sftp","2.3.2",""
 "HealthCheck.Core","1.1.13",""
 "HealthCheck.Core","1.1.15",""
 "HealthCheck.Core","1.1.16",""

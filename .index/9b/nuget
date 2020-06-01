@@ -3390,6 +3390,8 @@
 "Haka.Hybrid","0.0.1",""
 "Haka.Hybrid","0.0.2",""
 "HalJsonConverter","0.1.0",""
+"Halforbit.DataStores.FileStores.Serialization.Delimited","2.3.0",""
+"Halforbit.DataStores.FileStores.Serialization.Delimited","2.3.2",""
 "Hallmanac.Funqy.CSharp","1.0.0",""
 "Hallmanac.Funqy.CSharp","1.0.1",""
 "Hallmanac.Funqy.CSharp","1.1.0",""
