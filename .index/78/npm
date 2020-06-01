@@ -212,6 +212,7 @@
 "@59naga/eastern-cli","0.0.1","MIT"
 "@59naga/eastern-cli","0.0.2","MIT"
 "@7rabbit/ink-browser","0.0.1","MIT"
+"@a_isegawa/hello-rust-benchmark-str-wasm","0.1.0",""
 "@aark/eslint-config","0.0.2","MIT"
 "@aark/eslint-config","0.0.3-alpha.0","MIT"
 "@aark/eslint-config","0.0.6","MIT"
