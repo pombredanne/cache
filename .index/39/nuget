@@ -7382,6 +7382,8 @@
 "Remake.PortableLeagueAPI.Interfaces","1.2.2",""
 "RemoteRequireHttps","1.0.0",""
 "Reo.Core.RabbitMQ.Fakes","3.1.3838",""
+"Reo.Core.RabbitMQ.Fakes","3.1.3843",""
+"Reo.Core.RabbitMQ.Fakes","3.1.3847",""
 "RepositoryPatternDotNet.EntityFramework","1.0.0",""
 "Reslv.AspNet.Identity","1.0.1",""
 "RestSharp.IdentityModel.Extensions","0.1.0",""
