@@ -1878,6 +1878,7 @@
 "CommandLine.DotNetStandard","1.0.3",""
 "CommenComponents","1.0.0",""
 "CommenComponents","1.0.1",""
+"Common.Diagnostics.Log4net","1.0.0.371",""
 "Common.Logging.Portable","2.3.0",""
 "Common.Logging.Portable","2.3.0-RC1",""
 "Common.Logging.Portable","2.3.1",""
