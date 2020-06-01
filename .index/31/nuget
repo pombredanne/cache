@@ -11256,6 +11256,7 @@
 "Z.EntityFramework.Plus.QueryFuture.EFCore","1.7.20",""
 "Z.EntityFramework.Plus.QueryFuture.EFCore","1.7.5",""
 "Z.Nlayer.Infrastructure.Utility","1.0.0",""
+"Z.Repository.Core","1.0.0",""
 "Zaaby.Cache.RedisProvider.ISerialize","1.1.0",""
 "Zaaby.Cache.RedisProvider.ISerialize","1.1.1",""
 "Zametek.PrismEx.AvalonDock","1.0.0",""
