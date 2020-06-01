@@ -214,6 +214,7 @@
 "Aliencube.AzureMessaging.SchemaRegistry.Sinks","0.9.3",""
 "AllOverIt-Core","1.0.0",""
 "Amazon.CDK.AWS.Macie","1.42.0",""
+"Amazon.CDK.AWS.Macie","1.42.1",""
 "Anaximander.Xamarin.Android","0.2.0",""
 "Anaximander.Xamarin.Android","0.2.1",""
 "Anaximander.Xamarin.Android","0.2.2",""
