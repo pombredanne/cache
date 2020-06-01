@@ -14349,6 +14349,7 @@
 "@oculushealth/mongo","0.1.7","ISC"
 "@oculushealth/mongo","0.1.8","ISC"
 "@oculushealth/mongo","0.1.9","ISC"
+"@oframe/dom","1.0.0",""
 "@okunishinishi/fixpack","3.0.0","MIT"
 "@okunishinishi/fixpack","3.0.1","MIT"
 "@olaf-mix/rollup-plugin-olaf-mix","0.0.1","ISC"
