@@ -5710,6 +5710,7 @@
 "Microsoft.Azure.WebJobs.Extensions.SignalRService","1.0.1-preview1-10095",""
 "Microsoft.Azure.WebJobs.Extensions.SignalRService","1.0.2",""
 "Microsoft.Azure.WebJobs.Extensions.SignalRService","1.1.0",""
+"Microsoft.Azure.WebJobs.Extensions.SignalRService","1.2.0",""
 "Microsoft.CodeAnalysis.Razor.Workspaces","0.0.1-alpha",""
 "Microsoft.CodeAnalysis.Razor.Workspaces","2.0.0-preview1-final",""
 "Microsoft.Data.DataView","0.10.0",""
