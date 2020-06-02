@@ -2427,6 +2427,7 @@
 "DotImaging.UI","5.0.1-alpha",""
 "DotImaging.UI","5.1.0",""
 "DotNetCore.Compile.Environment","1.0.0",""
+"DotNetCore.Compile.Environment","1.0.0-alpha1",""
 "DotNetFramework.CAP.RabbitMQ","1.0.0",""
 "DotNetFramework.CAP.RabbitMQ","1.0.2",""
 "DotNetFramework.CAP.RabbitMQ","1.0.3",""

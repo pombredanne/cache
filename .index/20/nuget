@@ -10414,6 +10414,7 @@
 "SenseNet.Search.Lucene29.Local","7.3.0",""
 "SenseNet.Search.Lucene29.Local","7.3.1",""
 "SenseNet.Search.Lucene29.Local","7.4.0",""
+"SenseNet.Search.Lucene29.Local","7.4.1",""
 "Serilog.Sinks.AWS.SNS","1.0.1",""
 "ServiceAdaptor.NetCore.Eureka","1.0.0-preview",""
 "ServiceApi.Endpoint.Clients","1.1.1",""
