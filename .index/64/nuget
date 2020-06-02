@@ -5378,6 +5378,7 @@
 "Microsoft.Azure.WebJobs.Extensions.ServiceBus","4.0.0",""
 "Microsoft.Azure.WebJobs.Extensions.ServiceBus","4.1.0",""
 "Microsoft.Azure.WebJobs.Extensions.ServiceBus","4.1.1",""
+"Microsoft.Azure.WebJobs.Extensions.ServiceBus","4.1.2",""
 "Microsoft.Azure.WebJobs.Host.TestCommon","3.0.14",""
 "Microsoft.DotNet.Mcg","1.0.0-prerelease-0001",""
 "Microsoft.Extensions.Logging.Testing","0.0.1-alpha",""
