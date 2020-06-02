@@ -4972,6 +4972,7 @@
 "Microsoft.Private.PackageBaseline","1.0.1-preview1-24705-01",""
 "Microsoft.Private.PackageBaseline","1.0.1-servicing-27618-01",""
 "Microsoft.Private.PackageBaseline","2.0.0-preview1-25305-02",""
+"Microsoft.Quantum.Decompositions.OpenQASM","0.11.2006.206-beta",""
 "Microsoft.WindowsAzure.Common.Tracing.Etw","0.9.0-preview",""
 "Microsoft.WindowsAzure.Common.Tracing.Etw","1.0.0",""
 "MiddleWare.HtmlMultilanguageHelpers","1.1.0",""
