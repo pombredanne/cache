@@ -3146,6 +3146,7 @@
 "DistributedCache.AzureTableStorage","1.0.4",""
 "DistributedCache.AzureTableStorage","2.0.0-preview-01",""
 "DistributedCache.AzureTableStorage","2.0.0-preview-02",""
+"DocsSite.Template","1.0.0",""
 "DocuWareWebClientIntegration","6.10.0",""
 "DocuWareWebClientIntegration","6.10.0-beta",""
 "DocuWareWebClientIntegration","6.11.0-beta",""
