@@ -1090,6 +1090,7 @@
 "Azure.Storage.Files.DataLake","12.0.0-preview.9",""
 "Azure.Storage.Files.DataLake","12.1.0",""
 "Azure.Storage.Files.DataLake","12.2.0",""
+"Azure.Storage.Files.DataLake","12.2.1",""
 "AzureFromTheTrenches.Commanding.Cache","3.0.0",""
 "AzureFromTheTrenches.Commanding.Cache","4.0.0",""
 "AzureFromTheTrenches.Commanding.Cache","5.0.1",""
