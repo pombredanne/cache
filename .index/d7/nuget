@@ -9126,6 +9126,7 @@
 "SenseNet.ContentRepository.InMemory","0.0.4",""
 "SenseNet.ContentRepository.InMemory","0.0.5",""
 "SenseNet.ContentRepository.InMemory","0.0.7",""
+"SenseNet.ContentRepository.InMemory","0.0.8",""
 "Serilog.Sinks.NewRelicLab.Logs","0.1.0",""
 "Serilog.Sinks.NewRelicLab.Logs","0.1.0-alpha",""
 "Shaman.FileSystem","1.0.0-beta-4173",""
