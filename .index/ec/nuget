@@ -668,6 +668,7 @@
 "App.Metrics.Extensions.DependencyInjection","4.1.0-preview.0.18",""
 "AppBlock.Log","1.0.0",""
 "AppBlock.Log","1.0.1",""
+"AppBlocks.Monitoring.AppMetrics","0.2.0",""
 "AppBlocks.Monitoring.AppMetrics","0.2.0-betta.2",""
 "AppBlocks.Monitoring.AppMetrics","0.2.0-betta.3",""
 "AppBlocks.Monitoring.AppMetrics","0.2.0-betta.4",""
