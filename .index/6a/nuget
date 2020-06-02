@@ -6642,6 +6642,7 @@
 "Microsoft.Bot.Builder.Integration.AspNet.Core","4.9.0",""
 "Microsoft.Bot.Builder.Integration.AspNet.Core","4.9.1",""
 "Microsoft.Bot.Builder.Integration.AspNet.Core","4.9.2",""
+"Microsoft.Bot.Builder.Integration.AspNet.Core","4.9.3",""
 "Microsoft.Diagnostics.Tracing.TraceEvent","1.0.1-beta",""
 "Microsoft.Diagnostics.Tracing.TraceEvent","1.0.10",""
 "Microsoft.Diagnostics.Tracing.TraceEvent","1.0.11",""
