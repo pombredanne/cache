@@ -3600,6 +3600,8 @@
 "ExtendableEnums.Simple.OData.Client","3.0.241-beta",""
 "ExtendableEnums.Simple.OData.Client","3.1.249",""
 "ExtendableEnums.Simple.OData.Client","3.1.249-beta",""
+"ExtendableEnums.Simple.OData.Client","4.0.256",""
+"ExtendableEnums.Simple.OData.Client","4.0.256-beta",""
 "Extensions.DateTime","0.0.1",""
 "Extensions.DateTime","0.0.2",""
 "Extensions.Http.OAuth.Abstractions","1.0.9",""
