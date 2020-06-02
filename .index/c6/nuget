@@ -10008,6 +10008,7 @@
 "protobuf-net.Grpc.Native","1.0.37",""
 "protobuf-net.Grpc.Native","1.0.6",""
 "protobuf-net.Grpc.Native","1.0.74",""
+"protobuf-net.Grpc.Native","1.0.75",""
 "re2c","0.13.5.4",""
 "requiredIf","1.0.0",""
 "resharper","5.1.3",""
