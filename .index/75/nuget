@@ -3061,6 +3061,7 @@
 "E2E.SemVer2StableMetadataUnlisted.181115.190041.2813006","1.0.0+metadata",""
 "E2E.SemVer2StableMetadataUnlisted.181129.011904.2583823","1.0.0+metadata",""
 "E2E.SemVer2StableMetadataUnlisted.200106.225418.0842124","1.0.0+metadata",""
+"E2E.SemVer2StableMetadataUnlisted.200602.202322.6308917","1.0.0+metadata",""
 "E2E.SymbolsPackage.190628.000320.5683058","1.0.0",""
 "EFCoreChangeReport.Sink.Console","1.0.0",""
 "EFDbProvider.EntityFramework","1.0.0",""
