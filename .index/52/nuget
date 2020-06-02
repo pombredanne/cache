@@ -8063,6 +8063,7 @@
 "TS3QueryLib.Net.Core","0.5.0-alpha",""
 "TSql.Scripting","1.0.0",""
 "TSql.Scripting","1.0.1",""
+"Tago.Extenstions.ReverseProxy","3.1.0-preview-01",""
 "Tangle.Net.Standard.Zmq","0.0.1",""
 "Tangle.Net.Standard.Zmq","0.0.2",""
 "TaskQueue.Client","1.0.0",""
