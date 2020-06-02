@@ -7749,6 +7749,7 @@
 "NOHJ.GVM.Deux","0.7.7",""
 "NServiceBus.Transport.SqlServer","3.1.5",""
 "NServiceBus.Transport.SqlServer","6.0.0",""
+"NServiceBus.Transport.SqlServer","6.0.1",""
 "NStratis.API.Client","0.0.1-alpha",""
 "NStratis.API.Client","0.0.2-alpha",""
 "NTestpackage","1.0.0",""
