@@ -1072,6 +1072,8 @@
 "Antlr4BuildTasks","3.0.0",""
 "Antlr4BuildTasks","4.0.0",""
 "Antlr4BuildTasks","5.0.0",""
+"Antlr4BuildTasks","6.0.0",""
+"Antlr4BuildTasks","6.1.0",""
 "ApiGateway.Client","0.5.1",""
 "ApiGateway.Client","0.7.0",""
 "ApiGateway.Client","0.7.2",""
