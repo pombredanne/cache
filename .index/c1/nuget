@@ -8220,6 +8220,7 @@
 "Serilog.Exceptions.SqlServer","5.3.0",""
 "Serilog.Exceptions.SqlServer","5.3.1",""
 "Serilog.Exceptions.SqlServer","5.4.0",""
+"Serilog.Exceptions.SqlServer","5.5.0+build.376",""
 "Serilog.dll","1.0.0",""
 "SharpLibNotification","0.0.1",""
 "Shaykhullin.Network.Core","1.0.0",""

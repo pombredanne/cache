@@ -6756,6 +6756,7 @@
 "Serilog.Exceptions.EntityFrameworkCore","5.3.1",""
 "Serilog.Exceptions.EntityFrameworkCore","5.3.2",""
 "Serilog.Exceptions.EntityFrameworkCore","5.4.0",""
+"Serilog.Exceptions.EntityFrameworkCore","5.5.0+build.376",""
 "Serilog.Sinks.HipChat","0.0.1",""
 "Serilog.Sinks.HipChat","0.0.2",""
 "Serilog.Sinks.HipChat","0.0.3",""
