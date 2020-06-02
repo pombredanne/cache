@@ -6386,6 +6386,7 @@
 "Microsoft.Azure.Management.Subscription","1.1.2-preview",""
 "Microsoft.Azure.Management.Subscription","1.1.3-preview",""
 "Microsoft.Azure.Management.Subscription","1.1.4-preview",""
+"Microsoft.Azure.Quantum.Client","0.11.2005.3003-beta",""
 "Microsoft.CodeAnalysis.Compilers.fr","1.0.0-beta1-20141031-01",""
 "Microsoft.DirectoryServices","4.0.0",""
 "Microsoft.DotNet.BuildTools","1.0.11-prerelease",""
