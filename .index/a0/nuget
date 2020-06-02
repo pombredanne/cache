@@ -4713,6 +4713,7 @@
 "Microsoft.Azure.Management.CognitiveServices","7.0.0-preview",""
 "Microsoft.Azure.Management.CognitiveServices","7.1.0-preview",""
 "Microsoft.Azure.Management.CognitiveServices","7.2.0-preview",""
+"Microsoft.Azure.Management.CognitiveServices","7.3.0-preview",""
 "Microsoft.DocAsCode.Build.ResourceFiles","1.7.0",""
 "Microsoft.DocAsCode.Build.ResourceFiles","1.7.1",""
 "Microsoft.DocAsCode.Build.ResourceFiles","1.7.2",""
