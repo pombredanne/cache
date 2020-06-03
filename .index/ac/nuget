@@ -12794,6 +12794,7 @@
 "libconfig_vc120","1.4.9.4",""
 "libtorch-cuda-10.2-linux-x64-part2-primary","0.3.52215",""
 "libtorch-cuda-10.2-linux-x64-part2-primary","1.5.0",""
+"libtorch-cuda-10.2-linux-x64-part2-primary","1.5.5",""
 "mapguide-api-web-x64","2.4.0.7096",""
 "mapguide-api-web-x64","2.4.1.7767",""
 "mapguide-api-web-x64","2.5.0.7449",""

@@ -13886,6 +13886,7 @@
 "libc.cms7.module.auth","0.2.1",""
 "libtorch-cuda-10.2-linux-x64-part2-fragment1","0.3.52215",""
 "libtorch-cuda-10.2-linux-x64-part2-fragment1","1.5.0",""
+"libtorch-cuda-10.2-linux-x64-part2-fragment1","1.5.5",""
 "linq2db.Tools","2.7.0",""
 "linq2db.Tools","2.7.1",""
 "linq2db.Tools","2.7.2",""
