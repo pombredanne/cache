@@ -8418,6 +8418,7 @@
 "RoslynDependencies.Microsoft.VisualStudio.Language.NavigateTo.Interfaces","15.0.25604-Preview4",""
 "RoslynDependencies.Microsoft.VisualStudio.Language.NavigateTo.Interfaces","15.0.25726-Preview5",""
 "RoslynDependencies.Microsoft.VisualStudio.Language.NavigateTo.Interfaces","15.0.25920-RC",""
+"RoyWpf.Behaviors.KeyTrigger","0.1.1",""
 "Rubito.SimpleFormsAuth","1.0.0",""
 "Rubito.SimpleFormsAuth","1.1.0",""
 "Rubito.SimpleFormsAuth","1.2.0",""
