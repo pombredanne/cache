@@ -3048,6 +3048,7 @@
 "Dotnet.Microservice.Dnx","1.0.2",""
 "Dotnet.Microservice.Dnx","1.0.3",""
 "DotnetBoilerplate.CorrelationId","1.6.0",""
+"DotnetBoilerplate.CorrelationId","1.6.1",""
 "DotnetKubernetesWebTemplate","0.0.1",""
 "DotnetSpider.Mongo","4.0.0",""
 "DotnetSpider.Mongo","4.0.3",""
