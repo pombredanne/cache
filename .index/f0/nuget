@@ -712,6 +712,8 @@
 "AspCore.Caching","1.0.7",""
 "AspCore.Caching","1.0.8",""
 "AspCore.Caching","1.0.9",""
+"AspCore.Caching","1.1.0",""
+"AspCore.Caching","1.1.1",""
 "AspNetCore.ClaimsValueProvider.Fork","2.0.0",""
 "AspNetCore.ClaimsValueProvider.Fork","2.1.0",""
 "AspNetCore.Infrastructure.Repositories.EntityFrameworkCore","1.0.0",""
