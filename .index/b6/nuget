@@ -5222,6 +5222,8 @@
 "MediaGetCore","2.0.0-CI00004",""
 "MediaGetCore","2.0.0-CI00006",""
 "MediaGetCore","2.0.0-CI00011",""
+"MediaWrapper","1.0.0",""
+"MediaWrapper","1.0.1",""
 "Meerkat.Security.Hmac.AspNetCore","4.0.0",""
 "Megadotnet.MessageMQ.IAdapter","1.0.0.2",""
 "Megadotnet.MessageMQ.IAdapter","1.0.0.3",""
