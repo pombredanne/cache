@@ -3169,6 +3169,7 @@
 "EvalScript","2.6.5",""
 "EventBuilder.Events.Consumers","1.0.0",""
 "EventBuilder.Events.Consumers","1.1.0",""
+"Evidos.NEventStore","5.2.16",""
 "ExcelToJsonParser","1.0.0",""
 "ExcelToJsonParser","1.0.1",""
 "ExcelToJsonParser","1.0.2",""

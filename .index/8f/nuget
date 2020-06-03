@@ -2342,6 +2342,7 @@
 "EasyAbp.PaymentService.WeChatPay.MongoDB","0.1.7",""
 "EasyAbp.PaymentService.WeChatPay.MongoDB","0.1.8",""
 "EasyAbp.PaymentService.WeChatPay.MongoDB","0.2.0",""
+"EasyAbp.PaymentService.WeChatPay.MongoDB","0.2.1",""
 "EasyDDD.Repository.Redis","1.1.0",""
 "Edi.Blog.OpmlFileWriter","1.0.0",""
 "Edi.Blog.OpmlFileWriter","1.1.0",""
