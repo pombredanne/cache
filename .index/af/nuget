@@ -7275,6 +7275,7 @@
 "SimpleInjector.Integration.AspNetCore.Mvc.Core","5.0.0-beta1",""
 "SimpleTrading.Deposit.Postgresql","1.0.0",""
 "SimpleTrading.Deposit.Postgresql","1.0.1",""
+"SimpleTrading.Deposit.Postgresql","1.0.2",""
 "Simplify.Repository","0.2.0",""
 "Simplify.Repository","0.3.0",""
 "Simplify.Repository","0.4.0",""
