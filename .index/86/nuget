@@ -2970,6 +2970,7 @@
 "DotLog","1.3.3",""
 "DotNetCloud.RequestMonitoring.DataDog","1.0.0-alpha.1",""
 "DotNetCloud.RequestMonitoring.DataDog","1.0.0-alpha.2",""
+"DotNetCloud.RequestMonitoring.DataDog","1.0.0-alpha.3",""
 "DotNetLiberty.Http.WebApiClient","1.0.0",""
 "DotNetLiberty.Http.WebApiClient","1.0.1",""
 "DotNetOpenAuth.OpenIdInfoCard.UI","4.0.0-RC1",""
