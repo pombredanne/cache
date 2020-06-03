@@ -13926,6 +13926,7 @@
 "libclang.runtime.win-x86","9.0.0",""
 "libtorch-cuda-10.2-win-x64-part5","0.3.52215",""
 "libtorch-cuda-10.2-win-x64-part5","1.5.0",""
+"libtorch-cuda-10.2-win-x64-part5","1.5.6",""
 "libwebp.v140.redist","0.4.4",""
 "libwebp.v140.redist","0.5.0",""
 "libwebp.v140.redist","0.5.0.1",""

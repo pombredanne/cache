@@ -13035,6 +13035,7 @@
 "libscodecvt.lib","3.0.0.2",""
 "libscodecvt.lib","3.0.0.3",""
 "libscodecvt.lib","3.0.0.4",""
+"libtorch-cuda-10.2","1.5.6",""
 "log4cplus.redist","1.2.0-rc1",""
 "log4net.els","0.1.0",""
 "log4net.els","0.2.0",""
