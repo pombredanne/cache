@@ -4198,6 +4198,7 @@
 "GSS.Authentication.CAS.DistributedCache","3.0.0",""
 "GSS.Authentication.CAS.DistributedCache","4.0.0",""
 "GSS.Authentication.CAS.DistributedCache","4.1.0",""
+"Gabriel.Cat.Blazor.Client","1.0.0-preview3",""
 "Gameloop.Vdf.JsonConverter","0.1.0",""
 "Gameloop.Vdf.JsonConverter","0.1.1",""
 "Gameloop.Vdf.JsonConverter","0.2.0",""

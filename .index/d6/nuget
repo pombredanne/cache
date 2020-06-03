@@ -10861,6 +10861,7 @@
 "WorkflowCore.Persistence.EntityFramework","2.2.0",""
 "WorkflowCore.Persistence.EntityFramework","3.0.0",""
 "WorkflowCore.Persistence.EntityFramework","3.1.0",""
+"Wsits.ChildSupport.Architecture.DataModels","1.0.0",""
 "XAct.History.I.Db.EF","0.0.507",""
 "XAct.History.I.Db.EF","0.0.512",""
 "XAct.History.I.Db.EF","0.0.514",""

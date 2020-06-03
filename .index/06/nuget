@@ -1923,6 +1923,7 @@
 "DataElement","1.0.0",""
 "DatabaseWrapper.Mysql","3.0.0",""
 "DatabaseWrapper.Mysql","3.0.0.2",""
+"DatabaseWrapper.Mysql","3.0.1",""
 "Dates.Recurring","1.0.0",""
 "Dates.Recurring","1.0.10",""
 "Dates.Recurring","1.0.13",""
