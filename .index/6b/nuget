@@ -1554,6 +1554,7 @@
 "Ascon.Pilot.BimConverters.Core","20.14.2-alpha",""
 "Ascon.Pilot.BimConverters.Core","20.14.3-alpha",""
 "Ascon.Pilot.BimConverters.Core","20.14.4-alpha",""
+"Ascon.Pilot.BimConverters.Core","20.22.6-alpha",""
 "AspNet.Security.OAuth.Tanner.Yanet","1.0.0",""
 "AspNetCore.MassTransit","1.0.0",""
 "AspNetCore.MassTransit","1.1.0",""

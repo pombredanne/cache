@@ -11254,6 +11254,7 @@
 "dotnet-passbook","2.0.2",""
 "dotnet-rar","0.0.1",""
 "dotnet-rar","0.0.2",""
+"ee.itcollege.ansten.Contracts.Domain.Base","1.0.0",""
 "ee.itcollege.klaupa.Contracts.DAL.Base","1.0.0",""
 "ee.itcollege.krruub.Identity","1.0.0",""
 "elmah.io.apps.bitbucket","1.0.1",""
