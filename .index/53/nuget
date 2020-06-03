@@ -2457,6 +2457,7 @@
 "EtlLib.Nodes.AmazonS3","1.0.8-beta-geeebf5b0e2",""
 "ExRam.Gremlinq.Providers.JanusGraph","8.0.0-preview-0577",""
 "ExRam.Gremlinq.Providers.JanusGraph","8.0.0-preview-0586",""
+"ExRam.Gremlinq.Providers.JanusGraph","8.0.0-preview-0707",""
 "ExceptionHero","1.0.0",""
 "Exito.Cube.Core","1.0.0",""
 "ExpandableGrid","1.0.0",""
