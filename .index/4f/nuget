@@ -7643,6 +7643,8 @@
 "MarkSFrancis.Console","1.1.0-beta2",""
 "MasterCard-ProductIdentifier","1.0.0",""
 "McTools.Xrm.Connection.WinForms.2015","1.0.0",""
+"Mcs.Castle.Log4Net","5.8.0",""
+"Mcs.Zero.NHibernate","5.8.0",""
 "MediaBrowser.Model.Signed","3.0.414",""
 "MediaBrowser.Model.Signed","3.0.415",""
 "MediaBrowser.Model.Signed","3.0.416",""

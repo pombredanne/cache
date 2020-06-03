@@ -5240,6 +5240,7 @@
 "Mcma.Aws.ApiGateway","0.8.6",""
 "Mcma.Aws.ApiGateway","0.8.7",""
 "Mcma.Aws.ApiGateway","0.9.0",""
+"Mcs.EntityFrameworkCore","5.8.0",""
 "MementoFX.Persistence.RavenDB","1.0.0",""
 "MementoFX.Persistence.RavenDB","1.1.0",""
 "MementoFX.Persistence.RavenDB","1.1.0-pre1",""

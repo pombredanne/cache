@@ -7494,6 +7494,7 @@
 "MaterialDesignLite.TagHelpers","0.0.0",""
 "MaterialDesignLite.TagHelpers","1.0.0",""
 "Max.Domain.Mapping","1.0.0",""
+"Mcs.AspNetCore.TestBase","5.8.0",""
 "Meep.MeepSQL","1.0.0-alpha",""
 "Meep.MeepSQL","1.0.2-beta",""
 "MentKit.Persistence","0.1.0-alpha7",""

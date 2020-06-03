@@ -6054,6 +6054,7 @@
 "McApp.AppCore.EntityFrameworkCore","3.5.2",""
 "McApp.AppCore.EntityFrameworkCore","3.5.3",""
 "McApp.AppCore.EntityFrameworkCore","3.5.4",""
+"Mcs.EntityFramework.Common","5.8.0",""
 "MembershipAdapter","0.6.0",""
 "MembershipAdapter","0.6.1",""
 "MembershipAdapter","0.6.2",""
