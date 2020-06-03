@@ -11266,6 +11266,7 @@
 "Vanara.PInvoke.WcmApi","3.2.5",""
 "Vanara.PInvoke.WcmApi","3.2.6",""
 "Vanara.PInvoke.WcmApi","3.2.7",""
+"Vanara.PInvoke.WcmApi","3.2.9",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636746164048861423","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636887136748325181","1.0.0",""
 "Vesper.Test.AWS.SqsLambda","0.8.0",""
