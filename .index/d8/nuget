@@ -13038,6 +13038,7 @@
 "runtime.ubuntu.14.04-x64.Microsoft.NETCore.DotNetHost","1.1.13",""
 "runtime.ubuntu.14.04-x64.Microsoft.NETCore.DotNetHost","1.1.9",""
 "runtime.win8-arm.Microsoft.NETCore.ILDAsm","2.0.0-preview1-25301-02",""
+"rzLibCore","1.0.0",""
 "scalejs.signalr","1.1.3",""
 "scanDrivers","1.0.0",""
 "scroll-into-view.TypeScript.DefinitelyTyped","0.0.1",""
