@@ -7938,6 +7938,7 @@
 "Microsoft.Owin.Host.HttpListener.tr","4.0.1",""
 "Microsoft.Owin.Host.HttpListener.tr","4.1.0",""
 "Microsoft.Quantum.Decompositions.IonQ","0.11.2006.206-beta",""
+"Microsoft.Quantum.Decompositions.IonQ","0.11.2006.207",""
 "Microsoft.SCP.Net.Samples.HelloWorld","0.9.4.131-preview",""
 "Microsoft.TeamFoundation.ReferenceAssemblies","12.0.21005.1",""
 "Microsoft.VisualStudio.CommandBars","8.0.0",""

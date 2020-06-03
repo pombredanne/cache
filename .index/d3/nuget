@@ -10042,6 +10042,7 @@
 "Wolfpack.Contrib.Startup.MacAddresses","2.4.1",""
 "Wolfpack.Contrib.Startup.MacAddresses","2.4.2",""
 "Wolfpack.Contrib.Startup.MacAddresses","2.4.3",""
+"Wsits.ChildSupport.Architecture.DataAccess","1.0.0",""
 "XCodeless.Log","1.0.0.1",""
 "XF.BindableProperty.Fody","1.1.4",""
 "XF.BindableProperty.Fody","1.1.6",""

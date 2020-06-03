@@ -5643,6 +5643,7 @@
 "Microsoft.ProgramSynthesis.Extraction.Json","7.9.0",""
 "Microsoft.ProgramSynthesis.Extraction.Json","7.9.1",""
 "Microsoft.Quantum.Providers.Honeywell","0.11.2006.206-beta",""
+"Microsoft.Quantum.Providers.Honeywell","0.11.2006.207",""
 "Microsoft.Reporting.Windows.Chart.Internal","1.0.0",""
 "Microsoft.Rest.ClientRuntime.Etw","0.10.0",""
 "Microsoft.Rest.ClientRuntime.Etw","0.11.0",""

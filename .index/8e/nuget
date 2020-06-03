@@ -8346,6 +8346,8 @@
 "TEA.Repository.DocumentDB","1.0.7",""
 "TEA.Repository.DocumentDB","1.0.8",""
 "TEA.Repository.DocumentDB","1.0.9",""
+"TT.HttpClient","1.0.2",""
+"TT.RabbitMQ","1.0.2",""
 "TT.wxutest","1.0.0.1-dev",""
 "TWCore.Data","0.1.0",""
 "TWCore.Data","0.2.0-alpha",""
