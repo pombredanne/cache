@@ -8317,6 +8317,7 @@
 "Vanara.PInvoke.CredUI","3.2.5",""
 "Vanara.PInvoke.CredUI","3.2.6",""
 "Vanara.PInvoke.CredUI","3.2.7",""
+"Vanara.PInvoke.CredUI","3.2.9",""
 "VerifyKeyReturns400IfScopeNotMet.636704848340693924","1.0.0",""
 "VerifyPackageKeySupportsFullAndTempApiKeys.636579505797959123","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636579505653458664","1.0.0",""
