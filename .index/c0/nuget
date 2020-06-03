@@ -10413,6 +10413,7 @@
 "rmt_curl.overlay-v140_x64_Debug_static","7.45.0",""
 "rock.graphql.consumer.classic","1.0.0",""
 "rock.graphql.consumer.classic","1.0.2.1",""
+"rock.graphql.consumer.classic","1.0.2.2",""
 "runtime.opensuse.42.3-x64.runtime.native.System.Security.Cryptography.OpenSsl","4.3.3",""
 "runtime.ubuntu.14.04-x64.runtime.native.System.IO.Compression","1.0.1",""
 "runtime.ubuntu.14.04-x64.runtime.native.System.IO.Compression","1.0.1-rc2-24027",""
