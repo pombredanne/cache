@@ -1146,6 +1146,8 @@
 "BodyStatus","3.1.0",""
 "BodyStatus","3.1.1",""
 "Bolt.App.Core.Extensions.Default","1.0.0-beta01",""
+"Bolt.App.Core.Extensions.Default","1.0.0-beta02",""
+"Bolt.App.Core.Extensions.Default","1.0.0-beta03",""
 "Bongani.Utilities.AppLogger","1.0.0",""
 "Bot.Builder.Community.Recognizers.FuzzyRecognizer","1.0.173",""
 "Bot.Builder.Community.Recognizers.FuzzyRecognizer","1.0.237",""
