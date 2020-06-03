@@ -6094,6 +6094,7 @@
 "NLog.Telegram.Format","1.0.2",""
 "NLog.Telegram.Format","1.0.3",""
 "NModbus4.Core","1.0.0",""
+"NModbus4.Core","1.0.1",""
 "NSI.DocumentGenerator","1.0.0",""
 "NToastNotify","1.0.2",""
 "NToastNotify","1.0.3",""

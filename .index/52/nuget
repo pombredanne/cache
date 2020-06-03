@@ -8135,6 +8135,8 @@
 "TestListeners","1.0.1",""
 "TestMultipleVersion.636556220581684674","1.0.0",""
 "TestMultipleVersion.636556220581684674","2.0.0",""
+"TestNugetDLL","1.0.0",""
+"TestNugetDLL","1.0.1",""
 "TestPackage.test.a","1.0.2",""
 "TestPackage.test.a","1.0.3",""
 "TestPackage.test.a","1.0.4",""
