@@ -2491,6 +2491,7 @@
 "DCS.AffiliateStore","1.0.3",""
 "DN.Util.EntityFrameworkCore.Sqlserver","1.0.0",""
 "DProjects.Core.Db.SQLite","2.0.1",""
+"DProjects.Core.Db.SQLite","2.0.2",""
 "DSFramework.Logging.Serilog.Sink.MongoDB","0.6.0-alpha0021",""
 "DSFramework.Logging.Serilog.Sink.MongoDB","1.0.0",""
 "DSFramework.Logging.Serilog.Sink.MongoDB","1.0.0-beta0001",""
