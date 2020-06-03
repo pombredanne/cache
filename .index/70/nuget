@@ -5115,6 +5115,8 @@
 "Mbrewerton.DotNetPivotalTrackerApi","1.1.1-alpha",""
 "Mbrewerton.DotNetPivotalTrackerApi","1.2.0-alpha",""
 "Mbrewerton.DotNetPivotalTrackerApi","1.3.0-alpha",""
+"Mcs.RedisCache","5.8.0",""
+"Mcs.Web.Api.OData","5.8.0",""
 "Mediator.Net.Middlewares.UnitOfWork","0.9.23",""
 "MedieLogin.Web.ServiceClient","0.8.0",""
 "MedieLogin.Web.ServiceClient","0.8.0.1",""

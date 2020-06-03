@@ -2367,6 +2367,7 @@
 "CustomObjectPool","1.0.0",""
 "CustomObjectPool","1.0.1",""
 "CypherBox","1.0.0",""
+"DBUtility.Core","1.0.0",""
 "DF.DteAsynchronous.Core","1.0.0",""
 "DISClient","1.0.0",""
 "DISClient","1.0.1",""
