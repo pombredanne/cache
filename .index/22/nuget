@@ -5498,6 +5498,7 @@
 "NdefLibrary","4.0.0",""
 "NdefLibrary","4.1.0",""
 "NemDbCore","1.0.0-beta",""
+"Neo4j.QueryCaching","1.0.0-beta",""
 "Neptuo.PresentationModels","7.0.0",""
 "Neptuo.PresentationModels","7.1.0",""
 "Neptuo.PresentationModels","7.2.0",""

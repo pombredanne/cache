@@ -7582,6 +7582,7 @@
 "Microsoft.NETCore.TestHost","5.0.0-preview.4.20251.6",""
 "Microsoft.Practices.ESB.ExceptionHandling","2.2.0",""
 "Microsoft.Quantum.IQSharp.Jupyter","0.11.2005.3003-beta",""
+"Microsoft.Quantum.IQSharp.Jupyter","0.11.2006.207",""
 "Microsoft.ReportViewer.Runtime.WebForms","10.0.30319.1",""
 "Microsoft.ReportViewer.Runtime.WebForms","11.0.3452",""
 "Microsoft.ReportViewer.Runtime.WebForms","12.0.2402.15",""

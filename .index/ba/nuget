@@ -9092,6 +9092,8 @@
 "TLS.Data.SQL.DbClient.MSSQL","1.4.0",""
 "TLS.Data.SQL.DbClient.MSSQL","1.5.0",""
 "TNT.Plugin","1.2.50.1019",""
+"TT.Abp.OssManagement","1.0.1",""
+"TT.Abp.OssManagement","1.0.2",""
 "TV-show-info","1.0.0",""
 "TV-show-info","1.0.1",""
 "TWCore.Serialization.PWSerializer","0.1.0",""

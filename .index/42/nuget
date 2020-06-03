@@ -9928,6 +9928,7 @@
 "Steeltoe.CircuitBreaker.Abstractions","3.0.0-m1",""
 "Steeltoe.CircuitBreaker.Abstractions","3.0.0-m2",""
 "Stemy.GeoJsonCluster","1.0.0",""
+"StevenGroup.Common.EventBus.RabbitMQ","1.0.0",""
 "StockSharp.Cryptopia","5.0.0",""
 "StockSharp.Cryptopia","5.0.1",""
 "Stormancer.Management","3.0.0.3",""
