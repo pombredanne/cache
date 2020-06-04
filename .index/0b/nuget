@@ -537,6 +537,7 @@
 "AsyncPoco","2.0.2",""
 "AtlasEngine.Client.Integration.AspNetCore","0.0.22",""
 "AtlasEngine.Client.Integration.AspNetCore","0.0.23",""
+"AtlasEngine.Client.Integration.AspNetCore","0.0.9-queryandtermination",""
 "AtomEventStore","1.0.0",""
 "AtomEventStore","1.1.0",""
 "AtomEventStore","1.2.0",""

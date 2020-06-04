@@ -10180,6 +10180,7 @@
 "cloudscribe.SimpleContent.Storage.EFCore.PostgreSql","5.0.0",""
 "cloudscribe.SimpleContent.Storage.EFCore.PostgreSql","5.0.0-preview20190902",""
 "cloudscribe.SimpleContent.Storage.EFCore.PostgreSql","5.0.1",""
+"com.enola.inventorymanager.Contracts.Domain","1.0.0",""
 "com.qiny.framework.json","1.0.0",""
 "com.qiny.framework.json","1.0.0.1",""
 "combat-dev-mingw64","1.0.0",""
