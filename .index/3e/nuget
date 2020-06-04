@@ -607,6 +607,7 @@
 "BioFSharp.ImgP","1.2.1-beta2",""
 "BioFSharp.ImgP","2.0.0-beta",""
 "BioFSharp.ImgP","2.0.0-beta1",""
+"Bit.Client.Web.Wasm","5.3.0",""
 "Bit.System.Diagnostics.CodeAnalysis","1.0.0",""
 "Bitspco.Framework.Filters.ErrorHandler","1.0.0",""
 "Bitspco.Framework.Filters.ErrorHandler","1.0.3",""
