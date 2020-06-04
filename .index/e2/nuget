@@ -674,6 +674,7 @@
 "AopCaching.InMemory.Autofac","0.1.3",""
 "Apache.Qpid.Proton.Unoff.IA32.redist","0.8.0",""
 "ApexCode.Interactive.Formatting","0.0.1-alpha.1",""
+"ApexCode.Interactive.Formatting","0.0.1-alpha.2",""
 "App.Metrics.Health.Checks.Sql","2.0.0",""
 "App.Metrics.Health.Checks.Sql","2.1.0",""
 "App.Metrics.Health.Checks.Sql","2.1.0-alpha-0101",""
