@@ -3265,6 +3265,7 @@
 "DotNet.Build.EazfuscatorNet","2.1.0-preview.3.0.20061.1",""
 "DotNet.Build.EazfuscatorNet","2.1.0-preview.3.0.20061.2",""
 "DotNet.Build.EazfuscatorNet","42.42.42.42424-ci",""
+"DotNetAdapterSDK","1.0.0",""
 "DotNetUtilities.Wpf","0.1.0",""
 "DotNetty.Buffers.Lib","1.0.0",""
 "DotNetty.Buffers.Lib","1.1.0",""
