@@ -3102,6 +3102,7 @@
 "EasyAbp.EShop.Orders.HttpApi.Client","0.1.9",""
 "EasyAbp.EShop.Orders.HttpApi.Client","0.2.0",""
 "EasyAbp.EShop.Orders.HttpApi.Client","0.2.1",""
+"EasyAbp.EShop.Orders.HttpApi.Client","0.2.2",""
 "EasyAbp.PaymentService.WeChatPay.Application.Contracts","0.1.0",""
 "EasyAbp.PaymentService.WeChatPay.Application.Contracts","0.1.1",""
 "EasyAbp.PaymentService.WeChatPay.Application.Contracts","0.1.2",""
