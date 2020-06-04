@@ -8065,6 +8065,7 @@
 "Microsoft.Orleans.Streaming.AzureStorage","3.1.5",""
 "Microsoft.Orleans.Streaming.AzureStorage","3.1.6",""
 "Microsoft.Orleans.Streaming.AzureStorage","3.1.7",""
+"Microsoft.Orleans.Streaming.AzureStorage","3.2.0",""
 "Microsoft.Orleans.Streaming.AzureStorage","3.2.0-rc1",""
 "Microsoft.Orleans.Streaming.AzureStorage","3.2.0-rc2",""
 "Microsoft.Owin.Host.SystemWeb.pt-br","2.0.0",""
