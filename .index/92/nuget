@@ -3585,6 +3585,7 @@
 "ExcelAbstraction.Tests","0.0.3",""
 "ExcelAbstraction.Tests","0.0.4",""
 "ExcelAbstraction.Tests","0.0.5",""
+"ExcelImporter.SqlServer","1.0.0",""
 "ExcelNPOI","1.0.0",""
 "Exceptionless.NLog","2.0.1001-beta1",""
 "Exceptionless.NLog","2.0.1003-preview",""
