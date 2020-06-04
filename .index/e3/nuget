@@ -1109,6 +1109,7 @@
 "AspCore.ApiClient","1.1.7",""
 "AspCore.ApiClient","1.1.8",""
 "AspCore.ApiClient","1.1.9",""
+"AspCore.ApiClient","1.2.0",""
 "AspNet-Mvc-Localizable-Theme-View-Engine-Skeleton","1.4.0",""
 "AspNetCore.HealthChecks.UI.SqlServer.Storage","3.1.1-preview1",""
 "AspNetCore.HealthChecks.UI.SqlServer.Storage","3.1.1-preview2",""

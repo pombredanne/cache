@@ -2618,6 +2618,7 @@
 "EasyAbp.PaymentService.WeChatPay.HttpApi","0.2.1",""
 "EasyAbp.PaymentService.WeChatPay.HttpApi","0.3.0",""
 "EasyAbp.PaymentService.WeChatPay.HttpApi","0.3.1",""
+"EasyAbp.PaymentService.WeChatPay.HttpApi","0.3.2",""
 "EasyBase64ToImage","1.0.0",""
 "EasyCSVNet","1.0.0",""
 "EasyCSVNet","1.0.1",""
