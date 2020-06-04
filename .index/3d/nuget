@@ -2708,6 +2708,7 @@
 "DatabaseWrapper.SqlServer","3.0.0",""
 "DatabaseWrapper.SqlServer","3.0.0.2",""
 "DatabaseWrapper.SqlServer","3.0.1",""
+"DatabaseWrapper.SqlServer","3.0.1.1",""
 "DbKeeperNet.Extensions.Log4Net","1.5.1.2",""
 "DbKeeperNet.Extensions.Log4Net","1.5.1.3",""
 "DbKeeperNet.Extensions.Log4Net","1.6.1.1",""

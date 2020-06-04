@@ -8458,6 +8458,8 @@
 "SFA.DAS.Configuration.AzureTableStorage","3.0.82",""
 "SFA.DAS.Configuration.AzureTableStorage","3.0.84",""
 "SK.Data.Pipeline.Azure","0.1.0",""
+"SPGID","1.0.0",""
+"SPGID","1.1.0",""
 "STSSampleGiftLoyalityApp","1.0.0",""
 "SWS.Framework.Package","1.0.0",""
 "SalesforceMarketingCloudSDK","1.0.0",""

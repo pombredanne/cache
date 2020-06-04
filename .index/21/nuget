@@ -9475,6 +9475,7 @@
 "Serilog.Enrichers.Environment","2.1.3-dev-00746",""
 "Serilog.Enrichers.Environment","2.1.3-dev-00748",""
 "Serilog.Enrichers.Environment","2.1.3-dev-00752",""
+"Serilog.Sinks.Http.Logit","1.0.0",""
 "Serilog.Sinks.SumoLogic","2.0.0",""
 "Serilog.Sinks.SumoLogic","2.0.0-beta1",""
 "Serilog.Sinks.SumoLogic","2.0.1",""
