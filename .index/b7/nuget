@@ -7628,6 +7628,7 @@
 "Serilog.Sinks.Email.TLS1.2","2.3.1-dev-00095",""
 "Serilog.Sinks.Email.TLS1.2","2.3.1.1-dev-00097",""
 "Serilog.Sinks.Fluentd.Logstash","1.0.0",""
+"Serilog.Sinks.NotepadPlusPlus","0.0.1-alpha",""
 "SerilogWeb.Owin","1.0.1",""
 "ServiceBlock","1.0.0",""
 "ServiceBlock","1.0.1",""
