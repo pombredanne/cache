@@ -2715,6 +2715,7 @@
 "Collector.Serilog.Enrichers.Correlation","2.0.0",""
 "Collector.Serilog.Enrichers.Correlation","2.0.1",""
 "Collector.Serilog.Enrichers.Correlation","2.0.2",""
+"Collector.Serilog.Enrichers.Correlation","2.1.0",""
 "ComboPatterns","1.0.10",""
 "ComboPatterns","1.0.3",""
 "ComboPatterns","1.0.4",""

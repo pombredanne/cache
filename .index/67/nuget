@@ -10550,6 +10550,7 @@
 "Thor.Core.Session.Abstractions","2.4.3-preview.1",""
 "Thor.Core.Session.Abstractions","2.4.4",""
 "Thor.Core.Session.Abstractions","2.4.5",""
+"Thor.Core.Session.Abstractions","2.5.0",""
 "ThreadHelper","1.0.0",""
 "TickTrader.Algo.ApiExtensions","1.0.0",""
 "TickTrader.Algo.ApiExtensions","1.0.1",""

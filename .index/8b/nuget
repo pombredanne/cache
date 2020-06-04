@@ -7691,6 +7691,7 @@
 "SimpleStack.Orm.Sqlite","1.0.0-rc7",""
 "SimpleStack.Orm.Sqlite","1.0.0-rc8",""
 "SimpleStack.Orm.Sqlite","1.0.0-rc9",""
+"SimpleTrading.Internal.Report.Exposure.AzureStorage","1.0.0",""
 "SimpleXml","1.0.0",""
 "SimpleXml","1.1.0",""
 "SimpleXml","1.1.1",""
