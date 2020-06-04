@@ -8686,6 +8686,7 @@
 "Sers.Core.Module.Log","1.1.1",""
 "Sers.Core.Module.Log","1.1.6",""
 "Sers.Core.Module.Log","1.1.8",""
+"ServiceConnect.Container.ServiceCollection","1.0.0",""
 "ServiceStack.OrmLite.MySql","3.4.2",""
 "ServiceStack.OrmLite.MySql","3.4.3",""
 "ServiceStack.OrmLite.MySql","3.4.4",""

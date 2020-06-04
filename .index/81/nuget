@@ -8620,6 +8620,7 @@
 "Volo.Abp.PermissionManagement.EntityFrameworkCore","2.6.2",""
 "Volo.Abp.PermissionManagement.EntityFrameworkCore","2.7.0",""
 "Volo.Abp.PermissionManagement.EntityFrameworkCore","2.8.0",""
+"Volo.Abp.PermissionManagement.EntityFrameworkCore","2.9.0",""
 "VsixTesting.Installer","0.1.45-beta",""
 "VsixTesting.Installer","0.1.49-beta",""
 "VulcanAnalytics.DBTester","0.1.0.7-alpha",""

@@ -11100,6 +11100,7 @@
 "Volo.Abp.AspNetCore.Authentication.JwtBearer","2.6.2",""
 "Volo.Abp.AspNetCore.Authentication.JwtBearer","2.7.0",""
 "Volo.Abp.AspNetCore.Authentication.JwtBearer","2.8.0",""
+"Volo.Abp.AspNetCore.Authentication.JwtBearer","2.9.0",""
 "Volo.Abp.EmailManagement.Domain","0.18.1",""
 "WMBasePlantilla.AccesoDatos","1.0.1",""
 "WSTrustFiddlerWebTestExport","2.6.0",""

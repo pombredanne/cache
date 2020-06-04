@@ -7157,6 +7157,7 @@
 "NServiceBus.RavenDB","6.1.0",""
 "NServiceBus.RavenDB","6.2.0",""
 "NServiceBus.RavenDB","6.3.0",""
+"NServiceBus.RavenDB","6.3.1",""
 "NTier.Core.Enum","1.0.0.1",""
 "NUtils","1.0.0",""
 "NUtils","1.1.0",""
