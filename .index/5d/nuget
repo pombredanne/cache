@@ -775,6 +775,7 @@
 "Bauland.Gadgeteer.TempHumid","1.0.0-preview3",""
 "Bedrock.Shared.Cache.Redis","1.0.0",""
 "Bedrock.Shared.Cache.Redis","1.0.1",""
+"BeeX.Caching.Redis","1.0.0",""
 "Bellatrix.Configuration","1.1.0.25",""
 "Bellatrix.Configuration","1.1.1",""
 "Bellatrix.Configuration","1.2.8",""
