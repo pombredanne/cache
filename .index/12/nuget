@@ -1669,6 +1669,7 @@
 "CSF.Zpt.ExpressionEvaluators.StringExpressions","1.0.6",""
 "CSF.Zpt.ExpressionEvaluators.StringExpressions","1.1.0",""
 "CService.Utility","1.0.0",""
+"CService.Utility","1.0.0.1",""
 "CSharp.EntityFramework","1.0.0",""
 "CSharp.QRCode","1.0.0",""
 "Cake.Powershell","0.0.3",""
