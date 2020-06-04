@@ -8056,6 +8056,7 @@
 "Siel","0.0.9",""
 "SilverFit.Nui.Shared","1.0.6",""
 "SimpleCqrs.EventStore.MongoDb","1.0.0",""
+"SimpleDependencyInjection","1.0.0",""
 "SimpleHttpServer","1.0.0",""
 "SimpleInjectorUtility","1.0.1",""
 "SimpleInjectorUtility","1.0.2",""
