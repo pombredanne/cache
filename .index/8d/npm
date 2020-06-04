@@ -3139,6 +3139,7 @@
 "@cloudcomponents/cdk-static-website","1.0.7","MIT"
 "@cloudcomponents/cdk-static-website","1.0.8","MIT"
 "@cloudcomponents/cdk-static-website","1.0.9","MIT"
+"@clutch-marketplace/styled-components-theme","0.0.1",""
 "@cnbritain/merlin-www-js-log","1.0.1","ISC"
 "@cnbritain/merlin-www-js-log","1.0.11","ISC"
 "@cnbritain/merlin-www-js-log","1.0.11-alpha.de38a0a8","ISC"
