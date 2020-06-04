@@ -997,6 +997,7 @@
 "CCLLC.Core.ProcessModel.Sources","1.1.2-beta",""
 "CCLLC.Core.ProcessModel.Sources","1.1.3",""
 "CCLLC.Core.ProcessModel.Sources","1.1.4",""
+"CCLLC.Core.ProcessModel.Sources","1.1.5",""
 "CD.Demo","1.0.0",""
 "CDorst.Common.Functions.WrapStringInDoubleQuotes","1.0.0",""
 "CDorst.Metaproject.PackageIndex.Functions.CopyNupkgToLocalSource","1.0.0",""
