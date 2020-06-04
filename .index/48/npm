@@ -16975,6 +16975,7 @@
 "@use-ui/bootstrap3","1.0.7","MIT"
 "@use-ui/bootstrap3","1.0.8","MIT"
 "@use-ui/bootstrap3","1.0.9","MIT"
+"@useoptic/snapshot-tests","8.1.0",""
 "@utkusarioglu/string-assist","0.0.5","MIT"
 "@utkusarioglu/string-assist","0.0.6","MIT"
 "@valos/engine","0.30.0","MIT"
