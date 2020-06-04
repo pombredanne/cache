@@ -8119,6 +8119,7 @@
 "VerifyKeyReturns400IfScopeNotMet.636762110585734892","1.0.0",""
 "VerifyPackageKey_Returns400IfPackageVerifyScopePolicyNotMet.636329398644115514","1.0.0",""
 "Vibrancy.Forms","1.0.0",""
+"Vibrancy.Forms","1.0.5",""
 "Vintasoft.Twain","11.0.0.1",""
 "Vintasoft.Twain","11.0.0.3",""
 "Vintasoft.Twain","11.0.1.1",""

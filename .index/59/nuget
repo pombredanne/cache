@@ -7011,6 +7011,7 @@
 "Microsoft.Orleans.Clustering.DynamoDB","3.1.5",""
 "Microsoft.Orleans.Clustering.DynamoDB","3.1.6",""
 "Microsoft.Orleans.Clustering.DynamoDB","3.1.7",""
+"Microsoft.Orleans.Clustering.DynamoDB","3.2.0",""
 "Microsoft.Orleans.Clustering.DynamoDB","3.2.0-rc1",""
 "Microsoft.Orleans.Clustering.DynamoDB","3.2.0-rc2",""
 "Microsoft.Owin.Host.HttpListener.de","2.0.0",""

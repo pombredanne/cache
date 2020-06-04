@@ -4562,6 +4562,7 @@
 "Microsoft.NETCore.ILDAsm","5.0.0-preview.2.20160.6",""
 "Microsoft.NETCore.ILDAsm","5.0.0-preview.3.20214.6",""
 "Microsoft.NETCore.ILDAsm","5.0.0-preview.4.20251.6",""
+"Microsoft.Orleans.GrainDirectory.Redis","3.2.0-beta1",""
 "Microsoft.TeamFoundation.Build","12.0.30723",""
 "Microsoft.TeamFoundation.Build","12.0.30723.0",""
 "Microsoft.TeamFoundation.Build","12.0.30723.1",""
