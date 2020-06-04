@@ -6215,6 +6215,7 @@
 "Namotion.Storage.Azure.Storage.Blob","0.1.0",""
 "Namotion.Storage.Azure.Storage.Blob","0.5.0",""
 "Namotion.Storage.Azure.Storage.Blob","0.5.1",""
+"Namotion.Storage.Azure.Storage.Blob","0.5.2",""
 "Naos.MessageBus.Hangfire.Bootstrapper","1.1.10-newserializationandd",""
 "Naos.MessageBus.Hangfire.Bootstrapper","1.1.13-newserializationandd",""
 "Naos.MessageBus.Hangfire.Bootstrapper","1.1.14-newserializationandd",""

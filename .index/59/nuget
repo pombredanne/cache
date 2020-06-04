@@ -6786,6 +6786,8 @@
 "MicroFx.Mapper","1.0.0",""
 "Microservice.RabbitMQMessageBrokerExtension","1.0.0",""
 "Microservice.RabbitMQMessageBrokerExtension","1.1.2",""
+"Microservice.RabbitMQMessageBrokerExtension","1.2.0-alpha0012",""
+"Microservice.RabbitMQMessageBrokerExtension","1.2.0-fixwhitespace0001",""
 "Microsoft.ApplicationInsights.Azure.WebSites","0.14.0-build25783",""
 "Microsoft.ApplicationInsights.Azure.WebSites","1.1.0",""
 "Microsoft.ApplicationInsights.Azure.WebSites","1.3.0",""
