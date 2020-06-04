@@ -4526,6 +4526,7 @@
 "InfluxDB.Collector","1.1.1",""
 "InfluxDB.Collector","1.1.1-dev-10109",""
 "InfluxDB.Collector","1.2.0-dev-00012",""
+"InfluxDB.Collector","1.2.0-dev-00018",""
 "InheritBDD.xUnit","1.0.0",""
 "InheritBDD.xUnit","1.1.0-alpha",""
 "IntelligentPlant.AppStoreConnect.Adapter.Core","0.1.0-alpha",""

@@ -2130,6 +2130,7 @@
 "BuildingBlocks.EventBus","1.0.0.8",""
 "CAKafka","1.0.0",""
 "CB.System.Runtime.Serialization","0.1.0",""
+"CB.System.Runtime.Serialization","0.1.1",""
 "CCI","1.0.0",""
 "CCI","1.0.1",""
 "CCI","1.0.10",""
