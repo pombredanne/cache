@@ -8696,6 +8696,7 @@
 "ServiceConnect.Container.ServiceCollection","1.0.0",""
 "ServiceConnect.Container.ServiceCollection","1.0.1",""
 "ServiceConnect.Container.ServiceCollection","1.0.2",""
+"ServiceConnect.Container.ServiceCollection","1.0.3",""
 "ServiceStack.OrmLite.MySql","3.4.2",""
 "ServiceStack.OrmLite.MySql","3.4.3",""
 "ServiceStack.OrmLite.MySql","3.4.4",""
