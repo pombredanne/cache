@@ -1641,6 +1641,7 @@
 "@babel/template","7.8.3","MIT"
 "@babel/template","7.8.6","MIT"
 "@backupnow/webif","0.0.1-beta.0",""
+"@backupnow/webif","0.0.1-beta.1",""
 "@ballerina/diagram","0.982.1-SNAPSHOT","Apache-2.0"
 "@ballerina/diagram","0.982.1-SNAPSHOT.1","Apache-2.0"
 "@ballerina/diagram","0.99.0-RC3","Apache-2.0"
