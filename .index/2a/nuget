@@ -1473,6 +1473,7 @@
 "Axoom.Templates.Service","0.23.2",""
 "Axoom.Templates.Service","0.23.3",""
 "Axoom.Templates.Service","0.23.4",""
+"Azure.Extensions.AspNetCore.DataProtection.Blobs","1.0.0",""
 "Azure.Extensions.AspNetCore.DataProtection.Blobs","1.0.0-preview.2",""
 "AzureCdn.Me","1.0.0",""
 "AzureCdn.Me","1.0.0.1",""

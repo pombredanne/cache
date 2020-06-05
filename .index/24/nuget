@@ -884,6 +884,7 @@
 "Azure.Batch","8.1.1",""
 "Azure.Batch","8.1.2",""
 "Azure.Batch","8.1.3",""
+"Azure.Extensions.AspNetCore.Configuration.Secrets","1.0.0",""
 "Azure.Extensions.AspNetCore.Configuration.Secrets","1.0.0-preview.2",""
 "AzureFunctionsV2.HttpExtensions","1.0.0",""
 "AzureFunctionsV2.HttpExtensions","1.1.0",""

@@ -541,6 +541,7 @@
 "AzS.Client.Net","1.1910.14.4",""
 "AzS.Client.Net","1.1910.15.2",""
 "AzS.Client.Net","1.1912.4.3",""
+"Azure.Extensions.AspNetCore.DataProtection.Keys","1.0.0",""
 "Azure.Extensions.AspNetCore.DataProtection.Keys","1.0.0-preview.2",""
 "BE.CQRS.Di.Unity","0.40.0-alpha",""
 "BE.CQRS.Di.Unity","0.41.0-alpha",""
