@@ -5635,6 +5635,8 @@
 "NuGetFunctionalTest_ad142e409c0449f5a6fdac5ce0ff21a1","2.0.0",""
 "NuGetFunctionalTest_b8844fa3fd4447dfb229bce74d0e8d83","1.0.0-v637194724337393428",""
 "NuGetFunctionalTest_b8844fa3fd4447dfb229bce74d0e8d83","1.0.0-v637194725444962613",""
+"NuGetFunctionalTest_f6819cf2a7f448d1a8b08c2f7370969e","1.0.0",""
+"NuGetFunctionalTest_f6819cf2a7f448d1a8b08c2f7370969e","2.0.0",""
 "NuGetPackageUpdater","1.0.0",""
 "NuGetReferenceHintPathRewrite","0.1.1",""
 "NuGetTestPack","1.1.1",""
