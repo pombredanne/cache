@@ -7993,6 +7993,7 @@
 "RoslynDependencies.Microsoft.VisualStudio.CodeAnalysis.Sdk.UI","15.0.25726-Preview5",""
 "RoslynDependencies.Microsoft.VisualStudio.CodeAnalysis.Sdk.UI","15.0.25920-RC",""
 "RoyWpf.Behaviors.ScrollIntoSelectionBehavior","0.1.1",""
+"RoyWpf.Behaviors.ScrollIntoSelectionBehavior","0.1.2",""
 "RozumConnectionLib","1.1.1",""
 "RozumConnectionLib","1.2.1",""
 "RozumConnectionLib","1.3.1",""

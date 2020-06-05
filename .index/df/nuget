@@ -1203,6 +1203,7 @@
 "CCLLC.Telemetry.Sources","2.1.1",""
 "CCLLC.Telemetry.Sources","2.1.2",""
 "CCWRegex","1.0.0",""
+"CDMyPrometheusExporter","5.106.0",""
 "CEAI.INFRASTRUCTURE","1.0.0",""
 "CEAI.INFRASTRUCTURE","1.0.1",""
 "CHG.Extensions.Security.Txt","0.1.0",""
