@@ -4896,6 +4896,7 @@
 "Lykke.Service.TradesAdapter.Client","1.0.2",""
 "MAM.Core","1.0.0",""
 "MAMR.RestHashTracker","8.2.37",""
+"MB.Package.NetCore.AzureEventHub","1.0.0",""
 "MCS.Library.Office","1.0.0.103",""
 "MNoreke.Tests.Public.Mvc","0.1.10",""
 "MNoreke.Tests.Public.Mvc","0.1.11",""

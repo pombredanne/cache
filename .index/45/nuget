@@ -5563,6 +5563,7 @@
 "M.Logs.Logs","1.0.0.1",""
 "M.Logs.Logs","1.0.0.2",""
 "M.Logs.Logs","1.0.0.3",""
+"MB.Package.NetCore.Common","1.0.0",""
 "MB.TopSdk.Core","1.0.1",""
 "MBPackage","1.0.0",""
 "MBrace.Thespian","0.10.0-alpha",""

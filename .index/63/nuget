@@ -6224,6 +6224,8 @@
 "MAVN.Service.PartnerManagement.Contract","2.9.0",""
 "MAVN.Service.Sessions.Client","1.0.0",""
 "MAVN.Service.Sessions.Client","1.0.1",""
+"MB.Package.NetCore.RabbitMQ","1.0.0",""
+"MB.Package.NetCore.Redis","1.0.0",""
 "MCS.Web.Workflow.API.Library","1.0.0.103",""
 "MCX.MSP.Proxy.Generic.Infrastructure","1.0.0",""
 "METU.Extentions","1.0.0",""
