@@ -6472,6 +6472,7 @@
 "Platform.Disposables.Tests.DisposalOrderTest","1.0.0",""
 "Polly.Contrib.DuplicateRequestCollapser","0.1.0",""
 "Polly.Contrib.DuplicateRequestCollapser","0.2.0",""
+"Polly.Contrib.DuplicateRequestCollapser","0.2.1",""
 "Polyrific.Catapult.Plugins.Abstraction","1.0.0",""
 "Polyrific.Catapult.Plugins.Abstraction","2018.11.13.3",""
 "Polyrific.Catapult.Plugins.Abstraction","2018.11.14.1",""
