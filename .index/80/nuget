@@ -1038,6 +1038,7 @@
 "Askmethat.Aspnet.JsonLocalizer","2.2.1-preview1",""
 "Askmethat.Aspnet.JsonLocalizer","3.0.0-preview1",""
 "Askmethat.Aspnet.JsonLocalizer","3.0.0-preview2",""
+"AspNetCore.HealthChecks.UI.Core","3.1.1",""
 "AspNetCore.HealthChecks.UI.Core","3.1.1-preview1",""
 "AspNetCore.HealthChecks.UI.Core","3.1.1-preview2",""
 "AspNetCore.HealthChecks.UI.Core","3.1.1-preview3",""
