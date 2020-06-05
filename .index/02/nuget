@@ -859,6 +859,7 @@
 "App.Metrics.AspNetCore.Health.Core","3.2.0",""
 "App.Metrics.AspNetCore.Health.Core","3.2.0-dev0002",""
 "AppGreeter","1.0.0",""
+"AppLoggerDemo","1.0.0",""
 "AppLogger_TVD","1.0.0",""
 "AppLogger_Test","1.0.0",""
 "Appccelerate.Development","0.27.0",""

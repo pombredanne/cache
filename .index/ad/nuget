@@ -1853,6 +1853,7 @@
 "CrossCutting.Core","0.2.13",""
 "Crosslight.Xamarin.Firebase.Analytics.Impl","42.1001.0",""
 "Crosslight.Xamarin.Firebase.Analytics.Impl","42.1001.0-beta3",""
+"Custom.StringUtils","1.0.0",""
 "CustomerCare.UI.Claro","1.0.0",""
 "CustomerCare.UI.Claro","1.1.0",""
 "CustomerCare.UI.Claro","1.2.0",""
