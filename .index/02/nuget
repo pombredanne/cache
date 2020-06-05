@@ -1873,6 +1873,7 @@
 "Daiot.HerokuPostgresConnectionStringParser","1.0.0",""
 "DataComponents","0.4.0",""
 "DataTables.Queryable.Core","1.6.2",""
+"Data_Access_Layer","1.0.0",""
 "Dazinator.Extensions.Logging","0.1.0",""
 "Dazinator.Extensions.Logging","0.1.0-alpha.2",""
 "Dazinator.Extensions.Logging","0.1.0-alpha.3",""
