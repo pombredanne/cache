@@ -2698,6 +2698,7 @@
 "FlakeyBit.DigestAuthentication.Implementation","2019.9.26.1",""
 "FluentAsserts","1.0.0",""
 "FluffySpoon.AspNet.EncryptWeMust.DistributedCache","1.167.0",""
+"FluffySpoon.AspNet.EncryptWeMust.DistributedCache","1.168.0",""
 "FluiTec.AppFx.OpenId","1.0.2",""
 "FluiTec.AppFx.OpenId","1.0.3",""
 "FluiTec.AppFx.OpenId","1.0.4",""

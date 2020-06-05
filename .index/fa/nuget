@@ -2521,6 +2521,7 @@
 "E2E.SemVer2PrerelRelisted.180306.191829.4577011","1.0.0-alpha.1",""
 "E2E.SemVer2PrerelRelisted.190811.003742.5844892","1.0.0-alpha.1",""
 "E2E.SemVer2PrerelRelisted.190815.232751.5390109","1.0.0-alpha.1",""
+"E2E.SemVer2PrerelRelisted.200605.211400.4960214","1.0.0-alpha.1",""
 "E2E.SemVer2PrerelUnlisted.171020.203309.6399688","1.0.0-alpha.1",""
 "E2E.SemVer2PrerelUnlisted.181011.170032.6595837","1.0.0-alpha.1",""
 "E2E.SemVer2StableMetadata.180301.183108.2677130","1.0.0+metadata",""
