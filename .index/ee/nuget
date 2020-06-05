@@ -3341,6 +3341,7 @@
 "FunctionMonkey.AspNetCore","4.0.52-beta.4",""
 "FunctionMonkey.AspNetCore","4.0.56-beta.4",""
 "FunctionalExtensions.Nuget","0.0.1",""
+"FunctionalExtensions.Nuget","0.0.2",""
 "GDS.Monogame.ParticleSystem","1.0.0",""
 "GF.GrainInterface.Player","1.0.0",""
 "GR.Logger.Abstractions","1.6.0",""

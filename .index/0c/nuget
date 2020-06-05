@@ -5257,6 +5257,7 @@
 "Microsoft.FASTER.devices.AzureStorageDevice","2020.3.17.1",""
 "Microsoft.FASTER.devices.AzureStorageDevice","2020.4.20.1",""
 "Microsoft.FASTER.devices.AzureStorageDevice","2020.4.27.1",""
+"Microsoft.FASTER.devices.AzureStorageDevice","2020.6.5.1",""
 "Microsoft.Framework.Configuration.EnvironmentVariables","1.0.0-beta5",""
 "Microsoft.Framework.Configuration.EnvironmentVariables","1.0.0-beta6",""
 "Microsoft.Framework.Configuration.EnvironmentVariables","1.0.0-beta7",""
