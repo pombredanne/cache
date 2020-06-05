@@ -13521,6 +13521,7 @@
 "Sentry.Extensions.Logging","2.1.2-beta3",""
 "Sentry.Extensions.Logging","2.1.2-beta4",""
 "Sentry.Extensions.Logging","2.1.2-beta5",""
+"Sentry.Extensions.Logging","2.1.3",""
 "Serilog.Formatting.Compact.Reader","1.0.0",""
 "Serilog.Formatting.Compact.Reader","1.0.0-dev-00001",""
 "Serilog.Formatting.Compact.Reader","1.0.0-dev-00002",""

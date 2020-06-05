@@ -8181,6 +8181,7 @@
 "Sentry.NLog","2.1.2-beta3",""
 "Sentry.NLog","2.1.2-beta4",""
 "Sentry.NLog","2.1.2-beta5",""
+"Sentry.NLog","2.1.3",""
 "ServiceStack.OrmLite.MySql.Core","1.0.31-pre",""
 "ServiceStack.OrmLite.MySql.Core","1.0.32-pre",""
 "ServiceStack.OrmLite.MySql.Core","1.0.33-pre",""
