@@ -5701,6 +5701,7 @@
 "M2MqttDotnetCore","1.0.9",""
 "M2MqttDotnetCore","1.1.0",""
 "MAVN.Service.NotificationSystemBroker.SmsProviderClient","1.1.1",""
+"MB.Package.NetCore.Core","1.0.0",""
 "MD.Authentication.JwtBearer","1.0.1",""
 "MDA.Identity.Owin06142017","2.0.0",""
 "MES.UI","1.0.15",""

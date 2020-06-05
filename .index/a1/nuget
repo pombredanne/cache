@@ -4809,6 +4809,7 @@
 "Lykke.MarginTrading.BrokerBase","3.0.0",""
 "Lykke.MarginTrading.BrokerBase","3.2.0",""
 "Lykke.MarginTrading.BrokerBase","3.3.0",""
+"MB.Package.NetCore.ApplicationInsight","1.0.0",""
 "MSApiDAL","1.0.0",""
 "MSApiDAL","1.0.1",""
 "MSApiDAL","1.0.10",""

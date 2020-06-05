@@ -5498,6 +5498,7 @@
 "M2m.EntityFramework","5.0.0",""
 "MAVN.Job.QuorumTransactionWatcher.MsSqlRepositories","1.0.1",""
 "MAVN.Job.QuorumTransactionWatcher.MsSqlRepositories","1.1.0",""
+"MB.Package.NetCore.Authentication","1.0.0",""
 "MGT.AIS.Client","1.0.0",""
 "MGT.AIS.Client","1.0.0.1",""
 "MGT.AIS.Client","1.0.0.2",""

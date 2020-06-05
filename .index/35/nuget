@@ -5193,6 +5193,8 @@
 "MAVN.Service.WAMPHost.Contract","1.1.0",""
 "MAVN.Service.WAMPHost.Contract","1.1.1",""
 "MAVN.Service.WAMPHost.Contract","1.1.2",""
+"MB.Package.NetCore.Cache","1.0.0",""
+"MB.Package.NetCore.SMART","1.0.0",""
 "MCS.Library.Swagger","1.0.0.103",""
 "MCS.Web.MVC.Library","1.0.0.103",""
 "MHLab.Benchmark","0.0.1",""
