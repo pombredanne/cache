@@ -7133,6 +7133,8 @@
 "NetCorePal.HealthCheck.Redis","1.3.2",""
 "NetCorePal.HealthCheck.Redis","1.3.3",""
 "NetCorePal.HealthCheck.Redis","1.4.0",""
+"NetDevPack.Identity","1.0.0",""
+"NetDevPack.Identity","1.0.4",""
 "NetModular.Lib.Host.Generic","1.4.1",""
 "NetModular.Lib.Host.Generic","1.4.2",""
 "NetModular.Lib.Host.Generic","1.4.3",""

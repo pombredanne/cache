@@ -4560,6 +4560,7 @@
 "ICU4N.CurrencyData","60.1.0-alpha.46",""
 "ICU4N.CurrencyData","60.1.0-alpha.52",""
 "ICU4N.CurrencyData","60.1.0-alpha.53",""
+"IEnumerable.ExportExtension","1.0.0",""
 "IFactory","0.0.0",""
 "IFactory","0.1.0",""
 "IFactory","0.1.2",""
