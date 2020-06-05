@@ -4798,6 +4798,7 @@
 "KY.Generator.OpenApi","3.3.0",""
 "KY.Generator.OpenApi","3.4.0",""
 "KY.Generator.OpenApi","3.4.1",""
+"KY.Generator.OpenApi","3.5.0",""
 "Kafka.Core","2.0.0-beta001",""
 "KafkaRouter.ConfluentProvider","1.0.0",""
 "KafkaRouter.ConfluentProvider","1.0.0.10",""
