@@ -7114,6 +7114,7 @@
 "Microsoft.Azure.CognitiveServices.SpellCheck","1.2.0",""
 "Microsoft.Azure.Devices.DigitalTwin.Service","1.0.0-preview-001",""
 "Microsoft.Azure.DigitalTwins.Parser","3.10.0",""
+"Microsoft.Azure.DigitalTwins.Parser","3.7.0",""
 "Microsoft.Azure.DigitalTwins.Parser","3.8.0",""
 "Microsoft.Azure.DocumentDB.ChangeFeedProcessor","1.0.0",""
 "Microsoft.Azure.DocumentDB.ChangeFeedProcessor","1.1.0",""
