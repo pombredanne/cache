@@ -8986,6 +8986,7 @@
 "SenseHatNet","0.0.5",""
 "SenseHatNet","0.0.6-armv8",""
 "SenseHatNet","0.0.6-armv8-mcpu",""
+"SenseHatNet","0.0.6-linaro-x64",""
 "Serilog.Sinks.Graylog","1.1.89",""
 "Serilog.Sinks.Graylog","1.1.90",""
 "Serilog.Sinks.Graylog","1.2.0",""
