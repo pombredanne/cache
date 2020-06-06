@@ -5883,6 +5883,7 @@
 "Microsoft.Azure.DurableTask.ServiceBus","2.1.1",""
 "Microsoft.Azure.DurableTask.ServiceBus","2.1.2",""
 "Microsoft.Azure.DurableTask.ServiceBus","2.1.3",""
+"Microsoft.Azure.DurableTask.ServiceBus","2.3.0",""
 "Microsoft.Azure.Management.EventGrid","1.0.0-preview",""
 "Microsoft.Azure.Management.EventGrid","1.1.0-preview",""
 "Microsoft.Azure.Management.EventGrid","1.2.0-preview",""
