@@ -3448,6 +3448,7 @@
 "Flibdivsufsort","1.0.0",""
 "FluentAssert","1.0.0.11",""
 "FluentEmail.MailKit","2.7.0",""
+"FluentEmail.MailKit","2.8.0",""
 "FluentHttp.OAuth2Authenticator","0.1.0",""
 "FluentMigrator.FastDataLoader","1.0.0",""
 "FluentMigrator.FastDataLoader","1.0.0.0",""
