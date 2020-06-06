@@ -17750,6 +17750,7 @@
 "@servicetitan/error-boundary","5.1.2",""
 "@servicetitan/error-boundary","5.1.3",""
 "@servicetitan/error-boundary","5.1.4",""
+"@servicetitan/error-boundary","5.1.5",""
 "@sft-dev/foo","0.0.1",""
 "@sft-dev/foo","0.0.2",""
 "@sglearn/invoicedb-dynamodb-driver","1.0.0","MIT"
