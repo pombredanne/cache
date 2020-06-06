@@ -11275,6 +11275,7 @@
 "dotnet-config-api","0.1.1",""
 "ePoint.Dashboard.Shared","1.0.0",""
 "eQuantic.Core.Data.Cassandra","1.0.0-beta1",""
+"ee.itcollege.Bissi.BLL.Base","1.0.0",""
 "ee.itcollege.krlaup.BLL.Base","1.0.0",""
 "ee.taltech.tapaal.Contracts.Domain","1.0.0",""
 "embree","2.13.0",""
