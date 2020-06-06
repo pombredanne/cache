@@ -9220,6 +9220,7 @@
 "SimpleInjector.Integration.AspNetCore","4.9.1",""
 "SimpleInjector.Integration.AspNetCore","4.9.2",""
 "SimpleInjector.Integration.AspNetCore","5.0.0-beta1",""
+"SimpleInjector.Integration.AspNetCore","5.0.0-beta2",""
 "SimpleRemoteFilesDownloader","1.0.0",""
 "SimpleSyndicate.UriTemplate","0.0.1-prerelease002",""
 "SimpleSyndicate.UriTemplate","0.0.1-prerelease004",""
