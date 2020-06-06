@@ -9506,6 +9506,7 @@
 "@lowcodeunit/lcu-reporting-lcu","1.5.27-https-proxy-agent-2.2.4",""
 "@lowcodeunit/lcu-reporting-lcu","1.5.28-integration",""
 "@lowcodeunit/lcu-reporting-lcu","1.5.29-integration",""
+"@lowcodeunit/lcu-reporting-lcu","1.5.30-websocket-extensions-0.1.4",""
 "@lowcodeunit/lcu-reporting-lcu","1.5.5",""
 "@lowcodeunit/lcu-reporting-lcu","1.5.6-integration",""
 "@lowcodeunit/lcu-reporting-lcu","1.5.7-lodash.mergewith-4.6.2",""

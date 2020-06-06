@@ -8309,6 +8309,7 @@
 "@kibibit/cli-lit","1.5.5","MIT"
 "@kirmas/no-js","0.0.2","MIT"
 "@kiwi-translator/localizable-helper-lib","0.1.0",""
+"@kiwi-translator/localizable-helper-lib","0.2.0",""
 "@kjots/package-creator","0.1.0","Apache-2.0"
 "@kjots/package-creator","0.1.1","Apache-2.0"
 "@kjots/package-creator","0.10.0","Apache-2.0"

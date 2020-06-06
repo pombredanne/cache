@@ -10820,6 +10820,7 @@
 "@lowcodeunit/lcu-map-common","1.2.22-bug-fixes",""
 "@lowcodeunit/lcu-map-common","1.2.23-checkbox-selection-fix",""
 "@lowcodeunit/lcu-map-common","1.2.24-map-fixes",""
+"@lowcodeunit/lcu-map-common","1.2.26-websocket-extensions-0.1.4",""
 "@lowcodeunit/lcu-map-common","1.2.9",""
 "@lrak/weather-city","1.0.0","ISC"
 "@lrnwebcomponents/meme-maker","0.0.23","Apache-2.0"

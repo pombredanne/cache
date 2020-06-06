@@ -14644,6 +14644,8 @@
 "@pthread/async-operators","1.0.4",""
 "@pthread/async-operators","1.0.5",""
 "@pthread/async-operators","1.0.6",""
+"@pthread/async-operators","1.1.0",""
+"@pthread/async-operators","1.1.1",""
 "@pucelle/flit-ui","1.1.0","MIT"
 "@pucelle/flit-ui","1.2.0","MIT"
 "@pucelle/flit-ui","1.2.1","MIT"
