@@ -8784,6 +8784,7 @@
 "SFERA.Database.Wrapper.Microsoft.SQLServer.Native.CS","10.2019.338.188",""
 "SFERA.Database.Wrapper.Microsoft.SQLServer.Native.CS","10.2020.23.194",""
 "SFSecurity","1.0.0",""
+"SJson.FSharpConverters","0.1.0",""
 "SMART_AutomationDept_Reporter","1.0.0",""
 "SMART_AutomationDept_Reporter","1.0.1",""
 "SMART_AutomationDept_Reporter","1.0.2",""
