@@ -10312,6 +10312,7 @@
 "portable.accord.machinelearning.gpl","3.0.2.60302",""
 "portable.accord.machinelearning.gpl","3.1.0-pre",""
 "ptm.api","1.0.0",""
+"pvWay.MsSqlMultiPartVarChar.Core","1.0.0",""
 "rapidcore.postgresql","0.20.0",""
 "react-relay.TypeScript.DefinitelyTyped","0.0.1",""
 "redux-bootstrap.TypeScript.DefinitelyTyped","0.0.1",""
