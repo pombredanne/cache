@@ -6742,6 +6742,7 @@
 "OAuthAsset","1.0.3",""
 "OAuthAsset","1.0.4",""
 "OAuther.Bearer","1.3.0",""
+"OAuther.Bearer","1.5.0",""
 "OBeautifulCode.Serialization.Json","1.0.1",""
 "OBeautifulCode.Serialization.Json","1.0.10",""
 "OBeautifulCode.Serialization.Json","1.0.12",""
@@ -10457,3 +10458,4 @@
 "yeoman-generator.TypeScript.DefinitelyTyped","0.0.9",""
 "yeoman-generator.TypeScript.DefinitelyTyped","0.1.0",""
 "yeoman-generator.TypeScript.DefinitelyTyped","0.1.1",""
+"zdLogger","1.0.0",""
