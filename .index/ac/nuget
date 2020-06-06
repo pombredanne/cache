@@ -6079,6 +6079,7 @@
 "Linq2DynamoDb.DataContext.Caching.MemcacheD","2.2.0",""
 "Linq2DynamoDb.DataContext.Caching.MemcacheD","2.2.1",""
 "Linq2DynamoDb.DataContext.Caching.MemcacheD","2.4.0",""
+"LinqHelper","0.0.1",""
 "LinqOptimizer.CSharp.StrongName","0.6.3",""
 "LinqOptimizer.CSharp.StrongName","0.6.4",""
 "LinqOptimizer.CSharp.StrongName","0.6.5",""
