@@ -7044,6 +7044,7 @@
 "Microsoft.AspNetCore.Authentication.Core","2.2.0-preview2-35157",""
 "Microsoft.AspNetCore.Authentication.Core","2.2.0-preview3-35497",""
 "Microsoft.AspNetCore.Grpc.HttpApi","0.1.0-alpha.20179.2",""
+"Microsoft.AspNetCore.Grpc.HttpApi","0.1.0-alpha.20305.2",""
 "Microsoft.AspNetCore.Identity.MongoDbCore","0.1.0-alpha",""
 "Microsoft.Azure.IIoT.Hub.Processor","1.0.0",""
 "Microsoft.Azure.IIoT.Hub.Processor","1.0.0-preview001",""
