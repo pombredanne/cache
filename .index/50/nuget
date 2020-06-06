@@ -11225,6 +11225,7 @@
 "Web.Optimization","0.0.8",""
 "WebDriver.Extensions","1.0.0",""
 "WebEssentials.AspNetCore.StaticFilesWithCache","1.0.1",""
+"WebEssentials.AspNetCore.StaticFilesWithCache","1.0.3",""
 "WebSchedulingApiService","0.0.1",""
 "WebSchedulingApiService","0.0.2",""
 "WebSchedulingApiService","0.0.3",""
