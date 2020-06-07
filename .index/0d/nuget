@@ -2368,6 +2368,8 @@
 "EasyCaching.Bus.CSRedis","0.8.9",""
 "EasyTools.Common","0.0.0.2",""
 "EasyTools.Common","0.0.7073.24482",""
+"EasyZipkin","1.0.0",""
+"EasyZipkin","1.0.1",""
 "Ebase.Domain.Entities.Pdv","0.1.0",""
 "Ebase.Domain.Entities.Pdv","0.2.0",""
 "Ebase.Domain.Entities.Pdv","0.2.1",""
