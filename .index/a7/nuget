@@ -6937,6 +6937,7 @@
 "NetxFrame-Portable","1.4.5",""
 "NetxFrame-Portable","2.2.0",""
 "Newbe.Claptrap.EventStore.Memory","0.1.0-dev03",""
+"Newbe.Claptrap.StorageProvider.MongoDB","0.2.3-alpha",""
 "NewsyReel.Service.Infrastructure.Domain","1.1.2",""
 "Newtonsoft35.Json","7.0.1",""
 "NexBusiness.Repositories.EntityFramework","1.0.0",""

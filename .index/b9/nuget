@@ -6776,6 +6776,7 @@
 "NewRelic.OpenTracing.AmazonLambda.Tracer","0.3.858-beta",""
 "NewRelic.OpenTracing.AmazonLambda.Tracer","0.3.860-beta",""
 "NewRelic.OpenTracing.AmazonLambda.Tracer","1.0.0",""
+"Newbe.Claptrap.StorageProvider.MySql","0.2.3-alpha",""
 "NickDarvey.ServiceFabric.EventHubs","1.0.0-beta0001",""
 "NickDarvey.ServiceFabric.EventHubs","1.0.0-beta0002",""
 "Nlc","1.0.0",""
