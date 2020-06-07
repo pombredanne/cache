@@ -8780,6 +8780,7 @@
 "Orleans.Security.Clustering","1.0.1-ci.201912100456",""
 "Orleans.Security.Clustering","1.1.0",""
 "Orleans.Security.Clustering","1.1.0-alpha0020",""
+"Orleans.Security.Clustering","1.2.0",""
 "OrleansInterface.NetCore.ProjectTemplate","1.0.0",""
 "OrleansInterface.NetCore.ProjectTemplate","1.0.1",""
 "Ormongo.TestHelper","0.1.2",""

@@ -1206,6 +1206,7 @@
 "Carbon.Sql","0.7.2",""
 "Carbon.Sql","0.7.3",""
 "Carbon.Sql","0.8.0",""
+"Cassandra.Fluent.Migrator","1.0.0",""
 "Cassette.Http","1.0.0",""
 "Cassette.Http","1.1.0",""
 "Cavity.Domain.RoyalMail","1.1.0.591",""
