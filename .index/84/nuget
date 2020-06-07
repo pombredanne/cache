@@ -7748,6 +7748,7 @@
 "NuGetUtils.Lib.Common","1.0.0+d04b2e188f837c7a7dd00c36a9c584a51d7728e6",""
 "NuGetUtils.Lib.Common","2.0.0+5aa9e5c36af6476d7e8111472b06228457611ba8",""
 "Nuclear.TestSite.Contracts","1.0.0",""
+"Nuclear.TestSite.Contracts","2.0.0",""
 "Nuget.NetCore.TestPackage_2","0.1.0-beta01",""
 "NugetConsoleLib","1.0.0",""
 "OASP4Net.Infrastructure.SMTP","1.0.0",""
