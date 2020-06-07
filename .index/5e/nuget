@@ -6406,6 +6406,7 @@
 "MassTransit.AmazonSQS","7.0.0-develop.2766+sha.3ab23e6",""
 "MassTransit.AmazonSQS","7.0.0-develop.2774+sha.f4b397d",""
 "MassTransit.AmazonSQS","7.0.0-develop.2775+sha.8a5b210",""
+"MassTransit.AmazonSQS","7.0.0-develop.2780+sha.c962f9b",""
 "Massive.MySql","1.0.0",""
 "Massive.MySql","1.1.0",""
 "MasterChief.DotNet.Infrastructure.XmlSerializer","1.0.0",""
