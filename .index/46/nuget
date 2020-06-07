@@ -9444,6 +9444,8 @@
 "SimplePersistence.Model.EFCore","3.3.0-alpha01",""
 "SimplePersistence.Model.EFCore","3.3.0-rc01",""
 "SimpleSettingsStorage","1.2.0",""
+"SimplyWorks.Bus","2020.6.7.1",""
+"SimplyWorks.Bus","2020.6.7.2",""
 "Sintari.Helpers.EntityFramework","1.0.19.24",""
 "Sintari.Helpers.EntityFramework","1.0.20.25",""
 "Sintari.Helpers.EntityFramework","1.0.21.26",""

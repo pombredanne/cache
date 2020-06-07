@@ -3096,6 +3096,8 @@
 "CryptoServices.Entities","1.0.0",""
 "CsvParser.NET","0.0.1",""
 "CsvParser.NET","0.0.2",""
+"CsvValidator","1.0.0",""
+"CsvValidator","1.0.1",""
 "CurlyWeb.SerivceStackCacheExtensions","1.0.0",""
 "DBAproach","1.0.0",""
 "DC.Storage","1.0.0-preview-20190324-01",""
