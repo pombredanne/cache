@@ -2381,6 +2381,7 @@
 "DotNETDevOps.Extensions.AzureFunctions.Serilog","2.2.0",""
 "DotNetCSharp.AWS.AppSync.Client","1.0.0",""
 "DotNetCSharp.AWS.AppSync.Client","1.1.0",""
+"DotNetCSharp.AWS.AppSync.Client","1.1.1",""
 "DotNetCqs.DependencyInjection.Autofac","1.0.0-rc01",""
 "DotNetToolkit.Repository.Extensions.Ninject","2.7.0",""
 "DotNetToolkit.Repository.Extensions.Ninject","2.8.0",""
