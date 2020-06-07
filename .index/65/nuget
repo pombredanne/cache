@@ -1682,6 +1682,8 @@
 "ApplicationBlock.ContentFlow","0.1.1-alpha",""
 "AptRepoBuilder","0.2.0",""
 "AptRepoBuilder","0.3.0",""
+"AptRepoBuilder","0.4.0-alpha.4",""
+"AptRepoBuilder","0.4.0-alpha.5",""
 "Archetypical.Software.Spigot.Streams.RabbitMq","1.0.0",""
 "ArduinoLib","1.0.0",""
 "ArgumentsParser","1.0.0",""
