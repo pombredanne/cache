@@ -8217,6 +8217,7 @@
 "Sequor.Libs.SpecialTypes","1.0.1",""
 "Sequor.Libs.SpecialTypes","1.0.2",""
 "Serilog.Sinks.JustWebLog","1.0.0",""
+"Service.Document.Models","1.0.0-CI-20200607-173331",""
 "ServiceFabric.Extensions.Services.Queryable","3.1.274",""
 "Sfa.Core.ServiceModel","1.0.1",""
 "Sfa.Core.ServiceModel","1.0.1-alpha-3972",""
