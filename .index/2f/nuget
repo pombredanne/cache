@@ -4133,6 +4133,7 @@
 "FM.IceLink.WebRTC.Net45","2.1.6",""
 "FSharp.DependencyManager.Nuget","35.0.0",""
 "FSharp.DependencyManager.Nuget","36.0.0",""
+"FSharp.DependencyManager.Nuget","36.0.1",""
 "FSharp.Testing","0.2.0",""
 "FSharp.Testing","0.2.1",""
 "FSharp.Testing","0.2.2",""

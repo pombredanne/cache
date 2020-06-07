@@ -2998,6 +2998,7 @@
 "EasyCaching.Redis","0.8.8",""
 "EasyCaching.Redis","0.8.9",""
 "EasyExtensions.BackgroundServiceExtensions","0.1.0",""
+"EasyExtensions.BackgroundServiceExtensions","0.2.0",""
 "Elmish.XamarinForms.OxyPlot","0.12.8",""
 "Elmish.XamarinForms.OxyPlot","0.13.0",""
 "Elmish.XamarinForms.OxyPlot","0.13.10",""

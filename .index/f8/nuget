@@ -9158,6 +9158,7 @@
 "SimpleAccess.SqlServer","3.1.0-rc-6",""
 "SimpleAccess.SqlServer","3.1.0-rc-7",""
 "SimpleAccess.SqlServer","3.1.0-rc-7.1",""
+"SimpleAccess.SqlServer","3.1.0-rc-7.2",""
 "SimpleCqrs.StructureMap","1.0.0",""
 "SimpleEssentials.Log","1.0.0.5",""
 "SimpleHelpers.NamedLock","1.0.0",""
