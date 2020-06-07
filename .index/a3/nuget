@@ -4919,6 +4919,8 @@
 "LightConversion.spectrumAlg","1.0.0",""
 "Ling.ApiClient","1.0.0",""
 "Ling.ApiClient","1.0.1",""
+"ListPool.Formatters.Utf8Json","0.0.1",""
+"ListPool.Formatters.Utf8Json","0.0.2",""
 "LitJson2","1.0.0",""
 "LocalizationTextScrapper","1.0.0",""
 "LocalizationTextScrapper","1.0.1",""
