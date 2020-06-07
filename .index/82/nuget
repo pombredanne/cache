@@ -2392,6 +2392,7 @@
 "FSharp.Compiler.Service.MSBuild.v12","34.1.1",""
 "FSharp.Compiler.Service.MSBuild.v12","35.0.0",""
 "FSharp.Compiler.Service.MSBuild.v12","36.0.0",""
+"FSharp.Compiler.Service.MSBuild.v12","36.0.1",""
 "FSharp.UMX","1.0.0",""
 "FSharp.UMX","1.0.0-preview-001",""
 "FSharp.Web.Http","0.9.130701",""
