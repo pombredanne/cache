@@ -10258,6 +10258,7 @@
 "dotnet-ssh","3.0.0",""
 "dotnetCHARGEcore","2.2.0",""
 "dotnetCHARGEcore","8.4.0",""
+"ee.itcollege.tatari.BLL.Base","1.0.0",""
 "express-brute-mongo.TypeScript.DefinitelyTyped","0.0.1",""
 "express-brute-mongo.TypeScript.DefinitelyTyped","0.0.2",""
 "express-brute-mongo.TypeScript.DefinitelyTyped","0.0.3",""
