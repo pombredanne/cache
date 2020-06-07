@@ -5279,6 +5279,7 @@
 "JWS.Core.NodaTime","1.0.20082.2",""
 "JWS.Core.NodaTime","1.0.20089.2",""
 "JWS.Core.NodaTime","1.0.20090.2",""
+"JWS.Core.NodaTime","1.0.20159.2",""
 "JWTSimpleServer.RedisDistributedRefreshTokenStore","0.0.1",""
 "JWTSimpleServer.RedisDistributedRefreshTokenStore","0.0.2",""
 "JWTSimpleServer.RedisDistributedRefreshTokenStore","0.0.3",""
