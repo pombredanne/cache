@@ -8573,6 +8573,7 @@
 "StatsdClient.HighPerformance.Tags","1.1.0",""
 "StatsdClient.HighPerformance.Tags","1.1.1",""
 "StatsdClient.HighPerformance.Tags","1.2.0",""
+"Stayplease.Account.HttpApi.Client","1.0.0",""
 "Std.Domain.Ctr.Repository","1.0.0",""
 "Std.Domain.Ctr.Repository","1.0.1",""
 "Std.Domain.Ctr.Repository","1.0.2",""
