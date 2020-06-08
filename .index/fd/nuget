@@ -5770,6 +5770,7 @@
 "JetBrains.Profiler.Kernel.Windows.Native.Core","112.0.20180222.112917-eap01",""
 "JetBrains.Profiler.Kernel.Windows.Native.Core","112.0.20180305.131515-eap02",""
 "JetBrains.Profiler.Kernel.Windows.Native.Core","112.0.20180316.130310-eap03",""
+"JetBrains.WindowsDesktop.Mock.Runtime","0.0.3",""
 "JewelDLL","2.0.0.1",""
 "JewelDLL","2.0.0.2",""
 "JewelDLL","2.0.0.3",""
