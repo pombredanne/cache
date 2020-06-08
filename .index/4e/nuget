@@ -4141,6 +4141,7 @@
 "FluentMigrator.Runner.Postgres","3.2.1",""
 "FluentMigrator.Runner.Postgres","3.2.4",""
 "FluentMigrator.Runner.Postgres","3.2.6",""
+"FluentMigrator.Runner.Postgres","3.2.7",""
 "Fluint.AspNetCore","1.0.3",""
 "Folke.Orm","0.1.5235.17581",""
 "Folke.Orm","0.1.5247.35058",""

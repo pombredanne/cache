@@ -3131,6 +3131,7 @@
 "FluentMigrator.Runner.MySql","3.2.1",""
 "FluentMigrator.Runner.MySql","3.2.4",""
 "FluentMigrator.Runner.MySql","3.2.6",""
+"FluentMigrator.Runner.MySql","3.2.7",""
 "FluentModelConfigurator","1.0.0",""
 "FluentModelConfigurator","1.0.0.1",""
 "FluentModelConfigurator","1.0.0.2",""
