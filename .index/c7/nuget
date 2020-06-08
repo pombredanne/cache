@@ -693,6 +693,7 @@
 "Automaty.Generators.EFCoreRepositories","1.1.0-alpha1",""
 "AvaloniaUI.PrintToPDF","0.1.0",""
 "AvaloniaUI.PrintToPDF","0.2.0",""
+"Az.DocumentGeneration.Core","1.0.1.32",""
 "BTCPayServer.Lightning.Ptarmigan","1.0.0",""
 "BTCPayServer.Lightning.Ptarmigan","1.0.0.1",""
 "BTCPayServer.Lightning.Ptarmigan","1.0.0.2",""
