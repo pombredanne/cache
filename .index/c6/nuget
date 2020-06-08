@@ -5635,6 +5635,7 @@
 "Microsoft.TeamFoundationServer.ExtendedClient","16.167.1-preview",""
 "Microsoft.TeamFoundationServer.ExtendedClient","16.169.0-preview",""
 "Microsoft.TeamFoundationServer.ExtendedClient","16.169.1-preview",""
+"Microsoft.TeamFoundationServer.ExtendedClient","16.170.0-preview",""
 "Microsoft.Toolkit.Sample.Wpf.WebView","6.0.0-preview3",""
 "Microsoft.VisualStudio.Threading.Analyzers","14.0.50522-pre",""
 "Microsoft.VisualStudio.Threading.Analyzers","14.0.50702-pre",""

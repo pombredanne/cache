@@ -5833,6 +5833,7 @@
 "Microsoft.Azure.Management.GuestConfiguration","0.9.0-preview",""
 "Microsoft.Azure.Management.GuestConfiguration","1.0.0",""
 "Microsoft.Azure.Management.GuestConfiguration","1.1.0",""
+"Microsoft.Azure.Management.GuestConfiguration","1.2.0",""
 "Microsoft.CST.AttackSurfaceAnalyzer.CLI","2.2.10-beta-g106685ca9a",""
 "Microsoft.CST.AttackSurfaceAnalyzer.CLI","2.2.11-beta-g8b0ce20c0e",""
 "Microsoft.CST.AttackSurfaceAnalyzer.CLI","2.2.12-beta-g9e5ae0a4c9",""

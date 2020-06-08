@@ -11413,6 +11413,8 @@
 "needle.TypeScript.DefinitelyTyped","0.0.4",""
 "needle.TypeScript.DefinitelyTyped","0.0.5",""
 "netfx-System.IO.StreamWriteTo.Tests","1.1.0",""
+"nlog.extensions.azureappservice","1.0.15",""
+"nlog.extensions.azureappservice","1.0.16",""
 "openxray.luajit","1.0.0",""
 "openxray.luajit","1.1.0",""
 "openxray.luajit","1.1.1",""
