@@ -11537,6 +11537,7 @@
 "yaos.OpenAPI.Diff.Action","1.1.0-alpha4",""
 "yaos.OpenAPI.Diff.Action","1.1.2",""
 "yaos.OpenAPI.Diff.Action","1.1.3",""
+"yaos.OpenAPI.Diff.Action","1.1.4",""
 "zahnom.PathBuilder","1.0.0",""
 "zeroc.datastorm.v142","0.2.0",""
 "zlib.managed","1.0.0",""

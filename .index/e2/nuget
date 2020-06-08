@@ -1129,6 +1129,7 @@
 "BTG.Infrastructure.Auth.AspNetCore","3.0.3",""
 "BTG.Infrastructure.Auth.AspNetCore","3.0.4",""
 "BTL.EProgress.ExternalService","1.0.0",""
+"BackToTheCoding.SpecFlow.Microsoft.DependencyInjection","1.0.0",""
 "BamlParser","1.0.0",""
 "Bardock.Utils","1.0.0",""
 "Bardock.Utils","1.1.0",""
