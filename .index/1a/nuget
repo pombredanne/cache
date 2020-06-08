@@ -5466,6 +5466,8 @@
 "PBS.OS.Packages.Api.Models","2.0.7",""
 "PBS.OS.Packages.Api.Models","2.0.8",""
 "PBS.OS.Packages.Api.Models","2.0.9",""
+"PK.EF.Dapper.Extensions","0.0.1-alpha",""
+"PK.EF.Dapper.Extensions","0.0.2-alpha",""
 "PTI.CognitiveServices","1.1.2",""
 "PTI.CognitiveServices","1.1.2-alpha",""
 "PTI.CognitiveServices","1.1.2-beta",""

@@ -1996,6 +1996,7 @@
 "Crossroads.ClientApiKeys","2.0.6",""
 "Crossroads.ClientApiKeys","2.0.7",""
 "Cryptography.Utility","1.0.0",""
+"CsvHelper.FastDynamic","1.0.0-preview1",""
 "CsvParser","0.5.0",""
 "CsvParser","0.5.1",""
 "CsvParser","0.5.2",""
