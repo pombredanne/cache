@@ -1010,6 +1010,7 @@
 "Azert.Pipeline.Synchronous","1.1.1",""
 "Azure.Messaging.ServiceBus","7.0.0-preview.1",""
 "Azure.Messaging.ServiceBus","7.0.0-preview.2",""
+"Azure.Messaging.ServiceBus","7.0.0-preview.3",""
 "AzureGems.SpendOps.Abstractions","1.0.0",""
 "AzureGems.SpendOps.Abstractions","1.1.0",""
 "AzureGems.SpendOps.Abstractions","1.2.0",""
