@@ -6674,6 +6674,7 @@
 "MowaInfo.ProtoSocket.Bridging","1.0.0-beta",""
 "MowaInfo.ProtoSocket.Bridging","1.0.0-beta2",""
 "MowaInfo.ProtoSocket.Bridging","1.0.0-beta3",""
+"Mozilla.Telemetry.Glean","0.0.1-alpha",""
 "MrTristan.Swashbuckle.AspNetCore.SwaggerGen","4.0.1",""
 "MrTristan.Swashbuckle.AspNetCore.SwaggerGen","4.0.1.1",""
 "Multi.WannaEat.Common.Domain","1.0.0",""
