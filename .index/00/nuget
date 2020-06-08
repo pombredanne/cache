@@ -8042,6 +8042,7 @@
 "Serilog.Sinks.SentryIO","1.0.0",""
 "Serilog.Sinks.SentryIO","1.0.1",""
 "Serilog.Sinks.SentryIO","1.0.3",""
+"Serilog.Sinks.Toast","0.0.1-alpha",""
 "Sers.Mq.Socket.Iocp","2.0.1",""
 "Sers.Mq.Socket.Iocp","2.1.1.81",""
 "ServerPaging.Core","1.0.0",""

@@ -10010,6 +10010,7 @@
 "TableStorage.Abstractions","3.0.0",""
 "TableStorage.Abstractions","3.0.1-preview",""
 "TableStorage.Abstractions","3.1.0",""
+"TacitusLogger.DI.MicrosoftDI","0.1.1",""
 "Takenet.MessagingHub.Client.ConsoleHost","0.0.1",""
 "Takenet.MessagingHub.Client.ConsoleHost","0.2.15",""
 "Takenet.MessagingHub.Client.ConsoleHost","0.2.16",""

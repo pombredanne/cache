@@ -7302,6 +7302,7 @@
 "Microsoft.TeamFoundationServer.Client","16.167.1-preview",""
 "Microsoft.TeamFoundationServer.Client","16.169.0-preview",""
 "Microsoft.TeamFoundationServer.Client","16.169.1-preview",""
+"Microsoft.TeamFoundationServer.Client","16.170.0-preview",""
 "Microsoft.Tye.Extensions.Configuration","0.1.0-alpha.20209.5",""
 "Microsoft.Tye.Extensions.Configuration","0.2.0-alpha.20258.3",""
 "Microsoft.Windows.EventTracing.Processing.All","0.1.0",""
