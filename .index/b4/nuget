@@ -11456,6 +11456,7 @@
 "cloudscribe.Logging.EFCore.MySql","4.0.0-preview20190831",""
 "cloudscribe.Logging.EFCore.MySql","4.0.1",""
 "cloudscribe.Logging.EFCore.MySql","4.0.1-rc20191014",""
+"com.jesori.gemestores.DAL.Base","1.0.0",""
 "com.unity.rpc.hosted","1.0.20-preview",""
 "com.unity.rpc.hosted","1.0.21-preview",""
 "com.unity.rpc.hosted","1.0.22-preview",""
