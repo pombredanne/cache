@@ -3999,6 +3999,7 @@
 "Microsoft.CodeAnalysis.Metrics","2.9.8",""
 "Microsoft.CodeAnalysis.Metrics","3.0.0",""
 "Microsoft.CodeAnalysis.Metrics","3.0.0-beta2.final+6dc3658c",""
+"Microsoft.CodeAnalysis.Metrics","3.3.0",""
 "Microsoft.Extensions.Caching.Distributed.DynamoDb","1.0.0",""
 "Microsoft.Extensions.Options.ConfigurationExtensions","0.0.1-alpha",""
 "Microsoft.Extensions.Options.ConfigurationExtensions","1.0.0",""
