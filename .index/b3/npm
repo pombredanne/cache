@@ -5591,6 +5591,7 @@
 "@comparaonline/car-dealer-chile","2.9.3",""
 "@comparaonline/car-dealer-chile","2.9.6",""
 "@comparaonline/car-dealer-chile","2.9.7",""
+"@comparaonline/car-dealer-chile","2.9.8",""
 "@conjurelabs/dot-template","1.0.0","MIT"
 "@conjurelabs/dot-template","2.0.0","MIT"
 "@conjurelabs/dot-template","2.1.0","MIT"
@@ -57520,3 +57521,5 @@
 "zzp-ui","0.0.9",""
 "zzp-ui","1.0.0",""
 "zzp-ui","1.0.1",""
+"zzp-ui","1.0.2",""
+"zzp-ui","1.0.3",""

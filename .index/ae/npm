@@ -21385,6 +21385,7 @@
 "build-plugin-cone-bench-storer","0.1.3","MIT"
 "build-plugin-cone-bench-storer","0.1.4","MIT"
 "build-plugin-cone-bench-storer","0.1.5","MIT"
+"build-plugin-rax-block","0.1.1",""
 "builder-coffee-script","0.1.1","MIT"
 "builder-coffee-script","0.2.0","MIT"
 "builder-coffee-script","0.3.0","MIT"
