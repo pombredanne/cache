@@ -2006,6 +2006,7 @@
 "DbCache.ConnectionRedis.Standard","1.0.1",""
 "DbCache.ConnectionRedis.Standard","1.0.2",""
 "DbCache.ConnectionRedis.Standard","2.0.0",""
+"DbModel","1.0.0",""
 "DefaultPack","1.0.0",""
 "DefaultPack","1.0.1",""
 "DefaultPack","1.0.2",""
