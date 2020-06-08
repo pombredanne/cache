@@ -9579,6 +9579,7 @@
 "cloudscribe.StripeIntegration.Data.EFCore.Common","3.0.0",""
 "codygen.FirstSample","1.0.0",""
 "codygen.FirstSample","1.0.1",""
+"com.jesori.gemestores.Contracts.Domain","1.0.0",""
 "compareDifferentLists","1.0.1",""
 "danielisawesome","1.0.0",""
 "dbBus.Extensions.Sqlite","1.0.3",""
