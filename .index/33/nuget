@@ -3813,6 +3813,7 @@
 "FluentMigrator.Runner.SqlServer","3.2.1",""
 "FluentMigrator.Runner.SqlServer","3.2.4",""
 "FluentMigrator.Runner.SqlServer","3.2.6",""
+"FluentMigrator.Runner.SqlServer","3.2.7",""
 "FluentdClient.Sharp.MessagePack","1.0.0",""
 "FluentdClient.Sharp.MessagePack","1.1.0",""
 "FluiTec.AppFx.Data.Dynamic","1.0.13",""

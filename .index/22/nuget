@@ -2555,6 +2555,7 @@
 "FluentMigrator.Runner.Redshift","3.2.1",""
 "FluentMigrator.Runner.Redshift","3.2.4",""
 "FluentMigrator.Runner.Redshift","3.2.6",""
+"FluentMigrator.Runner.Redshift","3.2.7",""
 "FluiTec.AppFx.Data.Dapper.SqLite","1.0.13",""
 "FluiTec.AppFx.Data.Dapper.SqLite","1.0.3",""
 "FluiTec.AppFx.Data.Dapper.SqLite","1.0.4",""
