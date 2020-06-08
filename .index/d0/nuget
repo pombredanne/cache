@@ -12714,6 +12714,7 @@
 "cloudscribe.Kvp.Storage.EFCore.PostgreSql","4.0.0",""
 "cloudscribe.Kvp.Storage.EFCore.PostgreSql","4.0.0-preview20190902",""
 "com.dynadel.simpledatabase","1.4.0",""
+"com.jesori.gemestores.DAL.Base.EF","1.0.0",""
 "comsec.sugar.core","1.0.0",""
 "comsec.sugar.core","2.0.34",""
 "comsec.sugar.core","2.0.36",""
