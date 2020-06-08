@@ -1895,6 +1895,7 @@
 "CommonFramework.Shell","1.0.0",""
 "CommonFramework.Shell","1.0.1",""
 "CompactJson.Sources","0.6.0",""
+"CompatibilityChecker","0.2.0",""
 "Concordia.Framework.log4net","1.0.0",""
 "Concordia.Framework.log4net","2.0.0",""
 "ConrabOpto.Api.Client.Net35","2.0.0",""

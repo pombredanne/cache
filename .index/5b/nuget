@@ -732,6 +732,7 @@
 "Axle.App.Femma","1.0.4",""
 "Axle.App.Femma","1.0.5",""
 "Azure.DigitalTwins.Core","1.0.0-preview.1",""
+"Azure.DigitalTwins.Core","1.0.0-preview.2",""
 "AzureBuildVerifier","1.0.0",""
 "AzureFunctions.DependencyInjection","1.0.0-beta1",""
 "AzureGems.Repository.Abstractions","1.0.0",""
