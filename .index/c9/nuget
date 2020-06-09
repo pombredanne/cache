@@ -6454,6 +6454,7 @@
 "NN.Standard.Encrypt","1.0.0",""
 "NN.Standard.Encrypt","1.0.1",""
 "NServiceBus.Extensions.Diagnostics.OpenTelemetry","0.0.0-alpha.0.20",""
+"NServiceBus.Extensions.Diagnostics.OpenTelemetry","0.0.0-alpha.0.21",""
 "NTest","1.0.0",""
 "NUnitSelfRunner","1.0.0",""
 "NUnitSelfRunner","1.0.1",""
