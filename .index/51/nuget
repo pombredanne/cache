@@ -9152,6 +9152,7 @@
 "ServiceStack.Logging.Log4Net.Core","5.6.0",""
 "ServiceStack.Logging.Log4Net.Core","5.7.0",""
 "ServiceStack.Logging.Log4Net.Core","5.8.0",""
+"ServiceStack.Logging.Log4Net.Core","5.9.0",""
 "ShadySoft.Blazor.BackButton","1.0.3",""
 "ShapefileLib","1.0.0",""
 "Shared.Plugins","1.0.0",""

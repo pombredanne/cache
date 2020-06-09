@@ -8345,6 +8345,7 @@
 "ServiceStack.Authentication.OAuth2","5.6.0",""
 "ServiceStack.Authentication.OAuth2","5.7.0",""
 "ServiceStack.Authentication.OAuth2","5.8.0",""
+"ServiceStack.Authentication.OAuth2","5.9.0",""
 "SessionScopeNetCore","1.0.0",""
 "Shared.Validators","1.0.2",""
 "Shared.Validators","1.0.3",""

@@ -9340,6 +9340,7 @@
 "ServiceStack.OrmLite.MySqlConnector.Core","5.6.0",""
 "ServiceStack.OrmLite.MySqlConnector.Core","5.7.0",""
 "ServiceStack.OrmLite.MySqlConnector.Core","5.8.0",""
+"ServiceStack.OrmLite.MySqlConnector.Core","5.9.0",""
 "ServiceStatus.Core.AspNet","1.1.1806.2702-overhaul",""
 "ServiceStatus.Core.AspNet","1.1.1806.2704",""
 "ServiceStatus.Core.AspNet","1.1.1902.1101",""

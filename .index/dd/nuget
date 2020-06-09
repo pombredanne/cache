@@ -7723,6 +7723,7 @@
 "ServiceStack.Authentication.OpenId","5.6.0",""
 "ServiceStack.Authentication.OpenId","5.7.0",""
 "ServiceStack.Authentication.OpenId","5.8.0",""
+"ServiceStack.Authentication.OpenId","5.9.0",""
 "ServiceStack.MicrosoftGraph","1.0.2",""
 "SevenPeaks.Core.Abstractions","1.0.0-beta",""
 "Shaman.Brotli","1.0.11",""

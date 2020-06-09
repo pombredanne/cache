@@ -8500,6 +8500,7 @@
 "ServiceStack.Text","5.6.0",""
 "ServiceStack.Text","5.7.0",""
 "ServiceStack.Text","5.8.0",""
+"ServiceStack.Text","5.9.0",""
 "Seven.HttpClient","1.0.1",""
 "Shared.PipelineComponents.TerminateBasedOnXPath","1.0.0",""
 "Shared.PipelineComponents.TerminateBasedOnXPath","1.0.0.1",""

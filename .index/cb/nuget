@@ -9358,6 +9358,7 @@
 "ServiceFabric.Contrib.MassTransitListener","1.0.12",""
 "ServiceStack.OrmLite.SqlServer.Data.Core","5.7.0",""
 "ServiceStack.OrmLite.SqlServer.Data.Core","5.8.0",""
+"ServiceStack.OrmLite.SqlServer.Data.Core","5.9.0",""
 "ServiceWebToIssueMaintenance","1.0.0",""
 "Seven.Codes.CommentHelper","1.0.0",""
 "Shaman.SynchrotronNet","1.0.0.1",""

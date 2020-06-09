@@ -6825,6 +6825,7 @@
 "ServiceStack.Authentication.NHibernate","5.6.0",""
 "ServiceStack.Authentication.NHibernate","5.7.0",""
 "ServiceStack.Authentication.NHibernate","5.8.0",""
+"ServiceStack.Authentication.NHibernate","5.9.0",""
 "SevenShadow.Finance.Core","1.0.0",""
 "SharpMap.Data.Providers.OracleSpatial","1.1.0",""
 "Sharpbrake.Http.Module","0.9.5",""
