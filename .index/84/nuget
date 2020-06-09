@@ -3539,6 +3539,7 @@
 "EventStore.Client","2.0.0",""
 "EventStore.Client","2.0.1",""
 "EventStore.Client","2.0.2",""
+"EventStore.Client","20.6.0",""
 "EventStore.Client","20.6.0-rc",""
 "EventStore.Client","3.0.0",""
 "EventStore.Client","3.0.0-rc2",""
