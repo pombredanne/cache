@@ -6647,6 +6647,7 @@
 "Microsoft.Windows.EventTracing.Syscalls","0.3.11",""
 "Microsoft.Windows.EventTracing.Syscalls","0.4.10",""
 "Microsoft.Windows.EventTracing.Syscalls","1.0.0",""
+"Microsoft.Windows.EventTracing.Syscalls","1.1.0",""
 "Milkman.Deployers.IIS","0.9.1.51538",""
 "MinoriEditorShell.VirtualCanvas.Platforms.Wpf","0.3.0-alpha.195",""
 "MinoriEditorShell.VirtualCanvas.Platforms.Wpf","0.3.0-alpha.87",""

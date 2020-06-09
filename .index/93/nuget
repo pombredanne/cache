@@ -6970,6 +6970,7 @@
 "Microsoft.Windows.EventTracing.WindowInFocus","0.3.11",""
 "Microsoft.Windows.EventTracing.WindowInFocus","0.4.10",""
 "Microsoft.Windows.EventTracing.WindowInFocus","1.0.0",""
+"Microsoft.Windows.EventTracing.WindowInFocus","1.1.0",""
 "Microsoft.WindowsAzure.Jobs.Host","0.1.0-alpha1",""
 "Microsoft.WindowsAzure.Jobs.Host","0.2.0-alpha2",""
 "Microsoft.WindowsAzure.Jobs.Host","0.2.1-alpha2",""

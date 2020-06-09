@@ -4572,6 +4572,7 @@
 "Microsoft.Windows.Compatibility","5.0.0-preview.3.20214.6",""
 "Microsoft.Windows.Compatibility","5.0.0-preview.4.20251.6",""
 "Microsoft.Windows.EventTracing.Processing.OutputRedirection","1.0.0",""
+"Microsoft.Windows.EventTracing.Processing.OutputRedirection","1.1.0",""
 "Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static","1.8.0",""
 "Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static","1.8.1",""
 "Microsoft.googletest.v140.windesktop.msvcstl.static.rt-static","1.8.1.1",""
