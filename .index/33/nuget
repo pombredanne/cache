@@ -693,6 +693,7 @@
 "AWSXRayRecorder.Handlers.AspNetCore","2.6.1",""
 "AWSXRayRecorder.Handlers.AspNetCore","2.6.2",""
 "AWSXRayRecorder.Handlers.AspNetCore","2.7.0",""
+"AWSXRayRecorder.Handlers.AspNetCore","2.7.1",""
 "Aardvark.Rendering.Vulkan","2.0.1",""
 "Aardvark.Rendering.Vulkan","2.0.2",""
 "Aardvark.Rendering.Vulkan","2.0.3",""

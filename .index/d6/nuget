@@ -2585,6 +2585,7 @@
 "Dapr.AspNetCore","0.5.0-preview02",""
 "Dapr.AspNetCore","0.6.0-preview01",""
 "Dapr.AspNetCore","0.7.0-preview01",""
+"Dapr.AspNetCore","0.8.0-preview01",""
 "Data.Importer","1.0.6676.35389",""
 "Data.Runtime.Sql","1.0.0",""
 "Data.Runtime.Sql","1.0.1",""

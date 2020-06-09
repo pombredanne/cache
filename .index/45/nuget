@@ -927,6 +927,7 @@
 "AWSXRayRecorder.Handlers.System.Net","2.6.1",""
 "AWSXRayRecorder.Handlers.System.Net","2.6.2",""
 "AWSXRayRecorder.Handlers.System.Net","2.7.0",""
+"AWSXRayRecorder.Handlers.System.Net","2.7.1",""
 "Abbotware.Host","4.0.100",""
 "Abbotware.Host","4.0.101",""
 "Abbotware.Host","4.0.115",""
