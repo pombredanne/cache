@@ -9052,6 +9052,8 @@
 "Tecan.Sila2.Features.ParameterConstraintsProvider.Client","2.0.72-master",""
 "Tecan.Sila2.Features.ParameterConstraintsProvider.Client","2.0.82-master",""
 "Tecan.Sila2.Features.ParameterConstraintsProvider.Client","2.0.84-master",""
+"Tecan.Sila2.Features.ParameterConstraintsProvider.Client","2.1.0",""
+"Tecan.Sila2.Features.ParameterConstraintsProvider.Client","2.1.0-master.100",""
 "Telerik.DataAccess.Fluent.CodeGeneration","0.5.0-beta",""
 "Telpa.Framework.Data","2.0.0",""
 "Telpa.Framework.Data","3.0.0",""

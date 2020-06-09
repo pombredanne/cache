@@ -1450,6 +1450,7 @@
 "BlueConcord.IdentityServer.EntityFrameworkCore","1.2.7-alpha",""
 "BlueConcord.IdentityServer.EntityFrameworkCore","1.2.8-alpha",""
 "BlueSkyDev.Logging.AzureEventHubAppender","1.1.0-CI-20200103-191040",""
+"BlueSkyDev.Logging.AzureEventHubAppender","1.2.0-CI-20200609-131213",""
 "BoletoNetCore","1.0.0-beta",""
 "BoletoNetCore","1.0.0-beta2",""
 "BoletoNetCore","1.0.0-beta3",""
