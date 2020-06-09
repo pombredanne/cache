@@ -8713,6 +8713,7 @@
 "ServiceBridge.Ninject","1.0.1",""
 "ServiceBridge.Ninject","1.0.2",""
 "ServiceCollection.Extensions.Modules","1.0.0",""
+"ServiceCollection.Extensions.Modules","2.0.0",""
 "ServiceStack.Extensions","5.8.0",""
 "ServiceStack.MsgPack","4.0.10",""
 "ServiceStack.MsgPack","4.0.11",""

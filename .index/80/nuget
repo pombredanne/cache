@@ -4431,6 +4431,8 @@
 "Hash2Vec","0.1.0",""
 "Hash2Vec","0.1.1",""
 "Hatan.Azure.Functions.DependencyInjection.Extensions","1.0.0",""
+"Helpers.RabbitMqHelper","1.0.0",""
+"Helpers.RabbitMqHelper","1.0.1",""
 "HexMaster.WindowsServiceHelper","1.0.0",""
 "HexMaster.WindowsServiceHelper","1.0.1",""
 "HexMaster.WindowsServiceHelper","1.0.2",""
