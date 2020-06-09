@@ -788,6 +788,7 @@
 "BTCPayServer.Lightning.LND","1.1.0.8",""
 "BTCPayServer.Lightning.LND","1.1.0.9",""
 "BTCPayServer.Lightning.LND","1.2.0",""
+"BTCPayServer.Lightning.LND","1.2.1",""
 "BackEnd.Configuration.Autofac","1.0.0",""
 "BackEnd.Configuration.Autofac","1.0.0.10",""
 "BackEnd.Configuration.Autofac","1.0.0.11",""

@@ -2755,6 +2755,7 @@
 "Core.Components","1.0.1.39",""
 "Core.Runtime.Services","1.0.0",""
 "Core.System.Windows.Forms","1.0.0-alpha1",""
+"Core.System.Windows.Forms","1.0.0-alpha2",""
 "CoreBDD.SpecGeneration","0.1.0",""
 "CoreBDD.SpecGeneration","0.2.0",""
 "CoreBDD.SpecGeneration","0.3.0",""
