@@ -9168,6 +9168,7 @@
 "Octopus.Server.Extensibility","9.0.4",""
 "Octopus.Server.Extensibility","9.0.5",""
 "Octopus.Server.Extensibility","9.0.6",""
+"Octopus.Server.Extensibility","9.0.8",""
 "Octopus.Server.Extensibility.Authentication.OpenIDConnect.Common","5.6.5",""
 "Octopus.Server.Extensibility.Authentication.OpenIDConnect.Common","6.0.0",""
 "Ois.CouchbaseNetClient","2.3.1",""
