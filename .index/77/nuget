@@ -6880,6 +6880,8 @@
 "NuGetFunctionalTest_a57d216682af419a8c5ad2b0eff5cb24","1.0.0",""
 "NuGetFunctionalTest_a57d216682af419a8c5ad2b0eff5cb24","2.0.0",""
 "NuGetFunctionalTest_d970e7dd25c747ff8b43887a48ec5630","1.0.0",""
+"NuGetJSExample","1.0.0",""
+"NuGetJSExample","1.1.0",""
 "NuGetSolutionValidator.MsTest","1.0.7",""
 "NuGetSolutionValidator.MsTest","1.0.8",""
 "NuGetSolutionValidator.MsTest","2.0.5",""

@@ -9579,6 +9579,8 @@
 "SerilogEnricherCollection","0.1.0-beta",""
 "SerilogEnricherCollection","0.2.0-beta",""
 "SerilogEnricherCollection","1.0.0",""
+"ServerSideDataTable","0.0.1",""
+"ServerSideDataTable","0.0.2",""
 "ServiceControl.Plugin.Nsb3.CustomChecks","1.0.0",""
 "ServiceFabric.Mocks","0.9.0-preview",""
 "ServiceFabric.Mocks","0.9.1-preview",""

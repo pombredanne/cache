@@ -5562,6 +5562,7 @@
 "NanoRPC","0.9.2",""
 "Naos.Bootstrapper.Recipes.DeploymentConfigOnly","1.0.20",""
 "Naos.Bootstrapper.Recipes.DeploymentConfigOnly","1.0.21",""
+"Naos.Bootstrapper.Recipes.DeploymentConfigOnly","1.0.22",""
 "Naos.FileJanitor.MessageBus.Handler","1.0.100",""
 "Naos.FileJanitor.MessageBus.Handler","1.0.101",""
 "Naos.FileJanitor.MessageBus.Handler","1.0.102",""
