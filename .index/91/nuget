@@ -3707,6 +3707,7 @@
 "Google.Apis.Dialogflow.v2","1.46.0.1973",""
 "Google.Apis.Dialogflow.v2","1.46.0.1979",""
 "Google.Apis.Dialogflow.v2","1.46.0.1981",""
+"Google.Cloud.BigQuery.Connection.V1","1.0.0-beta01",""
 "Google.Cloud.Tasks.V2Beta3","1.0.0-beta01",""
 "Google.Cloud.Tasks.V2Beta3","1.0.0-beta02",""
 "Google.Cloud.Tasks.V2Beta3","1.0.0-beta03",""
