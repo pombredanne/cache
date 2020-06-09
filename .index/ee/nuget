@@ -5053,6 +5053,7 @@
 "ModPlus.RevitAPI","2020.0.0",""
 "ModPlus.RevitAPI","2020.0.1",""
 "ModPlus.RevitAPI","2020.0.2",""
+"MongoDB.Driver.Core.Extensions.OpenTelemetry","0.0.0-alpha.0.8",""
 "MongoDB.Entities.Core","1.0.0",""
 "MongoDB.Entities.Core","1.1.0",""
 "MongoDB.Entities.Core","1.2.0",""
