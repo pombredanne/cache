@@ -6390,6 +6390,7 @@
 "Microsoft.Windows.EventTracing.Events","0.3.1",""
 "Microsoft.Windows.EventTracing.Events","0.4.0",""
 "Microsoft.Windows.EventTracing.Events","1.0.0",""
+"Microsoft.Windows.EventTracing.Events","1.1.0",""
 "Microsoft.Windows.SDK.BuildTools","10.0.18362.3-preview",""
 "Miffy.RabbitMQBus","2.4.0",""
 "MindFusion.Charting.WebForms","4.0.0",""
