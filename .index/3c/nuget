@@ -10260,6 +10260,7 @@
 "Steeltoe.CircuitBreaker.Hystrix.MetricsStreamCore","2.4.1",""
 "Steeltoe.CircuitBreaker.Hystrix.MetricsStreamCore","2.4.2",""
 "Steeltoe.CircuitBreaker.Hystrix.MetricsStreamCore","2.4.3",""
+"Steeltoe.CircuitBreaker.Hystrix.MetricsStreamCore","2.4.4",""
 "Steeltoe.CircuitBreaker.Hystrix.MetricsStreamCore","3.0.0-m1",""
 "Steeltoe.CircuitBreaker.Hystrix.MetricsStreamCore","3.0.0-m2",""
 "Stepon.FaceRecognizationCore","1.0.0",""
