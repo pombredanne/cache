@@ -1565,6 +1565,7 @@
 "AspNetCore.HealthChecks.Uris","3.0.0",""
 "AspNetCore.HealthChecks.Uris","3.1.0",""
 "AspNetCore.HealthChecks.Uris","3.1.1",""
+"AspNetCore.HealthChecks.Uris","3.1.2",""
 "AspNetCoreCommon","1.0.0",""
 "AspNetCoreCommon","1.0.0.1",""
 "AspNetCoreCommon","1.0.0.2",""
