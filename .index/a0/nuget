@@ -7483,6 +7483,7 @@
 "ServiceStack.Logging.Slack","5.6.0",""
 "ServiceStack.Logging.Slack","5.7.0",""
 "ServiceStack.Logging.Slack","5.8.0",""
+"ServiceStack.Logging.Slack","5.9.0",""
 "ServiceStack.QueryableDataSource","1.0.0",""
 "Sfyc.Frame.RabbitMQ","1.0.0.1",""
 "Sfyc.Frame.RabbitMQ","1.0.0.2",""

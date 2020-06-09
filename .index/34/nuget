@@ -7230,6 +7230,7 @@
 "ServiceDoctor","0.1.1",""
 "ServiceDoctor","0.1.2",""
 "ServiceStack.GrpcClient","5.8.0",""
+"ServiceStack.GrpcClient","5.9.0",""
 "SevSharks.SignalR.Contracts","1.0.5",""
 "SevSharks.SignalR.Contracts","1.0.8",""
 "Sharp.Disposable","0.1.0-rc1",""

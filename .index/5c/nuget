@@ -6909,6 +6909,7 @@
 "ServiceStack.OrmLite.Firebird","5.6.0",""
 "ServiceStack.OrmLite.Firebird","5.7.0",""
 "ServiceStack.OrmLite.Firebird","5.8.0",""
+"ServiceStack.OrmLite.Firebird","5.9.0",""
 "Services","1.0.0",""
 "SharpHsql","1.0.0",""
 "SharpHsql","1.0.1",""

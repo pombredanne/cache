@@ -7612,6 +7612,7 @@
 "ServiceStack.Api.OpenApi","5.6.0",""
 "ServiceStack.Api.OpenApi","5.7.0",""
 "ServiceStack.Api.OpenApi","5.8.0",""
+"ServiceStack.Api.OpenApi","5.9.0",""
 "ShSoft.Infrastructure.EventStoreProvider.RavenDB","1.0.0",""
 "ShSoft.Infrastructure.EventStoreProvider.RavenDB","1.0.1",""
 "SharePointProject2","1.0.0",""

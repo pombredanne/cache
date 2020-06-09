@@ -8127,6 +8127,7 @@
 "ServiceStack.Logging.Serilog","5.6.0",""
 "ServiceStack.Logging.Serilog","5.7.0",""
 "ServiceStack.Logging.Serilog","5.8.0",""
+"ServiceStack.Logging.Serilog","5.9.0",""
 "Sfa.Core.IdentityModel.Clients.ActiveDirectory","1.0.1",""
 "Sfa.Core.IdentityModel.Clients.ActiveDirectory","1.0.1-alpha-3972",""
 "Sfa.Core.IdentityModel.Clients.ActiveDirectory","1.0.1-alpha-3976",""

@@ -9807,6 +9807,7 @@
 "ServiceStack.RabbitMq.Core","5.6.0",""
 "ServiceStack.RabbitMq.Core","5.7.0",""
 "ServiceStack.RabbitMq.Core","5.8.0",""
+"ServiceStack.RabbitMq.Core","5.9.0",""
 "SfZip","1.0.0",""
 "ShadySoft.Blazor.FilterInput","1.0.4",""
 "Shared.Infrastructure","0.1.0",""

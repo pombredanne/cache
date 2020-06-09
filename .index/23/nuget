@@ -13576,6 +13576,7 @@
 "ServiceStack.Logging.NLog.Core","5.6.0",""
 "ServiceStack.Logging.NLog.Core","5.7.0",""
 "ServiceStack.Logging.NLog.Core","5.8.0",""
+"ServiceStack.Logging.NLog.Core","5.9.0",""
 "Seven.Coding.Controller","1.0.0",""
 "Sfa.Core.Azure.ServiceBus","1.0.1",""
 "Sfa.Core.Azure.ServiceBus","1.0.1-alpha-3972",""
