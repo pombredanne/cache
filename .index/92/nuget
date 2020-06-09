@@ -3432,6 +3432,7 @@
 "E2E.SemVer2StableMetadataUnlisted.180926.012247.8385606","1.0.0+metadata",""
 "E2E.SignedPackage.180419.234140.0774914","1.0.0",""
 "E2E.SignedPackage.180430.210545.9267087","1.0.0",""
+"E2E.SymbolsPackage.200609.002139.3437978","1.0.0",""
 "ECMS.Infrastructure","1.0.0",""
 "EECoreUtility","1.0.0",""
 "EF.GenericRepository","1.0.0",""
