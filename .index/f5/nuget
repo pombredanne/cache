@@ -5929,6 +5929,7 @@
 "Mondop.Abstractions","1.0.3",""
 "Mondop.Abstractions","1.0.4",""
 "MongoDB.Driver.Core.Extensions.DiagnosticSources","0.0.0-alpha.0.8",""
+"MongoDB.Driver.Core.Extensions.DiagnosticSources","0.0.0-alpha.0.9",""
 "Mono.ReferenceAssemblies.v4.5","1.0.0",""
 "Mors.Support.Repositories","0.0.0.1",""
 "MposAirLogging","1.0.0",""

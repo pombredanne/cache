@@ -2445,6 +2445,7 @@
 "DotNetCore.Compile.Environment","1.0.0-alpha1",""
 "DotNetCore.Compile.Environment","1.0.0-alpha2",""
 "DotNetCore.Compile.Environment","1.0.0-alpha5",""
+"DotNetCore.Compile.Environment","1.0.0-alpha6",""
 "DotNetFramework.CAP.RabbitMQ","1.0.0",""
 "DotNetFramework.CAP.RabbitMQ","1.0.2",""
 "DotNetFramework.CAP.RabbitMQ","1.0.3",""
