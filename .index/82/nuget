@@ -2298,6 +2298,7 @@
 "Etiqueta.NET","1.0.0.2",""
 "EventAggregatorRx","1.0.0",""
 "EventAggregatorRx","1.0.0.1",""
+"EventStore.Client.Grpc.Operations","20.6.0",""
 "EventStore.Client.Grpc.Operations","20.6.0-rc",""
 "EverquestOpenParser","1.0.0",""
 "EverquestOpenParser","1.0.1",""

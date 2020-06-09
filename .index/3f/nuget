@@ -2952,6 +2952,7 @@
 "Euroland.NetCore.ToolsFramework.All","1.0.0",""
 "EventBus.AzureServiceBus.Standard","1.0.1",""
 "EventBus.AzureServiceBus.Standard","1.0.2",""
+"EventStore.Client.Grpc","20.6.0",""
 "EventStore.Client.Grpc","20.6.0-rc",""
 "EventStore.Client.Grpc","6.0.0-preview2",""
 "EventStore.Client.Grpc","6.0.0-preview3",""
