@@ -802,6 +802,7 @@
 "Amazon.CDK.MonoCDK.Experiment","1.42.1-devpreview",""
 "Amazon.CDK.MonoCDK.Experiment","1.43.0-devpreview",""
 "Amazon.CDK.MonoCDK.Experiment","1.44.0-devpreview",""
+"Amazon.CDK.MonoCDK.Experiment","1.45.0-devpreview",""
 "Anemonis.AspNetCore.JsonRpc","1.12.0",""
 "Anemonis.AspNetCore.JsonRpc","1.12.1",""
 "Anemonis.AspNetCore.JsonRpc","1.13.0",""

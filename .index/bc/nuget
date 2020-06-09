@@ -1282,6 +1282,7 @@
 "Amazon.CDK.AWS.DynamoDB","1.42.1",""
 "Amazon.CDK.AWS.DynamoDB","1.43.0",""
 "Amazon.CDK.AWS.DynamoDB","1.44.0",""
+"Amazon.CDK.AWS.DynamoDB","1.45.0",""
 "Amazon.CDK.AWS.DynamoDB","1.5.0-devpreview",""
 "Amazon.CDK.AWS.DynamoDB","1.6.0-devpreview",""
 "Amazon.CDK.AWS.DynamoDB","1.6.1-devpreview",""

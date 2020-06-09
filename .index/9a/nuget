@@ -1342,6 +1342,7 @@
 "Amazon.CDK.AWS.APIGateway","1.42.1",""
 "Amazon.CDK.AWS.APIGateway","1.43.0",""
 "Amazon.CDK.AWS.APIGateway","1.44.0",""
+"Amazon.CDK.AWS.APIGateway","1.45.0",""
 "Amazon.CDK.AWS.APIGateway","1.5.0-devpreview",""
 "Amazon.CDK.AWS.APIGateway","1.6.0-devpreview",""
 "Amazon.CDK.AWS.APIGateway","1.6.1-devpreview",""

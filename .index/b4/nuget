@@ -1584,6 +1584,7 @@
 "Amazon.CDK.AWS.QLDB","1.42.1",""
 "Amazon.CDK.AWS.QLDB","1.43.0",""
 "Amazon.CDK.AWS.QLDB","1.44.0",""
+"Amazon.CDK.AWS.QLDB","1.45.0",""
 "Amazon.CDK.AWS.QLDB","1.8.0-devpreview",""
 "Amazon.CDK.AWS.QLDB","1.9.0-devpreview",""
 "Amazon.Core","0.1.0",""
