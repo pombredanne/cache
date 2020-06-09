@@ -2688,6 +2688,7 @@
 "EventSerializer","3.0.2",""
 "EventSerializer","3.0.3",""
 "EventSerializer","3.0.4",""
+"EventStore.Client.Grpc.Streams","20.6.0",""
 "EventStore.Client.Grpc.Streams","20.6.0-rc",""
 "Evolvus.Training.SimpleAutofac.Service","0.0.1-alpha",""
 "Ew.Runtime.Serialization","0.1.0",""

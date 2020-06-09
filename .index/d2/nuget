@@ -3210,6 +3210,7 @@
 "ErtiqaaSeoEditor","1.1.0",""
 "ErtiqaaSeoEditor","1.2.0",""
 "Et.ServiceBus.Handler","1.0.0",""
+"EventStore.Client.Grpc.PersistentSubscriptions","20.6.0",""
 "EventStore.Client.Grpc.PersistentSubscriptions","20.6.0-rc",""
 "EventStore.Logging.NLog","3.0.11280.41",""
 "EventStore.Logging.NLog","3.0.11291.42",""

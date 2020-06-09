@@ -2454,6 +2454,7 @@
 "Essensoft.AspNetCore.WeChatPay","1.1.0",""
 "Etg.SimpleStubs.API","1.0.0",""
 "Eto.Forms.Controls.SkiaSharp.Mac","1.0.0",""
+"EventStore.Client.Grpc.ProjectionManagement","20.6.0",""
 "EventStore.Client.Grpc.ProjectionManagement","20.6.0-rc",""
 "ExUtility.Fody","0.0.0-placeholder",""
 "Example.NServiceBus.Messages","1.0.0",""
