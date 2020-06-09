@@ -3839,6 +3839,7 @@
 "Harmony.Core.AspNetCore","3.1.75",""
 "Harmony.Core.AspNetCore","3.1.90",""
 "HcfNS.Authorization.Module","3.1.0",""
+"HcfNS.Authorization.Module","3.2.0",""
 "Hein.Framework.Serialization","1.0.0",""
 "Hein.Framework.Serialization","1.1.0",""
 "Hello.World.Service","1.0.0",""
