@@ -2005,6 +2005,7 @@
 "Dapplo.ActiveDirectory","0.3.6",""
 "Dapr.Extensions.Configuration","0.6.0-preview01",""
 "Dapr.Extensions.Configuration","0.7.0-preview01",""
+"Dapr.Extensions.Configuration","0.8.0-preview01",""
 "Data.Caching.Framework","1.0.0",""
 "Data.Caching.Framework","1.0.1",""
 "Data.Caching.Framework","1.0.2",""
