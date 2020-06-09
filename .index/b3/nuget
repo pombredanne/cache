@@ -2502,6 +2502,7 @@
 "ContpaqiNubeFiscalDownloadProd","1.0.0",""
 "Core.Subject","1.0.0",""
 "Core.System.Drawing.Design","1.0.0-alpha1",""
+"Core.System.Drawing.Design","1.0.0-alpha2",""
 "Core.TI","1.0.0",""
 "CoreEventBus.RabbitMQImpl.Extensions","1.0.0",""
 "CoreFaces.Transaction.Models","1.0.0",""
