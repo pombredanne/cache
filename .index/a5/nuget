@@ -10072,6 +10072,7 @@
 "WeihanLi.Data","1.0.39-preview-20200603-023614",""
 "WeihanLi.Data","1.0.39-preview-20200610-070004",""
 "Whizbang.EventStore.SqlServer","1.0.0",""
+"Whizbang.EventStore.SqlServer","1.1.0",""
 "WideBotPlatform.Core","1.0.0",""
 "WinInsider.HttpHosting.Owin.Composition","1.0.17",""
 "WinJSContrib.GlobalProgress","1.0.0.1",""
