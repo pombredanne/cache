@@ -2998,6 +2998,7 @@
 "EGI.Foundation.SDK.RedisServer","1.0.1",""
 "ESFA.DAS.EventStore.Client","1.0.11",""
 "ESFA.DAS.EventStore.Client","1.0.8",""
+"ETLBox.Csv","1.0.0",""
 "EasyAbp.EShop.Products.Domain.Shared","0.1.0",""
 "EasyAbp.EShop.Products.Domain.Shared","0.1.1",""
 "EasyAbp.EShop.Products.Domain.Shared","0.1.10",""

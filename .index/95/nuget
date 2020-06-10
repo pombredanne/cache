@@ -8981,6 +8981,7 @@
 "RabbitMQ.Client.CoreClr","3.6.1.2",""
 "RabbitProtobuf","0.1.0",""
 "RabbitProtobuf","0.2.0",""
+"RabbitProtobuf","0.2.1",""
 "RandomUser","0.9.47",""
 "RandomUser","1.0.0",""
 "RandomUserAgent","1.0.0",""
