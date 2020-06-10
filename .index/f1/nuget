@@ -3490,6 +3490,7 @@
 "Google.Api.CommonProtos","2.0.0",""
 "Google.Api.CommonProtos","2.0.0-beta01",""
 "Google.Api.CommonProtos","2.0.0-beta02",""
+"Google.Api.CommonProtos","2.1.0",""
 "Google.Apis.Runtimeconfig.v1beta1","1.13.0.495",""
 "Google.Cloud.Functions.Framework","1.0.0-alpha01",""
 "Google.Cloud.Functions.Framework","1.0.0-alpha02",""

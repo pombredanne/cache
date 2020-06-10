@@ -7322,6 +7322,7 @@
 "Serilog.Sinks.Confluent.Kafka","1.5.0",""
 "Serilog.Sinks.Confluent.Kafka","1.6.0",""
 "Serilog.Sinks.Confluent.Kafka","1.6.1",""
+"Serilog.Sinks.Confluent.Kafka","1.6.2",""
 "Serilog.Sinks.NewRelicInsights","0.1.0",""
 "Serilog.Sinks.NewRelicInsights","0.2.0",""
 "Serilog.Sinks.NewRelicInsights","0.2.1",""
