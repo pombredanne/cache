@@ -1184,6 +1184,7 @@
 "BclContrib-Abstract.Sql","1.0.1",""
 "BclEx-Abstract.Web","1.0.0",""
 "BeeX.DataStorage.MySql","1.0.0",""
+"BeeX.DataStorage.MySql","1.0.1",""
 "BehaviourTree.FluentBuilder","1.0.29-alpha",""
 "BehaviourTree.FluentBuilder","1.0.33-alpha",""
 "BehaviourTree.FluentBuilder","1.0.45-alpha",""

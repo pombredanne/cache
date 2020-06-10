@@ -1113,6 +1113,7 @@
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Logging","2.2.2",""
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Logging","2.2.3",""
 "BeeX.Logging.NLog","1.0.0",""
+"BeeX.Logging.NLog","1.0.1",""
 "Bellatrix.NUnit","1.1.0.25",""
 "Bellatrix.NUnit","1.1.1",""
 "Bellatrix.NUnit","1.2.8",""
