@@ -7364,6 +7364,8 @@
 "@ibm-aspera/http-gateway-sdk-js","6.0.2",""
 "@ibm-aspera/http-gateway-sdk-js","6.0.3",""
 "@ibm-aspera/http-gateway-sdk-js","6.1.0",""
+"@ibm-aspera/http-gateway-sdk-js","6.1.1",""
+"@ibm-aspera/http-gateway-sdk-js","6.1.2",""
 "@ibm-wch-sdk/api","6.0.107","MIT"
 "@ibm-wch-sdk/api","6.0.108","MIT"
 "@ibm-wch-sdk/api","6.0.112","MIT"

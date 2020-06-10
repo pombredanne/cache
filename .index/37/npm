@@ -1631,6 +1631,8 @@
 "@blocksley/blocksley-demo","0.1.29-alpha.0",""
 "@blocksley/blocksley-demo","0.1.30-alpha.0","MIT"
 "@blossm/mongodb-event-store-root-stream","0.0.1",""
+"@blossm/mongodb-event-store-root-stream","0.0.10",""
+"@blossm/mongodb-event-store-root-stream","0.0.11",""
 "@blossm/mongodb-event-store-root-stream","0.0.2",""
 "@blossm/mongodb-event-store-root-stream","0.0.3",""
 "@blossm/mongodb-event-store-root-stream","0.0.4",""
