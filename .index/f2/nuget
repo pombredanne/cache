@@ -5199,6 +5199,7 @@
 "Microsoft.NETCore.App.Crossgen2.linux-musl-x64","5.0.0-preview.2.20160.6",""
 "Microsoft.NETCore.App.Crossgen2.linux-musl-x64","5.0.0-preview.3.20214.6",""
 "Microsoft.NETCore.App.Crossgen2.linux-musl-x64","5.0.0-preview.4.20251.6",""
+"Microsoft.NETCore.App.Crossgen2.linux-musl-x64","5.0.0-preview.5.20278.1",""
 "Microsoft.NETCore.TestHost-arm","1.0.0-beta-23123",""
 "Microsoft.NETCore.TestHost-arm","1.0.0-beta-23225",""
 "Microsoft.ServiceFabric.Data.Interfaces.V2","4.0.457",""

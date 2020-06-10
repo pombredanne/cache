@@ -5645,6 +5645,7 @@
 "Microsoft.Azure.Management.Sql","1.8.0-preview",""
 "Microsoft.Azure.Management.Sql","1.9.0-preview",""
 "Microsoft.Extensions.DotnetToolDispatcher.Sources","0.0.1-alpha",""
+"Microsoft.NETCore.App.Runtime.ios-arm","5.0.0-preview.5.20278.1",""
 "Microsoft.Owin.Security.MicrosoftAccount.tr","2.0.0",""
 "Microsoft.Owin.Security.MicrosoftAccount.tr","2.0.0-rc1",""
 "Microsoft.Owin.Security.MicrosoftAccount.tr","2.0.1",""
