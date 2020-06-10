@@ -5475,6 +5475,7 @@
 "Microsoft.Extensions.Configuration.KeyPerFile","5.0.0-preview.2.20167.3",""
 "Microsoft.Extensions.Configuration.KeyPerFile","5.0.0-preview.3.20215.14",""
 "Microsoft.Extensions.Configuration.KeyPerFile","5.0.0-preview.4.20257.10",""
+"Microsoft.Extensions.Configuration.KeyPerFile","5.0.0-preview.5.20279.2",""
 "Microsoft.Extensions.Logging.Azure.AppServicesDiagnostics","0.0.1-alpha",""
 "Microsoft.Hadoop.Hive","0.1.0-prerelease",""
 "Microsoft.Hadoop.Hive","0.12.5051.19776",""

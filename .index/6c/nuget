@@ -10845,6 +10845,7 @@
 "runtime.win-arm64.Microsoft.NETCore.DotNetHostPolicy","5.0.0-preview.2.20160.6",""
 "runtime.win-arm64.Microsoft.NETCore.DotNetHostPolicy","5.0.0-preview.3.20214.6",""
 "runtime.win-arm64.Microsoft.NETCore.DotNetHostPolicy","5.0.0-preview.4.20251.6",""
+"runtime.win-arm64.Microsoft.NETCore.DotNetHostPolicy","5.0.0-preview.5.20278.1",""
 "runtime.win-x64.runtime.native.System.Data.SqlClient.sni","4.4.0",""
 "runtime.win-x64.runtime.native.System.Data.SqlClient.sni","4.4.0-preview1-25301-01",""
 "runtime.win-x64.runtime.native.System.Data.SqlClient.sni","4.4.0-preview2-25312-01",""

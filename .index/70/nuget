@@ -10885,6 +10885,7 @@
 "runtime.win-arm.Microsoft.NETCore.ILDAsm","5.0.0-preview.2.20160.6",""
 "runtime.win-arm.Microsoft.NETCore.ILDAsm","5.0.0-preview.3.20214.6",""
 "runtime.win-arm.Microsoft.NETCore.ILDAsm","5.0.0-preview.4.20251.6",""
+"runtime.win-arm.Microsoft.NETCore.ILDAsm","5.0.0-preview.5.20278.1",""
 "seek-dsc-topshelf","0.0.0.1",""
 "seek-dsc-topshelf","1.0.0.28",""
 "seek-dsc-topshelf","1.0.0.29",""

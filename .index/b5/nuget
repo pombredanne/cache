@@ -11110,6 +11110,7 @@
 "runtime.win-arm64.Microsoft.NETCore.DotNetHostResolver","5.0.0-preview.2.20160.6",""
 "runtime.win-arm64.Microsoft.NETCore.DotNetHostResolver","5.0.0-preview.3.20214.6",""
 "runtime.win-arm64.Microsoft.NETCore.DotNetHostResolver","5.0.0-preview.4.20251.6",""
+"runtime.win-arm64.Microsoft.NETCore.DotNetHostResolver","5.0.0-preview.5.20278.1",""
 "runtime.win7.System.Net.NameResolution","4.0.0-beta-23409",""
 "runtime.win7.System.Net.NameResolution","4.0.0-beta-23516",""
 "seneca.TypeScript.DefinitelyTyped","0.0.1",""

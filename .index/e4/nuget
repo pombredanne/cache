@@ -12316,6 +12316,7 @@
 "runtime.osx-x64.Microsoft.NETCore.ILDAsm","5.0.0-preview.2.20160.6",""
 "runtime.osx-x64.Microsoft.NETCore.ILDAsm","5.0.0-preview.3.20214.6",""
 "runtime.osx-x64.Microsoft.NETCore.ILDAsm","5.0.0-preview.4.20251.6",""
+"runtime.osx-x64.Microsoft.NETCore.ILDAsm","5.0.0-preview.5.20278.1",""
 "runtime.win10-arm-aot.runtime.native.System.IO.Compression","0.0.1-alpha",""
 "runtime.win10-arm-aot.runtime.native.System.IO.Compression","4.0.1",""
 "samplesay_local","1.0.0",""
