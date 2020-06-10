@@ -1777,6 +1777,7 @@
 "CDP4ServicesDal-CE","5.0.6",""
 "CDP4ServicesDal-CE","6.0.0-rc01",""
 "CDP4ServicesDal-CE","6.0.0-rc02",""
+"CDP4ServicesDal-CE","6.1.0",""
 "CDV.Presentation.Framework","1.0.0",""
 "CDorst.DevOps.VersionControl.Functions.GetGitHubApiCredentials","1.0.0",""
 "CDorst.DevOps.VersionControl.Functions.GetGitHubApiCredentials","1.0.1",""
