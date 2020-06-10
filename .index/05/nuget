@@ -1775,6 +1775,7 @@
 "Chef.Extensions.DbAccess.SqlServer","2.3.3",""
 "Chef.Extensions.DbAccess.SqlServer","2.3.4",""
 "Chef.Extensions.DbAccess.SqlServer","2.3.5",""
+"Chef.Extensions.DbAccess.SqlServer","2.3.6",""
 "Chopin.Pooling","1.0.2",""
 "CiscoConfigParser","0.1.0",""
 "CiscoConfigParser","0.1.1",""
