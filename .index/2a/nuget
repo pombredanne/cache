@@ -4533,6 +4533,7 @@
 "Imageflow.NativeTool.ubuntu_16_04-x86_64","1.3.9-rc39",""
 "Imageflow.NativeTool.ubuntu_16_04-x86_64","1.4.0-rc40",""
 "Imageflow.NativeTool.ubuntu_16_04-x86_64","1.4.1-rc41",""
+"Imageflow.NativeTool.ubuntu_16_04-x86_64","1.4.2-rc42",""
 "ImmutableRelations","0.5.0",""
 "In.Infrastructure.Cqrs.Command","1.0.2",""
 "In.Infrastructure.Cqrs.Command","1.0.3",""
