@@ -3400,6 +3400,7 @@
 "ESP8266.OTA","1.0.0",""
 "EStart.Common","1.0.2",""
 "EStart.Common","2.0.0",""
+"EUSE.Electron.Auth","0.0.0",""
 "EZS.Fwks.Helpers","1.0.0",""
 "EZS.Fwks.Helpers","1.0.1",""
 "Ease.Database.EntityFramework","1.0.0",""

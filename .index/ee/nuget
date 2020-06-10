@@ -4547,6 +4547,7 @@
 "LettuceEncrypt.AWS","0.0.1-alpha.0",""
 "Levridge.Integration.IntegrationService.Mapping","1.0.0",""
 "LibVRF.Native","0.0.0",""
+"LibVRF.Native","0.0.1",""
 "LibrameStandard.Extensions.Data","5.20.1810.191",""
 "LibrameStandard.Extensions.Data","5.20.1810.221",""
 "LigerShark.WebOptimizer.LESS","2.7.2-beta",""
