@@ -5750,6 +5750,7 @@
 "NuGetFunctionalTest_e95a47f37ad34fdd9bd1de773a042f8f","1.0.0-v637012522820822921",""
 "NuGetFunctionalTest_f04ffa47c47e4f2aacd3c5eee984e2f2","1.0.0-v637194580124567601",""
 "NubeSync.Client.SQLiteStore","0.0.1-pre1",""
+"NubeSync.Client.SQLiteStore","0.0.1-pre10",""
 "NubeSync.Client.SQLiteStore","0.0.1-pre2",""
 "NubeSync.Client.SQLiteStore","0.0.1-pre3",""
 "NubeSync.Client.SQLiteStore","0.0.1-pre4",""
