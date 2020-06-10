@@ -5485,6 +5485,8 @@
 "NeuroLoopGainLibrary","1.0.0",""
 "NeuroLoopGainLibrary","1.1.0",""
 "NeuroSpeech.CrockfordBase32","1.0.0",""
+"NeuroSpeech.CrockfordBase32","1.0.3",""
+"NeuroSpeech.CrockfordBase32","1.0.4",""
 "NlbCompatModule","0.1.0",""
 "Northwind.EF.SqlClient","1.0.0",""
 "NotDeadYet.MVC4","0.0.10",""
