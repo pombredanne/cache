@@ -1415,6 +1415,7 @@
 "Candor.Web.Mvc.ErrorHandler","0.6.1.30226",""
 "Candor.Web.Mvc.ErrorHandler","0.7.0.30405",""
 "Candor.Web.Mvc.ErrorHandler","1.0.0",""
+"CasCap.Common.Serialisation.Json","1.0.5",""
 "Cashwu.AspNet.Scheduled","1.0.0",""
 "Cashwu.AspNet.Scheduled","1.0.2",""
 "Cashwu.AspNet.Scheduled","1.0.3",""

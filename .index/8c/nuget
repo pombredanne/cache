@@ -2026,6 +2026,7 @@
 "Cardinal.AspNetCore.Services","0.6.0-alpha",""
 "Cardinal.AspNetCore.Services","0.6.1-alpha",""
 "Carr.AI.LogService","1.0.0",""
+"CasCap.Common.Serialisation.MessagePack","1.0.5",""
 "Cataurus.SshNet.Security.Cryptography","1.0.0",""
 "Cataurus.SshNet.Security.Cryptography","1.0.1",""
 "Cataurus.SshNet.Security.Cryptography","1.0.20181221.11",""
