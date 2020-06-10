@@ -6800,6 +6800,7 @@
 "MiCake.Core","0.2.2",""
 "MicroAssistantDLL","1.0.0",""
 "MicroFx.Mapper","1.0.0",""
+"Microservice.RabbitMQMessageBrokerExtension","0.1.0-fixwhitespace0001",""
 "Microservice.RabbitMQMessageBrokerExtension","1.0.0",""
 "Microservice.RabbitMQMessageBrokerExtension","1.1.2",""
 "Microservice.RabbitMQMessageBrokerExtension","1.2.0-alpha0012",""
