@@ -5906,6 +5906,7 @@
 "Microsoft.Azure.Management.EventGrid","5.3.0-preview",""
 "Microsoft.Azure.Management.EventGrid","5.3.1-preview",""
 "Microsoft.Azure.Management.EventGrid","5.3.2-preview",""
+"Microsoft.Azure.Management.EventGrid","6.0.0",""
 "Microsoft.Azure.Management.Network.Fluent","1.0.0",""
 "Microsoft.Azure.Management.Network.Fluent","1.0.0-beta3",""
 "Microsoft.Azure.Management.Network.Fluent","1.0.0-beta4",""

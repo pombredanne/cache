@@ -9182,6 +9182,7 @@
 "SenseNet.ContentRepository.InMemory","0.0.8",""
 "Serilog.Sinks.NewRelicLab.Logs","0.1.0",""
 "Serilog.Sinks.NewRelicLab.Logs","0.1.0-alpha",""
+"SetteDo.Core.Utilities","0.1.0",""
 "Shaman.FileSystem","1.0.0-beta-4173",""
 "Shaman.FileSystem","1.0.0-beta-4174",""
 "Shaman.FileSystem","1.0.0-beta-4175",""

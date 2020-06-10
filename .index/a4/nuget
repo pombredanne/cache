@@ -2785,6 +2785,7 @@
 "EventWay.EventStore.AzureTableStorage","1.0.0-CI-20181228-184955",""
 "EventWay.EventStore.AzureTableStorage","1.0.0-CI-20190103-094547",""
 "EventWay.EventStore.AzureTableStorage","1.0.0-CI-20190103-144830",""
+"ExamineX.AzureSearch.Umbraco.Forms","1.0.0",""
 "ExcelDna.FluentRibbon","0.0.1-alpha",""
 "Exploresoft.WPF.Gauge","1.0.0",""
 "ExtendedAssert","1.0.0",""
