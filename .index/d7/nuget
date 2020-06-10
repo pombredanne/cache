@@ -5365,6 +5365,7 @@
 "Imageflow.NativeRuntime.win-x86","1.3.9-rc39",""
 "Imageflow.NativeRuntime.win-x86","1.4.0-rc40",""
 "Imageflow.NativeRuntime.win-x86","1.4.1-rc41",""
+"Imageflow.NativeRuntime.win-x86","1.4.2-rc42",""
 "ImmutableObjectGraph","0.1.0-beta4",""
 "ImmutableObjectGraph","1.0.0-beta5-gcca633c3de",""
 "ImmutableObjectGraph","1.0.15185-beta6",""

@@ -8557,6 +8557,7 @@
 "Proto.Persistence.SqlServer","0.2.1-alpha.0.27",""
 "Proto.Persistence.SqlServer","0.3.0",""
 "PsyDuckPrometheusAdapter","0.1.0",""
+"PsyDuckPrometheusAdapter","0.1.1",""
 "PyTK","1.12.15",""
 "PythonConsoleControl","1.0.0",""
 "PythonConsoleControl","1.0.0.1",""
