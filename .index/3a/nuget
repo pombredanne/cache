@@ -638,6 +638,7 @@
 "AmazonDynamoDBStub","0.3.0",""
 "AmbientEdge.Logging.Serilog","0.0.5",""
 "AmbientEdge.Logging.Serilog","0.0.6",""
+"AmbientEdge.Logging.Serilog","0.0.7",""
 "Analogy.LogViewer.RegexParser","1.0.0",""
 "Analogy.LogViewer.RegexParser","1.0.1",""
 "Analogy.LogViewer.RegexParser","1.0.2",""

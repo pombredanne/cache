@@ -4782,6 +4782,7 @@
 "MassTransit.DocumentDb","7.0.0-develop.2781+sha.2173c72",""
 "MassTransit.DocumentDb","7.0.0-develop.2793+sha.4d771f2",""
 "MassTransit.DocumentDb","7.0.0-develop.2800+sha.9e873db",""
+"MassTransit.DocumentDb","7.0.0-develop.2802+sha.f75529b",""
 "MassTransit.Extensions.Hosting.Http","1.0.11",""
 "MathsFunctions","1.0.0",""
 "Matrix.Core","1.0.0",""
