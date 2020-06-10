@@ -540,6 +540,7 @@
 "ActiveLogin.Authentication.GrandId.AspNetCore","3.0.0-beta-1",""
 "ActiveLogin.Authentication.GrandId.AspNetCore","3.0.0-beta-2",""
 "ActiveLogin.Authentication.GrandId.AspNetCore","3.0.0-rc-1",""
+"ActiveLogin.Authentication.GrandId.AspNetCore","4.0.0-beta-4",""
 "AddinX.Configuration.Contract","1.0.0",""
 "Adriva.Extensions.Optimization.Abstractions","3.0.0-beta01",""
 "Adriva.Extensions.Optimization.Abstractions","3.0.0-dev05",""
