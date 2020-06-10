@@ -5606,6 +5606,7 @@
 "Microsoft.Graph.Auth","1.0.0-preview.2",""
 "Microsoft.Graph.Auth","1.0.0-preview.3",""
 "Microsoft.Graph.Auth","1.0.0-preview.4",""
+"Microsoft.Graph.Auth","1.0.0-preview.5",""
 "Microsoft.IdentityModel.Extensions","1.0.0",""
 "Microsoft.IdentityModel.Extensions","1.0.0-unofficial",""
 "Microsoft.Owin.ko","2.0.0",""

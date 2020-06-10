@@ -8380,6 +8380,7 @@
 "SenchaExtensions","1.0.3",""
 "SenchaExtensions","1.0.4",""
 "SenchaExtensions","1.0.5",""
+"SendGrid.Extensions.DependencyInjection","1.0.0",""
 "SendGrid.SmtpApi","1.1.0",""
 "SendGrid.SmtpApi","1.1.1",""
 "SendGrid.SmtpApi","1.1.2",""
