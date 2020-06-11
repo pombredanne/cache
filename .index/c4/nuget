@@ -2317,6 +2317,7 @@
 "EntityChange","4.0.0.66",""
 "EntityChange","4.1.0.71",""
 "EntityFrameworkCore.SqlServer.NodaTime","0.1.0",""
+"EntityFrameworkCore.SqlServer.NodaTime","0.2.0",""
 "Eowin.AzureServiceBusRelay.Server","0.1.0",""
 "Eowin.AzureServiceBusRelay.Server","0.2.0",""
 "Errordite.Client.v2.0.dll","1.0.0",""
