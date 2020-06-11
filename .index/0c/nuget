@@ -5831,6 +5831,7 @@
 "Npgsql.EntityFrameworkCore.PostgreSQL.FuzzyStringMatch","5.0.0-preview2",""
 "Npgsql.EntityFrameworkCore.PostgreSQL.FuzzyStringMatch","5.0.0-preview3",""
 "Npgsql.EntityFrameworkCore.PostgreSQL.FuzzyStringMatch","5.0.0-preview4",""
+"Npgsql.EntityFrameworkCore.PostgreSQL.FuzzyStringMatch","5.0.0-preview5",""
 "NuGet.CKM","1.0.0",""
 "NuGet.CKM","1.0.1",""
 "NuGet.CKM","1.0.2",""

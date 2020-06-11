@@ -2321,6 +2321,7 @@
 "DCSDK.DataSource.RDBC.Oracle","1.11.8",""
 "DCSDK.DataSource.RDBC.Oracle","12.0.1",""
 "DFC.Compui.Sessionstate","0.1.0",""
+"DFC.Compui.Sessionstate","0.1.4",""
 "DNTFrameworkCore.Web.EFCore","3.0.0",""
 "DNTFrameworkCore.Web.EFCore","3.1.0",""
 "DNTFrameworkCore.Web.EFCore","3.2.0",""
