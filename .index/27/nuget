@@ -7579,6 +7579,7 @@
 "OpenCV","2.4.7",""
 "OpenCV","2.4.8",""
 "OpenCV","2.4.9",""
+"OpenIddict.Owin","3.0.0-beta1.20311.67",""
 "OpenStack.NetCoreSwiftClient","1.0.2",""
 "OpenStack.NetCoreSwiftClient","1.0.3",""
 "OpenStack.NetCoreSwiftClient","1.0.4",""
