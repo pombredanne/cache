@@ -6051,6 +6051,7 @@
 "@entryone/draft-js-import-html","1.3.4","ISC"
 "@entryone/draft-js-import-html","1.3.5","ISC"
 "@entryone/draft-js-import-html","1.3.7","ISC"
+"@ericmendillo/hello-wasm","0.1.0",""
 "@ersinfotech/hanlp","2.0.0","ISC"
 "@esserun/admin-ui.container","1.0.7-alpha.0","MIT"
 "@essex/pbi-stateful","0.11.2","MIT"
