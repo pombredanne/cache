@@ -4315,6 +4315,7 @@
 "Microsoft.Azure.Management.SignalR","0.9.0-preview",""
 "Microsoft.Azure.Management.SignalR","1.0.0",""
 "Microsoft.Azure.Management.SignalR","1.0.1",""
+"Microsoft.Azure.Management.SignalR","1.1.0",""
 "Microsoft.Azure.Synapse","0.1.0-preview",""
 "Microsoft.Azure.WebJobs.ServiceBus","0.4.0-beta",""
 "Microsoft.Azure.WebJobs.ServiceBus","0.4.1-beta",""

@@ -1108,6 +1108,7 @@
 "Autofac.WebApi2","5.0.0",""
 "AutomationService.Core","1.0.0",""
 "AutomationService.Core","2.0.0",""
+"AvaloniaMvc","0.9.0",""
 "Avantech.Common.MsBuild.ActiveConfigurationTransformation","1.0.0",""
 "Avantech.Common.MsBuild.ActiveConfigurationTransformation","1.0.0.1",""
 "Avenue.AspNetCore","1.1.2.100",""

@@ -5854,6 +5854,7 @@
 "MediatR.Extensions.Autofac.DependencyInjection","4.0.0",""
 "MediatR.Extensions.Autofac.DependencyInjection","5.0.0",""
 "MediatR.Extensions.Autofac.DependencyInjection","5.1.0",""
+"MediatR.Extensions.Autofac.DependencyInjection","5.2.0",""
 "Meerkat.UserProfile","1.2014.108.155124",""
 "Meerkat.UserProfile","1.2014.114.173318",""
 "MerjTek.WpfIntegration.MonoGameControlWinGL","1.0.0",""
