@@ -4509,6 +4509,7 @@
 "Imageflow.NativeRuntime.ubuntu_18_04-x86_64-haswell","1.4.1-rc41",""
 "Imageflow.NativeRuntime.ubuntu_18_04-x86_64-haswell","1.4.2-rc42",""
 "Imageflow.NativeRuntime.ubuntu_18_04-x86_64-haswell","1.4.3-rc43",""
+"Imageflow.NativeRuntime.ubuntu_18_04-x86_64-haswell","1.4.4-rc44",""
 "ImpalaSharp","1.0.0",""
 "ImpalaSharp","1.0.0.1",""
 "Improbable.OnlineServices.Proto","0.1.0",""
