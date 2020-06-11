@@ -3999,6 +3999,7 @@
 "FreeSql.Provider.PostgreSQL","1.6.0-preview0602",""
 "FreeSql.Provider.PostgreSQL","1.6.0-preview0609",""
 "FreeSql.Provider.PostgreSQL","1.6.0-preview0610",""
+"FreeSql.Provider.PostgreSQL","1.6.0-preview0611",""
 "Freya.Types.Uri.Template","0.10.0-alpha-142",""
 "Freya.Types.Uri.Template","0.10.0-alpha-143",""
 "Freya.Types.Uri.Template","0.11.0-alpha-169",""
