@@ -485,6 +485,8 @@
 "AppImpact.Security.Authorization.Core","4.30.0",""
 "AppImpact.Security.Authorization.Core","4.31.0",""
 "AppImpact.Security.Authorization.Core","4.9.0",""
+"AppLogger_rathmathtest","1.0.0",""
+"AppLogger_rathmathtest","1.0.1",""
 "Arragro.Providers.StorageProvider","1.0.0-alpha-build137",""
 "Arragro.Providers.StorageProvider","1.0.0-alpha-build138",""
 "Arragro.Providers.StorageProvider","1.0.0-alpha-build140",""
