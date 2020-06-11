@@ -6540,6 +6540,7 @@
 "Npgsql.EntityFrameworkCore.PostgreSQL","5.0.0-preview2",""
 "Npgsql.EntityFrameworkCore.PostgreSQL","5.0.0-preview3",""
 "Npgsql.EntityFrameworkCore.PostgreSQL","5.0.0-preview4",""
+"Npgsql.EntityFrameworkCore.PostgreSQL","5.0.0-preview5",""
 "Ntrada.Extensions.RabbitMq_","1.0.1",""
 "Ntrada.Extensions.RabbitMq_","1.0.3",""
 "Ntrada.Extensions.RabbitMq_","1.0.4",""

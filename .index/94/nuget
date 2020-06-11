@@ -746,6 +746,7 @@
 "Amazon.CDK.AWS.AutoScaling","1.7.0-devpreview",""
 "Amazon.CDK.AWS.AutoScaling","1.8.0-devpreview",""
 "Amazon.CDK.AWS.AutoScaling","1.9.0-devpreview",""
+"AndcultureCode.CSharp.Cli","0.0.1",""
 "AndyBalham_OPath","1.0.0",""
 "Angara.Serialization","0.1.0",""
 "Angara.Serialization","0.1.1",""

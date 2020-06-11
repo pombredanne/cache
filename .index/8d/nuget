@@ -7054,6 +7054,7 @@
 "Naos.Cron.Recipes.DummyFactory","1.0.18",""
 "Naos.Cron.Recipes.DummyFactory","1.0.19",""
 "Naos.Cron.Recipes.DummyFactory","1.0.22",""
+"Naos.Cron.Recipes.DummyFactory","1.0.23",""
 "Naos.MessageBus.Hangfire.Harness","1.0.10-firstcut",""
 "Naos.MessageBus.Hangfire.Harness","1.0.101",""
 "Naos.MessageBus.Hangfire.Harness","1.0.102",""
