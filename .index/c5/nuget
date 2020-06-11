@@ -2584,6 +2584,7 @@
 "EventBinder","2.3.0",""
 "EventBinder","2.4.0",""
 "EventBinder","2.4.1",""
+"EventExecutor","1.0.0",""
 "EventSourcR.InMemory","1.0.0-dev-201901091110",""
 "EventSourcR.InMemory","1.0.0-dev-201901211517",""
 "EventSourcR.InMemory","1.0.0-dev-201901211703",""
