@@ -5803,6 +5803,7 @@
 "MentKit.Events.Store.Npgsql","1.0.1-alpha01",""
 "MentKit.Events.Store.Npgsql","1.0.2",""
 "MentKit.Events.Store.Npgsql","1.0.3",""
+"MentKit.Events.Store.Npgsql","1.0.4",""
 "MeritLogistics.Auth.Non.Common","2.0.0",""
 "Message.Router.NetMQ","1.0.2",""
 "Message.Router.NetMQ","1.0.4",""
