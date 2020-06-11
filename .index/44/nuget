@@ -7882,6 +7882,7 @@
 "Shuttle.Esb.Sql.Idempotence","11.0.0",""
 "Shuttle.Esb.Sql.Idempotence","8.0.0",""
 "Shuttle.Esb.Sql.Idempotence","9.0.0",""
+"SignatureAuthentication","1.0.0",""
 "Silverlight.Advanced.ToolTips","2.2.0",""
 "Silvers.ConsoleUtilities","0.1.2",""
 "SimCim.Generator","0.1.0",""
