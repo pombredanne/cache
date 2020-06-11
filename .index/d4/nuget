@@ -7484,6 +7484,8 @@
 "NuGet.Build.Tasks.Pack.Library","4.2.0",""
 "NuGet.Build.Tasks.Pack.Library","4.3.0-beta1-2418",""
 "NuGet.ClassSample","1.0.0",""
+"NuGetFunctionalTest_07868d96916543809eee4dc649975945","1.0.0",""
+"NuGetFunctionalTest_624b4e6bafb54e69a9c6ccd38eb3860d","1.0.0",""
 "NuGetFunctionalTest_636685724641417061","1.0.0",""
 "NuGetFunctionalTest_636685724641417061","2.0.0",""
 "NuGetFunctionalTest_636686605145979392","1.0.0-v636686605146136327",""
