@@ -1076,6 +1076,8 @@
 "BC.Framework.Logger","1.0.2",""
 "BC.Framework.Logger","1.0.4",""
 "BCI.Extensions.AspNetSerilog.MySql","0.2020.154.1640",""
+"BCI.Extensions.AspNetSerilog.MySql","0.2020.163.1444",""
+"BCI.Extensions.AspNetSerilog.MySql","0.2020.163.1536",""
 "BCircle.ControlLogProvider","0.1.0",""
 "BDDD.dll","0.1.0",""
 "BPF.UserSource.Client","1.0.0",""
