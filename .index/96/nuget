@@ -5346,6 +5346,7 @@
 "Microsoft.Azure.Management.EventHub","2.3.0",""
 "Microsoft.Azure.Management.EventHub","2.4.0",""
 "Microsoft.Azure.Management.EventHub","2.5.0",""
+"Microsoft.Azure.Management.EventHub","2.7.0",""
 "Microsoft.Azure.Management.EventHub","2.8.0-preview",""
 "Microsoft.Bot.Builder.LanguageGeneration","4.6.0-preview2",""
 "Microsoft.Bot.Builder.LanguageGeneration","4.6.1-preview",""
