@@ -9889,6 +9889,7 @@
 "SimpleInjector.Integration.ServiceCollection","4.9.0",""
 "SimpleInjector.Integration.ServiceCollection","4.9.1",""
 "SimpleInjector.Integration.ServiceCollection","4.9.2",""
+"SimpleInjector.Integration.ServiceCollection","5.0.0",""
 "SimpleInjector.Integration.ServiceCollection","5.0.0-beta1",""
 "SimpleInjector.Integration.ServiceCollection","5.0.0-beta2",""
 "SimpleMembership.Mvc3","0.2.0",""
