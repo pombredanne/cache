@@ -8638,6 +8638,7 @@
 "OrchardCore.FileStorage.AzureBlob","1.0.0-beta3-71075",""
 "OrchardCore.FileStorage.AzureBlob","1.0.0-beta3-71077",""
 "OrchardCore.FileStorage.AzureBlob","1.0.0-rc1-10004",""
+"OrchardCore.FileStorage.AzureBlob","1.0.0-rc2-13450",""
 "OrderByString","1.0.0",""
 "OrderByString","1.1.0",""
 "OrderByString","1.2.0",""

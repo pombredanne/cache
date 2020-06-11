@@ -8661,6 +8661,7 @@
 "Oracle.EntityFrameworkCore","2.19.70",""
 "Oracle.EntityFrameworkCore","3.19.0-beta1",""
 "OrangeJetpack.Base.Core","1.0.1",""
+"OrchardCore.Search.Abstractions","1.0.0-rc2-13450",""
 "Orleans.HttpGateway.AspNetCore","0.1.0",""
 "Orleans.HttpGateway.AspNetCore","0.2.0",""
 "Orleans.HttpGateway.AspNetCore","0.3.0",""
