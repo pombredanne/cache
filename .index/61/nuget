@@ -6601,6 +6601,7 @@
 "NuGetFunctionalTest_7fbd8ab7b2b448bcaedabbf98679b562","1.0.0",""
 "NuGetFunctionalTest_c430fdc0349e45d983a70e46f2f9b05d","1.0.0-v637078952094428672",""
 "NuGetFunctionalTest_c430fdc0349e45d983a70e46f2f9b05d","1.0.0-v637078953735783628",""
+"NuGetFunctionalTest_dd6fa6d36be64da3952a6405e2627a6d","1.0.0",""
 "NuGetPackageTest_CosmosDBHelper","1.0.0",""
 "NugetTestWriteTestData1234","1.0.0",""
 "Nuke.WebDocu","1.0.1",""

@@ -10230,6 +10230,7 @@
 "VL.GStreamer","1.0.7-g3facba661d",""
 "VL.GStreamer","1.0.9-g5b4edfda1a",""
 "Valera.Serialization.Abstractions","1.0.2",""
+"ValidProtocolVersionb86e963f395240388d3c6fdb908248d8","1.0.0",""
 "ValidationFactory","1.0.0",""
 "Vendr.PaymentProviders.Invoicing","0.1.0",""
 "Vendr.PaymentProviders.Invoicing","0.1.0-alpha0007",""

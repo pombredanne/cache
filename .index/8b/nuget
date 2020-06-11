@@ -3632,6 +3632,7 @@
 "Halforbit.DataStores.FileStores.Sftp","3.0.0",""
 "Halforbit.DataStores.FileStores.Sftp","3.1.0",""
 "Halforbit.DataStores.FileStores.Sftp","3.2.0",""
+"Halforbit.DataStores.FileStores.Sftp","3.2.1",""
 "HealthCheck.Core","1.1.13",""
 "HealthCheck.Core","1.1.15",""
 "HealthCheck.Core","1.1.16",""

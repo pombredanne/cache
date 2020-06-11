@@ -4835,6 +4835,7 @@
 "Microsoft.Azure.Devices.Provisioning.Client","1.5.0",""
 "Microsoft.Azure.Devices.Provisioning.Client","1.5.1",""
 "Microsoft.Azure.Devices.Provisioning.Client","1.5.2",""
+"Microsoft.Azure.Devices.Provisioning.Client","1.6.0",""
 "Microsoft.Azure.Management.Compute.Fluent","1.0.0",""
 "Microsoft.Azure.Management.Compute.Fluent","1.0.0-beta3",""
 "Microsoft.Azure.Management.Compute.Fluent","1.0.0-beta4",""

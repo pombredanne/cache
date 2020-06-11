@@ -4889,6 +4889,7 @@
 "Microsoft.Azure.Devices.Provisioning.Transport.Mqtt","1.2.0",""
 "Microsoft.Azure.Devices.Provisioning.Transport.Mqtt","1.2.1",""
 "Microsoft.Azure.Devices.Provisioning.Transport.Mqtt","1.2.2",""
+"Microsoft.Azure.Devices.Provisioning.Transport.Mqtt","1.3.0",""
 "Microsoft.CodeAnalysis.VisualBasic.de","1.0.0-beta1-20141031-01",""
 "Microsoft.Crm.Sdk.Proxy.2015","7.0.1",""
 "Microsoft.Crm.Sdk.Proxy.2015","7.1.0",""
