@@ -502,6 +502,7 @@
 "AspNetCore.LegacyAuthCookieCompat","1.2.1+1",""
 "AspNetCore.LegacyAuthCookieCompat","1.3.0",""
 "AspNetCore.LegacyAuthCookieCompat","2.0.1+5",""
+"AspNetCore.LegacyAuthCookieCompat","2.0.2",""
 "AspNetCore.LegacyAuthCookieCompat","4.5.0+0",""
 "AspectCore.Lite.Container.Autofac","1.0.0-beta5-12112",""
 "AspectCore.Lite.Container.Autofac","1.0.0-beta5-12114",""

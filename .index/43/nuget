@@ -6209,6 +6209,7 @@
 "Microsoft.Azure.Management.StorageSync","3.0.0",""
 "Microsoft.Azure.Management.StorageSync","3.1.0",""
 "Microsoft.Azure.Management.StorageSync","4.0.0",""
+"Microsoft.Azure.Management.StorageSync","5.0.0",""
 "Microsoft.Azure.WebJobs.Extensions.MobileApps","1.0.0",""
 "Microsoft.Azure.WebJobs.Extensions.MobileApps","1.0.0-beta1",""
 "Microsoft.Azure.WebJobs.Extensions.MobileApps","1.0.0-beta2",""
