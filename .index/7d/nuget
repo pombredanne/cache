@@ -9392,6 +9392,7 @@
 "WebRequest.WebRequestHandler","1.0.2",""
 "WebRequest.WebRequestHandler","1.0.3",""
 "WebhookProxy.Client","1.0.0",""
+"Whizbang.EventStore.Sqlite","1.1.0",""
 "WinInsider.DependencyInjection.Metadata","1.0.0",""
 "WinInsider.DependencyInjection.Metadata","1.0.1",""
 "WinInsider.DependencyInjection.Metadata","1.0.2",""
