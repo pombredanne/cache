@@ -551,6 +551,7 @@
 "@angular-redux/store","8.0.0-1","MIT"
 "@angular-redux/store","9.0.0","MIT"
 "@angular-redux/store","9.0.0-beta.0","MIT"
+"@aoshea/hello-wasm-test","0.1.0",""
 "@apburnes/astro-digital","0.0.1","MIT"
 "@apburnes/astro-digital","0.0.2","MIT"
 "@apburnes/astro-digital","0.0.3","MIT"
