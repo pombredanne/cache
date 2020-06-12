@@ -10613,6 +10613,7 @@
 "VS.Redist.Common.NetCore.SharedFramework.x64.2.1","2.1.19-servicing-28924-01",""
 "VS.Redist.Common.NetCore.SharedFramework.x64.2.1","2.1.19-servicing-28926-01",""
 "VS.Redist.Common.NetCore.SharedFramework.x64.2.1","2.1.19-servicing-28928-01",""
+"VSS.Authentication.JWT","1.2.1",""
 "ValueInjecter","2.1.0",""
 "ValueInjecter","3.1.1.5",""
 "ValueInjecter","3.1.2",""
