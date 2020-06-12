@@ -5376,6 +5376,7 @@
 "Pat.Sender.Log4Net","5.0.25",""
 "PathExtension.GetAvailableFileName","1.0.0",""
 "PathExtension.GetAvailableFileName","1.0.1",""
+"PathExtension.GetAvailableFileName","1.0.2",""
 "PayPing.Integrations.APIClient","1.0.0",""
 "PeNet.Asn1","1.0.7",""
 "PeNet.Asn1","1.0.8",""

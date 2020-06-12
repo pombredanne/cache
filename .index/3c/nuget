@@ -10292,6 +10292,7 @@
 "SquidDraftLeague.Airtable","1.0.2",""
 "StarLab.LoggingTools","1.0.0",""
 "StarLab.LoggingTools","1.0.0.20659",""
+"StardustDL.RazorComponents.Markdown","0.0.1.2-preview",""
 "Steeltoe.CircuitBreaker.Hystrix.MetricsStreamCore","2.0.0",""
 "Steeltoe.CircuitBreaker.Hystrix.MetricsStreamCore","2.0.0-rc1",""
 "Steeltoe.CircuitBreaker.Hystrix.MetricsStreamCore","2.1.0",""

@@ -10390,6 +10390,7 @@
 "ee.itcollege.dauuka.DAL.Base.EF","1.0.0",""
 "ee.itcollege.kroide.Identities","1.0.0",""
 "ee.itcollege.nikita.Contracts.Base","1.0.0",""
+"ee.itcollege.pipa.DAL.Base.EF","1.0.0",""
 "elastic_email_api_v3_client_library_beta","3.0.9",""
 "ellipsoid.org.SharpAngles.Route","0.0.7",""
 "eon-lib.data.persistence.reference-key-provider","4.0.1",""
