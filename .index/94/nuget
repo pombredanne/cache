@@ -2671,6 +2671,7 @@
 "CloudApper.Plugin","1.0.7",""
 "CloudApper.Plugin","1.0.8",""
 "CloudServiceCore.Rpc.Serialization.Protobuf","0.0.4",""
+"CloudSu.ProductManagement.Domain.Shared","1.0.0",""
 "CocheNuGetRAR","1.0.0",""
 "CochesNugetJVB","1.0.0",""
 "CodeCityCrew.TagHelpers.Authorization","1.0.0-alpha",""
