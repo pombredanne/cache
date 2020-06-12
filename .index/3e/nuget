@@ -3750,6 +3750,7 @@
 "Haven.ServiceBus.Kafka.Publisher","1.0.5835.19676",""
 "HcfNS.Authorization.Function","3.1.0",""
 "HcfNS.Authorization.Function","3.2.0",""
+"HcfNS.Authorization.Function","3.2.0.1",""
 "Helpers.DataBase.Connection","1.0.0",""
 "Helpers.DataBase.Connection","1.0.1-alpha",""
 "Helpers.DataBase.Connection","1.0.1-alpha1",""
