@@ -2452,6 +2452,7 @@
 "E2E.SemVer1StableUnlisted.180807.002056.4467047","1.0.0",""
 "E2E.SemVer1StableUnlisted.181109.015205.1900037","1.0.0",""
 "E2E.SemVer1StableUnlisted.191018.170927.3149573","1.0.0",""
+"E2E.SemVer1StableUnlisted.200612.204221.5117576","1.0.0",""
 "E2E.SemVer2DueToSemVer2Dep.180313.181024.7390171","1.0.0-beta",""
 "E2E.SemVer2DueToSemVer2Dep.180503.183711.3449865","1.0.0-beta",""
 "E2E.SemVer2DueToSemVer2Dep.180606.223040.4160211","1.0.0-beta",""
