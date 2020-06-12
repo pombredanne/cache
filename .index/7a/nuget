@@ -6404,6 +6404,7 @@
 "Microsoft.Windows.EventTracing.Events","1.0.0",""
 "Microsoft.Windows.EventTracing.Events","1.1.0",""
 "Microsoft.Windows.SDK.BuildTools","10.0.18362.3-preview",""
+"Microsoft.Windows.SDK.BuildTools","10.0.19041.1",""
 "Miffy.RabbitMQBus","2.4.0",""
 "MindFusion.Charting.WebForms","4.0.0",""
 "Mistware.Utils","1.0.0",""

@@ -8896,6 +8896,7 @@
 "Naos.Bootstrapper.Recipes.Hangfire.Handler","1.0.22",""
 "Naos.Bootstrapper.Recipes.Hangfire.Handler","1.0.24",""
 "Naos.Bootstrapper.Recipes.Hangfire.Handler","1.0.25",""
+"Naos.Bootstrapper.Recipes.Hangfire.Handler","1.0.26",""
 "Naos.Database.MessageBus.Hangfire.Console","1.0.402",""
 "Naos.Database.MessageBus.Hangfire.Console","1.0.403",""
 "Naos.Database.MessageBus.Hangfire.Console","1.1.156-newcaandscriptinglog",""
