@@ -9727,6 +9727,8 @@
 "RestSharp.Serilog.Auto","1.0.9",""
 "RestSharp.Serilog.Auto","1.1.0",""
 "RestSharp.Serilog.Auto","1.1.0-preview.1",""
+"RestSharp.Serilog.Auto","1.1.1",""
+"RestSharp.Serilog.Auto","1.1.1-preview.3",""
 "Result","1.0.0",""
 "Result","1.1.0",""
 "Result","1.1.1",""
