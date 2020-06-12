@@ -2894,6 +2894,7 @@
 "DotNetCore.NPOI.Core","1.2.2-preview-56107813",""
 "DotNetCoreRpc.Server","1.0.0",""
 "DotNetCoreRpc.Server","1.0.1",""
+"DotNetCoreRpc.Server","1.0.2",""
 "DotNetToolkit.Repository.Extensions.Microsoft.DependencyInjection","2.5.0",""
 "DotNetToolkit.Repository.Extensions.Microsoft.DependencyInjection","2.6.0",""
 "DotNetToolkit.Repository.Extensions.Microsoft.DependencyInjection","2.7.0",""

@@ -4367,6 +4367,8 @@
 "Hme.MongoDB.Connector","1.1.0",""
 "Hopac.StrongName","0.1.4",""
 "HostStats.Custom","0.0.8",""
+"HttpRequestWrapper","1.0.0",""
+"HttpRequestWrapper","1.0.1",""
 "Huitester081","1.15.0",""
 "Huitester081","1.16.0",""
 "Huitester081","1.19.0",""
