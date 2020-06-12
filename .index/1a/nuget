@@ -4025,6 +4025,7 @@
 "Lykke.Service.Session.Client","2.1.0-beta",""
 "Lykke.Service.Session.Client","2.2.0-beta",""
 "Lykke.Service.Session.Client","3.0.0",""
+"Lykke.Service.Session.Client","3.1.0",""
 "Lykke.WampSharp.WebSocket4Net","0.27.34-beta001",""
 "Lykke.WampSharp.WebSocket4Net","0.27.35-beta001",""
 "Lykke.WampSharp.WebSocket4Net","0.27.36",""

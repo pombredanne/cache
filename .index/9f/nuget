@@ -1186,6 +1186,7 @@
 "BHoM.Interop.RFEM_5","1.0.0",""
 "BI.Planning.Contract","1.0.0",""
 "BLibStringTest","1.0.0",""
+"BLogic.Logging","2.0.0",""
 "BSynchro.Configuration.Messaging","1.0.0",""
 "BXT_BaseService","1.0.0",""
 "Barsoom.Library","0.1.0",""

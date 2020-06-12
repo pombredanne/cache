@@ -2820,6 +2820,7 @@
 "DotNetCore.CAP.MongoDB","3.0.4-preview-102596937",""
 "DotNetCore.CAP.MongoDB","3.0.4-preview-103991021",""
 "DotNetCore.CAP.MongoDB","3.0.4-preview-106413158",""
+"DotNetCore.CAP.MongoDB","3.1.0-preview-108719052",""
 "DotNetCqs.Queues.Azure.ServiceBus","1.0.0",""
 "DotNetCqs.Queues.Azure.ServiceBus","1.0.0-rc01",""
 "DotNetCqs.Queues.Azure.ServiceBus","1.0.0-rc02",""
