@@ -3171,6 +3171,8 @@
 "DistributedCache.AzureTableStorage","1.0.2",""
 "DistributedCache.AzureTableStorage","1.0.3",""
 "DistributedCache.AzureTableStorage","1.0.4",""
+"DistributedCache.AzureTableStorage","1.1.0",""
+"DistributedCache.AzureTableStorage","2.0.0",""
 "DistributedCache.AzureTableStorage","2.0.0-preview-01",""
 "DistributedCache.AzureTableStorage","2.0.0-preview-02",""
 "DistributedCache.AzureTableStorage","2.0.0-preview-03",""
