@@ -3444,6 +3444,8 @@
 "Easy.Elasticsearch.BulkAndSearch","1.0.7",""
 "Easy.Elasticsearch.BulkAndSearch","1.0.8",""
 "Easy.Elasticsearch.BulkAndSearch","1.0.9",""
+"Easy.Elasticsearch.BulkAndSearch","1.1.0",""
+"Easy.Elasticsearch.BulkAndSearch","1.1.0-preview.4",""
 "EasyDapper.MsSqlServer","1.0.0-CI-20190131-104008",""
 "EasyDapper.MsSqlServer","1.0.0-CI-20190131-210004",""
 "EasyDapper.MsSqlServer","1.0.0-CI-20190203-223752",""

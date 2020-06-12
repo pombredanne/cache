@@ -5142,6 +5142,7 @@
 "Joveler.Compression.LZ4","4.0.0",""
 "JsonDocumentPath","1.0.1-alpha",""
 "JsonDocumentPath","1.0.1-beta",""
+"JsonDocumentPath","1.0.2",""
 "JsonServices.Auth.SecureRemotePassword","0.0.0.1",""
 "KORM","0.1.0",""
 "KORM","0.1.1",""
