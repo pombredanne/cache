@@ -6185,6 +6185,7 @@
 "My.Sample.Lib","5.1.0+buildmetadata-check0.1",""
 "My.Sample.Lib","6.0.0",""
 "My.Sample.Lib","6.0.1",""
+"MyFirstFunction","1.0.0",""
 "MyOauthCustomTestingdependency2","1.3.0",""
 "MySuperAnal","1.0.6264.38980",""
 "MyTested.AspNetCore.Mvc.Core","1.0.0",""
