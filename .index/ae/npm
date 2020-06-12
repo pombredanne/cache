@@ -28749,6 +28749,7 @@
 "generator-cms-module","1.2.22","ISC"
 "generator-cms-module","1.2.23","ISC"
 "generator-contcomp","1.0.1","MIT"
+"generator-cosappsync","0.9.0",""
 "generator-craft-element-type","1.0.1","MIT"
 "generator-craft-element-type","1.0.2","MIT"
 "generator-craft-element-type","1.0.3","MIT"

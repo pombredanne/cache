@@ -11082,6 +11082,8 @@
 "@one-view/pd-oneview-ticket-detail-types","0.0.5",""
 "@one-view/pd-oneview-ticket-detail-types","0.0.6",""
 "@one-view/pd-oneview-ticket-detail-types","0.0.7",""
+"@one-view/pd-oneview-ticket-detail-types","0.0.8",""
+"@one-view/pd-oneview-ticket-detail-types","0.0.9",""
 "@opam-alpha/conf-openssl","1.0.0",""
 "@opencensus/instrumentation-mongodb","0.0.10","Apache-2.0"
 "@opencensus/instrumentation-mongodb","0.0.11","Apache-2.0"

@@ -4637,6 +4637,7 @@
 "@emmetio/expand-abbreviation","0.7.1","MIT"
 "@emmetio/expand-abbreviation","0.7.3","MIT"
 "@enexus/flipper-file-upload","0.0.1",""
+"@enexus/flipper-file-upload","1.0.0",""
 "@epiclabs/kafka-node","3.0.2","MIT"
 "@epiclabs/kafka-node","3.0.3","MIT"
 "@epiclabs/kafka-node","3.0.4","MIT"
