@@ -4470,6 +4470,7 @@
 "JKang.IpcServiceFramework.Client.NamedPipe","3.0.0.12-alpha",""
 "JKang.IpcServiceFramework.Client.NamedPipe","3.0.0.15-alpha",""
 "JKang.IpcServiceFramework.Client.NamedPipe","3.0.0.28-alpha",""
+"JKang.IpcServiceFramework.Client.NamedPipe","3.0.0.34-preview",""
 "JRPC.Service.Configuration.Net45","2.0.0",""
 "JYM.BusinessProcesses.UserLogic.Interfaces","1.1.0",""
 "JYM.BusinessProcesses.UserLogic.Interfaces","1.1.0.1",""
