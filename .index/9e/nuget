@@ -5929,6 +5929,7 @@
 "MediatR.CommandQuery.EntityFrameworkCore","5.0.0.157",""
 "MediatR.CommandQuery.EntityFrameworkCore","5.0.0.173",""
 "MediatR.CommandQuery.EntityFrameworkCore","5.0.0.174",""
+"MediatR.CommandQuery.EntityFrameworkCore","5.0.0.215",""
 "Meerkat.SocialNetworks.Twitter","1.2014.108.155139",""
 "MefContrib.Integration.Unity.Net45","1.2.2.2",""
 "MercadoLibre.AspNetCore.SDK","1.0.0",""
