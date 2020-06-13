@@ -10465,6 +10465,7 @@
 "@locomote/eslint-plugin-json-light","1.0.4","ISC"
 "@locomote/eslint-plugin-json-light","1.0.5","ISC"
 "@logankeenan/model","0.0.1","ISC"
+"@logicallyabstract/register-wc","0.0.1-cd.35b6a96f1115854b29f1c803350a2bbe042824cb",""
 "@logicalroute/logger","1.0.0","ISC"
 "@logicalroute/logger","1.0.1","ISC"
 "@longntx/angular-sticky-things","0.0.1",""
