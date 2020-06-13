@@ -2717,6 +2717,7 @@
 "FastReport.OpenSource.Data.Couchbase","2020.3.4",""
 "FeatureFlags.PowerShell","1.0.0",""
 "FeatureFlags.PowerShell","1.0.1",""
+"FeatureFlags.PowerShell","2.0.0",""
 "FeatureSelect.SimpleInjector","0.5.0",""
 "Fidget.Commander.Abstractions","1.0.0",""
 "Fidget.Commander.Abstractions","1.0.1",""
