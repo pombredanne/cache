@@ -7963,6 +7963,7 @@
 "OpenServiceBroker.Server","0.2.0",""
 "OpenSoft.StorageEngine.dll","1.0.0",""
 "OpenSoft.StorageEngine.dll","1.0.1",""
+"OperatorSharp.Extensions.DependencyInjection","1.0.0-prerelease-20200613041908",""
 "OpheliaSuiteV2.Core.SSB.Lib","2.2.1.15",""
 "OpheliaSuiteV2.Core.SSB.Lib","2.2.2",""
 "OpheliaSuiteV2.Core.SSB.Lib","2.2.3",""
