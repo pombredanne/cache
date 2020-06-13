@@ -2375,6 +2375,7 @@
 "CloudFoundry.CommandLine.linux-x32","6.44.1",""
 "CloudFoundry.CommandLine.linux-x32","6.46.0",""
 "CloudServiceCore.Serialization.Json","1.0.0",""
+"CloudSu.ProductManagement.Application","1.1.0",""
 "Co.Populix.Domains","1.2.4-alpha",""
 "Co.Populix.Domains","1.2.5-alpha",""
 "Co.Populix.Domains","1.2.6-alpha",""
