@@ -8721,6 +8721,7 @@
 "TemiiCore.Lib.Cache.MemoryCache","1.2.6",""
 "TemiiCore.Lib.Module.AspNetCore","1.2.6",""
 "Teronis.MSBuild.Packaging.GitVersionCache","0.1.2",""
+"Teronis.MSBuild.Packaging.GitVersionCache","0.1.3",""
 "TerrainEngineDB","1.0.0",""
 "TestApiClient","1.0.0",""
 "TestMultipleVersion.636572689044503180","1.0.0",""
