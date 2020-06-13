@@ -7707,6 +7707,8 @@
 "Serilog.Sinks.Loki","1.0.0-beta4",""
 "Serilog.Sinks.Loki","1.0.1",""
 "Serilog.Sinks.Loki","2.0.0",""
+"ServMon","1.0.0",""
+"ServMon","1.0.0.1",""
 "ServiceConnect","2.1.14-beta",""
 "ServiceConnect","3.0.0",""
 "ServiceConnect","3.0.1",""
