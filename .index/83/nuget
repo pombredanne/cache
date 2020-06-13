@@ -8243,6 +8243,7 @@
 "NL.Serverless.AspNetCore.AzureFunctionsHost","3.0.5",""
 "NL.Serverless.AspNetCore.AzureFunctionsHost","3.0.7",""
 "NL.Serverless.AspNetCore.AzureFunctionsHost","3.0.7.1",""
+"NL.Serverless.AspNetCore.AzureFunctionsHost","3.0.7.2",""
 "NMS.RuntimeToDynamic","1.0.0",""
 "NMS.RuntimeToDynamic","1.0.0.1",""
 "NMS.RuntimeToDynamic","1.1.0",""
