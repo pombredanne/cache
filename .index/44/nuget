@@ -6700,6 +6700,7 @@
 "Penguin.DependencyInjection.Abstractions","2.1.1",""
 "Penguin.DependencyInjection.Abstractions","2.1.5",""
 "Penguin.Web.Rendering.Abstractions","2.0.0",""
+"PerformanceLogging","0.0.1",""
 "PersianIdentityErrorDescriber","1.0.0",""
 "Phema.Section","1.0.0",""
 "PickupJs","0.1.0",""
