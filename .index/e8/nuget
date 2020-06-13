@@ -4694,6 +4694,7 @@
 "Keystone.Almanac.Persistence.Xml","1.0.7-RC9",""
 "Keystone.Almanac.Persistence.Xml","1.0.8-RC9",""
 "Keystone.Almanac.Persistence.Xml","1.0.9-RC9",""
+"KnstAsyncApi","1.0.0-pre",""
 "KodeAid.Logging","0.10.0",""
 "KodeAid.Logging","0.5.0",""
 "KodeAid.Logging","0.6.0",""
