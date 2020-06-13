@@ -1611,6 +1611,7 @@
 "Bernos.FileUploader.StorageProviders.LocalFileSystem","0.0.2",""
 "Bernos.FileUploader.StorageProviders.LocalFileSystem","0.0.3",""
 "Bernos.FileUploader.StorageProviders.LocalFileSystem","0.0.4",""
+"Bet.Extensions.LegacyHosting","1.0.0",""
 "Beyova.CommonFunctionService","1.0.0-preview01",""
 "Beyova.CommonFunctionService","1.0.0-preview02",""
 "Beyova.CommonFunctionService","1.0.0-preview03",""
