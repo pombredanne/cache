@@ -8711,6 +8711,7 @@
 "Part1.General","1.0.0",""
 "PartialResponseRequest.AspNetCore.ResponsePruner","1.0.0-rc",""
 "PartialResponseRequest.AspNetCore.ResponsePruner","1.0.0-rc2",""
+"PartialResponseRequest.AspNetCore.ResponsePruner","1.1.0-beta",""
 "PdfBox_DotNet_Version","2.0.15",""
 "Peformance.Service","1.0.0",""
 "PersianKeylogger","1.40",""

@@ -6612,6 +6612,7 @@
 "ParkSquare.Gracenote","2.0.2",""
 "PartialResponseRequest.Core","1.0.0-rc",""
 "PartialResponseRequest.Core","1.0.0-rc2",""
+"PartialResponseRequest.Core","1.1.0-beta",""
 "Pathoschild.Http.FluentClient","0.1.2-alpha",""
 "Pathoschild.Http.FluentClient","0.1.3-alpha",""
 "Pathoschild.Http.FluentClient","0.1.4-alpha",""
