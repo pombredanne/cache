@@ -3811,6 +3811,7 @@
 "EF.DbContextFactory.Unity","1.0.0",""
 "EF.DbContextFactory.Unity","1.0.1",""
 "EaCloud.EntityFrameworkCore.MySql","3.1.6",""
+"EaCloud.EntityFrameworkCore.MySql","3.1.7",""
 "EasyConsoleStd","1.1.0",""
 "EasyConsoleStd","2.0.0",""
 "EasyDialog","1.0.0",""

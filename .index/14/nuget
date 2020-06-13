@@ -2570,6 +2570,7 @@
 "ERP.Net.NetStandard_Essentials","20190801.1.40",""
 "ERP.Net.NetStandard_Essentials","20190801.2.36",""
 "EaCloud.EntityFrameworkCore.Oracle","3.1.6",""
+"EaCloud.EntityFrameworkCore.Oracle","3.1.7",""
 "Easy.Web.Serialization.ProtobufNet","0.1.0",""
 "EasyCaching.Bus.RabbitMQ","0.5.0-alpha",""
 "EasyCaching.Bus.RabbitMQ","0.5.1",""
