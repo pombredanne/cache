@@ -2141,6 +2141,7 @@
 "DataFunc.Exceptions","1.0.0.86",""
 "DataFunc.Exceptions","1.0.0.9",""
 "DefaultEcs.Analyzer","0.0.9",""
+"DefaultEcs.Analyzer","0.1.0",""
 "DelimitedQueryStringValueProvider.AspNetCore","0.0.1",""
 "DelimitedQueryStringValueProvider.AspNetCore","0.0.2",""
 "Demo.Logging","0.9.0",""
