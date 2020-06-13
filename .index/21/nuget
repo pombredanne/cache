@@ -7682,6 +7682,7 @@
 "MediatR.CommandQuery.Audit","5.0.0.157",""
 "MediatR.CommandQuery.Audit","5.0.0.173",""
 "MediatR.CommandQuery.Audit","5.0.0.174",""
+"MediatR.CommandQuery.Audit","5.0.0.215",""
 "MediatR.EventAggregator","0.0.1",""
 "MediatR.EventAggregator","0.0.2",""
 "MediatR.EventAggregator","0.0.2-beta01",""
