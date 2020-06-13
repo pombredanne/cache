@@ -2552,6 +2552,7 @@
 "EStart.Dapper","2.0.0",""
 "ETLBox.Json","1.0.0",""
 "EaCloud.Hangfire","3.1.6",""
+"EaCloud.Hangfire","3.1.7",""
 "EasonTwTest.Logger.AppLogger","1.0.0",""
 "EasonTwTest.Logger.AppLogger","1.0.1",""
 "Easy.Web.Serialization.NetJSON","0.1.0",""
