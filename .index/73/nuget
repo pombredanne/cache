@@ -4663,6 +4663,7 @@
 "HttpMock.Verify.NUnit","1.0.0",""
 "HttpMock.Verify.NUnit","1.1.0",""
 "HttpMock.Verify.NUnit","1.2.0",""
+"HttpReports.Storage.SQLite","1.5.0",""
 "Hysmun.Extension.Collection","1.1.1.106",""
 "Hysmun.Extension.Collection","1.1.1.116",""
 "Hysmun.Extension.Collection","1.1.1.118",""
