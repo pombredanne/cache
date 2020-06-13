@@ -1725,6 +1725,7 @@
 "ClientVersionTooLowebcc043878884b62b67ddfb0d618419e","1.0.0",""
 "CloudServiceCore.Serialization.GoogleProtobuf","1.0.0",""
 "CloudSu.ProductManagement.HttpApi.Client","1.0.0",""
+"CloudSu.ProductManagement.HttpApi.Client","1.1.0",""
 "Clover.RemotePayWindows","2.0.0",""
 "Clover.RemotePayWindows","3.0.0",""
 "Clover.RemotePayWindows","3.0.1",""
