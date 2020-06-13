@@ -10082,6 +10082,7 @@
 "VerifyKeyReturns400IfScopeNotMet.636758427133662729","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636758299496930204","1.0.0",""
 "Victorvhn.Infrastructure.Token","1.0.0",""
+"Victorvhn.Infrastructure.Token","1.0.2",""
 "Vip.Notification","1.0.2",""
 "Vip.Notification","1.0.3",""
 "Vip.Notification","1.0.4",""
