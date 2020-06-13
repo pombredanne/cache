@@ -6831,6 +6831,7 @@
 "Parity","1.0.0",""
 "PartialResponseRequest.Filters","1.0.0-rc",""
 "PartialResponseRequest.Filters","1.0.0-rc2",""
+"PartialResponseRequest.Filters","1.1.0-beta",""
 "Particl.NBitcoin","4.1.1.86",""
 "PasswordReset","1.0.0",""
 "Pathoschild.FluentNexus","0.1.0",""
