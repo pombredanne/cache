@@ -808,6 +808,7 @@
 "Appccelerate.VersionTask","1.37.0",""
 "Appccelerate.VersionTask","1.39.0",""
 "Appccelerate.VersionTask","1.5.0",""
+"ApplicationBlueprints.HealthChecks","1.0.0",""
 "ApplyzeLogsClient","1.0.0",""
 "Arachnid.Machines.Hopac","1.0.0-alpha001",""
 "ArcGIS.PCL.ServiceStackV3Serializer","1.0.0",""

@@ -540,6 +540,7 @@
 "AppLoggerMagleasTest","0.0.1-rc.4+buildThisBoi",""
 "AppLoggerTest1private","1.0.0",""
 "AppMailClient","1.0.0",""
+"ApplicationBlueprints.Logging","1.0.0",""
 "ApplicationGeneric.DependencyInjection","0.1.0",""
 "ApplicationGeneric.DependencyInjection","0.1.1",""
 "ApplicationGeneric.DependencyInjection","0.1.1.1",""
