@@ -1101,6 +1101,8 @@
 "Automatica.Core.UnitTests.Base","2.1.0.751",""
 "Auxidus.Framework.CQRS","1.0.0",""
 "Auxidus.Framework.CQRS","1.0.1",""
+"Az.Storage.Core.TempFile","1.0.1.45",""
+"Az.Storage.Core.TempFile","1.0.1.46",""
 "AztecaSoftware.Framework3.Analytic","1.0.0",""
 "AztecaSoftware.Framework3.Analytic","1.0.2",""
 "AztecaSoftware.Framework3.Analytic","1.0.2.1",""
