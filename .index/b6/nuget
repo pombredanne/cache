@@ -9721,6 +9721,7 @@
 "Verify.AngleSharp.Diffing","1.1.0",""
 "Verify.AngleSharp.Diffing","1.1.1",""
 "Verify.AngleSharp.Diffing","1.2.0",""
+"Verify.AngleSharp.Diffing","2.0.0",""
 "VerifyKeyReturns400IfScopeNotMet.636474187609077070","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636627916899855145","1.0.0",""
 "Vesper.Test.AWS.DynamodbStreamLambdaElasticsearchKibana","0.8.0",""
