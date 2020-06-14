@@ -852,6 +852,7 @@
 "CXDevToolkitCommon","1.3.2",""
 "CacheCow.Client.AzureCachingCacheStore.sn","1.1.0",""
 "CachingFramework.Redis.NewtonsoftJson","12.0.0",""
+"CachingFramework.Redis.NewtonsoftJson","12.0.1",""
 "Cake.ProjHelpers","0.0.1",""
 "Cake.ProjHelpers","0.0.1-pre-10",""
 "Cake.ProjHelpers","0.0.1-pre-4",""
