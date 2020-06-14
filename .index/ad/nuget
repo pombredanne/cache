@@ -3536,6 +3536,7 @@
 "InteractiveBrokers.TwsClient","1.0.654",""
 "InteractiveBrokers.TwsClient","1.0.664",""
 "InteractiveBrokers.TwsClient","1.0.667",""
+"Interception.DeadlockDetection","1.2020.614",""
 "InternalsVisibleTo.MSBuild","1.0.0",""
 "InternalsVisibleTo.MSBuild","1.0.0-alpha.1",""
 "InternalsVisibleTo.MSBuild","1.0.1",""
