@@ -8774,6 +8774,7 @@
 "Verify.Phash","1.0.0",""
 "Verify.Phash","1.1.0",""
 "Verify.Phash","1.2.0",""
+"Verify.Phash","2.0.0",""
 "VerifyKeyReturns400IfScopeNotMet.636419709389545631","1.0.0",""
 "VerifyKeyReturns400IfScopeNotMet.636899206442169101","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636329420224025594","1.0.0",""
