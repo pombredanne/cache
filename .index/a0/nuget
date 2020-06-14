@@ -6509,6 +6509,8 @@
 "PerfectShuffle.EventSourcing.EventStore","0.1.5982.35713",""
 "PerfectShuffle.EventSourcing.EventStore","0.1.5985.39743",""
 "PeterJuhasz.AspNetCore.Security.Extensions.ReportTo","3.0.0",""
+"PgRoutiner","1.0.0",""
+"PgRoutiner","1.0.1",""
 "Phnx.Serialization","1.0.0",""
 "Photon.NuGet","0.0.1",""
 "Photon.NuGet","0.0.10",""
