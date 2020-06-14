@@ -9225,6 +9225,8 @@
 "Verify","4.2.0",""
 "Verify","4.3.0",""
 "Verify","4.3.1",""
+"Verify","5.0.0-beta.1",""
+"Verify","5.0.0-beta.2",""
 "VerifyKeyReturns400IfScopeNotMet.636900228239522092","1.0.0",""
 "VerifyPackageKeySupportsFullAndTempApiKeys.636329399122103850","1.0.0",""
 "VerifyPackageKey_Returns200IfPackageVerifyScopePolicyMet.636575168545662758","1.0.0",""
