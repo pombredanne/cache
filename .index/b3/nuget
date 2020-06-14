@@ -10510,6 +10510,7 @@
 "extios.dll.redist","1.0.1",""
 "fix8.dependencies.openssl.redist","1.0.20140509.1",""
 "fix8.dependencies.zmq.symbols","4.2.20150317.1",""
+"fo-dicom.Codecs","5.0.0-beta2",""
 "geek-squad-support-phone-number-1-877-346-1604-us-geek-squad-phone-support-number-b3bc26d5","1.0.0",""
 "geon","1.0.0",""
 "geon","1.1.0",""
