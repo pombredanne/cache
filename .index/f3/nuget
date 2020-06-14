@@ -5504,6 +5504,7 @@
 "PInvoke.Crypt32","0.6.1",""
 "PInvoke.Crypt32","0.6.49",""
 "PInvoke.Crypt32","0.6.6",""
+"POD_Async","0.7.2",""
 "PSNSharp","0.0.0.1",""
 "PSWinCom.Gateway.Client.MessageFormatters","2.0.13",""
 "PSWinCom.Gateway.Client.MessageFormatters","2.0.14",""
