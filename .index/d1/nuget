@@ -428,6 +428,7 @@
 "AspCore.ElasticSearchApiClient","1.0.7",""
 "AspCore.ElasticSearchApiClient","1.0.8",""
 "AspCore.ElasticSearchApiClient","1.0.9",""
+"AspCore.ElasticSearchApiClient","1.1.0",""
 "AspCore.SampleNuget","1.0.0",""
 "AspNet.Mvc.ConfigurationExporter","1.0.0",""
 "AspNet.Mvc.ConfigurationExporter","1.0.1",""

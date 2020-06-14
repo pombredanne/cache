@@ -10328,6 +10328,7 @@
 "VkLibrary","1.0.7",""
 "VkLibrary","1.1.0",""
 "VkLibrary","1.1.1",""
+"VkLibrary","1.1.2",""
 "Volo.Abp.IdentityServer.Application","0.18.1",""
 "Volo.Abp.PermissionManagement.Domain.IdentityServer","0.14.0",""
 "Volo.Abp.PermissionManagement.Domain.IdentityServer","0.15.0",""
