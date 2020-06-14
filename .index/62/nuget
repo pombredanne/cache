@@ -5520,6 +5520,7 @@
 "MADE.Data.Caching.FileSystem","0.1.18084.3-prerelease",""
 "MD.LIB.Common.Infrastructure.EntityFramework","1.0.0",""
 "MFiles.VaultMap","1.0.0",""
+"MFiles.VaultMap","1.0.1",""
 "MQTTOPCConvertor.MQTTOPCConvertor","0.0.1",""
 "MQTTOPCConvertor.MQTTOPCConvertor","0.0.10",""
 "MQTTOPCConvertor.MQTTOPCConvertor","0.0.100",""

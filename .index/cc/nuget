@@ -1193,6 +1193,7 @@
 "AspCore.ElasticSearch","1.0.7",""
 "AspCore.ElasticSearch","1.0.8",""
 "AspCore.ElasticSearch","1.0.9",""
+"AspCore.ElasticSearch","1.1.0",""
 "AspNet.Plus.Infrastructure.ExceptionInterceptHandler.TempWorksLabs.Fork","1.1.1",""
 "AspNetCore.Mvc.CookieTempData","1.0.0",""
 "AspNetCore.Mvc.CookieTempData","1.0.0-beta1",""
