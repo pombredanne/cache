@@ -10020,6 +10020,7 @@
 "WorkflowEngine.NETCore-ProviderForMongoDB","4.2.1",""
 "XAct.RazorHosting","0.1.1",""
 "XAct.RazorHosting","1.0.0",""
+"XDT.Extensions","1.0.6",""
 "XDataSecurity","1.0.1.1",""
 "XDataSecurity","1.0.1.3",""
 "XLogger.Abstractions","1.0.0",""

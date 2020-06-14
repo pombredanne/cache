@@ -4156,6 +4156,7 @@
 "Keystone.Mystere.Injectors.Quantum.Persistence.Xml","1.0.7-RC9",""
 "Keystone.Mystere.Injectors.Quantum.Persistence.Xml","1.0.8-RC9",""
 "Keystone.Mystere.Injectors.Quantum.Persistence.Xml","1.0.9-RC9",""
+"Kharazmi.AspNetCore.Cache","1.0.0",""
 "Knockout.BindingConventions","1.0.61",""
 "Knockout.BindingConventions","1.0.68",""
 "Knockout.BindingConventions","1.1.69",""
