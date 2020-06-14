@@ -8274,6 +8274,7 @@
 "Serilog.Sinks.InvisionLog","1.0.0-alpha1",""
 "Serilog.Sinks.InvisionLog","1.0.1",""
 "Serilog.Sinks.InvisionLog","1.0.2",""
+"Serilog.Sinks.InvisionLog","1.1.0",""
 "Serilog.Sinks.Log4Net","0.6.1",""
 "Serilog.Sinks.Log4Net","0.7.2",""
 "Serilog.Sinks.Log4Net","0.8.1",""
