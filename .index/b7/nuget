@@ -5029,6 +5029,7 @@
 "Keystone.Clockwork.Bindings.Carbonite.Persistence.Relational","1.0.7-RC9",""
 "Keystone.Clockwork.Bindings.Carbonite.Persistence.Relational","1.0.8-RC9",""
 "Keystone.Clockwork.Bindings.Carbonite.Persistence.Relational","1.0.9-RC9",""
+"Kharazmi.AspNetCore.Security","1.0.0",""
 "Kitpymes.Core.Logger","1.0.0",""
 "Kitpymes.Core.Logger","1.0.1",""
 "Kitpymes.Core.Logger","1.0.3",""
