@@ -4570,6 +4570,7 @@
 "Microsoft.CodeAnalysis.Scripting.Common","3.6.0-3.final",""
 "Microsoft.CodeAnalysis.Scripting.Common","3.6.0-4.final",""
 "Microsoft.CodeAnalysis.Scripting.Common","3.7.0-1.final",""
+"Microsoft.CodeAnalysis.Scripting.Common","3.7.0-2.final",""
 "Microsoft.Data.SQLite","1.0.0-beta1",""
 "Microsoft.Data.Schema.ScriptDom_unofficial","10.0.30319.1",""
 "Microsoft.Dsx.Test.MsNuGetTest","1.0.0",""

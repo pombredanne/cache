@@ -6932,6 +6932,7 @@
 "Microsoft.CodeAnalysis.CSharp.Features","3.6.0-3.final",""
 "Microsoft.CodeAnalysis.CSharp.Features","3.6.0-4.final",""
 "Microsoft.CodeAnalysis.CSharp.Features","3.7.0-1.final",""
+"Microsoft.CodeAnalysis.CSharp.Features","3.7.0-2.final",""
 "Microsoft.CodeAnalysis.VisualBasic.Workspaces.zh-Hant","1.0.0-beta1-20141031-01",""
 "Microsoft.DotNet.Watcher.Core","1.0.0-preview1-20896",""
 "Microsoft.DotNet.Watcher.Core","1.0.0-preview2-final",""
