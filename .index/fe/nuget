@@ -4129,6 +4129,7 @@
 "Halforbit.DataStores.DocumentStores.CosmosDb","3.1.0",""
 "Halforbit.DataStores.DocumentStores.CosmosDb","3.2.0",""
 "Halforbit.DataStores.DocumentStores.CosmosDb","3.2.1",""
+"Halforbit.DataStores.DocumentStores.CosmosDb","3.3.1",""
 "Hangfire.Prometheus.NetFramework","1.0.46",""
 "Hangfire.Prometheus.NetFramework","1.0.47",""
 "Hangfire.Prometheus.NetFramework","1.0.48",""
