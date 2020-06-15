@@ -6441,6 +6441,7 @@
 "Octopus.Client.Extensibility.IssueTracker.GitHub","2.1.2",""
 "Octopus.Client.Extensibility.IssueTracker.GitHub","3.0.0",""
 "Octopus.Client.Extensibility.IssueTracker.GitHub","4.0.0",""
+"Octopus.Client.Extensibility.IssueTracker.GitHub","4.0.1",""
 "Odachi.EntityFrameworkCore","1.3.0-preview-000139",""
 "Odachi.EntityFrameworkCore","2.0.0-preview-000148",""
 "Odachi.EntityFrameworkCore","2.0.0-preview-000151",""

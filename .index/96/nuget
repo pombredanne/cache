@@ -5458,6 +5458,7 @@
 "Microsoft.SourceLink.Bitbucket.Git","1.0.0-beta2-19367-01",""
 "Microsoft.SourceLink.Bitbucket.Git","1.0.0-beta2-19554-01",""
 "Microsoft.SourceLink.Bitbucket.Git","1.1.0-beta-20204-02",""
+"Microsoft.Toolkit.Uwp.UI.Controls.Layout","6.1.0",""
 "Microsoft.Toolkit.Uwp.UI.Controls.Layout","6.1.0-preview1.2",""
 "Microsoft.Toolkit.Uwp.UI.Controls.Layout","6.1.0-rc1",""
 "Microsoft.Web.RedisSessionStateProvider-Bundled","2.2.0.3",""
