@@ -10751,6 +10751,7 @@
 "nBuildKit.MsBuild.BuildServer.Tfs2013","0.9.4",""
 "nBuildKit.MsBuild.BuildServer.Tfs2013","1.0.0",""
 "nBuildKit.MsBuild.BuildServer.Tfs2013","1.0.1",""
+"nBuildKit.MsBuild.BuildServer.Tfs2013","1.1.0",""
 "nUpdate.ProvideTAP","3.0.0-beta10",""
 "nUpdate.ProvideTAP","3.0.0-beta2",""
 "nUpdate.ProvideTAP","3.0.0-beta3",""

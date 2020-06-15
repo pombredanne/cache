@@ -11284,6 +11284,7 @@
 "nBuildKit.MsBuild.BuildServer.Jenkins","0.9.4",""
 "nBuildKit.MsBuild.BuildServer.Jenkins","1.0.0",""
 "nBuildKit.MsBuild.BuildServer.Jenkins","1.0.1",""
+"nBuildKit.MsBuild.BuildServer.Jenkins","1.1.0",""
 "nanoFramework.Hardware.Esp32.DELIVERABLES","1.0.0",""
 "nanoFramework.Hardware.Esp32.DELIVERABLES","1.0.0-preview009",""
 "netoaster","1.0.0",""

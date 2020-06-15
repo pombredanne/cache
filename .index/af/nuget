@@ -1548,6 +1548,7 @@
 "DevLib.ServiceBus","2.8.9.42686",""
 "DevLib.ServiceBus","2.9.0.37961",""
 "DevRocks.Ocelot.Grpc.Swagger","1.0.0",""
+"DevRocks.Ocelot.Grpc.Swagger","1.0.1",""
 "DeveloperForce.Force.WebLogin","0.0.1",""
 "DeveloperForce.Force.WebLogin","0.0.2",""
 "DeveloperInTheFlow.Sentry.UWP","0.1.0",""
