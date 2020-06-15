@@ -2390,6 +2390,7 @@
 "Extenso.Data.QueryBuilder.Npgsql","1.2.3",""
 "Extenso.Data.QueryBuilder.Npgsql","1.2.5",""
 "Extenso.Data.QueryBuilder.Npgsql","2.0.0",""
+"Extenso.Data.QueryBuilder.Npgsql","3.1.0",""
 "EzApp.Logging.NLog","1.0.0-alpha-1",""
 "F23.Hateoas","1.0.0",""
 "FB.Entity","1.0.0.3",""

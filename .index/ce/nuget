@@ -3305,6 +3305,7 @@
 "DotNetArchitecture.CrossCutting.Validation","2.0.0",""
 "DotNetBrowser.WinForms.x86","2.0.0",""
 "DotnetCoreExtensions.Configuration.RemoteJson","1.0.0",""
+"DotnetGattServer","0.1.0-snapshot",""
 "Drex.MessageBrokers","0.4.0",""
 "DymeRuleEngine","1.0.0",""
 "DymeRuleEngine","1.0.1",""

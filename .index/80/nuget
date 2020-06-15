@@ -871,6 +871,7 @@
 "ApiClient.Common","1.1.1",""
 "ApiClient.Common","1.1.3",""
 "ApiClient.Common","1.1.5",""
+"ApiClient.Common","1.1.9",""
 "App.CQRS","1.0.0",""
 "App.CQRS","1.0.1",""
 "AppFunc.Autofac","0.0.1",""
