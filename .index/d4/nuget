@@ -1403,6 +1403,7 @@
 "Asky","2.1.9",""
 "AspNetCore.ApplicationBlocks.TestSupport.TestTransitiveDependencyContext","0.0.1",""
 "AspNetCore.Session.NCache.OpenSource","5.0.2",""
+"AspNetCore.Session.NCache.OpenSource","5.0.3",""
 "AspNetCore.SignalR.Hazelcast","0.1.21-alpha1",""
 "AspNetCore.SignalR.Hazelcast","1.0.0",""
 "AstonClub.Common","1.2.2",""
