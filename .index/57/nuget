@@ -6670,6 +6670,7 @@
 "Mikpro.AutoInject","1.0.0",""
 "MinClient56","1.0.0",""
 "Mindfire.Configuration.Extensions.Json","1.0.0",""
+"MiniDDD.UnitOfWork.Sql","1.4.0",""
 "MiniSql.SqlServer","1.0.0",""
 "MiniSql.SqlServer","1.0.1",""
 "MiniSql.SqlServer","1.0.2",""
