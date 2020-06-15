@@ -604,6 +604,7 @@
 "AspNetCore.Identity.MongoDB","1.0.0-rc2-2",""
 "AspNetCore.Identity.MongoDB","1.0.0-rc3",""
 "AspNetCore.Session.NCache.Professional","5.0.2",""
+"AspNetCore.Session.NCache.Professional","5.0.3",""
 "AstralKeks.Workbench.Common","0.0.1",""
 "AstralKeks.Workbench.Common","0.2.1",""
 "AstralKeks.Workbench.Common","0.4.1",""

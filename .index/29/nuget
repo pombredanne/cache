@@ -867,6 +867,7 @@
 "AspNetCore.PluginManager","3.2.1",""
 "AspNetCore.PluginManager","3.3.0",""
 "AspNetCore.SignalR.NCache.Professional","5.0.2",""
+"AspNetCore.SignalR.NCache.Professional","5.0.3",""
 "AspectCore.Extensions.Autofac","0.1.1",""
 "AspectCore.Extensions.Autofac","0.1.1.2",""
 "AspectCore.Extensions.Autofac","0.1.2",""
