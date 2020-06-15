@@ -5276,6 +5276,7 @@
 "HttpSignatures","1.1.3",""
 "HttpSignatures","1.1.4",""
 "Hubert.Utility.Core.Tools.EPPlus","1.4.0",""
+"Hybrid.Hangfire","3.1.4-preview",""
 "HykeIt.Web.TagHelpers.SiteMap.FromNavigation","1.0.2",""
 "Hyperledger.Aries.Routing.Edge","1.0.1",""
 "Hyperledger.Aries.Routing.Edge","1.0.2",""
