@@ -7665,6 +7665,7 @@
 "Microsoft.Azure.SignalR.AspNet","1.4.1",""
 "Microsoft.Azure.SignalR.AspNet","1.4.2",""
 "Microsoft.Azure.SignalR.AspNet","1.4.3",""
+"Microsoft.Azure.SignalR.AspNet","1.5.0",""
 "Microsoft.Bot.Builder.FormFlow.Json.Net45","3.1.0",""
 "Microsoft.Developer.Core.DevHub","0.1.0-alpha-41776",""
 "Microsoft.Diagnostics.EventFlow.Inputs.Trace","1.0.0",""
