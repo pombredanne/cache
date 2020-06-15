@@ -2695,6 +2695,8 @@
 "DCommon.EF6","1.0.0-beta1",""
 "DCommon.EF6","1.0.1",""
 "DDD.EventSourcing","1.0.0",""
+"DDD.EventSourcing","1.0.1",""
+"DDD.EventSourcing","1.0.2",""
 "DDDToolkit.EventSourcing","2.0.0",""
 "DDDToolkit.EventSourcing","2.1.0",""
 "DDDToolkit.EventSourcing","2.1.1",""
