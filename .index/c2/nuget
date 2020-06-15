@@ -1549,6 +1549,7 @@
 "ConfigCat.Client.Serilog","1.0.1",""
 "ConfigCat.Client.Serilog","2.0.0",""
 "ConfigCat.Client.Serilog","2.0.1",""
+"Confluent.Kafka.Hosting","0.1.0",""
 "Connected","2.0.0",""
 "Connected","2.0.1",""
 "Connected","2.1.0",""

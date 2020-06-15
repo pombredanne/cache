@@ -10932,6 +10932,7 @@
 "UtilPack","1.7.2+c129063b81ed743d2af93a67b65f86195b959ccf",""
 "UtilPack","1.8.0+3e56662e00ed25a02b99aa51b0baba4942b73425",""
 "UtilPack.JSON.Configuration","1.0.0+c129063b81ed743d2af93a67b65f86195b959ccf",""
+"Utilitario.JJSistemas","1.0.0",""
 "UtilityFramework.Infra.Core.MongoDb","1.0.0",""
 "UtilityFramework.Infra.Core.MongoDb","1.1.0",""
 "UtilityFramework.Infra.Core.MongoDb","1.1.1",""
