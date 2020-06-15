@@ -1181,6 +1181,7 @@
 "BaseLibrary.UControls","20.4.1001",""
 "BaseLibrary.UControls","20.4.701",""
 "BaseLibrary.UControls","20.5.1201",""
+"Bastion.Authentication.JwtBearer","0.0.0-alfa",""
 "Beetlejs.Mvc5","1.0.0",""
 "Beetlejs.Mvc5","1.0.1",""
 "Beetlejs.Mvc5","1.0.2",""

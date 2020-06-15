@@ -7284,6 +7284,7 @@
 "Serilog.Extensions.Autofac.DependencyInjection","1.3.0",""
 "Serilog.Extensions.Autofac.DependencyInjection","1.4.0",""
 "Serilog.Extensions.Autofac.DependencyInjection","2.0.0",""
+"Serilog.Extensions.Autofac.DependencyInjection","2.1.0",""
 "Serilog.Sinks.RollingFile","2.0.0",""
 "Serilog.Sinks.RollingFile","2.0.0-beta-1002",""
 "Serilog.Sinks.RollingFile","2.0.0-beta-465",""

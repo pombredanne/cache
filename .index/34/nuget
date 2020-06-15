@@ -3426,6 +3426,7 @@
 "Herald.MessageQueue.AzureStorageQueue","4.1.0",""
 "Herald.MessageQueue.AzureStorageQueue","4.1.1",""
 "Herald.MessageQueue.AzureStorageQueue","5.0.0",""
+"Herald.MessageQueue.AzureStorageQueue","6.0.0",""
 "HoNoSoFt.LibGio.Bindings","0.1.14",""
 "HoNoSoFt.LibGio.Bindings","0.1.7",""
 "HoNoSoFt.LibGio.Bindings","0.1.9",""
