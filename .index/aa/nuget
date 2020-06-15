@@ -2016,6 +2016,7 @@
 "Confy.File","3.4.1",""
 "ConnectionStringLightPT","0.0.2",""
 "ConnectorAutoUpdater","1.0.0",""
+"ConnectorAutoUpdater","1.0.1",""
 "Convey.MessageBrokers.Outbox.Mongo","0.4.189",""
 "Convey.MessageBrokers.Outbox.Mongo","0.4.191",""
 "Convey.MessageBrokers.Outbox.Mongo","0.4.193",""
