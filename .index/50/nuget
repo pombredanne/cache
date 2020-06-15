@@ -3569,6 +3569,7 @@
 "E2E.SemVer2PrerelUnlisted.200323.173041.6690069","1.0.0-alpha.1",""
 "E2E.SemVer2PrerelUnlisted.200403.230241.4834352","1.0.0-alpha.1",""
 "E2E.SemVer2StableMetadataUnlisted.190912.204207.1905908","1.0.0+metadata",""
+"ECommerceCase.Core","1.0.0",""
 "ECommon.ProtocolBuf","1.2.0",""
 "ECommon.ProtocolBuf","1.2.1",""
 "ECommon.ProtocolBuf","1.2.2",""
