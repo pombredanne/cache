@@ -33,6 +33,7 @@
 "AO.AzureTableLogger.Netcore","1.0.0",""
 "AO.AzureTableLogger.Netcore","1.0.1",""
 "APrs.CosmosDbClient","1.0.0",""
+"APrs.CosmosDbClient","1.1.0",""
 "ASNOne","1.0.0",""
 "ATG.DataStructures","1.0.4",""
 "ATG.DataStructures","1.0.5",""

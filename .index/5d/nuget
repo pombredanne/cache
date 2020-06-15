@@ -4304,6 +4304,7 @@
 "LiteX.HealthChecks.MariaDB","2.0.0",""
 "LiveSharp.Server","1.6.0",""
 "LiveSharp.Server","1.6.1",""
+"LiveSharp.Server","1.6.2",""
 "Llvm.Libs.core.pdbs.x86-Debug","5.0.0",""
 "Llvm.Libs.core.pdbs.x86-Debug","5.0.1",""
 "LmTwitterClient","1.0.0",""
