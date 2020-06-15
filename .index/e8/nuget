@@ -1695,6 +1695,7 @@
 "Cabinet.Migrator.Config","1.2.0",""
 "CacheInterceptor","1.0.0",""
 "Cached.MemoryCache","1.0.0-beta2",""
+"Cached.MemoryCache","1.0.0-beta3",""
 "Cachify","1.0.0",""
 "Cachify","1.0.1",""
 "Cake.AWS.Route53","0.0.1",""
