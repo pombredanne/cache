@@ -3304,6 +3304,8 @@
 "HALJSonDeserializer","1.1.5.1",""
 "HALJSonDeserializer","1.1.5.2",""
 "HALJSonDeserializer","1.1.5.3",""
+"HG.Raspberry.IO.SerialPeripheralInterface","2.4.2",""
+"HG.Raspberry.IO.SerialPeripheralInterface","2.4.3",""
 "HIC.DicomTypeTranslation","1.0.0.1",""
 "HIC.DicomTypeTranslation","1.0.0.2",""
 "HIC.DicomTypeTranslation","1.0.0.3",""
