@@ -6975,6 +6975,7 @@
 "Microsoft.CodeAnalysis.VisualBasic","3.6.0-3.final",""
 "Microsoft.CodeAnalysis.VisualBasic","3.6.0-4.final",""
 "Microsoft.CodeAnalysis.VisualBasic","3.7.0-1.final",""
+"Microsoft.CodeAnalysis.VisualBasic","3.7.0-2.final",""
 "Microsoft.CodeDom.Providers.DotNetCompilerPlatform.BinFix","1.0.0",""
 "Microsoft.EntityFrameworkCore.Relational.Design.FunctionalTests","0.0.1-alpha",""
 "Microsoft.FASTER","2019.10.31.1",""
