@@ -10367,6 +10367,7 @@
 "Vanara.PInvoke.Pdh","3.2.9",""
 "Ventuz.Kernel.Remoting4","6.2.2.79",""
 "Ventuz.Kernel.Remoting4","6.2.2.89",""
+"Ventuz.Kernel.Remoting4","6.6.1.39",""
 "VerifyKeyReturns400IfScopeNotMet.636403375822546243","1.0.0",""
 "VerifyPackageKeySupportsFullAndTempApiKeys.636419709843055382","1.0.0",""
 "VerifyPackageKey_Returns400IfPackageVerifyScopePolicyNotMet.636324485223173370","1.0.0",""

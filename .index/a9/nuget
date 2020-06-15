@@ -6133,6 +6133,7 @@
 "MediaDownloader.Console","1.2.0",""
 "MediaDownloader.Console","1.3.0",""
 "MediaExporter","1.0.0-beta",""
+"MediatR.Behaviors.Authorization","1.0.0",""
 "MediatR.Extensions.FluentBuilder.Autofac","1.0.25-g2b5e379a87",""
 "MediatR.Extensions.FluentBuilder.Autofac","1.0.26",""
 "MediatR.Extensions.FluentBuilder.Autofac","1.1.10",""
