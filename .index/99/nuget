@@ -7196,6 +7196,7 @@
 "Signals.Aspects.Storage.Azure","1.0.0",""
 "Signals.Aspects.Storage.Azure","1.0.1",""
 "SignatureAuthentication.Validation","1.0.0",""
+"SignatureAuthentication.Validation","1.0.1",""
 "SimpleEventMonitor.Web","0.9.8",""
 "SimplePredictiveText","1.0.0",""
 "SimplePredictiveText","1.0.1",""
