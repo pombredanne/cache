@@ -5604,6 +5604,7 @@
 "Microsoft.Crm.Sdk.Proxy.dll","1.0.0",""
 "Microsoft.DPSSE.KeyvaultUtility","1.0.0",""
 "Microsoft.DPSSE.KeyvaultUtility","1.0.1",""
+"Microsoft.Data.SqlClient.SNI.runtime","2.0.0",""
 "Microsoft.Data.SqlClient.SNI.runtime","2.0.0-preview1.20141.10",""
 "Microsoft.DiaSymReader.Native","1.0.0-rc2",""
 "Microsoft.DiaSymReader.Native","1.1.0-alpha1",""
