@@ -1537,6 +1537,7 @@
 "App.Metrics.Formatters.GrafanaCloudHostedMetrics","4.1.0-preview.0.17",""
 "App.Metrics.Formatters.GrafanaCloudHostedMetrics","4.1.0-preview.0.18",""
 "App.Metrics.Formatters.GrafanaCloudHostedMetrics","4.1.0-preview.0.22",""
+"App.Metrics.Formatters.GrafanaCloudHostedMetrics","4.1.0-preview.0.23",""
 "Appboy.NET","0.3.0",""
 "Appboy.NET","0.3.1",""
 "Appeaser","1.0.0",""

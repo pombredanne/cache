@@ -873,6 +873,7 @@
 "Artokai.Authentication.YubikeyOTP","0.0.1",""
 "AskerCommon","2.0.1",""
 "AspNet.SignalR.NCache","5.0.2",""
+"AspNet.SignalR.NCache","5.0.3",""
 "AspectCore.APM.ApplicationProfiler","0.1.0",""
 "AspectCore.APM.ApplicationProfiler","0.1.1",""
 "AspectCore.APM.ApplicationProfiler","0.1.2",""
