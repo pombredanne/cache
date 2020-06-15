@@ -5738,6 +5738,7 @@
 "OneTrueError.Client.log4net","1.0.0-rc06",""
 "OneTrueError.Client.log4net","1.1.1",""
 "OneTrueError.Client.log4net","1.1.3",""
+"OpenBOS.Log","1.0.0",""
 "OpenCDomainClasses","1.1.0",""
 "OperacionesGianella","1.0.0",""
 "Optivem.Atomiv.DependencyInjection.Infrastructure.AspNetCore","1.0.29",""

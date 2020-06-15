@@ -6627,6 +6627,7 @@
 "Omnimodus.Core.Data.Repository.Implementations.EF.RDS","0.1.1",""
 "OneSmart.AspNetCore.DataProtection.Redis","1.0.0",""
 "Opc.Ua.Client-20191127","1.4.354-preview-20191127",""
+"OpenBOS.Context","2.0.0",""
 "OpenCvSharp4.runtime.uwp","4.1.1.20191110",""
 "OpenCvSharp4.runtime.uwp","4.1.1.20191216",""
 "OpenCvSharp4.runtime.uwp","4.2.0.20191223",""

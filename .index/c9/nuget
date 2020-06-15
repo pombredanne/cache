@@ -7189,6 +7189,7 @@
 "OneFx.Service","0.3.0",""
 "OneHome.Security.OAuthAccount","0.2.0-rc1",""
 "Open.AzureRestAPI.Core","1.0.3",""
+"OpenBOS.EventBus","1.0.0",""
 "OpenCvSharp-WithoutDll","2.4.10.20141111",""
 "OpenCvSharp-WithoutDll","2.4.10.20150203",""
 "OpenCvSharp-WithoutDll","2.4.10.20150309",""
