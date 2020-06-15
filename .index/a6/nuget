@@ -6585,6 +6585,7 @@
 "Omron.CXP.Providers.Elasticsearch","1.0.0",""
 "OneSTools.Database","1.0.0",""
 "Opc.Ua.Core20191127","1.4.354-preview-20191127",""
+"OpenBOS.WorkFlow","1.0.0",""
 "OpenCqrs.Store.CosmosDB.MongoDB","4.0.0",""
 "OpenCqrs.Store.CosmosDB.MongoDB","4.2.0",""
 "OpenCqrs.Store.CosmosDB.MongoDB","4.3.0",""
