@@ -10735,6 +10735,8 @@
 "dotnet-setversion","2.2.0",""
 "dotnet-setversion","2.2.0-alpha0006",""
 "dotnet-setversion","2.2.0-beta0001",""
+"dotnetCampus.YamlToCSharp","2.0.0-alpha01",""
+"dotnetCampus.YamlToCSharp","2.0.0-alpha02",""
 "dyConverter","1.0.0-beta",""
 "dyConverter","1.0.1-beta1",""
 "eXpandNHibernateBaseImpl","1.1.1.108",""

@@ -283,6 +283,7 @@
 "AWSSDK.CognitoIdentityProvider","3.3.11.7",""
 "AWSSDK.CognitoIdentityProvider","3.3.11.8",""
 "AWSSDK.CognitoIdentityProvider","3.3.11.9",""
+"AWSSDK.CognitoIdentityProvider","3.3.110",""
 "AWSSDK.CognitoIdentityProvider","3.3.12",""
 "AWSSDK.CognitoIdentityProvider","3.3.12.1",""
 "AWSSDK.CognitoIdentityProvider","3.3.12.10",""

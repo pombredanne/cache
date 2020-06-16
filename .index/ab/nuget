@@ -8838,6 +8838,8 @@
 "dotnet-format","3.3.111304",""
 "dotnet-format","4.0.130203",""
 "dotnet-format","4.1.131201",""
+"dotnetCampus.YamlToCSharp.Source","2.0.0-alpha01",""
+"dotnetCampus.YamlToCSharp.Source","2.0.0-alpha02",""
 "doublearray.TypeScript.DefinitelyTyped","0.0.1",""
 "doublearray.TypeScript.DefinitelyTyped","0.0.2",""
 "doublearray.TypeScript.DefinitelyTyped","0.0.3",""
