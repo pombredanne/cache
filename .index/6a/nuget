@@ -7460,6 +7460,7 @@
 "NState","2.0.4842.17931",""
 "NState","2.0.4842.18382",""
 "NState","2.0.5055.23670",""
+"NXHub.EntityFrameworkCore.Migrate","0.0.1-alpha",""
 "NZMQ","1.0.0",""
 "Nancy.ViewEngines.DotLiquid","2.0.0",""
 "Nancy.ViewEngines.DotLiquid","2.0.0-barneyrubble",""
