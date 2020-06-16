@@ -7651,6 +7651,7 @@
 "MicroSolr.Core","1.0.0",""
 "MicroSolr.Core","1.1.0",""
 "Microsoft.AnalysisServices.AdomdClient.NetCore.retail.amd64","19.4.0.1-Preview",""
+"Microsoft.AnalysisServices.AdomdClient.NetCore.retail.amd64","19.4.0.2-Preview",""
 "Microsoft.Azure.CognitiveServices.Personalizer","0.8.0-preview",""
 "Microsoft.Azure.Kinect.BodyTracking.Dependencies","0.9.0",""
 "Microsoft.Azure.Kinect.BodyTracking.Dependencies","0.9.1",""
