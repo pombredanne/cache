@@ -4239,6 +4239,7 @@
 "Microsoft.ApplicationInsights.EventCounterCollector","2.14.0-beta3",""
 "Microsoft.ApplicationInsights.EventCounterCollector","2.14.0-beta5",""
 "Microsoft.ApplicationInsights.EventCounterCollector","2.15.0-beta1",""
+"Microsoft.ApplicationInsights.EventCounterCollector","2.15.0-beta2",""
 "Microsoft.ApplicationInsights.RuntimeTelemetry","0.10.0-build17704",""
 "Microsoft.ApplicationInsights.RuntimeTelemetry","0.11.0-build11410",""
 "Microsoft.ApplicationInsights.RuntimeTelemetry","0.11.1-build00694",""
