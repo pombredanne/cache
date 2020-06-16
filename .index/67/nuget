@@ -12351,6 +12351,7 @@
 "dotnet.basics.extensions.sevenzip","16.4.0-beta.171005.1009+fa689ad",""
 "dotnetCampus.YamlToCSharp.Build","2.0.0-alpha01",""
 "dotnetCampus.YamlToCSharp.Build","2.0.0-alpha02",""
+"dotnetCampus.YamlToCSharp.Build","2.0.0-alpha03",""
 "dotnetNuGet","1.0.0",""
 "eDocument.BrReg","6.1.4",""
 "eDocument.BrReg","6.1.4-alpha03",""
