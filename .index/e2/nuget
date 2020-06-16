@@ -6684,6 +6684,7 @@
 "NewRelic.RestApi","2.0.0-beta2",""
 "NexBusiness.Repositories.RavenDb.Common","1.0.0-beta",""
 "Nibble.Umbraco.PageNotFoundManager","1.1.0",""
+"Nibble.Umbraco.PageNotFoundManager","1.10.0",""
 "Nibble.Umbraco.PageNotFoundManager","1.2.0",""
 "Nibble.Umbraco.PageNotFoundManager","1.3.0",""
 "Nibble.Umbraco.PageNotFoundManager","1.4.0",""
