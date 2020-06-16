@@ -1599,6 +1599,7 @@
 "ArturoTorres.MagnetArgs","0.2.2-beta",""
 "AspCoreProtobufFormatters","1.0.0",""
 "AspNetCore.EasyTesting.NSubstitute","3.1.0",""
+"AspNetCore.EasyTesting.NSubstitute","3.1.1",""
 "AspNetCore.HealthChecks","1.0.0",""
 "AspNetCore.Identity.Mongo","1.0.0",""
 "AspNetCore.Identity.Mongo","2.0.0",""

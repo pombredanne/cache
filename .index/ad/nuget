@@ -4341,6 +4341,7 @@
 "Microsoft.ApplicationInsights.PerfCounterCollector","2.14.0-beta3",""
 "Microsoft.ApplicationInsights.PerfCounterCollector","2.14.0-beta5",""
 "Microsoft.ApplicationInsights.PerfCounterCollector","2.15.0-beta1",""
+"Microsoft.ApplicationInsights.PerfCounterCollector","2.15.0-beta2",""
 "Microsoft.ApplicationInsights.PerfCounterCollector","2.2.0",""
 "Microsoft.ApplicationInsights.PerfCounterCollector","2.2.0-beta1",""
 "Microsoft.ApplicationInsights.PerfCounterCollector","2.2.0-beta2",""

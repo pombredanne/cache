@@ -455,6 +455,7 @@
 "AspNet.Security.OAuth.Patreon","3.1.0",""
 "AspNet.Security.OAuth.Patreon","3.1.1",""
 "AspNetCore.EasyTesting.EntityFrameworkCore","3.1.0",""
+"AspNetCore.EasyTesting.EntityFrameworkCore","3.1.1",""
 "AspNetCore.Mvc.HttpActionResults","0.1.0",""
 "AspNetCore.Mvc.HttpActionResults","0.1.1",""
 "AspNetCore.Mvc.HttpActionResults","0.2.0",""
