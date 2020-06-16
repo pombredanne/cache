@@ -1109,6 +1109,7 @@
 "AspNetCore.DocView","2.1.0-rtm-30722-1",""
 "AspNetCore.DocView","2.1.0-rtm-30722-2",""
 "AspNetCore.DocView","2.1.0-rtm-30765",""
+"AspNetCore.EasyTesting.FakeItEasy","3.1.0",""
 "AspNetCore.Security.OAuth.OK","1.0.2",""
 "AspNetCore.Security.OAuth.OK","1.0.3",""
 "AspNetCore.Security.OAuth.OK","1.0.4",""

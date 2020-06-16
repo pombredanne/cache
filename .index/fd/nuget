@@ -2781,6 +2781,7 @@
 "DataDog.Tracing.AspNetCore","1.0.3",""
 "DataDog.Tracing.AspNetCore","1.0.5",""
 "DataDog.Tracing.AspNetCore","1.0.6",""
+"DataDog.Tracing.AspNetCore","1.1.0",""
 "DataKit.ORM","1.0.0-indev",""
 "DataKit.ORM","1.0.0-indev2",""
 "DataKit.ORM","1.0.0-indev3",""
