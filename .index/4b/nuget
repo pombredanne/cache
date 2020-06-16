@@ -1571,6 +1571,7 @@
 "CGenT.Buffers","1.3.5870.40065",""
 "CGenT.Buffers","1.3.5870.42086",""
 "CLib.OleDb2","1.0.0",""
+"CME.Notifications.Messaging","1.0.0",""
 "COFRS.OAuth","1.0.0-alpha",""
 "COFRS.OAuth","1.0.1-alpha",""
 "COFRS.OAuth","1.0.10-alpha",""
