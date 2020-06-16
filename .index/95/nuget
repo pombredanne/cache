@@ -5926,6 +5926,7 @@
 "M3gur0.Library.Domain","1.2.0-pre-8",""
 "M3gur0.Library.Domain","1.2.0-pre-9",""
 "M3gur0.Library.Domain","1.2.25",""
+"MAVN.Service.AuditLogs.Contract","1.1.0",""
 "MAVN.Service.NotificationSystemBroker.Client","1.0.0",""
 "MAVN.Service.NotificationSystemBroker.Client","1.0.1",""
 "MAVN.Service.NotificationSystemBroker.Client","1.1.0",""
