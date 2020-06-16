@@ -6121,6 +6121,7 @@
 "NETCOS.EntityFrameworkCore.SqlServer","2.0.0-preview3",""
 "NETCOS.EntityFrameworkCore.SqlServer","2.0.0-preview5",""
 "NLog.DingtalkTarget","1.0.0",""
+"NLog.DingtalkTarget","1.1.0",""
 "NLog.LogzIO","0.0.0.1",""
 "NLog.LogzIO","0.0.0.2",""
 "NLog.LogzIO","0.0.0.3",""
