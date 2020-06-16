@@ -436,6 +436,7 @@
 "AspNet.Identity.Samples","1.0.2",""
 "AspNet.Security.OAuth.NetEase","3.1.0",""
 "AspNet.Security.OAuth.NetEase","3.1.1",""
+"AspNetCore.EasyTesting","3.1.0",""
 "AspNetCore.Email","0.2.2-alpha-70325",""
 "AspNetCore.Email","2.0.0",""
 "AspNetCore.Email","2.0.0-alpha-70820",""

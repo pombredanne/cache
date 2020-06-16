@@ -1878,6 +1878,7 @@
 "DataDog.Tracing.Sql","1.0.1",""
 "DataDog.Tracing.Sql","1.0.5",""
 "DataDog.Tracing.Sql","1.0.6",""
+"DataDog.Tracing.Sql","1.1.0",""
 "DataMapper","1.0.0",""
 "DataMapper","1.0.1",""
 "Dataclean.Deduplication","1.0.0",""

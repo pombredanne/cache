@@ -8561,6 +8561,7 @@
 "Neo4j.Driver","4.0.0-beta01",""
 "Neo4j.Driver","4.0.0-rc1",""
 "Neo4j.Driver","4.0.1",""
+"Neo4j.Driver","4.1.0-beta01",""
 "NequeoDataOleDbProvider","2016.26.1.1",""
 "NequeoOpenSslWrpper","2016.26.1.1",""
 "NetCoreKit.Template.Grpc.MongoDb","0.1.128",""

@@ -993,6 +993,7 @@
 "AspNet.Security.OAuth.QQ","3.0.0",""
 "AspNet.Security.OAuth.QQ","3.1.0",""
 "AspNet.Security.OAuth.QQ","3.1.1",""
+"AspNetCore.EasyTesting.Moq","3.1.0",""
 "AspNetCore.HealthChecks.GCP.CloudStorage","2.0.0",""
 "AspNetCore.HealthChecks.GCP.CloudStorage","2.0.1",""
 "AspNetCore.HealthChecks.GCP.CloudStorage","2.0.2",""

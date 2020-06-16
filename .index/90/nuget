@@ -1741,6 +1741,7 @@
 "ContextRunner.Http","1.0.0",""
 "ContextRunner.Http","1.0.1",""
 "Contpaqi.Sql.Nominas.Empresa","1.0.1",""
+"Contpaqi.Sql.Nominas.Empresa","1.0.2",""
 "Contrib.IdentityServer4.KubernetesStore","0.1.0",""
 "Contrib.IdentityServer4.KubernetesStore","0.10.0",""
 "Contrib.IdentityServer4.KubernetesStore","0.10.1",""
