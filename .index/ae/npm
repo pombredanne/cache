@@ -14506,6 +14506,8 @@
 "@spherehq/helpers","0.1.0","MIT"
 "@spherehq/helpers","0.2.0","MIT"
 "@spryker/ajax-form","0.1.0-next.0",""
+"@spryker/ajax-form","0.1.0-next.1",""
+"@spryker/ajax-form","0.1.0-next.2",""
 "@srhazi/simpledom","1.0.1","MIT"
 "@srhazi/simpledom","1.1.0","MIT"
 "@srini72/test-stencil-publish","0.0.1","MIT"
