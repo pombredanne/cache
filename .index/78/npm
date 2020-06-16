@@ -6118,6 +6118,8 @@
 "@icedesign/signup-form-block-block","0.1.0","MIT"
 "@icedesign/signup-form-block-block","0.1.1","MIT"
 "@ichong/stylelint-config","0.0.1","ISC"
+"@ifings/api-client","0.0.0-dev",""
+"@ifings/api-client","0.1.0",""
 "@igorzdravkovic/simple_pulish","1.0.0","MIT"
 "@iml/online-help","2.0.2",""
 "@iml/online-help","2.0.3",""

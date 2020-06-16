@@ -10753,6 +10753,7 @@
 "@putout/plugin-remove-only","4.1.0","MIT"
 "@pypi/urllib3","1.22.0","ISC"
 "@pypi/urllib3","1.22.1","ISC"
+"@pyrotechniac/opus","0.0.1",""
 "@q42/q-cms-components","5.0.10","UNLICENSED"
 "@q42/q-cms-components","5.0.10-alpha.1","UNLICENSED"
 "@q42/q-cms-components","5.0.11","UNLICENSED"
