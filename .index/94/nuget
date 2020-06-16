@@ -5707,6 +5707,7 @@
 "MassTransit.Automatonymous","5.5.6-develop.2194+sha.32ae0e5",""
 "MassTransit.Automatonymous","5.5.6-develop.2196+sha.a5a2edb",""
 "MassTransit.Automatonymous","5.5.6-develop.2197+sha.1f6a8f0",""
+"MassiveJobs.RabbitMqBroker","0.1.0",""
 "MasterCard-Locations","0.0.1",""
 "MasterCard-Locations","0.0.2",""
 "MasterCard-Locations","0.0.3",""
