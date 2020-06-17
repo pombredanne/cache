@@ -2478,6 +2478,7 @@
 "DotFramework.Infra.DataAccessFactory","1.0.0",""
 "DotFramework.Infra.DataAccessFactory","1.0.1",""
 "DotFramework.Infra.DataAccessFactory","1.0.2",""
+"DotFramework.Infra.DataAccessFactory","1.0.3",""
 "DotNetCore.Resilience.Http","1.0.1",""
 "DotNetOpenAuth-Auth0","1.0.0",""
 "DotNetOpenAuth-Auth0","1.0.1",""
