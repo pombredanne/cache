@@ -2135,6 +2135,7 @@
 "Cortside.Common.BootStrap","1.0.91-delayed-retry",""
 "Cortside.Common.BootStrap","1.0.92-deserialize-error",""
 "Cortside.Common.BootStrap","1.0.93-deserialize-error",""
+"Cortside.Common.BootStrap","1.0.95-deserialize-error",""
 "CouchConveyor.Redis","0.1.0",""
 "Cpbp.Core","1.0.0",""
 "Cpbp.Core","1.0.1",""

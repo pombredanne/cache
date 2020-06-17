@@ -1986,6 +1986,7 @@
 "Cortside.Common.Command","1.0.91-delayed-retry",""
 "Cortside.Common.Command","1.0.92-deserialize-error",""
 "Cortside.Common.Command","1.0.93-deserialize-error",""
+"Cortside.Common.Command","1.0.95-deserialize-error",""
 "CosmosDb","1.0.2",""
 "CosmosDb","1.0.3",""
 "CrawlDNews","1.0.0",""

@@ -6409,6 +6409,7 @@
 "Microsoft.ServiceFabric.AspNetCore.Kestrel","4.0.470",""
 "Microsoft.ServiceFabric.AspNetCore.Kestrel","4.1.409",""
 "Microsoft.ServiceFabric.AspNetCore.Kestrel","4.1.416",""
+"Microsoft.ServiceFabric.AspNetCore.Kestrel","4.1.417",""
 "Microsoft.Spark","0.1.0",""
 "Microsoft.Spark","0.10.0",""
 "Microsoft.Spark","0.11.0",""

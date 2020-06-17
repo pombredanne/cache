@@ -3255,6 +3255,7 @@
 "Core.Arango","1.0.8",""
 "Core.Arango","1.0.9",""
 "Core.Arango","1.1.0",""
+"Core.Arango.Linq","0.0.1",""
 "CoreFxLab.Numerics.Dec64","0.1.0-beta-171201",""
 "CoreFxLab.Numerics.Dec64","0.1.0-preview1-171229-01",""
 "CoreFxLab.Text.Primitives","0.1.0-beta-171201",""

@@ -5031,6 +5031,7 @@
 "Microsoft.ServiceFabric.Diagnostics.Internal","4.0.470",""
 "Microsoft.ServiceFabric.Diagnostics.Internal","4.1.409",""
 "Microsoft.ServiceFabric.Diagnostics.Internal","4.1.416",""
+"Microsoft.ServiceFabric.Diagnostics.Internal","4.1.417",""
 "Microsoft.ServiceFabric.Mesh.AspNetCore.Data","1.0.617-beta",""
 "Microsoft.ServiceFabric.Mesh.AspNetCore.Data","1.0.621-beta",""
 "Microsoft.ServiceFabric.Mesh.AspNetCore.Data","1.0.622-beta",""

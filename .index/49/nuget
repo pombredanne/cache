@@ -1828,6 +1828,7 @@
 "Cortside.Common.DomainEvent","1.0.91-delayed-retry",""
 "Cortside.Common.DomainEvent","1.0.92-deserialize-error",""
 "Cortside.Common.DomainEvent","1.0.93-deserialize-error",""
+"Cortside.Common.DomainEvent","1.0.95-deserialize-error",""
 "Cosmos.Db.Core.Repository","1.0.0-beta",""
 "Cosmos.Db.Core.Repository","1.0.1-beta",""
 "Cosmos.Db.Core.Repository","1.1.0-beta",""

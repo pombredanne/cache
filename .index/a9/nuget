@@ -7183,6 +7183,7 @@
 "OData.ActionFilter.AddDateTimeSupport","1.0.0",""
 "OData.ActionFilter.AddDateTimeSupport","1.1.0",""
 "OData.ActionFilter.AddDateTimeSupport","1.2.0",""
+"OSPSuite.Infrastructure.Castle","9.0.137",""
 "OSharp.Permissions.OAuth.Client","3.4.10",""
 "OSharp.Permissions.OAuth.Client","3.4.11",""
 "OSharp.Permissions.OAuth.Client","3.4.12",""
