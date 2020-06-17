@@ -1,4 +1,5 @@
 "0x776d-ArgumentsLib","1.0.0",""
+"0x776d-ArgumentsLib","1.0.1",""
 "43453","1.0.0",""
 "48096e4970304486b3dac2697ef78639PackageWithDotCsNames.Cs","1.0.0",""
 "636595016214154206PackageWithDotCsNames.Cs","1.0.0",""
@@ -3928,6 +3929,7 @@
 "Harpoon.Common","1.4.2",""
 "Harpoon.Common","1.4.3",""
 "Harpoon.Common","1.4.4",""
+"Harpoon.Common","1.4.5",""
 "Henke37.DebugHelp.Gdb","1.0.0-alpha",""
 "Henke37.DebugHelp.Gdb","1.0.1-alpha",""
 "Henke37.DebugHelp.Gdb","1.0.2-alpha",""
