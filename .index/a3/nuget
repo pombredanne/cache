@@ -10130,6 +10130,7 @@
 "Utility.SDK","1.0.0",""
 "VG.Serilog.Sinks.EntityFrameworkCore","1.0.0",""
 "VZan.RedisExtension","4.2.0",""
+"VZan.RedisExtension","5.0.0",""
 "Vendr.Core","0.0.0",""
 "Vendr.Core","0.1.0-alpha0211",""
 "Vendr.Core","0.1.0-alpha0212",""
