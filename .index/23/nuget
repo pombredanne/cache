@@ -5254,6 +5254,7 @@
 "Microsoft.PowerApps.Sample.Helpers-CS","1.0.0",""
 "Microsoft.PowerApps.Sample.Helpers-CS","1.0.1",""
 "Microsoft.PythonTools.Analysis","3.0.0-a1",""
+"Microsoft.Security.CodeAnalysis.Cli","0.39.1",""
 "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore","1.0.0",""
 "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore","1.0.0-msbuild1-final",""
 "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore","1.0.0-msbuild2-final",""
