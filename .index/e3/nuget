@@ -8044,6 +8044,7 @@
 "NetSword.Common.Modules.Protocols","8.1.5.7",""
 "NetSword.Common.Modules.Protocols","8.1.5.7-beta001",""
 "NetSword.Plugins.Bootstrap.Extension","1.0.0",""
+"NetTopologySuite.IO.GeoJSON4STJ","2.0.0",""
 "NewBie.Lib.XiangJue","1.0.1",""
 "NewBie.Lib.XiangJue","1.0.10",""
 "NewBie.Lib.XiangJue","1.0.11",""
