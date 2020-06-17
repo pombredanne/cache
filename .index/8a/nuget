@@ -9530,6 +9530,7 @@
 "Serilog.Sinks.InMemory","1.0.0-pre",""
 "ServiceComposer.AspNetCore.Testing","0.0.1",""
 "ServiceComposer.AspNetCore.Testing","0.0.2",""
+"ServiceComposer.AspNetCore.Testing","1.0.0",""
 "Services.Packages","0.1.0",""
 "Services.Packages","0.1.0.1",""
 "Services.Packages","0.1.0.2",""
