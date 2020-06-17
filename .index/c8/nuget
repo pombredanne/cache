@@ -570,6 +570,7 @@
 "Amazon.CDK.RuntimeValues","0.9.2",""
 "AmazonS3BucketPackage","1.0.0",""
 "AmazonS3BucketPackage","2.0.0",""
+"Ancita.Dummy.Library","1.0.0",""
 "AndcultureCode.EdGateClient.NetCore.Api","1.0.0",""
 "Animate.Rotate.CSS","1.0.0-beta",""
 "Any.NSubstitute","0.1.0",""
