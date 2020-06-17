@@ -3121,6 +3121,8 @@
 "EntityFramework.BulkInsert","0.1.0",""
 "EntityFramework.BulkInsert","5.0.0.7",""
 "EntityFramework.BulkInsert","5.0.0.8",""
+"EntityFrameworkCore.Data.UnitOfWork","2.0.0",""
+"EntityFrameworkCore.Data.UnitOfWork","3.0.0",""
 "Errordite.Client.dll","1.1.2",""
 "Eshop.Games","1.0.0",""
 "Estat.Sri.Ws.PolicyModule","6.10.0",""

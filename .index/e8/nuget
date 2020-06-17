@@ -2789,6 +2789,8 @@
 "EnergyTrading.MDM.ServiceHost.WebApi","3.2.1.3",""
 "EntLibContrib.PolicyInjection","5.0.505",""
 "Enterprises.Framework.dll","4.5.0",""
+"EntityFrameworkCore.Data.Repository","2.0.0",""
+"EntityFrameworkCore.Data.Repository","3.0.0",""
 "EntityModel","1.2.0.1",""
 "EntityModel","1.2.0.2",""
 "EntityModel","1.2.0.9",""
