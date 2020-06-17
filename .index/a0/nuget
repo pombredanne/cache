@@ -3455,6 +3455,7 @@
 "GraniteCore","2.1.0-alpha",""
 "GraniteCore","2.2.0-alpha",""
 "GraniteCore","2.2.1-alpha",""
+"Graphflex.Gfx.Persistence.MongoDB","0.3.0",""
 "Greentube.Serialization.DependencyInjection.Json","1.0.0-alpha",""
 "Greentube.Serialization.DependencyInjection.Json","1.0.0-alpha2",""
 "GridGain.Ignite.Schema","8.7.10",""
