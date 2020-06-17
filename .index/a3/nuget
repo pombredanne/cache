@@ -4433,6 +4433,8 @@
 "KC.Foundation.AuthorizationCodeActor","4.7.0",""
 "KC.Foundation.AuthorizationCodeActor","4.8.0",""
 "KC.Foundation.AuthorizationCodeActor","4.8.1",""
+"KSmithDev.Flight.Postgres","0.1.23",""
+"KSmithDev.Flight.Postgres","0.1.24",""
 "KamiSama.Bundles.Ini","1.0.0",""
 "KamiSama.Bundles.Ini","1.0.1",""
 "Karambolo.Extensions.Logging.File","1.0.0",""
