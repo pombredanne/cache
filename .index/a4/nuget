@@ -3142,6 +3142,7 @@
 "Falcon.Service.EmaarPropertyIntegration.Contract","3.3.0",""
 "FastApiGateway","1.0.0",""
 "FastApiGateway","1.0.1",""
+"Feather.Blazor","1.0.0",""
 "FeatureToggle.Azure.ServiceFabric","1.0.0",""
 "FeatureToggle.Azure.ServiceFabric","1.1.0",""
 "FeatureToggle.Azure.ServiceFabric","1.2.0",""
