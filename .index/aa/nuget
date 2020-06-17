@@ -7194,6 +7194,7 @@
 "Npgsql.NetTopologySuite","4.1.1",""
 "Npgsql.NetTopologySuite","4.1.2",""
 "Npgsql.NetTopologySuite","4.1.3",""
+"Npgsql.NetTopologySuite","5.0.0-alpha1",""
 "NuGet.Client.BaseTypes","0.1.0-Download-43572338",""
 "NuGet.Client.BaseTypes","0.1.0-clean-43652353",""
 "NuGet.Client.BaseTypes","0.1.0-clean-43652357",""
