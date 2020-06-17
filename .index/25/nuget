@@ -2072,6 +2072,8 @@
 "Cortside.Common.Correlation","1.0.89-develop",""
 "Cortside.Common.Correlation","1.0.90-delayed-retry",""
 "Cortside.Common.Correlation","1.0.91-delayed-retry",""
+"Cortside.Common.Correlation","1.0.92-deserialize-error",""
+"Cortside.Common.Correlation","1.0.93-deserialize-error",""
 "Cosmos.Logging.Sinks.JdCloud","0.1.1",""
 "Cosmos.Logging.Sinks.JdCloud","0.1.2",""
 "Crochik.Nuget.Sample","1.0.0",""
