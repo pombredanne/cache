@@ -13599,6 +13599,7 @@
 "runtime.win-x86.Microsoft.NETCore.Runtime.CoreCLR","2.0.6",""
 "runtime.win-x86.Microsoft.NETCore.Runtime.CoreCLR","2.0.7",""
 "runtime.win-x86.Microsoft.NETCore.Runtime.CoreCLR","2.0.8",""
+"sharwinfo.util.core","1.0.0",""
 "simple_list","1.0.0",""
 "spectrum.TypeScript.DefinitelyTyped","0.0.1",""
 "spectrum.TypeScript.DefinitelyTyped","0.0.2",""
