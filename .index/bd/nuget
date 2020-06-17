@@ -4875,6 +4875,7 @@
 "Jimu.Server.Discovery.Consul","1.3.0",""
 "Jimu.Server.Discovery.Consul","1.4.0-rc1",""
 "Jimu.Server.Discovery.Consul","1.4.0-rc2",""
+"Jimu.Server.Discovery.Consul","1.4.0-rc4",""
 "JuniorPersist.Data.PostgreSql","1.0.2",""
 "JuniorPersist.Data.PostgreSql","2.0.0",""
 "JuniorPersist.Data.PostgreSql","3.0.0",""
