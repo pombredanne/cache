@@ -4316,6 +4316,8 @@
 "Jimu.Client.Discovery.Consul","1.2.4",""
 "Jimu.Client.Discovery.Consul","1.2.5",""
 "Jimu.Client.Discovery.Consul","1.3.0",""
+"Jimu.Client.Discovery.Consul","1.4.0-rc1",""
+"Jimu.Client.Discovery.Consul","1.4.0-rc2",""
 "JokJaBre.Core.API","1.0.0",""
 "JokJaBre.Core.API","1.0.3",""
 "JokJaBre.Core.API","1.0.8",""

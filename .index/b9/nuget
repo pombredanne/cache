@@ -3149,6 +3149,7 @@
 "DelegateDI.Core","0.1.0",""
 "DelegateDI.Core","0.1.1",""
 "DelegateDI.Core","1.0.0",""
+"Demo.Util.AppLogger","1.0.0",""
 "DependencyTracking.Http","1.0.0",""
 "Dependorr","1.0.0",""
 "DevLib.Ioc","1.33.0.41299",""
