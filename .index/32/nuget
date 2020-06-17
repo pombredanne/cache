@@ -2019,6 +2019,7 @@
 "Cortside.Common.Data.Exceptions","1.0.92-deserialize-error",""
 "Cortside.Common.Data.Exceptions","1.0.93-deserialize-error",""
 "Cortside.Common.Data.Exceptions","1.0.95-deserialize-error",""
+"Cortside.Common.Data.Exceptions","1.0.97-delayed-retry",""
 "Corvus.Configuration","0.1.0",""
 "Corvus.Configuration","0.1.0-preview.5",""
 "Corvus.Configuration","0.2.0",""
