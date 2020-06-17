@@ -2056,6 +2056,7 @@
 "DuplicatePushesAreRejectedAndNotDeleted.6767699abea54979a7d7daf268e80e4b","1.0.8",""
 "DuplicatePushesAreRejectedAndNotDeleted.6767699abea54979a7d7daf268e80e4b","1.0.9",""
 "Dyndle.Providers.SDLWeb8","1.0.0",""
+"Dyndle.Providers.SDLWeb8","1.0.1-alpha-20200617084252",""
 "Dywham.Middleware.Endpoints.Bus.Contracts.Jobs","1.0.0.1",""
 "Dywham.Middleware.Endpoints.Bus.Contracts.Jobs","1.0.1",""
 "Dywham.Middleware.Endpoints.Bus.Contracts.Jobs","1.0.2",""

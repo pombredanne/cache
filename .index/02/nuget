@@ -5373,6 +5373,7 @@
 "Noggle.TikaOnDotNet.Parser","1.20.4",""
 "Novikov.CsharpHelpers.Standart","2.0.0",""
 "Npgsql.GeoJSON","1.0.0",""
+"Npgsql.GeoJSON","5.0.0-alpha1",""
 "NuGetFunctionalTest_266168d60173474b999b8e2eb97895c0","1.0.0-v637141914854945649",""
 "NuGetFunctionalTest_266168d60173474b999b8e2eb97895c0","1.0.0-v637141917547707600",""
 "NuGetFunctionalTest_636675507137961945","1.0.0",""
