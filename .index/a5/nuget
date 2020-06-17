@@ -5816,6 +5816,7 @@
 "NLog.Targets.Syslog","6.0.0",""
 "NLog.Targets.Syslog","6.0.0-beta-01",""
 "NLog.Targets.Syslog","6.0.0-beta-02",""
+"NLog.Targets.Syslog","6.0.1",""
 "NPOI.ToEnumerable","0.5.3",""
 "NPOI.ToEnumerable","0.5.4",""
 "NServiceBus.Serilog-CodeOnly","1.3.0",""
