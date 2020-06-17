@@ -5441,6 +5441,7 @@
 "Grpc.AspNetCore.Server","2.28.0-pre2",""
 "Grpc.AspNetCore.Server","2.29.0",""
 "Grpc.AspNetCore.Server","2.29.0-pre1",""
+"Grpc.AspNetCore.Server","2.30.0-pre1",""
 "Guiga.Infraestrutura","1.0.0",""
 "Guiga.Infraestrutura","1.0.1",""
 "Guiga.Infraestrutura","1.2.2",""

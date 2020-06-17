@@ -4405,6 +4405,7 @@
 "Grpc.Net.Client.Web","2.28.0-pre2",""
 "Grpc.Net.Client.Web","2.29.0",""
 "Grpc.Net.Client.Web","2.29.0-pre1",""
+"Grpc.Net.Client.Web","2.30.0-pre1",""
 "Gu.Units.Analyzers","0.1.0.5",""
 "Gu.Units.Analyzers","0.10.6-dev",""
 "GuaGua.Common.Transport.DotNettyIntegration","0.1.3",""

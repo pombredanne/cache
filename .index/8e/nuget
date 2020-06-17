@@ -1,3 +1,4 @@
+"0x776d-ArgumentsLib","1.0.0",""
 "43453","1.0.0",""
 "48096e4970304486b3dac2697ef78639PackageWithDotCsNames.Cs","1.0.0",""
 "636595016214154206PackageWithDotCsNames.Cs","1.0.0",""
@@ -3702,6 +3703,7 @@
 "GEmojiSharp.TagHelpers","1.2.0",""
 "GEmojiSharp.TagHelpers","1.3.0",""
 "GKCommonTestsUtils","1.0.1",""
+"GMA.ArgumentsMarshalerLib","1.0.0",""
 "GS.BuildingBlocks.IoC.CastleWindsor","2.0.0",""
 "GS.BuildingBlocks.IoC.CastleWindsor","2.0.1",""
 "GS.BuildingBlocks.IoC.CastleWindsor","2.0.5",""

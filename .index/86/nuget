@@ -11548,6 +11548,7 @@
 "corepkgappveyor","1.0.0-pre-00008",""
 "cs-libsvm","1.0.1",""
 "dbup-sqlanywhere","4.3.0",""
+"dbup-sqlanywhere","4.4.0",""
 "doLittle.DependencyInversion.Conventions","2.0.0-alpha2.34",""
 "doLittle.DependencyInversion.Conventions","2.0.0-alpha2.69",""
 "dotNET.Stringifier","1.0.0",""

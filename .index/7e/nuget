@@ -8632,6 +8632,7 @@
 "Rn.NetCore.Common","1.0.8",""
 "Rocher.Infrastructure.MyBatis","1.0.0",""
 "Rocket.Surgery.ReactiveUI.Interop.Prism","0.1.0",""
+"Roslynator.DotNet.Cli","0.1.0",""
 "RuntimeDll","1.0.0",""
 "RxHeat.OData","0.1.0.3",""
 "RxHeat.OData","0.1.0.4",""

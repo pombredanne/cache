@@ -2212,6 +2212,7 @@
 "Cassette.Aspnet.Jasmine","2.4.0",""
 "Cassette.Aspnet.Jasmine","2.4.1",""
 "Cassette.Aspnet.Jasmine","2.4.2",""
+"Castle.Windsor.Extensions.DependencyInjection","5.1.0-beta001",""
 "CelloSaaS.AuthorizationServer","2.0.0",""
 "Cerberix.Wordpress.Data","1.0.0-pre00",""
 "Cerberix.Wordpress.Data","1.0.0-pre01",""
