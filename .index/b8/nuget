@@ -3279,6 +3279,7 @@
 "EInfrastructure.Core.ServiceDiscovery.Consul.AspNetCore","2.1.1",""
 "EInfrastructure.Core.ServiceDiscovery.Consul.AspNetCore","2.2.0",""
 "EInfrastructure.Core.ServiceDiscovery.Consul.AspNetCore","2.3.0",""
+"EInfrastructure.Core.ServiceDiscovery.Consul.AspNetCore","2.3.1",""
 "EMoney.BillPay","1.0.0",""
 "EMoney.BillPay","1.0.1",""
 "EPiGraphQL.Core","0.6.0-preview-4",""

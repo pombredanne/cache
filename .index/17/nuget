@@ -8614,6 +8614,7 @@
 "ServiceAdaptor.NetCore","1.0.4.75",""
 "ServiceAdaptor.NetCore","1.0.5.83",""
 "ServiceAdaptor.NetCore","1.0.6.88",""
+"ServiceAdaptor.NetCore","1.0.9.8",""
 "ServiceFabricServiceModel","0.10.0-preview-01",""
 "ServiceStack.MongoDB","1.0.0",""
 "SettingsKit","1.0.0",""
