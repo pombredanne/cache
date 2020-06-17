@@ -4139,6 +4139,7 @@
 "Innthebox.Core.Mscrm.Sdk","1.0.5",""
 "Innthebox.Core.Mscrm.Sdk","1.0.6",""
 "InstallCSSFiles","1.0.0",""
+"Integral.Console.Interface","0.0.0",""
 "IntegrationBus_RabbitMq","0.1.0",""
 "IntelligentPlant.AppStoreConnect.Adapter.AspNetCore.SignalR.Client","0.1.0-alpha",""
 "IntelligentPlant.AppStoreConnect.Adapter.AspNetCore.SignalR.Client","0.1.1-alpha",""
