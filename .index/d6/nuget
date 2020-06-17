@@ -2915,6 +2915,8 @@
 "DotFramework.Infra.DataAccess.SqlServer","1.0.1",""
 "DotFramework.Infra.DataAccess.SqlServer","1.0.2",""
 "DotFramework.Infra.DataAccess.SqlServer","1.0.3",""
+"DotFramework.Infra.DataAccess.SqlServer","1.0.4",""
+"DotFramework.Infra.DataAccess.SqlServer","1.0.5",""
 "DotNetCore.EntityFrameworkCore","10.0.0",""
 "DotNetCore.EntityFrameworkCore","10.1.0",""
 "DotNetCore.EntityFrameworkCore","10.10.0",""

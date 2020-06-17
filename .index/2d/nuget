@@ -3780,6 +3780,8 @@
 "DotFramework.Infra.Messaging.ZeroMq","1.0.1",""
 "DotFramework.Infra.Messaging.ZeroMq","1.0.2",""
 "DotFramework.Infra.Messaging.ZeroMq","1.0.3",""
+"DotFramework.Infra.Messaging.ZeroMq","1.0.4",""
+"DotFramework.Infra.Messaging.ZeroMq","1.0.5",""
 "DotNetAnalyzers.BannedApiAnalyzer.Unstable","1.0.0.5",""
 "DotNetCode.SPID.SAML","1.0.0-RC-1",""
 "DotNetKit.ErrorHandling.Queryable","1.0.0-beta-1",""
