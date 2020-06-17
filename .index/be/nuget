@@ -7853,6 +7853,7 @@
 "Simple.Scheduler","1.0.0",""
 "SimpleTrading.DepositManager.Grpc","1.0.0",""
 "SimpleTrading.DepositManager.Grpc","1.0.1",""
+"SimpleTrading.Withdrawal.Abstractions","1.0.0",""
 "SirenOfShame.Device","1.0.0",""
 "SirenOfShame.Device","1.0.1",""
 "SiteCron","2.1.3",""
