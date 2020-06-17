@@ -165,6 +165,7 @@
 "AWSSDK.ForecastService","3.3.101.89",""
 "AWSSDK.ForecastService","3.3.101.9",""
 "AWSSDK.ForecastService","3.3.101.90",""
+"AWSSDK.ForecastService","3.3.101.91",""
 "AWSSDK.ForecastService","3.5.0-beta",""
 "AWSSDKCPP-AutoScaling.redist","0.12.20110101.12",""
 "AWSSDKCPP-AutoScaling.redist","0.12.20110101.13",""

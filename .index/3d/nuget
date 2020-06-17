@@ -417,6 +417,7 @@
 "Akka.Remote.TestKit","1.4.5",""
 "Akka.Remote.TestKit","1.4.6",""
 "Akka.Remote.TestKit","1.4.7",""
+"Akka.Remote.TestKit","1.4.8",""
 "Albelli.CorrelationTracing.Amazon","3.5.0",""
 "Albelli.CorrelationTracing.Amazon","3.5.0-alpha-aws-sns-an0002",""
 "Albelli.CorrelationTracing.Amazon","3.5.0-alpha-aws-sns-an0003",""

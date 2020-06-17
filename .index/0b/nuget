@@ -2051,6 +2051,8 @@
 "Cortside.Common.Web.Security","1.0.89-develop",""
 "Cortside.Common.Web.Security","1.0.90-delayed-retry",""
 "Cortside.Common.Web.Security","1.0.91-delayed-retry",""
+"Cortside.Common.Web.Security","1.0.92-deserialize-error",""
+"Cortside.Common.Web.Security","1.0.93-deserialize-error",""
 "CosmoStore.TableStorage","2.0.0",""
 "CosmoStore.TableStorage","2.0.0-beta1",""
 "CosmoStore.TableStorage","2.0.1",""
