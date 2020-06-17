@@ -9120,6 +9120,8 @@
 "SecurityPortal.Dialect","0.0.1-alpha-002-test-project",""
 "SelectQuery.Evaluation","1.0.14",""
 "SelectQuery.Evaluation","1.0.15",""
+"SelectQuery.Evaluation","1.0.16",""
+"SelectQuery.Evaluation","1.0.18",""
 "SeleniumStorageProvider","1.0.0.8",""
 "SeleniumStorageProvider","2.0.0",""
 "SeleniumStorageProvider","2.0.0.1-alpha",""
