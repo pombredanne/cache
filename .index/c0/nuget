@@ -633,6 +633,7 @@
 "AppSimplicity.VirtualStorage","1.1.0",""
 "AppSimplicity.VirtualStorage","1.2.0",""
 "AppSimplicity.VirtualStorage","1.2.1",""
+"AppStack.Common","5.9.1",""
 "ApplicationBlock.ContentFlow.Templating.Handlebars","0.1.0-alpha",""
 "ApplicationBlock.ContentFlow.Templating.Handlebars","0.1.1-alpha",""
 "Aquirrel.AutoMapper","2.0.1",""
