@@ -331,6 +331,7 @@
 "AWSSDK.SageMakerRuntime","3.3.102.1",""
 "AWSSDK.SageMakerRuntime","3.3.102.2",""
 "AWSSDK.SageMakerRuntime","3.3.102.3",""
+"AWSSDK.SageMakerRuntime","3.3.102.4",""
 "AWSSDK.SageMakerRuntime","3.5.0-beta",""
 "AWSSDKCPP-CloudFormation.symbols","0.12.20100515.12",""
 "AX4B","1.0.0",""
