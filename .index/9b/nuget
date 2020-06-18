@@ -7466,6 +7466,7 @@
 "SassTask.Compiler","0.2.0-build20200205-1948",""
 "ScaffR.Data.Common","1.1.4",""
 "Scalider.Azure","1.0.0-pre0",""
+"Scalider.Azure","1.0.0-pre1",""
 "SceneSkope.Serilog.Sinks.XUnit","1.0.0.1",""
 "SceneSkope.Serilog.Sinks.XUnit","1.0.0.2",""
 "SceneSkope.ServiceFabric.Serilog.Seq","1.0.27",""
