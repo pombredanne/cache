@@ -1435,6 +1435,7 @@
 "App.Metrics.AspNetCore.Tracking","4.1.0-preview.0.18",""
 "App.Metrics.AspNetCore.Tracking","4.1.0-preview.0.22",""
 "App.Metrics.AspNetCore.Tracking","4.1.0-preview.0.23",""
+"App.Metrics.AspNetCore.Tracking","4.1.0-preview.0.32",""
 "App.Metrics.Extensions.Middleware","1.0.0",""
 "App.Metrics.Extensions.Middleware","1.0.0-alpha1",""
 "App.Metrics.Extensions.Middleware","1.0.0-beta1",""

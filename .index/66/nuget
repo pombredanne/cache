@@ -648,6 +648,7 @@
 "ApiCallerGenerate","1.0.0",""
 "Apos.Content.Read","0.1.0",""
 "Apos.Content.Read","0.1.1",""
+"App.Metrics.InfluxDB","4.1.0-preview.0.32",""
 "AppBrix.Caching.Json","0.6.0",""
 "AppBrix.Caching.Json","0.7.0",""
 "AppLogger-TestSimple1","1.0.0",""

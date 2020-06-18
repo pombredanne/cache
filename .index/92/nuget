@@ -1868,6 +1868,7 @@
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationId","2.2.1",""
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationId","2.2.2",""
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationId","2.2.3",""
+"Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationId","2.2.4",""
 "BenchmarkDotNet","0.10.0",""
 "BenchmarkDotNet","0.10.1",""
 "BenchmarkDotNet","0.10.10",""
