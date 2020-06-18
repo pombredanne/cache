@@ -743,6 +743,7 @@
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.DefaultResponseCompressionQuality","2.2.1",""
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.DefaultResponseCompressionQuality","2.2.2",""
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.DefaultResponseCompressionQuality","2.2.3",""
+"Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.DefaultResponseCompressionQuality","2.2.4",""
 "Be.Vlaanderen.Basisregisters.DataDog.Tracing.AspNetCore","1.0.1",""
 "Be.Vlaanderen.Basisregisters.DataDog.Tracing.AspNetCore","1.1.0",""
 "Be.Vlaanderen.Basisregisters.DataDog.Tracing.AspNetCore","1.1.1",""

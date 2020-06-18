@@ -7862,6 +7862,8 @@
 "SimpleTrading.DepositManager.Grpc","1.0.1",""
 "SimpleTrading.Withdrawal.Abstractions","1.0.0",""
 "SimpleTrading.Withdrawal.Abstractions","1.0.1",""
+"SimpleTrading.Withdrawal.Abstractions","1.0.2",""
+"SimpleTrading.Withdrawal.Abstractions","1.0.3",""
 "SirenOfShame.Device","1.0.0",""
 "SirenOfShame.Device","1.0.1",""
 "SiteCron","2.1.3",""
