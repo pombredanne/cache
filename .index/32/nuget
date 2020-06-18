@@ -4450,6 +4450,7 @@
 "MW.Blazor.PagePanel","1.1.6",""
 "Madras.PurchaseOrder.Client","0.0.0",""
 "MaiReo.MicroService.Messages.RabbitMQ.AbpIntegration","2.2.3.4",""
+"Mailgun.Models.SignedEvent","1.0.0",""
 "Mailgun.Models.SignedEvent","1.0.0-rc0",""
 "Mailgun.Models.SignedEvent","1.0.0-rc1",""
 "Manufaktura.Core.Serialization","1.0.0",""

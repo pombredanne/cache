@@ -1739,6 +1739,7 @@
 "Confluent.SchemaRegistry.Serdes.Protobuf","1.4.0-RC5",""
 "Confluent.SchemaRegistry.Serdes.Protobuf","1.4.2",""
 "Confluent.SchemaRegistry.Serdes.Protobuf","1.4.3",""
+"Confluent.SchemaRegistry.Serdes.Protobuf","1.4.4-RC1",""
 "ConnectionStringLightHelperPT","0.0.1",""
 "ConsoleApplication1.exe","1.0.0",""
 "ContpaqiNube.Identity","1.1.4.10",""
