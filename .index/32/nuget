@@ -7901,6 +7901,7 @@
 "SolaceBinding.Attributes","1.0.0",""
 "SolaceBinding.Attributes","1.0.1",""
 "SolaceBinding.Attributes","1.0.2",""
+"Solid.Testing.AspNetCore.Extensions.XUnit.Soap","1.0.0-beta",""
 "SolidWorks.Interop.swcommands","23.5.0",""
 "SolidWorks.Interop.swcommands","24.4.0",""
 "SolidWorks.Interop.swcommands","25.5.0",""
