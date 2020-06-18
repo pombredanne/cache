@@ -1468,6 +1468,7 @@
 "Autofuzz.MongoDB","1.0.1",""
 "Autofuzz.MongoDB","1.0.2",""
 "AutomationFoundation.Extensions.EntityFramework","0.1.110-preview",""
+"AutomationFoundation.Extensions.EntityFramework","0.1.211-preview",""
 "Aws4RequestSigner","0.1.0",""
 "Aws4RequestSigner","0.2.0",""
 "Aws4RequestSigner","0.3.0",""

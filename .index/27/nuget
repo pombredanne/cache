@@ -3402,6 +3402,7 @@
 "Cortside.Common.RabbitMQ","1.0.98-deserialize-error",""
 "Cortside.Common.RabbitMQ","1.1.110-delayed-retry",""
 "Cortside.Common.RabbitMQ","1.1.111-delayed-retry",""
+"Cortside.Common.RabbitMQ","1.1.112-delayed-retry",""
 "Costanza","0.1.0",""
 "CountDown","1.0.1",""
 "CountDown","1.0.2",""

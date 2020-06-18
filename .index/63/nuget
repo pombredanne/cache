@@ -983,6 +983,7 @@
 "AutofacContrib.NHibernate","2.6.1.841",""
 "AutofacContrib.NHibernate","2.6.3.862",""
 "Autofac_KeyedDecorators_PV","1.0.0",""
+"AutomationFoundation.Extensions.SqlClient","0.1.211-preview",""
 "AvaTax.TaxModule.Data","2.14.0",""
 "AvaTax.TaxModule.Data","2.14.1",""
 "AvaTax.TaxModule.Data","3.0.0-rc.3",""
