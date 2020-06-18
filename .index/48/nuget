@@ -3660,6 +3660,7 @@
 "EntityFrameworkCore.Serialization","1.1.0",""
 "EntityFrameworkCore.Serialization","1.1.1",""
 "EntityFrameworkCore.Serialization","1.1.2",""
+"EntityFrameworkCore.Serialization","1.1.3",""
 "EntityWorker.SQLite","1.0.0",""
 "EntityWorker.SQLite","1.0.1",""
 "Erick.AuthCenter.Data","1.0.0",""
