@@ -717,6 +717,7 @@
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext","2.2.1",""
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext","2.2.2",""
 "Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext","2.2.3",""
+"Be.Vlaanderen.Basisregisters.AspNetCore.Mvc.Middleware.AddCorrelationIdToLogContext","2.2.4",""
 "Beckhoff.TwinCAT.HMI.OpcUa.win-x64","12.700.0-beta",""
 "Beckhoff.TwinCAT.HMI.OpcUa.win-x64","12.702.3-beta",""
 "Beckhoff.TwinCAT.HMI.OpcUa.win-x64","12.706.0-beta",""
