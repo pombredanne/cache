@@ -11598,6 +11598,7 @@
 "dotnet-core-simple-session-client","1.0.1907.2",""
 "dotnet-core-simple-session-client","1.0.1907.3",""
 "dotnet-core-simple-session-client","1.0.1907.4",""
+"dotnetCampus.MSBuildUtils","1.0.0",""
 "ee.itcollege.anmeze.Contracts.Base","1.0.0",""
 "ee.itcollege.kekapp.Contracts.DAL.Base","1.0.0",""
 "ee.itcollege.pipa.DAL.Base","1.0.0",""
