@@ -2992,6 +2992,7 @@
 "DryIoc.WebApi.dll","3.0.0",""
 "DryIoc.WebApi.dll","3.1.0-preview-01",""
 "DryIoc.WebApi.dll","4.0.0",""
+"Dynamsoft.NetCoreApp.Barcode","7.4.0",""
 "E2E.Deprecated.200318.215439.0234419","1.0.0",""
 "E2E.EmbeddedIconJpeg.190826.173733.5881753","1.0.0",""
 "E2E.EmbeddedIconJpeg.190912.234224.5466110","1.0.0",""
