@@ -3358,6 +3358,7 @@
 "CoreXT.Validation","1.0.8",""
 "Cortside.Common.RabbitMQ","1.0.1",""
 "Cortside.Common.RabbitMQ","1.0.100-delayed-retry",""
+"Cortside.Common.RabbitMQ","1.0.101-delayed-retry",""
 "Cortside.Common.RabbitMQ","1.0.12-develop",""
 "Cortside.Common.RabbitMQ","1.0.21-develop",""
 "Cortside.Common.RabbitMQ","1.0.22-develop",""
