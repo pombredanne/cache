@@ -6108,6 +6108,8 @@
 "NuGet.Restore","1.0.0-pre",""
 "NuGet.Restore","1.0.1-pre",""
 "NuGetFunctionalTest_06fb4fa2c2d748a4860da0d953731e97","1.0.0-v637268995916910646",""
+"NuGetFunctionalTest_55ddd51e5c3441499fae8534651e2342","1.0.0",""
+"NuGetFunctionalTest_55ddd51e5c3441499fae8534651e2342","2.0.0",""
 "NuGetFunctionalTest_636674446244412156","1.0.0",""
 "NuGetFunctionalTest_636674446244412156","2.0.0",""
 "NuGetFunctionalTest_636706635903896910","1.0.0-v636706635903896910",""
