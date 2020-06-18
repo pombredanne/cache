@@ -6255,6 +6255,7 @@
 "NServiceBus.Transport.Msmq","1.0.0-beta0006",""
 "NServiceBus.Transport.Msmq","1.0.0-rc0001",""
 "NServiceBus.Transport.Msmq","1.0.1",""
+"NServiceBus.Transport.Msmq","1.0.2",""
 "Nameless.Framework.Projection","1.0.1",""
 "Naos.Database.Mongo.Client","1.0.192",""
 "Naos.Database.Mongo.Client","1.0.194",""

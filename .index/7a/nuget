@@ -2472,6 +2472,7 @@
 "Confluent.SchemaRegistry.Serdes.Json","1.4.0-RC5",""
 "Confluent.SchemaRegistry.Serdes.Json","1.4.2",""
 "Confluent.SchemaRegistry.Serdes.Json","1.4.3",""
+"Confluent.SchemaRegistry.Serdes.Json","1.4.4-RC1",""
 "ConsoleApp1","1.0.0",""
 "ConsoleDump","0.5.4954.39982",""
 "ConsoleDump","0.6.0",""

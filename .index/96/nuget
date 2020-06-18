@@ -2941,6 +2941,7 @@
 "DotNet.Standard.Extensions.DependencyInjection","2.0.0-beta.1+d041d36",""
 "DotNet.Standard.Extensions.DependencyInjection","2.0.0-beta.2+bd058dc",""
 "DotNetBrowser.x86","2.0.0",""
+"DotNetBrowser.x86","2.1.0",""
 "DotNetCore.IoC","10.0.0",""
 "DotNetCore.IoC","10.1.0",""
 "DotNetCore.IoC","10.10.0",""

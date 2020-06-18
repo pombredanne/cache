@@ -2358,6 +2358,7 @@
 "Confluent.SchemaRegistry.Serdes.Avro","1.4.0-RC5",""
 "Confluent.SchemaRegistry.Serdes.Avro","1.4.2",""
 "Confluent.SchemaRegistry.Serdes.Avro","1.4.3",""
+"Confluent.SchemaRegistry.Serdes.Avro","1.4.4-RC1",""
 "CostEffectiveCode.Autofac","1.0.0",""
 "CouchbaseIdentity","1.0.0-dp",""
 "CouchbaseIdentity","1.0.1-dp",""

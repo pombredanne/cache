@@ -5002,6 +5002,7 @@
 "Marain.Claims.Abstractions","0.3.0-deployment.40",""
 "Marain.Claims.Abstractions","0.3.0-deployment.5",""
 "Marain.Claims.Abstractions","0.3.0-tenancy-update.6",""
+"Marain.Claims.Abstractions","0.4.0-fix-local-claims.7",""
 "Marain.Operations.Azure.Storage","0.1.0",""
 "Marain.Operations.Azure.Storage","0.1.0-PullRequest0002.11",""
 "Marain.Operations.Azure.Storage","0.1.0-PullRequest0003.11",""
