@@ -4873,6 +4873,7 @@
 "Marain.Claims.Storage.AzureBlob","0.3.0-deployment.40",""
 "Marain.Claims.Storage.AzureBlob","0.3.0-deployment.5",""
 "Marain.Claims.Storage.AzureBlob","0.3.0-tenancy-update.6",""
+"Marain.Claims.Storage.AzureBlob","0.4.0-fix-local-claims.15",""
 "Marain.Claims.Storage.AzureBlob","0.4.0-fix-local-claims.7",""
 "MassTransit.Automatonymous.Autofac","3.5.0",""
 "MassTransit.Automatonymous.Autofac","3.5.1",""

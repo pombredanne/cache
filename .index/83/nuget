@@ -7013,6 +7013,8 @@
 "MongoDB.ApplicationInsights.DependencyInjection","1.0.18",""
 "MongoDB.ApplicationInsights.DependencyInjection","1.0.19",""
 "MongoDB.ApplicationInsights.DependencyInjection","1.0.23",""
+"MongoDB.ApplicationInsights.DependencyInjection","1.0.29",""
+"MongoDB.ApplicationInsights.DependencyInjection","1.0.30",""
 "MongoDB.Driver.GridFS.signed","2.10.1",""
 "MongoDB.Driver.GridFS.signed","2.10.4",""
 "MongoDB.Driver.GridFS.signed","2.2.4",""

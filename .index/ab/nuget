@@ -8459,6 +8459,7 @@
 "WebAPIDoodle.Http","1.2.3-pre01",""
 "WebAPIDoodle.Http","1.3.0",""
 "WebApiClient.Extensions.Consul","0.0.1",""
+"WebApiClient.Extensions.Consul","0.0.2",""
 "WebApiContrib.Tracing.Slab","1.0.1",""
 "WebApiContrib.Tracing.Slab","1.0.2",""
 "WebApiContrib.Tracing.Slab","1.0.3",""
