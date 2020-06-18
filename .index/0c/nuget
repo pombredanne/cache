@@ -744,6 +744,7 @@
 "AutoContext.EntityFrameworkCore","2.0.0",""
 "Autofac.Variants","0.2.0",""
 "AutomationFoundation.Extensions.SystemData","0.1.110-preview",""
+"AutomationFoundation.Extensions.SystemData","0.1.211-preview",""
 "Axiom.Platforms.Win32","0.8.3101.12095",""
 "Axiom.Platforms.Win32","0.8.3376.12322",""
 "Axiom.Platforms.Win32","0.8.5000",""
