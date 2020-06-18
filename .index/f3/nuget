@@ -1083,6 +1083,7 @@
 "Arcus.Security.Providers.AzureKeyVault","0.4.0",""
 "Arcus.Security.Providers.AzureKeyVault","1.0.0",""
 "Arcus.Security.Providers.AzureKeyVault","1.1.0",""
+"Arcus.Security.Providers.AzureKeyVault","1.2.0",""
 "Arcus.Security.Providers.AzureKeyVault","1.2.0-preview-1",""
 "Arkane.Errors","1.0.0",""
 "Arkane.Json.Expandos","0.1.3",""
