@@ -1794,6 +1794,7 @@
 "CoreExtensions.Type","1.0.0",""
 "Cortside.Common.DomainEvent","1.0.1",""
 "Cortside.Common.DomainEvent","1.0.100-delayed-retry",""
+"Cortside.Common.DomainEvent","1.0.101-delayed-retry",""
 "Cortside.Common.DomainEvent","1.0.12-develop",""
 "Cortside.Common.DomainEvent","1.0.21-develop",""
 "Cortside.Common.DomainEvent","1.0.22-develop",""
