@@ -5175,6 +5175,7 @@
 "Microsoft.Azure.Management.Redis","4.4.1",""
 "Microsoft.Azure.Management.Redis","5.0.0",""
 "Microsoft.Azure.Management.Redis","6.0.0-preview.1",""
+"Microsoft.Azure.Management.Redis","6.0.0-preview.2",""
 "Microsoft.Azure.WebJobs.Extensions.Twilio","1.0.0",""
 "Microsoft.Azure.WebJobs.Extensions.Twilio","1.0.0-beta2",""
 "Microsoft.Azure.WebJobs.Extensions.Twilio","1.1.0",""
