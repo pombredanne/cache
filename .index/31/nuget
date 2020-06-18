@@ -5081,6 +5081,7 @@
 "HangFire.Mongo.net45","0.3.0",""
 "Hangfire_net40.SqlServer.RabbitMQ","1.1.1",""
 "Hashids.CoreCLR","1.1.2",""
+"Heggi.EtcdClient","1.0.0",""
 "Hera","0.1.0",""
 "Hera","0.1.1",""
 "Hera","0.1.2",""

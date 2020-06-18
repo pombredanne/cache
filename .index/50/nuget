@@ -1263,6 +1263,7 @@
 "Apix.Sync.MyAnimeList.Client","1.0.2-beta-022",""
 "App.HttpApiCore","3.1.0",""
 "App.Metrics.GrafanaCloudHostedMetrics","4.1.0-preview.0.32",""
+"App.Metrics.GrafanaCloudHostedMetrics","4.1.0-preview.0.33",""
 "App.Scheduler","1.0.0",""
 "App.Scheduler","1.0.1",""
 "App.Scheduler","1.1.0",""
