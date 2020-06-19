@@ -3138,6 +3138,7 @@
 "DynamicDescriptors","1.5.0",""
 "DynamicDescriptors","1.6.0",""
 "DynamicQueue.Log.NLog","1.0.0",""
+"Dynamicweb.Ecommerce.CheckoutHandlers.AuthorizeNetApi","1.0.0",""
 "Dynamicweb.Ecommerce.RMAProviders.ReplaceWithDifferentProduct","1.0.0",""
 "Dynamicweb.Ecommerce.RMAProviders.ReplaceWithDifferentProduct","1.0.1",""
 "E2E.EmbeddedIconJpeg.190919.005149.4068428","1.0.0",""
