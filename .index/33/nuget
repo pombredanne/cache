@@ -3389,6 +3389,7 @@
 "EasyArchitecture.Plugins.Unity","1.0.4845",""
 "EasyArchitecture.Plugins.Unity","1.0.4846",""
 "EasyArchitecture.Plugins.Unity","1.0.4847",""
+"EasyHelper.RetryHttpClient","1.0.0",""
 "EasyIniReader","1.0.0",""
 "EasyIniReader","1.0.0.1",""
 "EasyRpc.AspNetCore.Utf8Json","5.0.0-Beta1119",""
