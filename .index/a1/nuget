@@ -8918,6 +8918,7 @@
 "Std.Pre.Shared","1.1.8",""
 "Std.Pre.Shared","1.1.9",""
 "Std.Pre.Shared","2.0.56-g9b43c664e2",""
+"Std.Pre.Shared","2.0.65",""
 "Steeltoe.CircuitBreaker.HystrixAutofac","2.0.0",""
 "Steeltoe.CircuitBreaker.HystrixAutofac","2.0.0-rc1",""
 "Steeltoe.CircuitBreaker.HystrixAutofac","2.1.0",""
