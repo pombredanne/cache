@@ -986,6 +986,7 @@
 "Apple.Receipt.Parser","1.1.2",""
 "Apple.Receipt.Parser","1.1.3",""
 "ApplicationBlueprints.Correlation","1.0.0",""
+"ArgonautCore.Network","1.0.0",""
 "Ark.Tools.EntityFrameworkCore.Nodatime","1.0.0",""
 "Ark.Tools.EntityFrameworkCore.Nodatime","1.0.0-beta01",""
 "Ark.Tools.EntityFrameworkCore.Nodatime","1.0.0-beta02",""

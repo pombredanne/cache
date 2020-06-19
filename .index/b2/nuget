@@ -3383,6 +3383,7 @@
 "EntityFrameworkCore.Data.QueryBuilder","2.0.0",""
 "EntityFrameworkCore.Data.QueryBuilder","2.0.1",""
 "EntityFrameworkCore.Data.QueryBuilder","3.0.0",""
+"EntityFrameworkCore.Data.QueryBuilder","3.0.1",""
 "EqualityTests","1.0.0",""
 "EqualityTests","1.0.2",""
 "Ers.ApiClient","1.2.0",""
