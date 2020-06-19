@@ -714,6 +714,7 @@
 "AspNetCore.Identity.Cassandra","2.0.1",""
 "AspNetCore.Identity.Cassandra","2.2.0",""
 "AspNetCore.Identity.Cassandra","2.3.0",""
+"AspNetCore.Identity.Cassandra","2.3.1",""
 "AspNetCore.TencentCos","5.0.0",""
 "AspNetCore.TencentCos","5.0.1",""
 "AspNetCore.TencentCos","5.0.2",""
