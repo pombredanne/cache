@@ -702,6 +702,7 @@
 "App.Metrics.Formatters.Graphite","4.0.0-preview1.0.5",""
 "App.Metrics.Formatters.Graphite","4.0.0-preview1.0.7",""
 "App.Metrics.Formatters.Graphite","4.0.0-preview1.0.9",""
+"App.Metrics.Formatters.Graphite","4.1.0",""
 "App.Metrics.Formatters.Graphite","4.1.0-preview.0.15",""
 "App.Metrics.Formatters.Graphite","4.1.0-preview.0.17",""
 "App.Metrics.Formatters.Graphite","4.1.0-preview.0.18",""
