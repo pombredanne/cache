@@ -217,6 +217,7 @@
 "AWSSDK.IoTEvents","3.3.106.8",""
 "AWSSDK.IoTEvents","3.3.106.9",""
 "AWSSDK.IoTEvents","3.5.0-beta",""
+"AccessTokenClient","1.0.0-rc1",""
 "ActivitiesCustomFunction","1.0.0",""
 "AdaskoTheBeAsT.WkHtmlToX.native.ubuntu.14.04-x86","0.12.5",""
 "AddNumbersSample","1.0.0",""
