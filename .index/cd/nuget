@@ -5538,6 +5538,7 @@
 "MiniProfiler.Providers.PostgreSql","4.1.0",""
 "MiniProfiler.Providers.PostgreSql","4.1.0-preview.18",""
 "MiniProfiler.Providers.PostgreSql","4.1.0-preview.32",""
+"MiniProfiler.Providers.PostgreSql","4.2.1",""
 "MiniProfilerContrib.EFMigrationsFix","1.0.0",""
 "MiniProfilerContrib.EFMigrationsFix","1.0.1",""
 "MiniProfilerContrib.EFMigrationsFix","1.0.12",""

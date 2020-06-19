@@ -5579,6 +5579,7 @@
 "MiniProfiler.Providers.MySql","4.0.180",""
 "MiniProfiler.Providers.MySql","4.1.0",""
 "MiniProfiler.Providers.MySql","4.1.0-preview.32",""
+"MiniProfiler.Providers.MySql","4.2.1",""
 "MiniProfiler.Serilog","1.0.0",""
 "MiniProfiler.Serilog","1.0.1-alpha",""
 "MiniProfiler.Serilog","1.0.2",""

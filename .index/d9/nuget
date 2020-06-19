@@ -6405,6 +6405,7 @@
 "MiniProfiler.Providers.SqlServer","4.0.180",""
 "MiniProfiler.Providers.SqlServer","4.1.0",""
 "MiniProfiler.Providers.SqlServer","4.1.0-preview.32",""
+"MiniProfiler.Providers.SqlServer","4.2.1",""
 "MiniSQLLite","1.0.0",""
 "MinoriEditorStudio.VirtualCanvas","0.1.10",""
 "MinoriEditorStudio.VirtualCanvas","0.1.11",""
