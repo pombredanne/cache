@@ -5747,6 +5747,7 @@
 "Microsoft.Windows.EventTracing.Cpu","0.4.0",""
 "Microsoft.Windows.EventTracing.Cpu","1.0.0",""
 "Microsoft.Windows.EventTracing.Cpu","1.1.0",""
+"Microsoft.Windows.EventTracing.Cpu","1.1.1",""
 "Microsoft.WindowsAzure.Management.Network","0.9.6-preview",""
 "Microsoft.WindowsAzure.Management.Network","0.9.7-preview",""
 "Microsoft.WindowsAzure.Management.Network","1.0.0",""

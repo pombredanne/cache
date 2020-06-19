@@ -6934,6 +6934,7 @@
 "Microsoft.Windows.EventTracing.ScheduledTasks","0.4.10",""
 "Microsoft.Windows.EventTracing.ScheduledTasks","1.0.0",""
 "Microsoft.Windows.EventTracing.ScheduledTasks","1.1.0",""
+"Microsoft.Windows.EventTracing.ScheduledTasks","1.1.1",""
 "MikeGrayCodes.BuildingBlocks.Domain","1.0.0-CI-20200307-192240",""
 "MikeGrayCodes.BuildingBlocks.Domain","1.0.0-CI-20200309-200637",""
 "MikeGrayCodes.BuildingBlocks.Domain","1.0.0-CI-20200309-201401",""

@@ -5943,6 +5943,7 @@
 "Microsoft.Windows.EventTracing.Disk","0.4.0",""
 "Microsoft.Windows.EventTracing.Disk","1.0.0",""
 "Microsoft.Windows.EventTracing.Disk","1.1.0",""
+"Microsoft.Windows.EventTracing.Disk","1.1.1",""
 "MikeGrayCodes.Ordering.Infrastructure","1.0.0-CI-20200406-093505",""
 "MikeGrayCodes.Ordering.Infrastructure","1.0.0-CI-20200427-090922",""
 "Miki.Patreon","0.1.0",""
