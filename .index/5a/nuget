@@ -8610,6 +8610,7 @@
 "SharpCord.dll","0.1.0-rc2",""
 "SharpCord.dll","0.1.0-rc3",""
 "SharpCord.dll","0.1.5-rc1",""
+"SharpReadWriteLock","0.1.0",""
 "SharpTorch","0.1.0",""
 "SharpTorch","0.1.1",""
 "SharpTorch","0.1.2",""
