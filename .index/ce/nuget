@@ -6805,6 +6805,7 @@
 "MassTransit.Hangfire","7.0.0-develop.2813+sha.ba61716",""
 "MassTransit.Hangfire","7.0.0-develop.2823+sha.5f057f4",""
 "MassTransit.Hangfire","7.0.0-develop.2836+sha.3c1ce4f",""
+"MassTransit.Hangfire","7.0.0-develop.2837+sha.8fab289",""
 "MassTransit.RedisSagas.RedLock","1.0.47",""
 "MassTransit.RedisSagas.RedLock","1.0.48",""
 "MassTransit.RedisSagas.RedLock","1.0.49",""

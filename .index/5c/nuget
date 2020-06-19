@@ -430,6 +430,7 @@
 "Aiwins.Rocket.PermissionManagement.Domain.IdentityServer","1.1.0",""
 "Aiwins.Rocket.PermissionManagement.Domain.IdentityServer","1.1.1",""
 "Aiwins.Rocket.PermissionManagement.Domain.IdentityServer","1.1.2",""
+"Aiwins.Rocket.PermissionManagement.Domain.IdentityServer","1.1.3",""
 "AkinAdvertApi.Models","1.0.0",""
 "Akka.Monitoring.Prometheus","1.0.2",""
 "Akka.Monitoring.Prometheus","2.0.0",""
