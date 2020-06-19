@@ -1807,6 +1807,7 @@
 "Banzai.Autofac","3.0.3",""
 "BarzinPlatform.Infrastructure.Logging","1.0.0",""
 "BarzinPlatform.Infrastructure.Logging","1.0.1",""
+"Base16.PushOver","1.0.0",""
 "Bastion.Senders.EmailSender.Core","0.0.1",""
 "Bastion.Senders.EmailSender.Core","1.0.0",""
 "BeatSaberModdingTools.Tasks","1.1.5",""

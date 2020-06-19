@@ -3421,6 +3421,7 @@
 "E2E.SemVer2PrerelUnlisted.200528.210854.0299811","1.0.0-alpha.1",""
 "E2E.SymbolsPackage.200311.180439.1590709","1.0.0",""
 "E2E.SymbolsPackage.200325.162639.9111669","1.0.0",""
+"E2E.SymbolsPackage.200619.204611.5864571","1.0.0",""
 "EA.Core.Data.Postgre","1.0.0",""
 "EA.Core.Data.Postgre","1.0.1",""
 "EA.Core.Data.Postgre","2.0.0",""
