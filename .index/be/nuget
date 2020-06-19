@@ -6035,6 +6035,7 @@
 "NLog.Targets.ElasticSearch","7.2.0",""
 "NLog.Targets.ElasticSearch","7.3.0",""
 "NLog.Targets.Fluentd.NetStandard","1.0.5",""
+"NLog.Targets.Fluentd.NetStandard","1.0.6",""
 "NRClassLibTest","1.0.0",""
 "NServiceBus.Newtonsoft.Encryption","1.0.0",""
 "NServiceBus.Newtonsoft.Encryption","1.0.0-beta0003",""
