@@ -7651,6 +7651,7 @@
 "PostSharp.Patterns.Caching.IMemoryCache","6.6.9",""
 "PostSharp.Patterns.Caching.IMemoryCache","6.7.1-preview",""
 "PostSharp.Patterns.Caching.IMemoryCache","6.7.2-preview",""
+"PostSharp.Patterns.Caching.IMemoryCache","6.7.3-preview",""
 "Pradana.ReactiveUI.XamForms","1.0.1",""
 "PragmaticFlow.NBomber","0.1.0",""
 "PragmaticFlow.NBomber","0.1.10",""

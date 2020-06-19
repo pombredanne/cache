@@ -8148,6 +8148,7 @@
 "RAML.Parser.Expressions","0.0.1",""
 "RAML.Parser.Expressions","0.0.2",""
 "RCALogWriter","1.0.0",""
+"RCALogWriter","1.0.0.1",""
 "RDFSharp.RDFMySQLStore","0.6.10.4",""
 "RDFSharp.RDFMySQLStore","0.6.10.5",""
 "RDFSharp.RDFMySQLStore","0.6.10.6",""
