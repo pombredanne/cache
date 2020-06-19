@@ -3381,6 +3381,7 @@
 "EntityFramework.InterceptorEx","1.0.0",""
 "EntityFramework.InterceptorEx","1.0.1",""
 "EntityFrameworkCore.Data.QueryBuilder","2.0.0",""
+"EntityFrameworkCore.Data.QueryBuilder","2.0.1",""
 "EntityFrameworkCore.Data.QueryBuilder","3.0.0",""
 "EqualityTests","1.0.0",""
 "EqualityTests","1.0.2",""

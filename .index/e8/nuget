@@ -2793,6 +2793,7 @@
 "EntLibContrib.PolicyInjection","5.0.505",""
 "Enterprises.Framework.dll","4.5.0",""
 "EntityFrameworkCore.Data.Repository","2.0.0",""
+"EntityFrameworkCore.Data.Repository","2.0.1",""
 "EntityFrameworkCore.Data.Repository","3.0.0",""
 "EntityModel","1.2.0.1",""
 "EntityModel","1.2.0.2",""
