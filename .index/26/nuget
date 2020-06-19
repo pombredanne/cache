@@ -2921,6 +2921,7 @@
 "FASTER.devices.AzureStorageDevice","2019.7.23.6",""
 "FASTER.devices.AzureStorageDevice","2019.8.8.1",""
 "FCP.AspNetCore.Mvc.ApiExplorer","1.0.0",""
+"FS.Abp.Domain","0.290.1",""
 "FSharp.Charting.Gtk","0.89.0",""
 "FSharp.Charting.Gtk","0.90.0",""
 "FSharp.Charting.Gtk","0.90.1",""

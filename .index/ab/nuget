@@ -2571,6 +2571,7 @@
 "FGS.Autofac.DynamicScoping","2019.12.9.2",""
 "FGS.Autofac.DynamicScoping","2020.1.15.1",""
 "FGS.Autofac.DynamicScoping","2020.2.13.1",""
+"FS.Abp.AspNetCore.Mvc.JsonSubTypes","0.290.1",""
 "FSharp.CloudAgent","0.1.0",""
 "FSharp.CloudAgent","0.2.0",""
 "FSharp.CloudAgent","0.3.0",""

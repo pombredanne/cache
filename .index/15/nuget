@@ -3827,6 +3827,7 @@
 "FRC.WPILib.Extras","2017.0.3",""
 "FRC.WPILib.Extras","2017.1.0",""
 "FRC.WPILib.Extras","2018.1.0",""
+"FS.Abp.AspNetCore.Mvc.JsonSubTypes.Contracts","0.290.1",""
 "FSharp.Control.Redis.Streams.Akka","0.1.0",""
 "FSharp.Control.Redis.Streams.Akka","0.1.0-beta001",""
 "FSharp.Control.Redis.Streams.Akka","0.1.0-beta002",""
