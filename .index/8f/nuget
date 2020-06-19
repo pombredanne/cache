@@ -10461,6 +10461,7 @@
 "edreams-service-phone-number-edreams-FLIGHT-BOOKING-number-edreams-phone-number-customer-service","1.0.0",""
 "ee.itcollege.dauuka.DAL.Base.EF","1.0.0",""
 "ee.itcollege.kroide.Identities","1.0.0",""
+"ee.itcollege.makaig.DAL.Base.EF","1.0.1",""
 "ee.itcollege.nikita.Contracts.Base","1.0.0",""
 "ee.itcollege.pipa.DAL.Base.EF","1.0.0",""
 "elastic_email_api_v3_client_library_beta","3.0.9",""
