@@ -4226,6 +4226,7 @@
 "EInfrastructure.Core.MemoryCache","2.2.0",""
 "EInfrastructure.Core.MemoryCache","2.3.0",""
 "EInfrastructure.Core.MemoryCache","2.3.1",""
+"EInfrastructure.Core.MemoryCache","2.3.2",""
 "EInfrastructure.Core.MemoryCache","2.3.2-beta-001",""
 "ENode.EventStore.MongoDb","0.1.0",""
 "ENode.EventStore.MongoDb","0.1.1",""

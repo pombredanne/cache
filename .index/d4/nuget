@@ -7025,6 +7025,7 @@
 "NServiceBus.RateLimiter","2.0.0",""
 "NServiceBus.RateLimiter","2.0.0-beta0001",""
 "NServiceBus.RateLimiter","2.1.0",""
+"NSocket","1.0.0",""
 "NT.Utl.AppLogger","1.0.0",""
 "NT.Xamarin.SQLiteModel","1.0.3",""
 "NUnit.ReSharperRunner3","3.0.11",""
