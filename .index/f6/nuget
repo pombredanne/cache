@@ -2381,6 +2381,7 @@
 "EMH.Lib.Patterns.HippoLog.Core","1.0.6",""
 "EMR_FNG_Collections","1.0.1",""
 "ETLBox.SqlServer","1.0.0",""
+"ETLBox.SqlServer","1.0.1",""
 "ETW.Core","4.1.5",""
 "ETW.Core","4.2.0",""
 "ETW.Core","4.3.0",""

@@ -2563,6 +2563,8 @@
 "EStart.Dapper","1.0.2",""
 "EStart.Dapper","2.0.0",""
 "ETLBox.Json","1.0.0",""
+"ETLBox.Json","1.0.1",""
+"ETLBox.Oracle","1.0.1",""
 "EaCloud.Hangfire","3.1.6",""
 "EaCloud.Hangfire","3.1.7",""
 "EasonTwTest.Logger.AppLogger","1.0.0",""

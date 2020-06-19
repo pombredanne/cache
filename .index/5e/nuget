@@ -1762,6 +1762,7 @@
 "ClaimsSetup","0.3.0-deployment.40",""
 "ClaimsSetup","0.3.0-deployment.5",""
 "ClaimsSetup","0.3.0-tenancy-update.6",""
+"ClaimsSetup","0.4.0",""
 "ClaimsSetup","0.4.0-fix-local-claims.15",""
 "ClaimsSetup","0.4.0-fix-local-claims.7",""
 "Clearent.Sdk","0.1.0",""
