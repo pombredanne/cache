@@ -1135,6 +1135,7 @@
 "Azure.Storage.Blobs","12.4.3",""
 "Azure.Storage.Blobs","12.4.4",""
 "Azure.Storage.Blobs","12.5.0-preview.1",""
+"Azure.Storage.Blobs","12.5.0-preview.4",""
 "AzureSignalR.AuthHelpers","0.1.0-CI-20190124-235409",""
 "AzureSignalR.AuthHelpers","0.1.0-CI-20190125-150417",""
 "AzureSignalR.AuthHelpers","0.1.0-CI-20190125-150825",""

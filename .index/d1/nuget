@@ -5665,6 +5665,7 @@
 "Microsoft.Windows.EventTracing.HyperV","0.4.10",""
 "Microsoft.Windows.EventTracing.HyperV","1.0.0",""
 "Microsoft.Windows.EventTracing.HyperV","1.1.0",""
+"Microsoft.Windows.EventTracing.HyperV","1.1.1",""
 "MicrosoftCPE.Dynamics.BotFramework","1.0.0-preview",""
 "MicrosoftCPE.Dynamics.BotFramework","1.0.1-preview",""
 "Microting.EformMonitoringBase","1.0.3",""
