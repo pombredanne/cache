@@ -7119,6 +7119,7 @@
 "Microsoft.Azure.Kusto.Language.NETStandard","6.2.1-preview",""
 "Microsoft.Azure.Kusto.Language.NETStandard","6.2.2",""
 "Microsoft.Cpp.BuildInsights","1.0.0",""
+"Microsoft.Cpp.BuildInsights","1.1.0",""
 "Microsoft.Crm.Sdk.Proxy.2015.OnPremise","7.0.2.53",""
 "Microsoft.Crm.Sdk.Proxy.2015.OnPremise","7.0.2.53-rc",""
 "Microsoft.Data.Services","5.0.0.50403",""
