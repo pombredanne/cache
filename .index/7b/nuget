@@ -4643,6 +4643,7 @@
 "Insight.Database.Providers.MySql","5.2.8-beta1",""
 "Insight.Database.Providers.MySql","5.2.9",""
 "Insight.TelegramBot","0.0.1",""
+"Insight.TelegramBot","0.0.2",""
 "Installed","0.2.0",""
 "Installed","0.3.0",""
 "IntelligentPlant.AppStoreConnect.Adapter.AspNetCore.SignalR","0.1.0-alpha",""
