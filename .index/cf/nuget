@@ -428,6 +428,7 @@
 "Api.Ai.Csharp.BotFramework","1.0.0.7",""
 "Api.Ai.Csharp.BotFramework","1.0.0.8",""
 "Api.Bases","1.2017.912.1432",""
+"App.Metrics.Extensions.NServiceBus","4.1.0",""
 "App.Metrics.Extensions.NServiceBus","4.1.0-preview.0.22",""
 "App.Metrics.Extensions.NServiceBus","4.1.0-preview.0.23",""
 "App.Metrics.Extensions.NServiceBus","4.1.0-preview.0.32",""
