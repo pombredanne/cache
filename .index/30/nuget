@@ -1048,6 +1048,7 @@
 "Boot.WebApi.Owin.Ninject","1.0.0",""
 "Boot.WebApi.Owin.Ninject","1.0.1",""
 "Boot.WebApi.Owin.Ninject","1.0.2",""
+"BootApp.ApplicationLayer.EntityFrameworkCore","1.0.0-beta",""
 "BootstrapBlazor","3.1.0",""
 "BootstrapBlazor","3.1.0-beta01",""
 "BootstrapBlazor","3.1.0-beta02",""
