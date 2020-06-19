@@ -7793,6 +7793,7 @@
 "OpenTelemetry.Exporter.NewRelic","1.0.0-beta",""
 "OpenTelemetry.Exporter.NewRelic","1.0.0-beta.117",""
 "OpenTelemetry.Exporter.NewRelic","1.0.0-beta.134",""
+"OpenTelemetry.Exporter.NewRelic","1.0.0-beta.157",""
 "OpenVsixSignTool","0.3.2",""
 "Oqtane.Framework","1.0.0",""
 "Oragon.Architecture.Aop.Data.FluentNHibernate","7.0.1-GA",""
