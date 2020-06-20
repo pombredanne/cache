@@ -1281,6 +1281,8 @@
 "Azure.DocumentDB.Slazure","1.4.0",""
 "Azure.DocumentDB.Slazure","1.4.1",""
 "Azure.DocumentDB.Slazure","1.4.2",""
+"AzureDevOpsDataCollector.Core","1.0.0",""
+"AzureDevOpsDataCollector.Core","1.1.0",""
 "BGGConnector_Nick_Rau","1.0.0",""
 "BLL.Base","1.0.3",""
 "Bacs.Protocols.ProblemSingle","0.1.0",""
