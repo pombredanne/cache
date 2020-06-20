@@ -3051,6 +3051,7 @@
 "E2E.SemVer2StableMetadataUnlisted.191219.213144.1497420","1.0.0+metadata",""
 "E2E.SignedPackage.180502.195156.9275988","1.0.0",""
 "E2E.SymbolsPackage.190919.003615.9623128","1.0.0",""
+"E2E.SymbolsPackage.200620.212223.2563221","1.0.0",""
 "EC.NugetTestLib.dll","1.0.0",""
 "EC.NugetTestLib.dll","1.0.1",""
 "EC.NugetTestLib.dll","1.0.2",""
