@@ -8445,6 +8445,7 @@
 "dn32.infra.EntityFramework.SqlServer","0.0.0.6",""
 "dn32.infra.EntityFramework.SqlServer","0.0.0.7",""
 "dn32.infra.EntityFramework.SqlServer","0.0.0.8",""
+"dn32.infra.EntityFramework.SqlServer","0.0.0.9",""
 "dotnet-schema","1.0.0",""
 "eCharge.Services.TokenManagement.Common","1.0.0",""
 "eCharge.Services.TokenManagement.Common","1.0.1",""
