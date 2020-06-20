@@ -10841,6 +10841,8 @@
 "@nvxme/monit-client","2.0.2","ISC"
 "@nvxme/monit-client","2.0.3","ISC"
 "@nvxme/monit-client","2.1.0","ISC"
+"@nwplay/core","0.0.0-alpha.1",""
+"@nwplay/core","0.0.1-alpha.1",""
 "@nzykov/vue-ctk-date-time-picker","2.4.2","MIT"
 "@nzykov/vue-ctk-date-time-picker","2.4.3","MIT"
 "@nzykov/vue-ctk-date-time-picker","2.4.4","MIT"

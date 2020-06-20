@@ -21021,6 +21021,7 @@
 "bedrock-kms-http","1.2.1",""
 "bedrock-kms-http","2.0.0",""
 "bedrock-kms-http","2.1.0",""
+"bedrock-kms-http","2.2.0",""
 "bedrock-ledger-consensus-continuity-es-most-recent-participants-with-recovery","1.0.0",""
 "bedrock-ledger-consensus-continuity-es-most-recent-participants-with-recovery","1.0.1","SEE LICENSE IN LICENSE.md"
 "bedrock-stats-monitor-os","1.0.0",""

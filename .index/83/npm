@@ -6133,6 +6133,8 @@
 "@gr2m/semantic-release-test-1368","3.0.0-beta.2","MIT"
 "@gr2m/semantic-release-test-1368","3.0.0-beta.3","MIT"
 "@gr2m/semantic-release-test-1368","3.0.1","MIT"
+"@grantzzp/npmtest","1.0.0",""
+"@grantzzp/npmtest","2.0.0",""
 "@graphql-mesh/typescript-swagger","0.0.1","MIT"
 "@graphql-mesh/typescript-swagger","0.0.10","MIT"
 "@graphql-mesh/typescript-swagger","0.0.11","MIT"

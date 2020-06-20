@@ -5239,6 +5239,7 @@
 "@etherisc/gifcli","1.1.8-independant",""
 "@etherisc/gifcli","1.1.9-independant",""
 "@ethronlabs/util","0.15.0",""
+"@ethronlabs/util","0.15.3",""
 "@ewancoder/angular-reactive","0.3.0-alpha.1","MIT"
 "@ewancoder/angular-reactive","0.4.0-alpha.1","MIT"
 "@ewancoder/angular-reactive","0.5.0","MIT"
