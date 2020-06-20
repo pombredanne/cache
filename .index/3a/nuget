@@ -1722,6 +1722,7 @@
 "Code.Library","2.7.0",""
 "Code.Library","2.8.0",""
 "Code.Library","2.8.1",""
+"Code.Library","2.9.0",""
 "CodeCore.OData.Server","1.0.0",""
 "CodeCube.DataAccess.EntityFrameworkCore.Sql","1.0.0-alpha",""
 "CodeCube.DataAccess.EntityFrameworkCore.Sql","1.0.200171-preview1",""
