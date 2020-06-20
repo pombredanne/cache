@@ -838,6 +838,7 @@
 "Atlantis.Grpc","1.0.1",""
 "Atlantis.Net.GameServer","4.2.1-alpha",""
 "Atlas.Serilog.Sinks.Fluentd","1.0.0",""
+"Atomiv.DependencyInjection.Infrastructure.System","1.0.33",""
 "Atrico.Lib.RegEx","1.0.0",""
 "Atrico.Lib.RegEx","1.0.2",""
 "Atrico.Lib.RegEx","1.1.0",""

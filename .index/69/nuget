@@ -1054,6 +1054,8 @@
 "Atalasoft.dotImage.Office.x64","11.2.0.224",""
 "Atalasoft.dotImage.Office.x64","11.2.0.2303",""
 "Atalasoft.dotImage.Office.x64","11.2.0.3341",""
+"Atomiv.Infrastructure.CsvHelper","1.0.33",""
+"Atomiv.Test.FluentAssertions","1.0.33",""
 "Auth0.Windows.UWP","1.0.0",""
 "Auth0.Windows.UWP","1.0.0-beta1",""
 "Auth0.Windows.UWP","1.0.1",""

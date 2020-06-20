@@ -1143,6 +1143,7 @@
 "AtomicMVVM","3.0.0",""
 "AtomicMVVM","4.0.0",""
 "AtomicMVVM","5.0.0",""
+"Atomiv.Infrastructure.EntityFrameworkCore","1.0.33",""
 "Attributes","0.2.0",""
 "AzureTraceListeners","0.2.3",""
 "AzureTraceListeners","0.2.4",""

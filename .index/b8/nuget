@@ -1314,6 +1314,7 @@
 "Atoms.js","1.8.261",""
 "Aurionpro.PaymentFramework.Core2.1.API","2.1.0",""
 "Authorize.CodeCop","1.0.0",""
+"Autofac.Extensions.Registration.OpenGenericTypes","1.0.0",""
 "Autofac.Extras.Alternatives","1.0.0",""
 "Autofac.ModularInjection.DependencyInjection","1.0.0",""
 "Autofac.ModularInjection.DependencyInjection","1.0.1",""
