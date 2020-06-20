@@ -1411,6 +1411,7 @@
 "Amazon.CDK.AWS.SES.Actions","1.43.0",""
 "Amazon.CDK.AWS.SES.Actions","1.44.0",""
 "Amazon.CDK.AWS.SES.Actions","1.45.0",""
+"Amazon.CDK.AWS.SES.Actions","1.46.0",""
 "Amazon.CDK.AWS.SES.Actions","1.9.0-devpreview",""
 "Amazon.CDK.AWS.Serverless","0.10.0",""
 "Amazon.CDK.AWS.Serverless","0.11.0",""

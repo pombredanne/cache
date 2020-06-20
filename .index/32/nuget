@@ -584,6 +584,7 @@
 "Amazon.CDK.AWS.CodeGuruProfiler","1.43.0",""
 "Amazon.CDK.AWS.CodeGuruProfiler","1.44.0",""
 "Amazon.CDK.AWS.CodeGuruProfiler","1.45.0",""
+"Amazon.CDK.AWS.CodeGuruProfiler","1.46.0",""
 "Amberfly.Services.ServiceVersioningMiddleware","1.0.0",""
 "AnalyticsBrick","0.0.2.2",""
 "AnalyticsBrick","0.0.2.3",""
