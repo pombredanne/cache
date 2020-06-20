@@ -2610,6 +2610,7 @@
 "Dapplo.HttpExtensions.OAuth","0.9.6",""
 "Dapplo.HttpExtensions.OAuth","0.9.9",""
 "Dapplo.HttpExtensions.OAuth","1.0.3",""
+"Dapr.AzureFunctions.Extension","0.8.0-preview01",""
 "Dasync.Serialization.Json","0.1.0",""
 "Dasync.Serialization.Json","0.2.0",""
 "Dasync.Serialization.Json","0.2.1",""
