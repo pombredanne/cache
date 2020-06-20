@@ -6687,6 +6687,7 @@
 "SecretCollect.Localization.SqlLocalizer","2.0.0-rc2",""
 "SecretCollect.Localization.SqlLocalizer","2.0.0-rc3",""
 "SecretCollect.Localization.SqlLocalizer","2.0.0-rc4",""
+"SecretNest.SequentialScheduler","1.0.0",""
 "SemanticUISnippets","1.0.0",""
 "SepidSystem","1.0.0",""
 "Serilog.Extensions.WebJobs","0.2.0",""
