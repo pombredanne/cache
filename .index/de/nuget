@@ -12742,6 +12742,7 @@
 "dotnet-etcd","3.1.1",""
 "dotnet-etcd","3.2.0",""
 "dotnet-etcd","4.0.0-beta",""
+"dotnet-etcd","4.1.0",""
 "dotnet-etcd","4.1.0-beta",""
 "dotnetliberty.DependencyInjection","1.0.0",""
 "duinocom.core","1.0.0",""
