@@ -1147,6 +1147,7 @@
 "Atlas.NameGen.Client","1.1.0",""
 "Atlas.NameGen.Client","2.0.0",""
 "Atlas.NameGen.Client","2.0.1",""
+"Atomiv.DependencyInjection.Infrastructure.NewtonsoftJson","1.0.33",""
 "AudioStreamTextInspector","1.0.0",""
 "AudioStreamTextInspector","1.0.5",""
 "Aurora.VM","1.0.0",""

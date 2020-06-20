@@ -526,6 +526,7 @@
 "AtomicClock","0.0.65-master",""
 "AtomicClock","0.0.75-master",""
 "AtomicClock","1.0.0",""
+"Atomiv.Core.Domain","1.0.33",""
 "Aurochses.AspNetCore.Identity.SendGrid","1.2.1",""
 "Aurochses.AspNetCore.Identity.SendGrid","2.0.0",""
 "Aurochses.AspNetCore.Identity.SendGrid","2.2.0",""

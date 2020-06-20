@@ -439,6 +439,8 @@
 "AspectCore.APM.LineProtocolCollector","0.1.3",""
 "AspectCore.APM.LineProtocolCollector","0.1.4",""
 "Aspose.Cells.Temp1","7.1.0",""
+"Atomiv.DependencyInjection.Core.Application","1.0.33",""
+"Atomiv.Infrastructure.EPPlus","1.0.33",""
 "Audit.EntityFramework","10.0.0",""
 "Audit.EntityFramework","10.0.1",""
 "Audit.EntityFramework","10.0.2",""
