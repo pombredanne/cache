@@ -1754,6 +1754,7 @@
 "Boot4ServiceCollection.Attributes","1.0.6",""
 "Boot4ServiceCollection.Attributes","1.0.7",""
 "Boot4ServiceCollection.Attributes","1.1.0",""
+"BootApp.Core","1.0.0-beta",""
 "Borlay.Repositories.Services.RocksDb","1.0.0",""
 "Borlay.Repositories.Services.RocksDb","1.0.1",""
 "Borlay.Repositories.Services.RocksDb","1.0.2",""
