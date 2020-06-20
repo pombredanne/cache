@@ -2941,6 +2941,7 @@
 "EnjoyCQRS.EventStore.SQLite","1.0.0",""
 "EnjoyCQRS.EventStore.SQLite","2.0.0",""
 "Epacca.LogWatcherService","1.0.0",""
+"Ergo.Result","0.2.0",""
 "ErrorSense","1.0.2",""
 "Essential.Diagnostics","1.0.1011",""
 "Essential.Diagnostics","1.1.10711",""

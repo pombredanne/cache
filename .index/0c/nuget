@@ -7666,6 +7666,7 @@
 "RabbitMQ.EventBus.AspNetCore","2.1.1",""
 "RabbitMQ.EventBus.AspNetCore","2.1.2",""
 "RabbitMQ.EventBus.AspNetCore","2.1.3",""
+"RabbitMQ.EventBus.AspNetCore","3.1.14",""
 "RabbitMQTopic","1.0.0",""
 "RabbitMQTopic","1.0.1",""
 "RabbitMQTopic","1.1.0",""
