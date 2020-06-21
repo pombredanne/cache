@@ -7581,6 +7581,8 @@
 "NetModular.Lib.Data.PostgreSQL","1.9.7",""
 "NetModular.Lib.Data.PostgreSQL","1.9.8",""
 "NetModular.Lib.Data.PostgreSQL","1.9.9",""
+"NetModular.Lib.Data.PostgreSQL","2.0.0-dev-001",""
+"NetModular.Lib.Data.PostgreSQL","2.0.0-dev-002",""
 "NetXP.NetStandard.Network.Services.Implementations","1.16.0",""
 "Netextensions.Core","1.0.0",""
 "Netextensions.Core","1.0.0.1",""

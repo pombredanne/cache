@@ -5097,6 +5097,8 @@
 "NetModular.Lib.Data.SQLite","1.9.7",""
 "NetModular.Lib.Data.SQLite","1.9.8",""
 "NetModular.Lib.Data.SQLite","1.9.9",""
+"NetModular.Lib.Data.SQLite","2.0.0-dev-001",""
+"NetModular.Lib.Data.SQLite","2.0.0-dev-002",""
 "NetTopologySuite.IO.GeoJSON","1.13.2",""
 "NetTopologySuite.IO.GeoJSON","1.13.3",""
 "NetTopologySuite.IO.GeoJSON","1.13.3.1",""

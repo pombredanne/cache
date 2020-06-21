@@ -6502,6 +6502,8 @@
 "NetModular.Lib.Logging.Serilog.GenericHost","1.9.5",""
 "NetModular.Lib.Logging.Serilog.GenericHost","1.9.6",""
 "NetModular.Lib.Logging.Serilog.GenericHost","1.9.7",""
+"NetModular.Lib.Logging.Serilog.GenericHost","2.0.0-dev-001",""
+"NetModular.Lib.Logging.Serilog.GenericHost","2.0.0-dev-002",""
 "NetTConverter","1.0.0",""
 "Never.Memcached","1.0.1",""
 "Never.Memcached","1.0.2",""
