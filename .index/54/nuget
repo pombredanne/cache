@@ -2612,6 +2612,7 @@
 "EFCore.Sharding.SqlServer","3.1.4",""
 "EFCore.Sharding.SqlServer","3.1.4.21",""
 "EFCore.Sharding.SqlServer","3.1.4.22",""
+"EFCore.Sharding.SqlServer","3.1.4.23",""
 "EPasaule.Rib.Common.DocsVision","1.0.0",""
 "EPasaule.Rib.Common.DocsVision","1.1.0-CI-20180227-071913",""
 "EPasaule.Rib.Common.DocsVision","1.1.0-CI-20180227-084135",""
