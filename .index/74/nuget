@@ -2253,6 +2253,7 @@
 "DirectSQL","3.0.0",""
 "DirectSQL","3.0.1",""
 "DirectSQL","3.1.0",""
+"Discord.Net.Bot","2.1.1",""
 "Divergic.Logging.Sentry.Autofac","0.1.0-ci0001",""
 "Divergic.Logging.Sentry.Autofac","0.1.0-pullrequest0002-0006",""
 "Divergic.Logging.Sentry.Autofac","0.1.0-pullrequest0002-0009",""

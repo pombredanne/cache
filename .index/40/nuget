@@ -5401,6 +5401,7 @@
 "Obvs.Serialization.ProtoBuf","5.0.0.24",""
 "Obvs.Serialization.ProtoBuf","5.0.1.25",""
 "Obvs.Serialization.ProtoBuf","5.0.1.32",""
+"OctreeUnity","1.0.0",""
 "Oedis","0.2.0",""
 "OkHttpClient","2.7.5",""
 "OniAnalyzers","1.0.0",""
