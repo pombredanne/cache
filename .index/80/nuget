@@ -861,6 +861,7 @@
 "AnyService.LiteDb","1.0.5-Preview",""
 "AnyService.LiteDb","1.0.6-Preview",""
 "AnyService.LiteDb","1.0.7-Preview",""
+"AnyService.LiteDb","1.0.8-Preview",""
 "AopCaching.Redis.DependencyInjection","0.1.0",""
 "AopCaching.Redis.DependencyInjection","0.1.1",""
 "AopCaching.Redis.DependencyInjection","0.1.2",""
