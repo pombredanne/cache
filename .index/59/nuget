@@ -2779,6 +2779,7 @@
 "Daenet.DurableTask.Microservices","1.0.0",""
 "Dapper.Oracle.NetCore","1.0.0",""
 "Dapper.Oracle.NetCore","1.0.1",""
+"DapperExtensions.Oracle.Core","1.0.2",""
 "DapperPlus.Net","1.0.0",""
 "Dasync.Core","0.0.0",""
 "DataAPI","1.0.0",""
