@@ -7703,6 +7703,7 @@
 "OrchardCore.Admin","1.0.0-rc1-10004",""
 "OrchardCore.Admin","1.0.0-rc2-13450",""
 "OrchardCore.ImageSharp","1.0.0-ci0161",""
+"Orleans.Persistence.Morstead.Etcd","0.0.1-alpha",""
 "Our.Umbraco.uSync.MemberEdition","1.0.0",""
 "Our.Umbraco.uSync.MemberEdition","1.0.1",""
 "Our.Umbraco.uSync.MemberEdition","1.0.2",""
