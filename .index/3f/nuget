@@ -8127,6 +8127,7 @@
 "ServiceModel.Grpc.ProtoBufMarshaller","1.0.0-pre2",""
 "ServiceModel.Grpc.ProtoBufMarshaller","1.0.1",""
 "ServiceModel.Grpc.ProtoBufMarshaller","1.1.0",""
+"ServiceModel.Grpc.ProtoBufMarshaller","1.1.1",""
 "ServiceProxy.Redis.DotNet","1.0.0",""
 "ServiceProxy.Redis.DotNet","1.0.2",""
 "ServiceProxy.Redis.DotNet","1.0.3",""
