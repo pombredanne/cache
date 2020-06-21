@@ -5916,6 +5916,8 @@
 "NugetAppTest","1.0.0",""
 "NugetTest.HelloWorld","1.0.0",""
 "NupkgVersionExtractor","1.0.0",""
+"NupkgVersionExtractor","1.0.0.1",""
+"NupkgVersionExtractor","1.0.0.2",""
 "Nyusti.MassTransitEncryption.AzureKeyVault","1.0.0",""
 "O2S.Components.PDFRender4NET.Win","6.0.0",""
 "O2S.Components.PDFRender4NET.Win","6.0.1",""

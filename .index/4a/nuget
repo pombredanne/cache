@@ -11462,6 +11462,8 @@
 "runtime.win10-arm64-aot.Microsoft.NETCore.UniversalWindowsPlatform","6.2.9",""
 "runtime.win10-x64-aot.runtime.native.System.IO.Compression","0.0.1-alpha",""
 "runtime.win10-x64-aot.runtime.native.System.IO.Compression","4.0.1",""
+"sOlOnXPL.FawryAPI","1.0.10",""
+"sOlOnXPL.FawryAPI","1.0.11",""
 "sOlOnXPL.FawryAPI","1.0.8",""
 "sOlOnXPL.FawryAPI","1.0.9",""
 "sahara.dll","1.0.0",""
