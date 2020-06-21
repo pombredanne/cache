@@ -6264,6 +6264,7 @@
 "NServiceBus.Attachments.FileShare","4.1.3",""
 "NServiceBus.Attachments.FileShare","5.0.0",""
 "NServiceBus.Attachments.FileShare","5.0.0-beta.1",""
+"NServiceBus.Attachments.FileShare","5.1.0",""
 "NServiceBus.ProtoBufGoogle","1.0.0",""
 "NServiceBus.ProtoBufGoogle","1.0.0-beta0001",""
 "NServiceBus.ProtoBufGoogle","1.1.0-beta001",""
