@@ -7936,6 +7936,7 @@
 "ServiceStackPlugins.UsersActivityStats","1.0.0.4",""
 "ServiceStackPlugins.UsersActivityStats","1.0.0.8",""
 "ServiceUtils","1.1.1+d42d059",""
+"ServiceUtils","1.2.0+64c637c",""
 "SharePoint.WorkManagement.Client","15.0.0",""
 "SharpBatch.Serialization.Json","1.0.0",""
 "SharpCache.Standard","1.0.0",""
