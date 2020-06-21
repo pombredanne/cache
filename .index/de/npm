@@ -34254,6 +34254,8 @@
 "ks-common-ui","1.0.2","MIT"
 "ks-common-ui","1.0.3","MIT"
 "ks-common-ui","1.0.4","MIT"
+"ks-platform-service","1.0.0",""
+"ks-platform-service","2.0.0",""
 "kstore","0.0.1","ISC"
 "kuromoji","0.0.2","Apache-2.0"
 "kuromoji","0.0.3","Apache-2.0"

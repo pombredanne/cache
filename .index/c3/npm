@@ -3460,6 +3460,7 @@
 "@crpt/react-operation","0.0.7","MIT"
 "@crpt/react-operation","0.0.8","MIT"
 "@crudifyjs/eslint-config-base","0.0.1",""
+"@crudifyjs/eslint-config-base","0.0.2",""
 "@crudle/ui","0.0.0","MIT"
 "@crudle/ui","0.0.10","MIT"
 "@crudle/ui","0.0.12","MIT"
