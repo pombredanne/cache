@@ -7622,6 +7622,7 @@
 "ServiceModel.Grpc.SelfHost","1.0.0-pre2",""
 "ServiceModel.Grpc.SelfHost","1.0.1",""
 "ServiceModel.Grpc.SelfHost","1.1.0",""
+"ServiceModel.Grpc.SelfHost","1.1.1",""
 "ServiceStack.Caching.AwsDynamoDb","3.9.35",""
 "ServiceStack.Caching.AwsDynamoDb","3.9.40",""
 "ServiceStack.Caching.AwsDynamoDb","3.9.44",""

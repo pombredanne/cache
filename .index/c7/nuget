@@ -7344,6 +7344,7 @@
 "ServiceModel.Grpc.AspNetCore","1.0.0-pre2",""
 "ServiceModel.Grpc.AspNetCore","1.0.1",""
 "ServiceModel.Grpc.AspNetCore","1.1.0",""
+"ServiceModel.Grpc.AspNetCore","1.1.1",""
 "ServiceRegistry.Client","1.0.0",""
 "ServiceRegistry.Client","1.0.1",""
 "ServiceRegistry.Client","1.0.3",""
