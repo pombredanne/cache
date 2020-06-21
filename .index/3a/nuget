@@ -5736,6 +5736,8 @@
 "NetModular.Lib.Cache.MemoryCache","1.9.7",""
 "NetModular.Lib.Cache.MemoryCache","1.9.8",""
 "NetModular.Lib.Cache.MemoryCache","1.9.9",""
+"NetModular.Lib.Cache.MemoryCache","2.0.0-dev-001",""
+"NetModular.Lib.Cache.MemoryCache","2.0.0-dev-002",""
 "NetToolBox.HealthChecks.ServiceBus","0.1.1",""
 "NetToolBox.HealthChecks.ServiceBus","0.1.11",""
 "NetToolBox.HealthChecks.ServiceBus","0.1.12",""

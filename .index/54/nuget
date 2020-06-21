@@ -7983,6 +7983,8 @@
 "NetModular.Lib.Module.AspNetCore","1.9.6",""
 "NetModular.Lib.Module.AspNetCore","1.9.7",""
 "NetModular.Lib.Module.AspNetCore","1.9.8",""
+"NetModular.Lib.Module.AspNetCore","2.0.0-dev-001",""
+"NetModular.Lib.Module.AspNetCore","2.0.0-dev-002",""
 "Neut0n.Core.Module.Contracts","0.0.1",""
 "Neut0n.Core.Module.Contracts","0.0.2",""
 "NewPlatform.Flexberry.ServiceBus.RabbitMQ","1.2.0",""
