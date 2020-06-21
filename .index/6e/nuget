@@ -5470,6 +5470,7 @@
 "NetVips.Native.win-x86","8.9.1",""
 "NetVips.Native.win-x86","8.9.2",""
 "NetVips.Native.win-x86","8.9.2-build2",""
+"NetVips.Native.win-x86","8.9.2-build3",""
 "Netcos.Runtime","1.0.0-dev",""
 "Netcos.Runtime","3.0.0-dev",""
 "Netiny.AspNetCore.WebApi","1.0.0",""

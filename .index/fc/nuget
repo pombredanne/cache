@@ -9312,6 +9312,7 @@
 "NetVips.Native.linux-musl-x64","8.9.1",""
 "NetVips.Native.linux-musl-x64","8.9.2",""
 "NetVips.Native.linux-musl-x64","8.9.2-build2",""
+"NetVips.Native.linux-musl-x64","8.9.2-build3",""
 "Netifi.Broker.Frames","0.1.0",""
 "Netifi.Broker.Frames","0.1.1",""
 "Netifi.Broker.Frames","0.2.0",""
