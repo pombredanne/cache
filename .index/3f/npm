@@ -2340,6 +2340,8 @@
 "@boffins/nats","0.5.6","none"
 "@boffins/nats","0.5.7","none"
 "@boffins/nats","0.5.8","none"
+"@bond-js/react","0.0.1",""
+"@bond-js/react","0.0.2",""
 "@bossmodecg/module-example","0.0.10","MIT"
 "@bossmodecg/module-example","0.0.20","MIT"
 "@bossmodecg/module-example","0.1.0","MIT"

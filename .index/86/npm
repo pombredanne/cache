@@ -39787,6 +39787,7 @@
 "request-loop","1.0.3","ISC"
 "request-loop","1.0.6","ISC"
 "request-loop","1.0.8","ISC"
+"require-default-codemod","0.0.0",""
 "requirejs-define","0.0.0","MIT"
 "requirejs-define","0.1.0","MIT"
 "requirejs-define","0.1.1","MIT"

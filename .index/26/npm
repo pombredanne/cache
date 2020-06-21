@@ -2552,6 +2552,7 @@
 "@bpui/checkbox","0.1.9","MIT"
 "@brandonkervin/lib","0.0.1",""
 "@brandonkervin/lib","0.0.2",""
+"@bravobit/icon-font-generator","1.0.0",""
 "@brightcove/player-loader-webpack-plugin","1.0.0","Apache-2.0"
 "@brightcove/player-loader-webpack-plugin","1.0.2","Apache-2.0"
 "@brightcove/player-loader-webpack-plugin","1.0.4","Apache-2.0"
