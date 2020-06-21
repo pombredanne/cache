@@ -5745,6 +5745,7 @@
 "PackagePush_Returns200IfMinClientVersionPolicyMet.636572687415358654","1.0.0",""
 "PackagePush_Returns200IfMinProtocolVersionPolicyMet.636645261063817770","1.0.0",""
 "Packt.CS7.SharedLibraryPerso","1.0.0",""
+"Packt.CS8.VDPC.SharedLibrary","1.0.0",""
 "Paddle.PaddleSDK","2.0.0",""
 "Paddle.PaddleSDK","2.0.1",""
 "Paddle.PaddleSDK","2.0.10",""

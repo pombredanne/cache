@@ -2087,6 +2087,7 @@
 "CaffeNuGet","1.0.0.6",""
 "CaffeNuGet","1.0.0.7",""
 "CaffeNuGet","1.0.0.8",""
+"Cake.Tasks.GitVersion","0.10.0",""
 "Cake.Tasks.GitVersion","0.4.0",""
 "Cake.Tasks.GitVersion","0.5.0",""
 "Cake.Tasks.GitVersion","0.6.0",""
