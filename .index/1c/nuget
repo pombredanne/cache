@@ -4939,6 +4939,7 @@
 "NHibernate.Vertica","1.0.5",""
 "NICE.LogStreamWriter","1.0.1",""
 "NLog.Extensions.AzureTableStorage.Partition","1.0.0",""
+"NLog.SlackTarget","1.0.0",""
 "NMeCab.Original","0.10.0-alpha",""
 "NMeCab.Original","0.10.0-alpha2",""
 "NMeCab.Original","0.10.0-alpha3",""
