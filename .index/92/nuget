@@ -1601,6 +1601,7 @@
 "Ark.Tools.ResourceWatcher.Sql","2.4.1",""
 "Ark.Tools.ResourceWatcher.Sql","2.5.0",""
 "Ark.Tools.ResourceWatcher.Sql","2.5.0-beta01",""
+"Ark.Tools.ResourceWatcher.Sql","2.6.0",""
 "AsmResolver.DotNet","4.0.0-alpha.1",""
 "AspNetCore.Identity.DocumentDB","0.0.1-alpha",""
 "AspNetCore.Identity.DocumentDB","0.0.2-alpha",""

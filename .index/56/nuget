@@ -1615,6 +1615,7 @@
 "Ark.Tools.ApplicationInsights.HostedService","2.4.0",""
 "Ark.Tools.ApplicationInsights.HostedService","2.5.0",""
 "Ark.Tools.ApplicationInsights.HostedService","2.5.0-beta01",""
+"Ark.Tools.ApplicationInsights.HostedService","2.6.0",""
 "Asianscreens","0.1.0",""
 "Asoft.AdvertApi.Models","1.0.0",""
 "AspNet.Metrics","1.0.0",""
