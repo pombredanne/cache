@@ -10730,6 +10730,7 @@
 "Vcpkg.Nuget","1.4.0",""
 "Vcpkg.Nuget","1.5.0",""
 "Vereniging-COIN.Sdk.NP","1.0.0",""
+"Vereniging-COIN.Sdk.NP","1.0.1",""
 "VerifyKeyReturns400IfScopeNotMet.636552796959929491","1.0.0",""
 "VerifyKeyReturns400IfScopeNotMet.636675506419231480","1.0.0",""
 "VerifyPackageKey_Returns404ForMissingPackage.636476638488668511","1.0.0",""
