@@ -9204,6 +9204,7 @@
 "Pulumi.Kafka","2.2.0-alpha.1590693442+gc6d202d",""
 "Pulumi.Kafka","2.2.0-alpha.1591722450+g509c4d6",""
 "Pulumi.Kafka","2.2.0-alpha.1591900710+861e1509",""
+"Pulumi.Kafka","2.2.1",""
 "PushoverQ.Json","1.0.0.24279-prerelease",""
 "PushoverQ.Json","2.0.0-prerelease",""
 "PushoverQ.Json","2.0.4-prerelease",""
