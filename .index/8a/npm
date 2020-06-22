@@ -5372,6 +5372,7 @@
 "@github/query-selector","1.0.2","MIT"
 "@github/query-selector","1.0.3","MIT"
 "@github/query-selector","1.0.4","MIT"
+"@gkp-overrides/mongodb","1.0.0",""
 "@glsp/sprotty-client","0.1.0","(EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0)"
 "@glsp/sprotty-client","0.1.1","(EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0)"
 "@glsp/sprotty-client","0.2.0-next.0185f7f2","(EPL-2.0 OR GPL-2.0 WITH Classpath-exception-2.0)"
