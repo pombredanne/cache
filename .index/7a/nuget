@@ -3302,6 +3302,7 @@
 "EGA.Owin.Security.EGAOpenID","1.0.2",""
 "EInfrastructure.Core.BaiDu.ContentIdentification","1.0.0",""
 "EInfrastructure.Core.Extension.Ioc","1.0.0",""
+"EPS.Extensions.SiteMapIndex","0.5.0",""
 "ESolutions.Diagnostics","1.0.0",""
 "Easify.Extensions","1.0.10",""
 "Easify.Extensions","1.0.13",""

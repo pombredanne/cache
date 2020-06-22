@@ -555,6 +555,7 @@
 "App.Metrics.Formatters.InfluxDB","4.1.0-preview.0.32",""
 "App.Metrics.Formatters.InfluxDB","4.1.0-preview.0.33",""
 "App.Metrics.Formatters.InfluxDB","4.1.0-preview2.0.3",""
+"App.Metrics.Formatters.InfluxDB","4.2.0-preview.0.7",""
 "AppTest.Tests","1.0.0",""
 "Appcom.Wkhtmltopdf.x86","1.0.5",""
 "Appcom.Wkhtmltopdf.x86","1.0.6",""

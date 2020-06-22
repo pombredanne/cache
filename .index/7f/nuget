@@ -652,6 +652,7 @@
 "App.Metrics.AspNetCore.Routing","4.1.0-preview.0.32",""
 "App.Metrics.AspNetCore.Routing","4.1.0-preview.0.33",""
 "App.Metrics.AspNetCore.Routing","4.1.0-preview2.0.3",""
+"App.Metrics.AspNetCore.Routing","4.2.0-preview.0.7",""
 "AppInsights.Http","0.0.1",""
 "AppInsights.Http","0.0.2",""
 "AppInsights.Http","0.0.2-ci-20190709.2",""

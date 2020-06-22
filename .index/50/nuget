@@ -1274,6 +1274,7 @@
 "App.Metrics.GrafanaCloudHostedMetrics","4.1.0-preview.0.32",""
 "App.Metrics.GrafanaCloudHostedMetrics","4.1.0-preview.0.33",""
 "App.Metrics.GrafanaCloudHostedMetrics","4.1.0-preview2.0.3",""
+"App.Metrics.GrafanaCloudHostedMetrics","4.2.0-preview.0.7",""
 "App.Scheduler","1.0.0",""
 "App.Scheduler","1.0.1",""
 "App.Scheduler","1.1.0",""
