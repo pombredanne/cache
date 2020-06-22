@@ -4761,6 +4761,7 @@
 "NServiceBus.SqlServer.Deduplication","7.3.1",""
 "NServiceBus.SqlServer.Deduplication","7.4.0",""
 "NServiceBus.SqlServer.Deduplication","7.5.0",""
+"NServiceBus.SqlServer.Deduplication","7.6.0",""
 "NSwag.CodeGeneration.ActionFramework","1.0.0",""
 "NUnit.DeepObjectCompare","0.1.0",""
 "NUnit.DeepObjectCompare","1.0.0",""
