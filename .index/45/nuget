@@ -7529,6 +7529,7 @@
 "Serilog.Process.Logging","2.0.6",""
 "SettingsReader","1.0.0",""
 "SettingsReader","1.0.1",""
+"ShadyNagy.Utilities.Api","1.0.0",""
 "SharedControls","2.8.0.192",""
 "SharedControls","2.8.2.194",""
 "ShieldoxServiceBusImpl","1.0.0",""
