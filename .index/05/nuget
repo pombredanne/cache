@@ -5372,6 +5372,7 @@
 "NTT.CIS.Compute.Api.Client","3.10.57-alpha",""
 "NTT.CIS.Compute.Api.Client","3.10.58",""
 "NTT.CIS.Compute.Api.Client","3.10.58-dev",""
+"NTT.CIS.Compute.Api.Client","3.10.59",""
 "NaiveBayes.Classification","1.0.0",""
 "Nakabuki.Core.dll","1.1.9",""
 "NamesGenerator.core","1.0.0",""
