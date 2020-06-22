@@ -8264,6 +8264,8 @@
 "SimpleEventStore.Subscriptions.MsSql","0.160.0",""
 "SimpleEventStore.Subscriptions.MsSql","0.161.0",""
 "SimpleEventStore.Subscriptions.MsSql","0.162.0",""
+"SimpleEventStore.Subscriptions.MsSql","0.163.0",""
+"SimpleEventStore.Subscriptions.MsSql","0.164.0",""
 "SimpleSyslog.Portable","1.0.19",""
 "SimpleSyslog.Portable","1.0.24",""
 "SinaptIQPKCS7.dll","1.0.0",""
