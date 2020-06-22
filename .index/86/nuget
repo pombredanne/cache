@@ -910,6 +910,7 @@
 "AspCore.Extension","1.1.4",""
 "AspCore.Extension","1.1.5",""
 "AspNet.Security.OAuth.AmoCrm","0.0.1",""
+"AspNet.Security.OAuth.AmoCrm","0.0.2",""
 "AspNetCore.Infrastructure.Repositories.EntityFrameworkCore.MySql","1.0.0",""
 "AspNetCore.Infrastructure.Repositories.EntityFrameworkCore.MySql","1.0.1",""
 "AspNetCore.Infrastructure.Repositories.EntityFrameworkCore.MySql","1.0.2",""
