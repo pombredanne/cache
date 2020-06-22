@@ -6830,6 +6830,7 @@
 "Microsoft.Rest.ClientRuntime.Azure.Authentication","2.3.7",""
 "Microsoft.Rest.ClientRuntime.Azure.Authentication","2.3.8",""
 "Microsoft.Rest.ClientRuntime.Azure.Authentication","2.4.0",""
+"Microsoft.Rest.ClientRuntime.Azure.Authentication","2.4.1",""
 "Microsoft.Rest.ClientRuntime.Azure.Authentication","3.0.1-preview",""
 "Microsoft.Rest.ClientRuntime.Azure.Authentication","3.0.2-preview",""
 "Microsoft.Rest.ClientRuntime.Azure.Authentication","3.0.3-preview",""
