@@ -8414,6 +8414,8 @@
 "Pulumi.Rke","1.0.0",""
 "Pulumi.Rke","1.0.1",""
 "Pulumi.Rke","1.1.0-alpha.1587669586+g1d4f3cf",""
+"Pulumi.Rke","2.1.0-alpha.1592779936+ddaff12e",""
+"Pulumi.Rke","2.1.0-alpha.1592785977+74a01c2c",""
 "PureServices.Client.Orleans.Grains.Abstractions","1.0.10-prerelease",""
 "PureServices.Client.Orleans.Grains.Abstractions","1.0.11-prerelease",""
 "PureServices.Client.Orleans.Grains.Abstractions","1.0.12-prerelease",""

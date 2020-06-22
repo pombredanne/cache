@@ -1784,6 +1784,7 @@
 "Blazor-Auth0-ClientSide","2.0.0-Preview3",""
 "Blazor-Auth0-ClientSide","2.0.0-Preview4",""
 "Blazor-Auth0-ClientSide","2.0.0-Preview5",""
+"BlazorWindowHelper","1.0.0",""
 "Blazored.SessionStorage","1.0.0",""
 "Blazored.SessionStorage","1.0.1",""
 "Blazored.SessionStorage","1.0.10",""
