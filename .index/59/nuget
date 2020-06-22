@@ -38,6 +38,7 @@
 "AO.ModelSync.Library","2.1.0",""
 "AO.ModelSync.Library","2.1.1",""
 "AO.ModelSync.Library","2.1.2",""
+"ARA.Common.Infrastructure.Logging.ARALogger","1.0.0",""
 "AS.PerformanceProfiler.CorePackage","1.0.0",""
 "ASP.NET_MVC_4_Boilerplate","1.0.0",""
 "ATZ.DependencyInjection.System.Windows","2.2.0.73",""
