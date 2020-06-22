@@ -614,6 +614,7 @@
 "AzStudioTwilio","19.3.1.48",""
 "AzStudioTwilio","19.3.1.54",""
 "AzStudioTwilio","19.3.1.55",""
+"Azure.ResourceManager.AppConfiguration","1.0.0-preview.1",""
 "BBS.Libraries.Logging.AppInsights","1.0.55",""
 "BBS.Libraries.Logging.AppInsights","1.0.59",""
 "BBS.Libraries.Logging.AppInsights","1.0.62",""
