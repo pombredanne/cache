@@ -6513,6 +6513,7 @@
 "Localiza.BuildingBlocks.Logs","0.0.1",""
 "Localiza.BuildingBlocks.Logs","0.0.2-alpha",""
 "Localiza.BuildingBlocks.Logs","0.0.3-alpha",""
+"Localiza.BuildingBlocks.Logs","0.0.4-alpha",""
 "LogMessageDbConnector","1.0.0",""
 "Logary.Ingestion.Http","5.0.0-beta.3",""
 "Logger.AspNetCore","1.0.0",""
