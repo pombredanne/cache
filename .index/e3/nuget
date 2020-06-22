@@ -1509,6 +1509,7 @@
 "Azure.Core","1.2.0",""
 "Azure.Core","1.2.1",""
 "Azure.Core","1.2.2",""
+"Azure.ResourceManager.Compute","1.0.0-preview.1",""
 "BBProcedures","1.0.0",""
 "BBProcedures","1.0.0.1",""
 "BBProcedures","1.0.0.10",""

@@ -1491,6 +1491,7 @@
 "Autostarter","1.0.1",""
 "Avalonia.Cairo.Bindings","0.0.1",""
 "Ayax.Authorization.Common.Models","1.0.0",""
+"Azure.ResourceManager.EventHubs","1.0.0-preview.1",""
 "AzureAdMvc","1.0.0",""
 "AzureAdMvc","1.0.1",""
 "AzureAdMvc","1.0.2",""

@@ -1252,6 +1252,7 @@
 "Aylien.TextApi","1.8.0",""
 "Aylien.TextApi","1.9.0",""
 "AyxCsv","1.0.0",""
+"Azure.ResourceManager.KeyVault","1.0.0-preview.1",""
 "AzureChallengeClient","1.0.0",""
 "AzureChallengeClient","1.0.1",""
 "AzureChallengeClient","1.0.2",""
