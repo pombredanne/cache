@@ -7644,6 +7644,8 @@
 "SimpleEventStore.MsSql","0.160.0",""
 "SimpleEventStore.MsSql","0.161.0",""
 "SimpleEventStore.MsSql","0.162.0",""
+"SimpleEventStore.MsSql","0.163.0",""
+"SimpleEventStore.MsSql","0.164.0",""
 "SimpleSoft.Database.Migrator","0.0.0-alpha01",""
 "SimpleSoft.Database.Migrator","0.0.0-alpha02",""
 "SimpleSoft.Database.Migrator","1.0.0-alpha01",""
