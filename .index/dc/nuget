@@ -133,6 +133,7 @@
 "APAS__PluginContract","1.0.6.11-alpha.4",""
 "APAS__PluginContract","1.0.7.12",""
 "APAS__PluginContract","1.0.9.14",""
+"AW.LangSupport","1.0.0",""
 "AWSSDKCPP-CognitoSync.symbols","0.12.20140630.12",""
 "AWSSDKCPP-DynamoDB.symbols","0.12.20120810.12",""
 "Abycus.CameraFramework.Xamarin","0.6.1",""
