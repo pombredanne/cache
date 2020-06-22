@@ -11790,6 +11790,7 @@
 "runtime.win10-x64.Microsoft.Net.UWPCoreRuntimeSdk","2.2.3",""
 "runtime.win10-x64.Microsoft.Net.UWPCoreRuntimeSdk","2.2.8",""
 "runtime.win10-x64.Microsoft.Net.UWPCoreRuntimeSdk","2.2.9",""
+"shubham.utils.Logger","1.0.0",""
 "spxus.start.umbraco","0.0.1",""
 "spxus.start.umbraco","0.0.2",""
 "spxus.start.umbraco","0.0.3",""
