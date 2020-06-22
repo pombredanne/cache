@@ -4241,6 +4241,7 @@
 "ESAClient","1.0.9",""
 "ETECH.Application.Global","2.0.601.2018",""
 "EastCore.Payment.Core","1.0.0",""
+"EasyAbp.Abp.SettingUi.HttpApi.Client","1.1.1",""
 "EasyEventSourcing","0.0.0.1",""
 "EasyEventSourcing","0.0.1",""
 "EasyEventSourcing","0.0.10",""
