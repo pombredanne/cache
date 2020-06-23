@@ -1,7 +1,7 @@
 name: NPM
 on:
   schedule:
-    - cron: '0 16 * * *'
+    - cron: '0 0 * * 0'
 jobs:
   npm:
     runs-on: ubuntu-latest
