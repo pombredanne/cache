@@ -9480,6 +9480,7 @@
 "SeqOrderAggregation","1.0.0.7",""
 "SeqOrderAggregation","1.0.0.8",""
 "SereneApi.Extensions.Mocking","1.0.4.2-beta",""
+"SereneApi.Extensions.Mocking","1.0.4.3-beta",""
 "Serilog.Sinks.Marten","0.1.1-dev",""
 "Serilog.Sinks.Marten","1.0.0",""
 "Serilog.Web","0.1.10",""
