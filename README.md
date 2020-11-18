@@ -1,4 +1,4 @@
-# Spandx::Index
+# Spandx::Cache
 
 This repository keeps track of the software license
 for each package dependency.
@@ -24,11 +24,11 @@ $ ./bin/cibuild
 
 ## Development
 
-Visit [spandx](https://github.com/mokhan/spandx) to contribute.
+Visit [spandx](https://github.com/spandx/spandx) to contribute.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/mokhan/spandx-index.
+Bug reports and pull requests are welcome on GitHub at https://github.com/spandx/cache.
 
 If you recognize a missing package, or a mistake please submit a pull request to correct the data in the index.
 
