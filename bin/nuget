@@ -15,6 +15,6 @@ else
   git add -A .index
   git commit -m 'Update Nuget index'
   git fetch origin
-  git rebase origin/master
-  git push origin
+  git rebase origin/main
+  git push origin main
 fi
