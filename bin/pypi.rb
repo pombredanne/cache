@@ -6,7 +6,7 @@ gemfile do
   source 'https://rubygems.org'
 
   gem 'async'
-  gem 'spandx', git: 'https://github.com/spandx/spandx.git', branch: 'streaming'
+  gem 'spandx', git: 'https://github.com/spandx/spandx.git'
   gem 'typhoeus'
 end
 
