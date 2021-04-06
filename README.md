@@ -6,7 +6,7 @@ for each package dependency.
 To find the appropriate datafile for a package, follow these steps:
 
 1. Compute a SHA 256 of the package name.
-2. Take the first to characters of the SHA256.
+2. Take the first two characters of the SHA256.
 3. Expore the directory with the name that matches the first two characters of the SHA256.
 4. Find the data file with a name that matches the package manager. E.g. `nuget` for packages sourced from `api.nuget.org`.
 
