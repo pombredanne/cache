@@ -9942,6 +9942,7 @@
 "@microsoft/web-library-build","7.4.7",""
 "@microsoft/web-library-build","7.4.8",""
 "@microsoft/web-library-build","7.4.9",""
+"@mingdev/client-page","1.0.0",""
 "@miniu/preset-sdk","0.22.0",""
 "@miniu/preset-sdk","0.22.1",""
 "@miniu/preset-sdk","0.23.0",""

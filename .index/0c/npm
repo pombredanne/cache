@@ -624,6 +624,8 @@
 "@andersea/nrc-ccxt","0.4.3","MIT"
 "@andersea/nrc-ccxt","0.4.4","MIT"
 "@andersea/nrc-ccxt","0.4.5","MIT"
+"@andre1678/magic-string","0.0.1",""
+"@andre1678/magic-string","0.0.2",""
 "@andreas.palsson/package3","1.0.0","ISC"
 "@andreas.palsson/package3","1.1.0","ISC"
 "@andy-lib/profiler","1.0.0","ISC"

@@ -8622,6 +8622,7 @@
 "@financial-times/eslint-config-reliability-engineering","6.2.5","MIT"
 "@financial-times/eslint-config-reliability-engineering","6.2.6","MIT"
 "@financial-times/eslint-config-reliability-engineering","6.2.7","MIT"
+"@finetwork/checkout-react","0.1.0",""
 "@flamescape/simplemq","0.0.1","ISC"
 "@flamescape/simplemq","0.0.2","ISC"
 "@flamescape/simplemq","0.1.0","ISC"

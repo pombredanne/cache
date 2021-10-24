@@ -10291,6 +10291,7 @@
 "@mindev/min-compiler-pug","1.0.0","MIT"
 "@mindev/min-compiler-pug","2.0.0","MIT"
 "@mindev/min-compiler-pug","2.0.1","MIT"
+"@mingdev/result","1.0.0",""
 "@minipress/system-tests","0.10.0","MIT"
 "@minipress/system-tests","0.8.1","MIT"
 "@minipress/system-tests","0.9.0","MIT"
