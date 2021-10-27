@@ -185,25 +185,26 @@ func (c PackageDetails) Each(v func(PackageItemDetails)) {
 }
 
 func (c Catalog) Each(visitor Visitor) {
-	for _, item := range c.Items {
-		item.Each(func(item PackageDetails) {
-			item.Each(func(x PackageItemDetails) {
-				visitor(x.Entry)
+	ch := make(chan PackageDetailsData)
+	go func() {
+		for _, item := range c.Items {
+			item.Each(func(item PackageDetails) {
+				item.Each(func(x PackageItemDetails) {
+					ch <- x.Entry
+				})
 			})
-		})
+		}
+		close(ch)
+	}()
+
+	for item := range ch {
+		visitor(item)
 	}
 }
 
 func main() {
 	c := NewCatalog()
-	ch := make(chan PackageDetailsData)
-	go func() {
-		c.Each(func(itemx PackageDetailsData) {
-			ch <- itemx
-		})
-		close(ch)
-	}()
-	for item := range ch {
+	c.Each(func(item PackageDetailsData) {
 		fmt.Printf("\"%s\",\"%s\",\"%s\"\n", item.Name, item.Version, item.LicenseExpression)
-	}
+	})
 }
