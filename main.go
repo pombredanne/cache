@@ -132,8 +132,7 @@ type CatalogPage struct {
 }
 type AppendOnlyCatalog struct{}
 type Permalink struct{}
-
-type Catalogue struct {
+type Catalog struct {
 	Id              string        `json:"@id"`
 	Type            []string      `json:"@type"`
 	CommitId        string        `json:"commitId"`
@@ -145,60 +144,66 @@ type Catalogue struct {
 	Items           []CatalogPage `json:"items"`
 }
 
-func (c Catalogue) String() string {
-	return fmt.Sprintf(
-		"id: %v\ntype: %v\ncommit id: %v\ntimestamp: %v\ncount: %v\ncreated at: %v\ndeleted at: %v\nedited at: %v\n",
-		c.Id,
-		c.Type,
-		c.CommitId,
-		c.CommitTimeStamp,
-		c.Count,
-		c.LastCreated,
-		c.LastDeleted,
-		c.LastEdited,
-	)
+func NewCatalog() Catalog {
+	response, _ := http.Get("https://api.nuget.org/v3/catalog0/index.json")
+	defer response.Body.Close()
+
+	var c Catalog
+	json.NewDecoder(response.Body).Decode(&c)
+	return c
 }
 
-func (x CatalogPage) String() string {
-	return fmt.Sprintf(
-		" id: %v\n type: %v\n commit id: %v\n timestamp: %v\n count: %v\n",
-		x.Id,
-		x.Type,
-		x.CommitId,
-		x.CommitTimeStamp,
-		x.Count,
+type Visitor func(PackageDetailsData)
+
+func (c CatalogPage) Each(v func(PackageDetails)) {
+	response, _ := http.Get(c.Id)
+	defer response.Body.Close()
+
+	var cpd CatalogPageData
+	json.NewDecoder(response.Body).Decode(&cpd)
+
+	for _, item := range cpd.Items {
+		v(item)
+	}
+}
+
+func (c PackageDetails) Each(v func(PackageItemDetails)) {
+	registrationBaseUrl := "https://api.nuget.org/v3/registration5-semver1/"
+	response, _ := http.Get(
+		fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(c.Name)),
 	)
+	defer response.Body.Close()
+
+	var data PackageIndexData
+	json.NewDecoder(response.Body).Decode(&data)
+
+	for _, item := range data.Items {
+		for _, itemx := range item.Items {
+			v(itemx)
+		}
+	}
+}
+
+func (c Catalog) Each(visitor Visitor) {
+	for _, item := range c.Items {
+		item.Each(func(item PackageDetails) {
+			item.Each(func(x PackageItemDetails) {
+				visitor(x.Entry)
+			})
+		})
+	}
 }
 
 func main() {
-	url := "https://api.nuget.org/v3/catalog0/index.json"
-	registrationBaseUrl := "https://api.nuget.org/v3/registration5-semver1/"
-	response, _ := http.Get(url)
-	defer response.Body.Close()
-
-	var c Catalogue
-	json.NewDecoder(response.Body).Decode(&c)
-
-	for _, item := range c.Items {
-		response, _ := http.Get(item.Id)
-		defer response.Body.Close()
-
-		var cpd CatalogPageData
-		json.NewDecoder(response.Body).Decode(&cpd)
-
-		for _, item := range cpd.Items {
-			response, _ := http.Get(
-				fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(item.Name)),
-			)
-			var data PackageIndexData
-			json.NewDecoder(response.Body).Decode(&data)
-			defer response.Body.Close()
-
-			for _, item := range data.Items {
-				for _, itemx := range item.Items {
-					fmt.Printf("%s,%s,%s\n", itemx.Entry.Name, itemx.Entry.Version, itemx.Entry.LicenseExpression)
-				}
-			}
-		}
+	c := NewCatalog()
+	ch := make(chan PackageDetailsData)
+	go func() {
+		c.Each(func(itemx PackageDetailsData) {
+			ch <- itemx
+		})
+		close(ch)
+	}()
+	for item := range ch {
+		fmt.Printf("\"%s\",\"%s\",\"%s\"\n", item.Name, item.Version, item.LicenseExpression)
 	}
 }
