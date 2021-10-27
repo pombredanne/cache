@@ -2,7 +2,7 @@ package cache
 
 import (
 	"crypto/sha1"
-	"encoding/csv"
+	"errors"
 	"fmt"
 	"os"
 	"strings"
@@ -13,16 +13,11 @@ type DataFile struct {
 }
 
 func (d DataFile) Insert(name string, version string, licenses []string) {
-	joined := strings.Join(licenses, "-|-")
-	fmt.Printf("%v: %v %v %v\n", d.Path, name, version, joined)
-
 	file, _ := os.OpenFile(d.Path, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	defer file.Close()
 
-	writer := csv.NewWriter(file)
-	defer writer.Flush()
-
-	writer.Write([]string{name, version, joined})
+	csv := fmt.Sprintf(`"%s","%s","%s"\n`, name, version, strings.Join(licenses, "-|-"))
+	file.WriteString(csv)
 }
 
 type Cache struct {
@@ -58,7 +53,15 @@ func (c Cache) dataFileFor(name string) DataFile {
 	return c.DataFiles[index]
 }
 
-func (c Cache) Write(name string, version string, licenses []string) {
+func (c Cache) Write(name string, version string, licenses []string) error {
+	if name == "" {
+		return errors.New("Name is empty")
+	}
+	if version == "" {
+		return errors.New("Version is empty")
+	}
+
 	dataFile := c.dataFileFor(name)
 	dataFile.Insert(name, version, licenses)
+	return nil
 }
