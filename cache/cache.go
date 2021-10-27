@@ -16,8 +16,9 @@ func (d DataFile) Insert(name string, version string, licenses []string) {
 	file, _ := os.OpenFile(d.Path, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	defer file.Close()
 
-	csv := fmt.Sprintf(`"%s","%s","%s"\n`, name, version, strings.Join(licenses, "-|-"))
+	csv := fmt.Sprintf(`"%s","%s","%s"`, name, version, strings.Join(licenses, "-|-"))
 	file.WriteString(csv)
+	file.WriteString("\n")
 }
 
 type Cache struct {
