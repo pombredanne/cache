@@ -144,6 +144,23 @@ type Catalog struct {
 	Items           []CatalogPage `json:"items"`
 }
 
+type ResourceMetadata struct {
+	Id      string `json:"@id"`
+	Type    string `json:"@type"`
+	Comment string `json:"comment"`
+}
+
+type Context struct {
+	Schema  string `json:"@vocab"`
+	Comment string `json:"comment"`
+}
+
+type ServiceMetadata struct {
+	Version   string             `json:"version"`
+	Resources []ResourceMetadata `json:"resources"`
+	Context   Context            `json:"@context"`
+}
+
 func NewCatalog() Catalog {
 	response, _ := http.Get("https://api.nuget.org/v3/catalog0/index.json")
 	defer response.Body.Close()
@@ -168,7 +185,7 @@ func (c CatalogPage) Each(v func(PackageDetails)) {
 }
 
 func (c PackageDetails) Each(v func(PackageItemDetails)) {
-	registrationBaseUrl := "https://api.nuget.org/v3/registration5-semver1/"
+	const registrationBaseUrl = "https://api.nuget.org/v3/registration5-semver1/"
 	response, _ := http.Get(
 		fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(c.Name)),
 	)
