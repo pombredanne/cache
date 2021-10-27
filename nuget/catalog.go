@@ -170,8 +170,6 @@ func NewCatalog() Catalog {
 	return c
 }
 
-type Visitor func(PackageDetailsData)
-
 func (c CatalogPage) Each(v func(PackageDetails)) {
 	response, _ := http.Get(c.Id)
 	defer response.Body.Close()
@@ -201,7 +199,7 @@ func (c PackageDetails) Each(v func(PackageItemDetails)) {
 	}
 }
 
-func (c Catalog) Each(visitor Visitor) {
+func (c Catalog) Each(v func(PackageDetailsData)) {
 	ch := make(chan PackageDetailsData)
 	go func() {
 		for _, item := range c.Items {
@@ -215,6 +213,6 @@ func (c Catalog) Each(visitor Visitor) {
 	}()
 
 	for item := range ch {
-		visitor(item)
+		v(item)
 	}
 }
