@@ -7,8 +7,8 @@ import (
 
 func main() {
 	c := nuget.NewCatalog()
-	cache := cache.NewCache(".")
+	cache := cache.NewCache(".index")
 	c.Each(func(item nuget.Dependency) {
-		cache.Write(item.Name, item.Version, item.LicenseExpression)
+		cache.Write(item.Name, item.Version, []string{item.LicenseExpression})
 	})
 }
