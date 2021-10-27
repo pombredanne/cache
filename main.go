@@ -8,7 +8,7 @@ import (
 
 func main() {
 	c := nuget.NewCatalog()
-	c.Each(func(item nuget.PackageDetailsData) {
+	c.Each(func(item nuget.Dependency) {
 		fmt.Printf("\"%s\",\"%s\",\"%s\"\n", item.Name, item.Version, item.LicenseExpression)
 	})
 }

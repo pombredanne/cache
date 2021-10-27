@@ -26,11 +26,11 @@ https://api.nuget.org/v3/registration5-semver1/egopdf.marcoregueira/index.json
 */
 
 type PackageItemDetails struct {
-	Id              string             `json:"@id"`
-	Type            string             `json:"@type"`
-	CommitId        string             `json:"commitId"`
-	CommitTimeStamp time.Time          `json:"commitTimeStamp"`
-	Entry           PackageDetailsData `json:"catalogEntry"`
+	Id              string     `json:"@id"`
+	Type            string     `json:"@type"`
+	CommitId        string     `json:"commitId"`
+	CommitTimeStamp time.Time  `json:"commitTimeStamp"`
+	Entry           Dependency `json:"catalogEntry"`
 }
 
 type PackageItem struct {
@@ -58,7 +58,7 @@ type Vulnerability struct {
 	Severity    string `json:"severity"`
 }
 
-type Dependency struct {
+type DependencyMetadata struct {
 	Id    string `json:"@id"`
 	Type  string `json:"@type"`
 	Name  string `json:"id"`
@@ -66,13 +66,13 @@ type Dependency struct {
 }
 
 type DependencyGroup struct {
-	Id              string       `json:"@id"`
-	Type            string       `json:"@type"`
-	Dependencies    []Dependency `json:"dependencies"`
-	TargetFramework string       `json:"targetFramework"`
+	Id              string               `json:"@id"`
+	Type            string               `json:"@type"`
+	Dependencies    []DependencyMetadata `json:"dependencies"`
+	TargetFramework string               `json:"targetFramework"`
 }
 
-type PackageDetailsData struct {
+type Dependency struct {
 	Id                       string            `json:"@id"`
 	Type                     []string          `json:"@type"`
 	Authors                  string            `json:"authors"`
@@ -199,8 +199,8 @@ func (c PackageDetails) Each(v func(PackageItemDetails)) {
 	}
 }
 
-func (c Catalog) Each(v func(PackageDetailsData)) {
-	ch := make(chan PackageDetailsData)
+func (c Catalog) Each(v func(Dependency)) {
+	ch := make(chan Dependency)
 	go func() {
 		for _, item := range c.Items {
 			item.Each(func(item PackageDetails) {
