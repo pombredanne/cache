@@ -35,7 +35,7 @@ type Cache struct {
 	DataFiles map[string]DataFile
 }
 
-func NewCache(dir string) Cache {
+func NewCache(dir string, ecosystem string) Cache {
 	cache := Cache{
 		Path:      dir,
 		DataFiles: map[string]DataFile{},
@@ -44,7 +44,7 @@ func NewCache(dir string) Cache {
 	for i := 0; i < 256; i++ {
 		key := fmt.Sprintf("%x", i)
 		cache.DataFiles[key] = DataFile{
-			Path: fmt.Sprintf("%s/%s/nuget", dir, key),
+			Path: fmt.Sprintf("%s/%s/%s", dir, key, ecosystem),
 		}
 	}
 	return cache
