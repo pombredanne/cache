@@ -11,4 +11,5 @@ func main() {
 	c.Each(func(item nuget.Dependency) {
 		cache.Write(item.Name, item.Version, []string{item.LicenseExpression})
 	})
+	cache.Tidy()
 }

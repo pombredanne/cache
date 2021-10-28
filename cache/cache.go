@@ -1,12 +1,21 @@
 package cache
 
 import (
+	"bytes"
 	"crypto/sha1"
 	"errors"
 	"fmt"
+	"io/ioutil"
 	"os"
+	"sort"
 	"strings"
 )
+
+type lexicographically [][]byte
+
+func (l lexicographically) Less(i, j int) bool { return bytes.Compare(l[i], l[j]) < 0 }
+func (l lexicographically) Len() int           { return len(l) }
+func (l lexicographically) Swap(i, j int)      { l[i], l[j] = l[j], l[i] }
 
 type DataFile struct {
 	Path string
@@ -41,17 +50,16 @@ func NewCache(dir string) Cache {
 	return cache
 }
 
-func digestFor(value string) string {
-	h := sha1.New()
-	h.Write([]byte(value))
-	bs := h.Sum(nil)
-	return fmt.Sprintf("%x", bs)
-}
+func (c Cache) Tidy() {
+	for _, file := range c.DataFiles {
+		content, _ := ioutil.ReadFile(file.Path)
 
-func (c Cache) dataFileFor(name string) DataFile {
-	digest := digestFor(name)
-	index := fmt.Sprintf("%v", digest[0:2])
-	return c.DataFiles[index]
+		lines := bytes.Split(content, []byte{'\n'})
+		sort.Sort(lexicographically(lines))
+
+		content = bytes.Join(lines, []byte{'\n'})
+		ioutil.WriteFile(file.Path, content, 0644)
+	}
 }
 
 func (c Cache) Write(name string, version string, licenses []string) error {
@@ -65,4 +73,17 @@ func (c Cache) Write(name string, version string, licenses []string) error {
 	dataFile := c.dataFileFor(name)
 	dataFile.Insert(name, version, licenses)
 	return nil
+}
+
+func digestFor(value string) string {
+	h := sha1.New()
+	h.Write([]byte(value))
+	bs := h.Sum(nil)
+	return fmt.Sprintf("%x", bs)
+}
+
+func (c Cache) dataFileFor(name string) DataFile {
+	digest := digestFor(name)
+	index := fmt.Sprintf("%v", digest[0:2])
+	return c.DataFiles[index]
 }
