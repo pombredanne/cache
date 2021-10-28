@@ -32,22 +32,30 @@ func NewCatalog() Catalog {
 }
 
 func (c Catalog) Each(visitor func(Version)) {
-	response, _ := http.Get("https://replicate.npmjs.com/registry/_all_docs")
-	defer response.Body.Close()
+	ch := make(chan Version)
 
-	scanner := bufio.NewScanner(response.Body)
-	for scanner.Scan() {
-		var item Item
-		json.Unmarshal([]byte(strings.TrimSuffix(scanner.Text(), ",")), &item)
-
-		response, _ := http.Get(fmt.Sprintf("https://replicate.npmjs.com/%s", item.Key))
+	go func() {
+		response, _ := http.Get("https://replicate.npmjs.com/registry/_all_docs")
 		defer response.Body.Close()
 
-		var dependency Dependency
-		json.NewDecoder(response.Body).Decode(&dependency)
+		scanner := bufio.NewScanner(response.Body)
+		for scanner.Scan() {
+			var item Item
+			json.Unmarshal([]byte(strings.TrimSuffix(scanner.Text(), ",")), &item)
 
-		for _, v := range dependency.Versions {
-			visitor(v)
+			response, _ := http.Get(fmt.Sprintf("https://replicate.npmjs.com/%s", item.Key))
+			defer response.Body.Close()
+
+			var dependency Dependency
+			json.NewDecoder(response.Body).Decode(&dependency)
+
+			for _, v := range dependency.Versions {
+				ch <- v
+			}
 		}
+	}()
+
+	for item := range ch {
+		visitor(item)
 	}
 }
