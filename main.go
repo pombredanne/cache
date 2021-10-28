@@ -46,9 +46,8 @@ func main() {
 			cache := cache.NewCache(".index", "npm")
 			scanner := bufio.NewScanner(response.Body)
 			for scanner.Scan() {
-				line := strings.TrimSuffix(scanner.Text(), ",")
 				var item Item
-				json.Unmarshal([]byte(line), &item)
+				json.Unmarshal([]byte(strings.TrimSuffix(scanner.Text(), ",")), &item)
 
 				response, _ := http.Get(fmt.Sprintf("https://replicate.npmjs.com/%s", item.Key))
 				defer response.Body.Close()
