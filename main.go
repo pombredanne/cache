@@ -17,11 +17,12 @@ func main() {
 			"npm":   npm.NewCatalog(),
 		}
 
-		catalog := items[os.Args[1]]
+		ecosystem := os.Args[1]
+		catalog := items[ecosystem]
 		if catalog == nil {
 			fmt.Println("Unknown eco-system")
 		} else {
-			cache := cache.NewCache(".index", "nuget")
+			cache := cache.NewCache(".index", ecosystem)
 			catalog.Each(func(item core.Dependency) {
 				cache.Write(item.Name, item.Version, item.Licenses)
 			})
