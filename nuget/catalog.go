@@ -6,6 +6,8 @@ import (
 	"net/http"
 	"strings"
 	"time"
+
+	"github.com/spandx/cache/core"
 )
 
 /*
@@ -199,7 +201,7 @@ func (c PackageDetails) Each(v func(PackageItemDetails)) {
 	}
 }
 
-func (c Catalog) Each(v func(Dependency)) {
+func (c Catalog) Each(visitor func(core.Dependency)) {
 	ch := make(chan Dependency)
 	go func() {
 		for _, item := range c.Items {
@@ -213,6 +215,10 @@ func (c Catalog) Each(v func(Dependency)) {
 	}()
 
 	for item := range ch {
-		v(item)
+		visitor(core.Dependency{
+			Name:     item.Name,
+			Version:  item.Version,
+			Licenses: []string{item.LicenseExpression},
+		})
 	}
 }

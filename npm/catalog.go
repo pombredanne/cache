@@ -6,6 +6,8 @@ import (
 	"fmt"
 	"net/http"
 	"strings"
+
+	"github.com/spandx/cache/core"
 )
 
 type Item struct {
@@ -31,7 +33,7 @@ func NewCatalog() Catalog {
 	return Catalog{}
 }
 
-func (c Catalog) Each(visitor func(Version)) {
+func (c Catalog) Each(visitor func(core.Dependency)) {
 	ch := make(chan Version)
 
 	go func() {
@@ -46,16 +48,21 @@ func (c Catalog) Each(visitor func(Version)) {
 			response, _ := http.Get(fmt.Sprintf("https://replicate.npmjs.com/%s", item.Key))
 			defer response.Body.Close()
 
-			var dependency Dependency
-			json.NewDecoder(response.Body).Decode(&dependency)
+			var d Dependency
+			json.NewDecoder(response.Body).Decode(&d)
 
-			for _, v := range dependency.Versions {
+			for _, v := range d.Versions {
 				ch <- v
 			}
 		}
+		close(ch)
 	}()
 
 	for item := range ch {
-		visitor(item)
+		visitor(core.Dependency{
+			Name:     item.Name,
+			Version:  item.Version,
+			Licenses: []string{item.License},
+		})
 	}
 }
