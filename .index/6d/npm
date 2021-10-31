@@ -6070,6 +6070,7 @@
 "@floyda/hello-wasm","0.1.1",""
 "@floyda/hello-wasm","0.1.2",""
 "@fluent-wallet/typed-data-spec","0.0.1",""
+"@fluent-wallet/typed-data-spec","0.0.2",""
 "@fluent-wallet/wallet_set-app-current-account","0.0.2",""
 "@fluent-wallet/wallet_set-app-current-account","0.0.3",""
 "@fluentui/react-component-nesting-registry","0.31.1-alpha.6224","MIT"
