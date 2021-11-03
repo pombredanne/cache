@@ -176,54 +176,41 @@ func NewCatalog() Catalog {
 	return c
 }
 
-func (c CatalogPage) Each(v func(PackageDetails)) {
-	response, err := http.Get(c.Id)
-	if err != nil {
-		fmt.Printf("%s\n", err.Error())
-		return
-	}
-	defer response.Body.Close()
-
-	var cpd CatalogPageData
-	json.NewDecoder(response.Body).Decode(&cpd)
-
-	for _, item := range cpd.Items {
-		v(item)
-	}
-}
-
-func (c PackageDetails) Each(v func(PackageItemDetails)) {
-	const registrationBaseUrl = "https://api.nuget.org/v3/registration5-semver1/"
-	response, err := http.Get(
-		fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(c.Name)),
-	)
-	if err != nil {
-		fmt.Printf("%s\n", err.Error())
-		return
-	}
-	defer response.Body.Close()
-
-	var data PackageIndexData
-	json.NewDecoder(response.Body).Decode(&data)
-
-	for _, item := range data.Items {
-		for _, itemx := range item.Items {
-			v(itemx)
-		}
-	}
-}
-
 func (c Catalog) Each(visitor func(core.Dependency)) {
-	for _, page := range c.Items {
-		page.Each(func(pd PackageDetails) {
-			pd.Each(func(pid PackageItemDetails) {
-				d := pid.Entry
-				visitor(core.Dependency{
-					Name:     d.Name,
-					Version:  d.Version,
-					Licenses: []string{d.LicenseExpression},
-				})
-			})
-		})
+	for _, c := range c.Items {
+		response, err := http.Get(c.Id)
+		if err != nil {
+			fmt.Printf("%s\n", err.Error())
+			return
+		}
+		defer response.Body.Close()
+
+		var cpd CatalogPageData
+		json.NewDecoder(response.Body).Decode(&cpd)
+
+		for _, item := range cpd.Items {
+			const registrationBaseUrl = "https://api.nuget.org/v3/registration5-semver1/"
+			response, err := http.Get(
+				fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(item.Name)),
+			)
+			if err != nil {
+				fmt.Printf("%s\n", err.Error())
+				return
+			}
+			defer response.Body.Close()
+
+			var data PackageIndexData
+			json.NewDecoder(response.Body).Decode(&data)
+
+			for _, x := range data.Items {
+				for _, y := range x.Items {
+					visitor(core.Dependency{
+						Name:     y.Entry.Name,
+						Version:  y.Entry.Version,
+						Licenses: []string{y.Entry.LicenseExpression},
+					})
+				}
+			}
+		}
 	}
 }
