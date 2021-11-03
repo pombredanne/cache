@@ -26,7 +26,7 @@ func main() {
 			catalog.Each(func(item core.Dependency) {
 				cache.Write(item.Name, item.Version, item.Licenses)
 			})
-			cache.Tidy()
+			cache.Flush()
 		}
 	} else {
 		fmt.Println("Please specify an eco system")

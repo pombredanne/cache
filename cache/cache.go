@@ -5,7 +5,6 @@ import (
 	"crypto/sha1"
 	"errors"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"sort"
 	"strings"
@@ -18,16 +17,13 @@ func (l lexicographically) Len() int           { return len(l) }
 func (l lexicographically) Swap(i, j int)      { l[i], l[j] = l[j], l[i] }
 
 type DataFile struct {
-	Path string
+	Path  string
+	Lines []string
 }
 
 func (d DataFile) Insert(name string, version string, licenses []string) {
-	file, _ := os.OpenFile(d.Path, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
-	defer file.Close()
-
 	csv := fmt.Sprintf(`"%s","%s","%s"`, name, version, strings.Join(licenses, "-|-"))
-	file.WriteString(csv)
-	file.WriteString("\n")
+	d.Lines = append(d.Lines, csv)
 }
 
 type Cache struct {
@@ -50,15 +46,19 @@ func NewCache(dir string, ecosystem string) Cache {
 	return cache
 }
 
-func (c Cache) Tidy() {
+func (c Cache) Flush() {
 	for _, file := range c.DataFiles {
-		content, _ := ioutil.ReadFile(file.Path)
+		sort.Slice(file.Lines, func(i, j int) bool {
+			return file.Lines[i] < file.Lines[j]
+		})
 
-		lines := bytes.Split(content, []byte{'\n'})
-		sort.Sort(lexicographically(lines))
-
-		content = bytes.Join(lines, []byte{'\n'})
-		ioutil.WriteFile(file.Path, content, 0644)
+		f, err := os.Create(file.Path)
+		if err == nil {
+			for _, line := range file.Lines {
+				fmt.Fprintln(f, line)
+			}
+			f.Close()
+		}
 	}
 }
 

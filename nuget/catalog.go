@@ -164,7 +164,11 @@ type ServiceMetadata struct {
 }
 
 func NewCatalog() Catalog {
-	response, _ := http.Get("https://api.nuget.org/v3/catalog0/index.json")
+	response, err := http.Get("https://api.nuget.org/v3/catalog0/index.json")
+	if err != nil {
+		fmt.Printf("%s\n", err.Error())
+		return Catalog{}
+	}
 	defer response.Body.Close()
 
 	var c Catalog
@@ -173,7 +177,11 @@ func NewCatalog() Catalog {
 }
 
 func (c CatalogPage) Each(v func(PackageDetails)) {
-	response, _ := http.Get(c.Id)
+	response, err := http.Get(c.Id)
+	if err != nil {
+		fmt.Printf("%s\n", err.Error())
+		return
+	}
 	defer response.Body.Close()
 
 	var cpd CatalogPageData
@@ -186,9 +194,13 @@ func (c CatalogPage) Each(v func(PackageDetails)) {
 
 func (c PackageDetails) Each(v func(PackageItemDetails)) {
 	const registrationBaseUrl = "https://api.nuget.org/v3/registration5-semver1/"
-	response, _ := http.Get(
+	response, err := http.Get(
 		fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(c.Name)),
 	)
+	if err != nil {
+		fmt.Printf("%s\n", err.Error())
+		return
+	}
 	defer response.Body.Close()
 
 	var data PackageIndexData
@@ -202,23 +214,16 @@ func (c PackageDetails) Each(v func(PackageItemDetails)) {
 }
 
 func (c Catalog) Each(visitor func(core.Dependency)) {
-	ch := make(chan Dependency)
-	go func() {
-		for _, item := range c.Items {
-			item.Each(func(item PackageDetails) {
-				item.Each(func(x PackageItemDetails) {
-					ch <- x.Entry
+	for _, page := range c.Items {
+		page.Each(func(pd PackageDetails) {
+			pd.Each(func(pid PackageItemDetails) {
+				d := pid.Entry
+				visitor(core.Dependency{
+					Name:     d.Name,
+					Version:  d.Version,
+					Licenses: []string{d.LicenseExpression},
 				})
 			})
-		}
-		close(ch)
-	}()
-
-	for item := range ch {
-		visitor(core.Dependency{
-			Name:     item.Name,
-			Version:  item.Version,
-			Licenses: []string{item.LicenseExpression},
 		})
 	}
 }
