@@ -176,41 +176,64 @@ func NewCatalog() Catalog {
 	return c
 }
 
-func (c Catalog) Each(visitor func(core.Dependency)) {
-	for _, c := range c.Items {
-		response, err := http.Get(c.Id)
+func Work(url string, queue chan string, queue2 chan core.Dependency) {
+	for url := range queue {
+		response, err := http.Get(url)
 		if err != nil {
 			fmt.Printf("%s\n", err.Error())
 			return
 		}
 		defer response.Body.Close()
 
-		var cpd CatalogPageData
-		json.NewDecoder(response.Body).Decode(&cpd)
+		var data PackageIndexData
+		json.NewDecoder(response.Body).Decode(&data)
 
-		for _, item := range cpd.Items {
-			const registrationBaseUrl = "https://api.nuget.org/v3/registration5-semver1/"
-			response, err := http.Get(
-				fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(item.Name)),
-			)
+		for _, x := range data.Items {
+			for _, y := range x.Items {
+				queue2 <- core.Dependency{
+					Name:     y.Entry.Name,
+					Version:  y.Entry.Version,
+					Licenses: []string{y.Entry.LicenseExpression},
+				}
+			}
+		}
+	}
+}
+
+func (c Catalog) Each(visitor func(core.Dependency)) {
+	const registrationBaseUrl = "https://api.nuget.org/v3/registration5-semver1/"
+	queue := make(chan string)
+	queue2 := make(chan core.Dependency)
+
+	go func() {
+		Work(url, queue, queue2)
+		close(queue2)
+	}()
+
+	for i := 0; i < 64; i++ {
+		go Work(url, queue, queue2)
+	}
+
+	go func() {
+		for _, c := range c.Items {
+			response, err := http.Get(c.Id)
 			if err != nil {
 				fmt.Printf("%s\n", err.Error())
 				return
 			}
 			defer response.Body.Close()
 
-			var data PackageIndexData
-			json.NewDecoder(response.Body).Decode(&data)
+			var cpd CatalogPageData
+			json.NewDecoder(response.Body).Decode(&cpd)
 
-			for _, x := range data.Items {
-				for _, y := range x.Items {
-					visitor(core.Dependency{
-						Name:     y.Entry.Name,
-						Version:  y.Entry.Version,
-						Licenses: []string{y.Entry.LicenseExpression},
-					})
-				}
+			for _, item := range cpd.Items {
+				queue <- fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(item.Name))
 			}
 		}
+		close(queue)
+	}()
+
+	for d := range queue2 {
+		visitor(d)
 	}
 }
