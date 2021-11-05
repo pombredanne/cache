@@ -57,7 +57,7 @@ func (c Cache) Flush() {
 			for _, line := range file.Lines {
 				fmt.Fprintln(f, line)
 			}
-			f.Close()
+			defer f.Close()
 		}
 	}
 }
