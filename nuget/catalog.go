@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"net/http"
 	"strings"
+	"sync"
 	"time"
 
 	"github.com/spandx/cache/core"
@@ -176,64 +177,58 @@ func NewCatalog() Catalog {
 	return c
 }
 
-func Work(url string, queue chan string, queue2 chan core.Dependency) {
-	for url := range queue {
-		response, err := http.Get(url)
-		if err != nil {
-			fmt.Printf("%s\n", err.Error())
-			return
-		}
-		defer response.Body.Close()
-
-		var data PackageIndexData
-		json.NewDecoder(response.Body).Decode(&data)
-
-		for _, x := range data.Items {
-			for _, y := range x.Items {
-				queue2 <- core.Dependency{
-					Name:     y.Entry.Name,
-					Version:  y.Entry.Version,
-					Licenses: []string{y.Entry.LicenseExpression},
-				}
-			}
-		}
-	}
-}
-
 func (c Catalog) Each(visitor func(core.Dependency)) {
 	const registrationBaseUrl = "https://api.nuget.org/v3/registration5-semver1/"
 	queue := make(chan string)
-	queue2 := make(chan core.Dependency)
-
-	go func() {
-		Work(url, queue, queue2)
-		close(queue2)
-	}()
+	var wg sync.WaitGroup
 
 	for i := 0; i < 64; i++ {
-		go Work(url, queue, queue2)
+		go func() {
+			for url := range queue {
+				response, err := http.Get(url)
+				if err != nil {
+					fmt.Printf("%s\n", err.Error())
+
+				} else {
+					defer response.Body.Close()
+
+					var data PackageIndexData
+					json.NewDecoder(response.Body).Decode(&data)
+
+					for _, x := range data.Items {
+						for _, y := range x.Items {
+							visitor(core.Dependency{
+								Name:     y.Entry.Name,
+								Version:  y.Entry.Version,
+								Licenses: []string{y.Entry.LicenseExpression},
+							})
+						}
+					}
+				}
+
+				wg.Done()
+			}
+		}()
 	}
 
-	go func() {
-		for _, c := range c.Items {
-			response, err := http.Get(c.Id)
-			if err != nil {
-				fmt.Printf("%s\n", err.Error())
-				return
-			}
+	for _, c := range c.Items {
+		response, err := http.Get(c.Id)
+		if err != nil {
+			fmt.Printf("%s\n", err.Error())
+			return
+		} else {
 			defer response.Body.Close()
 
 			var cpd CatalogPageData
 			json.NewDecoder(response.Body).Decode(&cpd)
 
+			wg.Add(len(cpd.Items))
 			for _, item := range cpd.Items {
 				queue <- fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(item.Name))
 			}
 		}
-		close(queue)
-	}()
-
-	for d := range queue2 {
-		visitor(d)
 	}
+
+	wg.Wait()
+	defer close(queue)
 }
