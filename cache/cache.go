@@ -23,7 +23,6 @@ type DataFile struct {
 
 func (d DataFile) Insert(name string, version string, licenses []string) {
 	csv := fmt.Sprintf(`"%s","%s","%s"`, name, version, strings.Join(licenses, "-|-"))
-	fmt.Println(csv)
 	d.Lines = append(d.Lines, csv)
 }
 
