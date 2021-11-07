@@ -1475,6 +1475,8 @@
 "@astql/glsl.glsl-parser","0.1.0",""
 "@astql/glsl.glsl-parser","0.1.1",""
 "@astql/glsl.glsl-parser","0.1.2",""
+"@astql/glsl.glsl-parser","0.1.3",""
+"@astql/glsl.glsl-parser","0.1.4",""
 "@atis/timezones.json","1.0.1","MIT"
 "@atlaskit/util-common","1.0.0","Apache-2.0"
 "@atlaskit/util-common","1.0.1","Apache-2.0"
