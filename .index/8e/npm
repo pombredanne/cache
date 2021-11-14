@@ -15509,6 +15509,7 @@
 "@safenv/actions","1.3.3","MIT"
 "@safenv/actions","1.5.0","MIT"
 "@safenv/actions","1.6.0","MIT"
+"@sailshq/binary-search-tree","0.2.7",""
 "@salocreative/ui","0.0.1","ISC"
 "@salocreative/ui","0.0.2","ISC"
 "@salocreative/ui","0.0.3","ISC"
