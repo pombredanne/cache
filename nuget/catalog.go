@@ -1,6 +1,7 @@
 package nuget
 
 import (
+	"context"
 	"encoding/json"
 	"fmt"
 	"net/http"
@@ -9,6 +10,7 @@ import (
 	"time"
 
 	"github.com/spandx/cache/core"
+	"golang.org/x/sync/semaphore"
 )
 
 /*
@@ -17,9 +19,9 @@ https://api.nuget.org/v3/index.json
 
 2. Parse the RegistrationBaseUrl
     {
-      "@id": "https://api.nuget.org/v3/registration5-semver1/",
-      "@type": "RegistrationsBaseUrl",
-      "comment": "Base URL of Azure storage where NuGet package registration info is stored"
+	    "@id": "https://api.nuget.org/v3/registration5-semver1/",
+	    "@type": "RegistrationsBaseUrl",
+	    "comment": "Base URL of Azure storage where NuGet package registration info is stored"
     },
 3. Make a request to base_url/{LOWER_ID}/index.json
 
@@ -179,13 +181,54 @@ func NewCatalog() Catalog {
 
 func (c Catalog) Each(visitor func(core.Dependency)) {
 	const registrationBaseUrl = "https://api.nuget.org/v3/registration5-semver1/"
-	queue := make(chan string)
-	var wg sync.WaitGroup
+	ch := make(chan string, 10)
+	pages := make(chan struct{}, 512)
+	sem := semaphore.NewWeighted(int64(512))
+	ctx := context.TODO()
 
-	for i := 0; i < 64; i++ {
-		go func() {
-			for url := range queue {
+	var wg sync.WaitGroup
+	var wg2 sync.WaitGroup
+
+	wg2.Add(len(c.Items))
+
+	for i := 0; i < cap(pages); i++ {
+		pages <- struct{}{}
+	}
+
+	go func() {
+		for _, c := range c.Items {
+			go func() {
+				defer wg2.Done()
+
+				<-pages
+				response, err := http.Get(c.Id)
+				pages <- struct{}{}
+
+				if err != nil {
+					fmt.Printf("%s\n", err.Error())
+					return
+				} else {
+					defer response.Body.Close()
+
+					var cpd CatalogPageData
+					json.NewDecoder(response.Body).Decode(&cpd)
+
+					wg.Add(len(cpd.Items))
+					for _, item := range cpd.Items {
+						ch <- fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(item.Name))
+					}
+				}
+			}()
+		}
+	}()
+
+	go func() {
+		for url := range ch {
+			go func() {
+				sem.Acquire(ctx, 1)
 				response, err := http.Get(url)
+				sem.Release(1)
+
 				if err != nil {
 					fmt.Printf("%s\n", err.Error())
 
@@ -207,28 +250,11 @@ func (c Catalog) Each(visitor func(core.Dependency)) {
 				}
 
 				wg.Done()
-			}
-		}()
-	}
-
-	for _, c := range c.Items {
-		response, err := http.Get(c.Id)
-		if err != nil {
-			fmt.Printf("%s\n", err.Error())
-			return
-		} else {
-			defer response.Body.Close()
-
-			var cpd CatalogPageData
-			json.NewDecoder(response.Body).Decode(&cpd)
-
-			wg.Add(len(cpd.Items))
-			for _, item := range cpd.Items {
-				queue <- fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(item.Name))
-			}
+			}()
 		}
-	}
+	}()
 
+	wg2.Wait()
+	close(ch)
 	wg.Wait()
-	defer close(queue)
 }
