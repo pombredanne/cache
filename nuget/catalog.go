@@ -204,10 +204,7 @@ func (c Catalog) Each(visitor func(core.Dependency)) {
 				response, err := http.Get(c.Id)
 				pages <- struct{}{}
 
-				if err != nil {
-					fmt.Printf("%s\n", err.Error())
-					return
-				} else {
+				if err == nil {
 					defer response.Body.Close()
 
 					var cpd CatalogPageData
@@ -217,6 +214,8 @@ func (c Catalog) Each(visitor func(core.Dependency)) {
 					for _, item := range cpd.Items {
 						ch <- fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(item.Name))
 					}
+				} else {
+					fmt.Printf("%s\n", err.Error())
 				}
 			}()
 		}
@@ -229,10 +228,7 @@ func (c Catalog) Each(visitor func(core.Dependency)) {
 				response, err := http.Get(url)
 				sem.Release(1)
 
-				if err != nil {
-					fmt.Printf("%s\n", err.Error())
-
-				} else {
+				if err == nil {
 					defer response.Body.Close()
 
 					var data PackageIndexData
@@ -247,6 +243,8 @@ func (c Catalog) Each(visitor func(core.Dependency)) {
 							})
 						}
 					}
+				} else {
+					fmt.Printf("%s\n", err.Error())
 				}
 
 				wg.Done()

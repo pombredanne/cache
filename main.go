@@ -20,7 +20,7 @@ func main() {
 		ecosystem := os.Args[1]
 		catalog := items[ecosystem]
 		if catalog == nil {
-			fmt.Println("Unknown eco-system")
+			fmt.Println("Unknown ecosystem")
 		} else {
 			cache := cache.NewCache(".index", ecosystem)
 			catalog.Each(func(item core.Dependency) {
@@ -29,6 +29,6 @@ func main() {
 			cache.Flush()
 		}
 	} else {
-		fmt.Println("Please specify an eco system")
+		fmt.Println("Please specify an ecosystem")
 	}
 }
