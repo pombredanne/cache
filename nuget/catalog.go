@@ -181,28 +181,30 @@ func NewCatalog() Catalog {
 
 func (c Catalog) Each(visitor func(core.Dependency)) {
 	const registrationBaseUrl = "https://api.nuget.org/v3/registration5-semver1/"
-	ch := make(chan string, 10)
-	pages := make(chan struct{}, 512)
-	sem := semaphore.NewWeighted(int64(512))
-	ctx := context.TODO()
+	dependencies := make(chan core.Dependency, 2048)
+	lock := semaphore.NewWeighted(int64(256))
+	urls := make(chan string, 1024)
 
 	var wg sync.WaitGroup
 	var wg2 sync.WaitGroup
 
 	wg2.Add(len(c.Items))
 
-	for i := 0; i < cap(pages); i++ {
-		pages <- struct{}{}
-	}
+	go func() {
+		for {
+			fmt.Printf("urls: %d, dependencies: %d\n", len(urls), len(dependencies))
+			time.Sleep(10 * time.Second)
+		}
+	}()
 
 	go func() {
 		for _, c := range c.Items {
-			go func() {
+			go func(c CatalogPage) {
 				defer wg2.Done()
 
-				<-pages
+				lock.Acquire(context.TODO(), 1)
 				response, err := http.Get(c.Id)
-				pages <- struct{}{}
+				lock.Release(1)
 
 				if err == nil {
 					defer response.Body.Close()
@@ -212,21 +214,21 @@ func (c Catalog) Each(visitor func(core.Dependency)) {
 
 					wg.Add(len(cpd.Items))
 					for _, item := range cpd.Items {
-						ch <- fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(item.Name))
+						urls <- fmt.Sprintf("%s%s/index.json", registrationBaseUrl, strings.ToLower(item.Name))
 					}
 				} else {
 					fmt.Printf("%s\n", err.Error())
 				}
-			}()
+			}(c)
 		}
 	}()
 
 	go func() {
-		for url := range ch {
-			go func() {
-				sem.Acquire(ctx, 1)
+		for url := range urls {
+			go func(url string) {
+				lock.Acquire(context.TODO(), 1)
 				response, err := http.Get(url)
-				sem.Release(1)
+				lock.Release(1)
 
 				if err == nil {
 					defer response.Body.Close()
@@ -236,11 +238,11 @@ func (c Catalog) Each(visitor func(core.Dependency)) {
 
 					for _, x := range data.Items {
 						for _, y := range x.Items {
-							visitor(core.Dependency{
+							dependencies <- core.Dependency{
 								Name:     y.Entry.Name,
 								Version:  y.Entry.Version,
 								Licenses: []string{y.Entry.LicenseExpression},
-							})
+							}
 						}
 					}
 				} else {
@@ -248,11 +250,18 @@ func (c Catalog) Each(visitor func(core.Dependency)) {
 				}
 
 				wg.Done()
-			}()
+			}(url)
+		}
+	}()
+
+	go func() {
+		for item := range dependencies {
+			visitor(item)
 		}
 	}()
 
 	wg2.Wait()
-	close(ch)
+	close(urls)
 	wg.Wait()
+	close(dependencies)
 }
