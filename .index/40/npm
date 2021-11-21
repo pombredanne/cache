@@ -34705,6 +34705,7 @@
 "lo-key","0.1.0","MIT"
 "lo-key","0.1.1","MIT"
 "loa-cli","0.0.1","MIT"
+"load-image-exif","0.0.1-security",""
 "loading-vue","0.0.1","ISC"
 "loading-vue","0.0.2","ISC"
 "loanfront-ui-components","0.1.0",""

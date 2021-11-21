@@ -10287,6 +10287,8 @@
 "@melonproject/ea-common","0.0.3","GPL-3.0"
 "@melonproject/ea-common","1.0.0-alpha.0","GPL-3.0"
 "@melonproject/ea-common","2.0.2","GPL-3.0"
+"@memoorje/api","0.1.0",""
+"@memoorje/api","0.2.0",""
 "@merl/cli","0.1.1","MIT"
 "@merl/cli","0.2.0","MIT"
 "@merl/cli","0.2.1","MIT"

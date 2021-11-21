@@ -15294,6 +15294,7 @@
 "@meta-react/input-base","0.1.3","ISC"
 "@meta-react/input-base","0.1.4","ISC"
 "@meta-react/input-base","0.1.9","ISC"
+"@metaliq/up","0.2.0",""
 "@mhealth/cordova-plugin-exit","1.0.3","MIT"
 "@michaelkramer/npmhtml-to-draftjs","1.4.1","MIT"
 "@micro-js/is-number","1.0.0","MIT"

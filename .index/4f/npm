@@ -13010,6 +13010,7 @@
 "@meta-utils/events","2.0.0","MIT"
 "@methodic/fx-service","0.1.6",""
 "@methodic/fx-service","0.1.8",""
+"@methodic/fx-service","0.1.9",""
 "@methodic/relations-service","0.1.31",""
 "@methodic/relations-service","0.1.32",""
 "@methodic/relations-service","0.1.33",""

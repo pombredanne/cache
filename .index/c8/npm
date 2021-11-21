@@ -43739,6 +43739,7 @@
 "npm-assembly","1.0.7","MIT"
 "npm-assembly","1.0.8","MIT"
 "npm-assembly","1.0.9","MIT"
+"npm-auth0","0.0.1",""
 "npm-demo-hakonaj","2.0.0","ISC"
 "npm-get-dependents","1.0.0","MIT"
 "npm-get-dependents","1.0.1","MIT"
