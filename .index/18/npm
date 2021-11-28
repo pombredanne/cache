@@ -6674,6 +6674,8 @@
 "@flybondi/flynamo","1.2.0","MIT"
 "@flybondi/flynamo","1.2.1","MIT"
 "@flybondi/flynamo","1.2.2","MIT"
+"@forcewin/ci-controller","0.1.8",""
+"@forcewin/ci-controller","0.1.9",""
 "@form8ion/renovate-scaffolder","1.0.0","MIT"
 "@form8ion/renovate-scaffolder","1.0.0-alpha.1","MIT"
 "@form8ion/renovate-scaffolder","1.0.0-alpha.2","MIT"
