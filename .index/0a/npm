@@ -10182,6 +10182,7 @@
 "@mhio/koa-api-handle","0.8.0","MIT"
 "@mhio/koa-api-handle","0.9.0","MIT"
 "@mhio/koa-api-handle","0.9.0-1","MIT"
+"@mibble/local-client","1.0.0",""
 "@microsoft.azure/autorest.remodeler","1.0.101","MIT"
 "@microsoft.azure/autorest.remodeler","1.0.102","MIT"
 "@microsoft.azure/autorest.remodeler","1.0.108","MIT"

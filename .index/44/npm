@@ -33318,6 +33318,7 @@
 "hast-util-is-javascript","1.0.1","MIT"
 "hast-util-is-javascript","1.0.2","MIT"
 "hast-util-is-javascript","1.0.3","MIT"
+"haste-preset-playable","0.0.1-security",""
 "havven-js","0.1.0","MIT"
 "havven-js","0.1.1","MIT"
 "havven-js","0.2.0","MIT"

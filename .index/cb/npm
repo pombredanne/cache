@@ -18741,6 +18741,7 @@
 "@stencil/webpack","0.0.6","MIT"
 "@stenciled/core","0.1.1-alpha.1","MIT"
 "@stenciled/core","0.1.1-alpha.2","MIT"
+"@stephdewit/piral-blazor-ioc-mwe-instance","1.0.0",""
 "@stoqey/timeout-manager","0.0.1","MIT"
 "@stoqey/timeout-manager","0.0.2","MIT"
 "@strong-roots-capital/is-derived-record","1.0.0","ISC"

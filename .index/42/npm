@@ -29123,6 +29123,7 @@
 "eslint-plugin-guokr","0.0.0","ISC"
 "eslint-plugin-iu","1.0.0","ISC"
 "eslint-plugin-no-named-imports","0.0.1","MIT"
+"eslint-prettier","0.0.0-empty",""
 "espa-ui","0.1.0","MIT"
 "espa-ui","0.1.1","MIT"
 "espa-ui","0.1.10","MIT"

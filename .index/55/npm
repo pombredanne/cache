@@ -17322,6 +17322,7 @@
 "@stejar/router-beta-react","0.0.7","MIT"
 "@step-lang/step-core","0.1.1",""
 "@step-lang/step-core","0.1.2",""
+"@stepnivlk/matika-wasm","0.1.0",""
 "@stk/common","1.0.0","ISC"
 "@stopism/shortreddit","1.0.2","Apache-2.0"
 "@straku/prettier-config","1.0.0","MIT"

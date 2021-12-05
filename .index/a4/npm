@@ -39034,6 +39034,7 @@
 "node-red-contrib-velux","0.0.3","MIT"
 "node-red-contrib-webshot","0.0.1","MIT"
 "node-red-emitter","0.0.1",""
+"node-red-knx-ui","0.0.8",""
 "node-red-mapex-graf","0.0.1","ISC"
 "node-red-mapex-graf","0.0.2","ISC"
 "node-red-mapex-graf","1.0.0","ISC"
