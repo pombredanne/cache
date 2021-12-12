@@ -12561,6 +12561,7 @@
 "@lithograph/compile","1.0.0-alpha.39","MIT"
 "@lithograph/compile","1.0.0-alpha.40","MIT"
 "@lithograph/compile","1.0.0-alpha.41","MIT"
+"@liuli-util/rollup-plugin-env-dts-gen","0.1.0",""
 "@lloople/npx-card","1.3.0","MIT"
 "@lm-ticketing/sdk","1.0.0","MIT"
 "@lm-ticketing/sdk","1.0.1","MIT"

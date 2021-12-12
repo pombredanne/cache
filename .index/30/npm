@@ -10823,6 +10823,7 @@
 "@libdweb/node-dgram","0.0.0","MIT"
 "@lidofinance/select","1.0.0",""
 "@linagora/karma-ng-jade2module-preprocessor","0.5.3","MIT"
+"@lingtian-xue/wasm_test","0.1.0",""
 "@litbase/core","0.0.11","UNLICENSED"
 "@litbase/core","0.0.13","UNLICENSED"
 "@litbase/core","0.0.14","UNLICENSED"

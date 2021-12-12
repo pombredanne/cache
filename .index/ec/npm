@@ -10697,6 +10697,8 @@
 "@lingui/babel-preset-js","2.8.3","MIT"
 "@lingui/babel-preset-js","2.9.0","MIT"
 "@lingui/babel-preset-js","2.9.1","MIT"
+"@linked-parceiro/lib-parceiro","0.0.3",""
+"@linked-parceiro/lib-parceiro","0.0.4",""
 "@littleq/lazy-loader","0.0.1","MIT"
 "@littleq/state-manager","0.0.1","MIT"
 "@littleq/state-manager","0.0.2","MIT"

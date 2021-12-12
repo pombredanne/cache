@@ -4988,6 +4988,8 @@
 "@dscheerens/tslint-presets","5.0.1","MIT"
 "@dscheerens/tslint-presets","6.0.0","MIT"
 "@dscheerens/tslint-presets","7.0.0","MIT"
+"@dsyv/charts","1.0.0",""
+"@dsyv/charts","1.0.1",""
 "@dune-network/contract-sources","0.3.0-dune.1","MIT"
 "@dx-libs/timeout","0.1.0","MIT"
 "@dx-libs/timeout","0.1.1","MIT"
