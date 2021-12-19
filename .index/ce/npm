@@ -10988,6 +10988,7 @@
 "@middlebury/gulp-config","0.3.4",""
 "@middlebury/gulp-config","0.3.5",""
 "@middlebury/gulp-config","0.3.6",""
+"@middlebury/gulp-config","0.3.7",""
 "@middy/http-urlencode-body-parser","1.0.0","MIT"
 "@middy/http-urlencode-body-parser","1.0.0-alpha.1","MIT"
 "@middy/http-urlencode-body-parser","1.0.0-alpha.10","MIT"

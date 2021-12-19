@@ -23940,6 +23940,7 @@
 "ekko","0.0.4","MIT"
 "ekko","0.0.5","MIT"
 "el-tree-table","1.0.0",""
+"elasticagent","0.0.1-security",""
 "elasticsearch-dynamodb-stream-extension","0.1.0","MIT"
 "elasticsearch-dynamodb-stream-extension","0.1.1","MIT"
 "elasticsearch-dynamodb-stream-extension","0.1.2","MIT"

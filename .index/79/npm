@@ -31725,6 +31725,8 @@
 "egg-pay","0.0.4","MIT"
 "egg-pay","0.0.5","MIT"
 "eggshell-http-proxy","0.0.1",""
+"eggshell-http-proxy","0.0.2",""
+"eggshell-http-proxy","0.0.2-alpha.0",""
 "eh-parser","0.19.0","GLWT"
 "ehr-appointment-scheduler","0.0.0",""
 "ehr-appointment-scheduler","0.0.1",""

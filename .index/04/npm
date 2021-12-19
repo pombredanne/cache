@@ -28665,6 +28665,7 @@
 "egg-seneca-subserver","1.0.371","MIT"
 "egg-socket.io2","4.1.6","MIT"
 "eggshell-data-client","0.0.1",""
+"eggshell-data-client","0.0.2-alpha.0",""
 "eh-nginx","1.0.1","ISC"
 "eh-nginx","1.0.2","ISC"
 "eh-nginx","1.0.3","ISC"

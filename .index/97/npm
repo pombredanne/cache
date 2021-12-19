@@ -26524,6 +26524,7 @@
 "cob-dashboard-core","1.0.1","ISC"
 "cob-dashboard-core","1.0.2","ISC"
 "cob-dashboard-core","1.0.3","ISC"
+"cobrowse-common","0.0.1-security",""
 "coc-tslint","1.0.0","MIT"
 "coc-tslint","1.0.1","MIT"
 "coc-tslint","1.0.10","MIT"

@@ -9225,6 +9225,7 @@
 "@microsoft.azure/polyfill","1.0.3","MIT"
 "@microsoft.azure/polyfill","1.0.9","MIT"
 "@midas4ng/auth","1.0.210817-1",""
+"@midas4ng/auth","1.1.211207-1",""
 "@midgar/cli","1.0.0-alpha.1.0","ISC"
 "@midgar/cli","1.0.0-alpha.1.1","ISC"
 "@milkmedia/vue-tabs","1.0.0","MIT"

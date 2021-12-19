@@ -13345,6 +13345,8 @@
 "@syuta-sugawara/lion-lib","1.0.0","ISC"
 "@t-amberm/telemetrylibrary","1.0.0",""
 "@t-amberm/telemetrylibrary","1.1.0",""
+"@t9tlai/traner-endpoint","0.1.4-dev",""
+"@t9tlai/traner-endpoint","0.1.5",""
 "@tal-test/bg-button","0.0.1",""
 "@tal-test/bg-button","0.0.2",""
 "@tal-test/bg-button","0.0.3",""
