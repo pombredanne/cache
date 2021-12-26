@@ -50234,6 +50234,7 @@
 "ssl-peeker","1.1.0","ISC"
 "ssl-peeker","1.1.1","ISC"
 "ssl-peeker","1.2.0","ISC"
+"ssnap-web","0.0.1-security",""
 "ssrs-report-viewer","0.0.1",""
 "stackfire-tools","0.0.3",""
 "stackfire-tools","0.0.3-b",""

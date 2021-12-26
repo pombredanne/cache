@@ -18206,6 +18206,8 @@
 "@xohu/vue-drag","1.0.4","MIT"
 "@xpfw/ui-bulma","0.1.0","AGPL-3.0"
 "@xpfw/ui-bulma","0.1.1","MIT"
+"@xvideos/apps","0.0.1-security",""
+"@xvideos/sdk","0.0.1-security",""
 "@xwiillz/svg-intersections","0.4.0","BSD-3-Clause"
 "@xyo-network/serializer","0.10.0","MIT"
 "@xyo-network/serializer","0.10.1","MIT"

@@ -25014,6 +25014,7 @@
 "@xresource/client-graphql","0.2.1","MIT"
 "@xresource/client-graphql","0.2.1-alpha.1","MIT"
 "@xsyx/hanzo-transition","0.1.0","ISC"
+"@xvideos/proxy","0.0.1-security",""
 "@xyo-network/graphql-server","0.11.0","MIT"
 "@xyo-network/graphql-server","0.12.0","MIT"
 "@xyo-network/graphql-server","0.12.1","MIT"

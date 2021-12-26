@@ -17695,6 +17695,8 @@
 "@xsyx/hanzo-order-card","1.0.4","ISC"
 "@yagisumi/sqlite3-storage","0.2.0","MIT"
 "@yagisumi/sqlite3-storage","0.3.0","MIT"
+"@yakies/electron-ipc","0.0.2",""
+"@yakies/electron-ipc","0.0.3",""
 "@yanlipnican-poc/react-components","2.0.1","ISC"
 "@yanlipnican-poc/react-components","2.0.2","ISC"
 "@yanlipnican-poc/react-components","2.0.3","ISC"

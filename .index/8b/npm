@@ -16191,6 +16191,7 @@
 "@riverscapes/common","1.0.0","ISC"
 "@riverscapes/common","1.0.1","ISC"
 "@riverscapes/common","1.0.2","ISC"
+"@rm-frontend/flexible-form","0.0.0",""
 "@rnbw/cra-template-aws-cdk","0.1.0","MIT"
 "@rnbw/cra-template-aws-cdk","0.1.1","MIT"
 "@rocketseat/cz-rocketseat-changelog","1.0.0","MIT"

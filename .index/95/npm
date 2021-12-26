@@ -17318,6 +17318,7 @@
 "@xo-union/postcss-plugin-px-to-rem","2.1.4-canary-8f51fcd95.0",""
 "@xqr/core-vote-report","2.1.0","MIT"
 "@xrosy/command","0.1.0","MIT"
+"@xvia/portal-api","0.0.14",""
 "@xxscreeps/inspector","0.0.5",""
 "@xyo-network/crypto","0.32.0","MIT"
 "@xyo-network/crypto","0.33.0","MIT"

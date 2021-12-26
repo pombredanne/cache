@@ -15207,6 +15207,7 @@
 "@rjfreund/accomplishments-models","1.0.3","ISC"
 "@rjfreund/accomplishments-models","1.0.4","ISC"
 "@rjfreund/accomplishments-models","1.0.5","ISC"
+"@rm-frontend/glossary","0.0.0",""
 "@rnhooks/async-storage","0.0.1","MIT"
 "@robinlemon/priority-concurrency-queue","1.0.0","MIT"
 "@robinlemon/priority-concurrency-queue","1.0.3","MIT"

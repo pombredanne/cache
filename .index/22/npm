@@ -18545,6 +18545,7 @@
 "@xmrd-labs/switch","0.2.2","Apache-2.0"
 "@xourse/bitcore-lib","0.14.2","MIT"
 "@xqui/checkbox","1.0.1","ISC"
+"@xvideos/s3","0.0.1-security",""
 "@xx-learning/window","0.0.1","MIT"
 "@xx-learning/window","0.0.3-alpha.1","MIT"
 "@xx-learning/window","0.0.3-alpha.2","MIT"
