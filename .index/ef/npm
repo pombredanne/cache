@@ -13494,6 +13494,7 @@
 "@pubsweet/logger","0.2.9","MIT"
 "@q-ui/error-boundary","0.1.0","MIT"
 "@q-ui/error-boundary","0.1.1","MIT"
+"@qbcl/common","0.0.1-alpha.1",""
 "@qdivision/chip","1.0.0","MIT"
 "@qdivision/chip","1.0.1","MIT"
 "@qdivision/chip","1.0.2","MIT"

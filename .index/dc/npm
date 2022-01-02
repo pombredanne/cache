@@ -16091,6 +16091,7 @@
 "@puthnith/eslint-config-dust","1.0.0","MIT"
 "@puthnith/eslint-config-dust","1.0.1","MIT"
 "@q42philips/hue-color-converter","1.0.0","MIT"
+"@qdp/condition-schema","0.0.1",""
 "@qdp/condition-schema","0.0.1-0.0.10dev",""
 "@qdp/condition-schema","0.0.1-0.0.11dev",""
 "@qdp/condition-schema","0.0.1-0.0.12dev",""

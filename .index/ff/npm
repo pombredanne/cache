@@ -16868,6 +16868,8 @@
 "@vestibule-link/bridge-assistant","1.0.9","ISC"
 "@vienne/block_editor","1.0.0","ISC"
 "@vienne/block_editor","1.0.1","ISC"
+"@vitekit/adapter-node","0.0.0",""
+"@vitekit/adapter-node","0.0.1",""
 "@vlzh/nest-typeorm-i18n","0.0.1","MIT"
 "@vlzh/nest-typeorm-i18n","0.0.2","MIT"
 "@vobarian/tfbuilder","0.1.0","MIT"
