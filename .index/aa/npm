@@ -20269,6 +20269,7 @@
 "@vaadin/vaadin-confirm-dialog","1.2.0-alpha1","https://raw.githubusercontent.com/vaadin/vaadin-confirm-dialog/master/LICENSE"
 "@vaadin/vaadin-confirm-dialog","1.2.0-alpha2","https://raw.githubusercontent.com/vaadin/vaadin-confirm-dialog/master/LICENSE"
 "@vaadin/vaadin-confirm-dialog","1.2.0-alpha3","https://raw.githubusercontent.com/vaadin/vaadin-confirm-dialog/master/LICENSE"
+"@valtimo/authority","4.15.2-next-main.8",""
 "@vcaci/sandbox","1.0.0","ISC"
 "@vdtn359/add-class-properties","1.0.0",""
 "@veams/utility-grid","1.0.0","MIT"

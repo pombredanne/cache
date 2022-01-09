@@ -22596,6 +22596,8 @@
 "@uswitch/instyle.pagination","1.1.1","MIT"
 "@uswitch/instyle.pagination","1.1.2","MIT"
 "@uswitch/instyle.pagination","1.1.4","MIT"
+"@utiliread/msgpack","1.0.0",""
+"@utiliread/msgpack","1.0.1",""
 "@vadelabs/specs","0.0.1","MIT"
 "@vadelabs/specs","0.0.1-alpha.0","MIT"
 "@vadelabs/specs","0.1.0","MIT"

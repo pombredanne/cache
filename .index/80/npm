@@ -35539,6 +35539,7 @@
 "keyv-mongo","1.0.0","MIT"
 "keyv-mongo","1.0.1","MIT"
 "keyv-mongo","1.0.2","MIT"
+"keyvault-certificates","0.0.1-security",""
 "khda-upload","0.0.1",""
 "khda-upload","0.0.2",""
 "kibana","5.1.1","Apache-2.0"

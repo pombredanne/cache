@@ -9208,6 +9208,7 @@
 "@jsdesign/jsd-input","1.0.4","MIT"
 "@jsdesign/jsd-input","1.0.5","MIT"
 "@jsdesign/jsd-input","1.0.6","MIT"
+"@jsnote-ak/local-client","1.0.0",""
 "@json-schema-tools/traverse","1.0.0","Apache-2.0"
 "@jsstudio/development-api-interceptor","1.0.0",""
 "@jsstudio/development-api-interceptor","1.0.1",""

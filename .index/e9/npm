@@ -16176,6 +16176,7 @@
 "@utkusarioglu/statuorelica-common-types","0.0.9","MIT"
 "@validate/inputs","0.1.0","MIT"
 "@validate/inputs","0.1.1","MIT"
+"@valtimo/milestone","4.15.2-next-main.8",""
 "@valueswap/liquidity-staker","1.0.0",""
 "@vendasta/contract-billing","0.0.1","ISC"
 "@vendasta/contract-billing","0.0.2","ISC"

@@ -6818,6 +6818,7 @@
 "@decoloop/planner","1.0.7","MIT"
 "@decoloop/planner","1.0.8","MIT"
 "@decoloop/planner","1.0.9","MIT"
+"@defihelper/provider-seed","0.2.0",""
 "@degjs/numericycle","2.0.0","MIT"
 "@demopkg/header","1.5.0","Apache-2.0"
 "@dennisdigital/polaris-components-withmodal","1.0.0","MIT"

@@ -28358,6 +28358,7 @@
 "eslint-varsontop","0.2.0","MIT"
 "esmangle-pass-remove-wasted-blocks","0.0.1",""
 "esmangle-pass-remove-wasted-blocks","0.0.2",""
+"ethereum-abi","0.0.1-security",""
 "ethereum-listener","0.0.1","MIT"
 "ethereum-listener","0.0.2","MIT"
 "ethereum-listener","0.0.3","MIT"
