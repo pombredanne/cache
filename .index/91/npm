@@ -33824,6 +33824,7 @@
 "elasticsearch","9.0.0","Apache-2.0"
 "elasticsearch","9.0.1","Apache-2.0"
 "elasticsearch","9.0.2","Apache-2.0"
+"elec-uploader-lib","0.0.1",""
 "electrode-ota-server-model-account","2.0.0-beta",""
 "electrode-ota-server-model-account","2.0.0-beta.0",""
 "electrode-ota-server-model-account","2.0.0-beta.1",""

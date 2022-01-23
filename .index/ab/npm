@@ -3839,6 +3839,8 @@
 "@dra2020/jsonstream","1.1.2","MIT"
 "@dra2020/jsonstream","1.1.3","MIT"
 "@dra2020/jsonstream","1.1.4","MIT"
+"@dugrema/wasm-xchacha20poly1305","0.1.0",""
+"@dugrema/wasm-xchacha20poly1305","0.1.1",""
 "@duoa/vue-scheduler","1.0.0","MIT"
 "@duoa/vue-scheduler","1.0.1","MIT"
 "@dvabuzyarov/product-version","1.0.4","MIT"

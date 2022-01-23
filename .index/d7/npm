@@ -4036,6 +4036,7 @@
 "@ds-kit/flex","1.0.0","LicenseRef-LICENSE"
 "@ds-kit/flex","1.1.0","LicenseRef-LICENSE"
 "@ds-kit/flex","1.2.0","LicenseRef-LICENSE"
+"@dsyx/table-show","1.0.0",""
 "@duik/nav-panel","0.1.1-alpha.0","MIT"
 "@duik/nav-panel","0.1.2","MIT"
 "@duik/nav-panel","0.1.3-alpha.0","MIT"

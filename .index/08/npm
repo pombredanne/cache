@@ -24218,6 +24218,8 @@
 "el-ui","0.0.5","ISC"
 "elastic-devtools","1.8.0","MIT"
 "elastype","0.0.1","ISC"
+"elca-ng-common","0.0.0-watch",""
+"elca-ng-common","0.0.1",""
 "electrode-archetype-react-app-dev-sync","1.6.0","Apache-2.0"
 "electron-clipboard-watcher","1.0.0","MIT"
 "electron-clipboard-watcher","1.0.1","MIT"

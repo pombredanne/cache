@@ -16511,6 +16511,7 @@
 "@scola/rest","3.9.2","MIT"
 "@scola/rest","3.9.3","MIT"
 "@scola/rest","3.9.4","MIT"
+"@scrypted/opencv2","0.0.23",""
 "@sdc-wob-type-3/group-ui","0.0.1-security",""
 "@sdkit/autocomplete","0.0.1",""
 "@sdkit/autocomplete","0.0.2",""

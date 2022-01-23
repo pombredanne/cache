@@ -28139,6 +28139,8 @@
 "elasticache-client","0.0.5","MIT"
 "elasticache-client","0.0.6","MIT"
 "elasticache-client","0.0.7","MIT"
+"ele-plus-rl","0.0.1",""
+"ele-plus-rl","0.0.2",""
 "electron-simple-ipc","1.0.0","ISC"
 "electron-simple-ipc","1.0.1","ISC"
 "electron-simple-ipc","1.0.2","ISC"

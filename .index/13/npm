@@ -14967,6 +14967,7 @@
 "@seanwarman/json-form-builder","0.0.2","ISC"
 "@seanwarman/json-form-builder","0.0.3","ISC"
 "@seanwarman/json-form-builder","0.0.4","ISC"
+"@seasonjs/tegg-vite-plugin","0.0.1",""
 "@sebbo2002/ble2mqtt","0.0.0","MIT"
 "@sebbo2002/ble2mqtt","1.0.0","MIT"
 "@sebbo2002/ble2mqtt","1.0.0-develop.1","MIT"

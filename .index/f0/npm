@@ -12030,6 +12030,8 @@
 "@lorena-ssi/did-resolver","0.4.2","MIT"
 "@lorena-ssi/did-resolver","0.4.3","MIT"
 "@lorena-ssi/did-resolver","0.4.4","MIT"
+"@lowdefy/operators-js","4.0.0-alpha.5",""
+"@lowdefy/operators-js","4.0.0-alpha.6",""
 "@lperezdude/firebase-deploy","1.0.0","ISC"
 "@lperezdude/firebase-deploy","1.0.1","ISC"
 "@lrnwebcomponents/lrnapp-gallery-grid","0.0.23","Apache-2.0"

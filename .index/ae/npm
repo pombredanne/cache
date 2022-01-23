@@ -14694,6 +14694,8 @@
 "@seagreenio/react-bulma","0.1.0-beta.0","MIT"
 "@seagreenio/react-bulma","0.1.0-beta.1","MIT"
 "@seagreenio/react-bulma","0.1.0-beta.2","MIT"
+"@secretarium/crypto","0.0.2",""
+"@secretarium/crypto","0.1.0",""
 "@security-alert/list-alerts","1.1.1","MIT"
 "@security-alert/list-alerts","1.2.0","MIT"
 "@seedcss/seed-option-card","0.0.3","MIT"
