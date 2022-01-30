@@ -5546,6 +5546,7 @@
 "@domain7/eslint-config-domain7","1.0.1","MIT"
 "@domain7/eslint-config-domain7","1.0.2","MIT"
 "@drorgl/talib","1.0.0",""
+"@ducky/plumage-react","0.0.2",""
 "@duetds/stencil-angular-output-target","0.0.2","MIT"
 "@dune-network-truffle/compile-vyper","1.1.0-dune.7","MIT"
 "@dxos/chess-app","1.0.0-beta.59",""
