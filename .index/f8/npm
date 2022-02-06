@@ -8087,6 +8087,8 @@
 "@makercam/openjscam","0.1.0-beta.5","ISC"
 "@makercam/openjscam","0.1.0-beta.6","ISC"
 "@makercam/openjscam","0.1.0-beta.7","ISC"
+"@malware-test-today-moues-demon-conte/test-mlw3-today-moues-demon-conte","0.0.1-security",""
+"@malware-test-unrip-cider-maneh-dower/test-mlw3-unrip-cider-maneh-dower","0.0.1-security",""
 "@mangar2/mqttclient","1.0.0","LGPL-3.0-or-later"
 "@mangar2/mqttclient","1.1.0","LGPL-3.0-or-later"
 "@mangar2/mqttclient","1.2.0","LGPL-3.0-or-later"

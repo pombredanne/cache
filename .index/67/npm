@@ -10616,6 +10616,7 @@
 "@magenta/music-vae","1.1.4","Apache-2.0"
 "@magenta/music-vae","1.1.5","Apache-2.0"
 "@magento/workbox-webpack-plugin","3.0.0-alpha-magento.1","Apache-2.0"
+"@malware-test-telos-stulm-table-paras/test-mlw3-telos-stulm-table-paras","0.0.1-security",""
 "@mana-cli/mana","0.0.1","MIT"
 "@mansoorkamthewala/jsoneditor","0.0.1","MIT"
 "@mansoorkamthewala/jsoneditor","1.0.0","MIT"

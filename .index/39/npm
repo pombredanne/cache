@@ -50478,6 +50478,7 @@
 "sequelize-transforms","1.0.2","MIT"
 "sequelize-transforms","2.0.0","MIT"
 "serialport-uxsino","1.0.0","ISC"
+"serp-results","1.0.0",""
 "server-logger","1.0.0","MIT"
 "server-logger","1.0.1","MIT"
 "server-logger","1.0.2","MIT"

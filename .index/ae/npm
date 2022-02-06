@@ -10268,6 +10268,8 @@
 "@magnus-strategy/mm-funnel-search-param","3.2.0",""
 "@malware-test-scaws-skirl-braes-enorm/test-mlw3-scaws-skirl-braes-enorm","0.0.1-security",""
 "@malware-test-sprod-label/test-mlw3-sprod-label","0.0.1-security",""
+"@malware-test-tosed-swarm-spoom-huzza/test-mlw3-tosed-swarm-spoom-huzza","0.0.1-security",""
+"@malware-test-waits-dries-proke-firth/test-mlw3-waits-dries-proke-firth","0.0.1-security",""
 "@mamba/switch","0.0.1","Apache-2.0"
 "@mamba/switch","0.0.2-alpha.1","Apache-2.0"
 "@mamba/switch","0.0.2-alpha.2","Apache-2.0"

@@ -4487,6 +4487,7 @@
 "@dxos/react-router","1.0.0-beta.35","GPL-3.0"
 "@dy/about","1.0.0","ISC"
 "@dylanvann/codemirror-css","1.0.0","MIT"
+"@dynejs/di","0.0.1",""
 "@e2ebridge/sapnwrfc","1.0.0","MIT"
 "@e2ebridge/sapnwrfc","1.0.1","MIT"
 "@e2ebridge/sapnwrfc","1.0.2","MIT"
