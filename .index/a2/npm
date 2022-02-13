@@ -45643,6 +45643,8 @@
 "search-requires","2.1.4","Public Domain"
 "search-requires","2.2.0","Public Domain"
 "search-requires","2.2.1","Public Domain"
+"seat-selector","0.0.0",""
+"seat-selector","0.0.1",""
 "secure-create-key","1.0.1","ISC"
 "sedona","3.0.0",""
 "see-cli","0.0.1","MIT"

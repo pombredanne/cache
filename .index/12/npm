@@ -22790,6 +22790,8 @@
 "@vestibule-link/bridge-mythtv","1.4.3","ISC"
 "@vimalptl/vue-tiny","0.1.0",""
 "@vimalptl/vue-tiny","0.2.0","MIT"
+"@vinayg/angular-auth-oidc-client","12.0.4",""
+"@vinayg/angular-auth-oidc-client","13.0.0",""
 "@vizworx/eslint-config-react","1.0.0","MIT"
 "@vizworx/eslint-config-react","1.0.1","MIT"
 "@vizworx/eslint-config-react","1.0.2","MIT"

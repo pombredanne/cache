@@ -7720,6 +7720,7 @@
 "@dizmo/generator-dizmo-react","2.1.8","ISC"
 "@dizmo/generator-dizmo-react","2.1.9","ISC"
 "@djusv/tracealyzer","0.9.4","MIT"
+"@dkibet/ngx-file-uploader","1.0.0",""
 "@dlijs/dform","0.0.1",""
 "@dlijs/dform","0.0.2",""
 "@docta/gulp-header","0.10.0","MIT"
