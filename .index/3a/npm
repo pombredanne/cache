@@ -8255,6 +8255,8 @@
 "@luckbox/eslint-rules","2.2.5","ISC"
 "@luckbox/eslint-rules","3.0.0","ISC"
 "@luckbox/eslint-rules","3.0.1","ISC"
+"@luknasc/react-transitions","0.1.0",""
+"@luknasc/react-transitions","0.1.1",""
 "@luma.gl/glfx","6.3.0","MIT"
 "@luma.gl/glfx","6.3.0-alpha.2","MIT"
 "@luma.gl/glfx","6.3.0-beta.1","MIT"

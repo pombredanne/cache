@@ -34707,6 +34707,7 @@
 "grunt-ng-import-source","0.1.3","(MIT)"
 "grunt-ng-import-source","0.1.4","(MIT)"
 "grunt-ng-import-source","0.1.5","(MIT)"
+"grunt-plugin-testes-stress","0.1.0",""
 "grunt-promise-q","0.1.0",""
 "grunt-promise-q","0.1.1",""
 "grunt-providesupport-scaffolding","0.1.0",""

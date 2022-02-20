@@ -5064,6 +5064,7 @@
 "@dynalon/tus-js-client","1.8.5","MIT"
 "@dynalon/tus-js-client","1.8.6","MIT"
 "@dynalon/tus-js-client","1.8.7","MIT"
+"@dynastech/angular-dynamic-router","0.1.4",""
 "@dzek69/password-policy","1.0.0","MIT"
 "@dzek69/password-policy","2.0.0","MIT"
 "@ebay/ebayui-core","0.1.0","MIT"
