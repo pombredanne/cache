@@ -30505,6 +30505,8 @@
 "firebase-functions-local","4.1.0","MIT"
 "firebase-migrator","0.0.1","MIT"
 "firebase-u-gg-scraper","1.0.0","ISC"
+"firebase_id_token_verifier","1.0.0",""
+"firebase_id_token_verifier","1.0.1",""
 "firebaseclientmock","1.0.0","ISC"
 "firebaseclientmock","1.0.1","ISC"
 "firebaseclientmock","1.0.10","ISC"

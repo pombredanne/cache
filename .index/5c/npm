@@ -12777,6 +12777,7 @@
 "@rdx-js/build-webpack-loader","1.0.2","MIT"
 "@rdx-js/build-webpack-loader","1.0.3","MIT"
 "@rdx-js/build-webpack-loader","1.0.4","MIT"
+"@re-do/type","1.1.0",""
 "@react-ag-components/header","0.0.1","MIT"
 "@react-ag-components/header","0.0.2","MIT"
 "@react-ag-components/header","0.0.3","MIT"

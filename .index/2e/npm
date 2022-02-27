@@ -4455,6 +4455,7 @@
 "@dnation/web3","0.0.1","MIT"
 "@dnation/web3","0.0.2","MIT"
 "@dnation/web3","0.0.3","MIT"
+"@dogedefi/plugin-multichain","1.0.1",""
 "@dogmalang/fs.sync","0.1.0",""
 "@dogmalang/fs.sync","0.2.0",""
 "@domitai/domitai-sdk","1.0.1","Apache-2.0"

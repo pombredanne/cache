@@ -10580,6 +10580,7 @@
 "@kobionic/server-lib","1.2.0","Apache-2.0"
 "@kobionic/server-lib","1.2.1","Apache-2.0"
 "@kobionic/server-lib","2.0.0","Apache-2.0"
+"@koil-finance/pool-stable","1.0.1",""
 "@kps3/hbs-template-builder","1.0.0","MIT"
 "@kps3/hbs-template-builder","1.0.1","MIT"
 "@kps3/hbs-template-builder","1.0.2","MIT"

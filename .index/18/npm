@@ -12656,6 +12656,8 @@
 "@randommetalhead/homebridge-mi-philips-light-fork","0.0.3","ISC"
 "@randommetalhead/homebridge-mi-philips-light-fork","0.0.4","ISC"
 "@randommetalhead/homebridge-mi-philips-light-fork","0.2.4","ISC"
+"@re-/assert","0.1.0",""
+"@re-/assert","0.1.1",""
 "@reach/slider","0.10.0","MIT"
 "@reach/slider","0.10.1","MIT"
 "@reach/slider","0.10.2","MIT"

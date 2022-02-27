@@ -25868,6 +25868,7 @@
 "block-info","0.2.4","BSD-3-Clause"
 "block-info","0.2.5","BSD-3-Clause"
 "block-info","0.3.0","BSD-3-Clause"
+"blockapi-wc-lib","1.0.0",""
 "blockchain-proxyt","0.2.16-test","MIT"
 "blockchain-wallet-js","1.0.0","ISC"
 "blockcypher-promise","0.3.0","MIT"
