@@ -14783,6 +14783,7 @@
 "@quark-framework/elements","0.0.6",""
 "@quase/path-url","0.1.0","MIT"
 "@querkmachine/felafel","2.2.0",""
+"@querkmachine/felafel","3.0.0",""
 "@querycap/webworkerutils","0.0.1",""
 "@querycap/webworkerutils","0.0.2",""
 "@querycap/webworkerutils","0.0.3",""

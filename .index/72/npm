@@ -38406,6 +38406,7 @@
 "no-ledger-binance-chain-js-sdk","2.15.0","Apache-2.0"
 "no-ledger-binance-chain-js-sdk","2.16.0","Apache-2.0"
 "no-ledger-binance-chain-js-sdk","2.17.0","Apache-2.0"
+"noblox.js-promises","0.0.1-security",""
 "node-alan-utils","0.0.1","ISC"
 "node-alan-utils","0.0.2","ISC"
 "node-alan-utils","0.0.3","ISC"

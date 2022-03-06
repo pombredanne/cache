@@ -46011,6 +46011,7 @@
 "simple-config-json","1.0.2","MIT"
 "simple-debug-logger","0.1.1","MIT"
 "simple-debug-logger","0.1.2","MIT"
+"simple-dropdown-select","0.1.0",""
 "simple-express-rest","1.0.0","ISC"
 "simple-express-rest","1.0.1","ISC"
 "simple-express-rest","1.0.10","ISC"

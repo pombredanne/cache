@@ -9264,6 +9264,7 @@
 "@dfeidao/fd-h000001","4.6.201905201014","MIT"
 "@dfeidao/fd-h000001","4.6.201907081555","MIT"
 "@didux-io/web3-core-requestmanager-web","1.0.0-beta.53","LGPL-3.0"
+"@dier-makr/inversify","0.0.1-security",""
 "@digidem/mapbox-gl-layers","2.0.0","MIT"
 "@digidem/mapbox-gl-layers","2.0.1","MIT"
 "@digitaix/components-select-multiple-list","0.0.19",""
