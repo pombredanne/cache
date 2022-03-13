@@ -46592,6 +46592,7 @@
 "ui5-task-transpile","0.1.7","Apache-2.0"
 "uigo","1.0.0","ISC"
 "uint64-native","0.1.1","MIT"
+"uncle","0.0.0",""
 "underscore-more","0.1.0",""
 "underscore-more","0.1.1",""
 "underscore-more","0.1.10",""

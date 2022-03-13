@@ -7707,6 +7707,7 @@
 "@lylxiaole/np-designer","0.1.1",""
 "@lyo/store","2.0.12","MIT"
 "@m-fe/postcss-config","0.0.3","MIT"
+"@m3o/storage","1.0.5",""
 "@maa/monkey-workers","0.0.1","MIT"
 "@maa/monkey-workers","0.0.2","MIT"
 "@maa/monkey-workers","0.1.0","MIT"

@@ -40533,6 +40533,8 @@
 "scm-soundplayer","1.0.3","ISC"
 "scm-soundplayer","1.0.4","ISC"
 "scm-soundplayer","1.0.5","ISC"
+"scm-table","0.1.1",""
+"scm-table","1.0.0",""
 "scope-chains-closures","1.0.0","MIT"
 "scope-chains-closures","1.0.1","MIT"
 "scope-chains-closures","1.0.2","MIT"

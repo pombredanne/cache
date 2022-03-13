@@ -9842,6 +9842,7 @@
 "@lunchbadger/loopback-component-explorer","3.0.1","MIT"
 "@lyo/crypt","0.0.2","BSD-3-Clause"
 "@m1yh3m/service.uniqueid","1.0.0","ISC"
+"@m3o/ui","1.0.5",""
 "@maael/temtem-stats-table-component","1.0.0","UNLICENSED"
 "@maael/temtem-stats-table-component","1.1.0","UNLICENSED"
 "@maael/temtem-stats-table-component","1.2.0","UNLICENSED"

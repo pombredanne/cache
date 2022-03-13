@@ -10319,6 +10319,8 @@
 "@m-dary-nur/react-virtual-list","1.2.0","MIT"
 "@m-dary-nur/react-virtual-list","1.2.2","MIT"
 "@m-dary-nur/react-virtual-list","1.2.3","MIT"
+"@m3o/auth","1.0.5",""
+"@m3o/auth","1.0.6",""
 "@macgyver-team/macgooey","0.0.6",""
 "@machinat/babel-preset","0.1.0-beta",""
 "@madisonreed/node-rollout","0.3.2","MIT"

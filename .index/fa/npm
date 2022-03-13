@@ -15911,6 +15911,8 @@
 "@seagull/commands-fs","9.2.0","LGPL-3.0"
 "@seagull/commands-fs","9.3.3","LGPL-3.0"
 "@seagull/commands-fs","9.3.7","LGPL-3.0"
+"@seayona/integration-login","1.0.0",""
+"@seayona/integration-login","1.0.0-rc.1",""
 "@sebasrodriguez/web3","1.0.0-beta.34","LGPL-3.0"
 "@sebasrodriguez/web3","1.0.0-beta.35","LGPL-3.0"
 "@secux/protocol-hdkey","1.0.1","MIT"

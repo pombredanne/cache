@@ -23084,6 +23084,7 @@
 "campfire-heights","1.0.1","ISC"
 "campfire-heights","1.0.2","ISC"
 "can-importer","1.0.0","MIT"
+"canal-mqtt","0.0.1",""
 "canner-extract","0.1.0","MIT"
 "canner-extract","0.1.1","MIT"
 "canner-extract","0.2.0","MIT"
