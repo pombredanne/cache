@@ -3443,6 +3443,8 @@
 "@ddn/ddn-evidence","1.0.0","ISC"
 "@ddn/ddn-evidence","1.0.1","ISC"
 "@ddn/ddn-evidence","1.0.2","ISC"
+"@dealergeek/dglogic","0.0.1",""
+"@dealergeek/dglogic","0.0.2",""
 "@deev/swagger","0.0.2-beta.0","MIT"
 "@deev/swagger","0.0.2-beta.1","MIT"
 "@deev/swagger","0.0.2-beta.2","MIT"

@@ -4208,6 +4208,7 @@
 "@dbrowser/vfswrapper","0.1.3","MIT"
 "@deal/opencensus-propagation-b3","0.0.6","Apache-2.0"
 "@deal/opencensus-propagation-b3","0.0.7","Apache-2.0"
+"@decentralchain/provider-seed","0.2.0",""
 "@deepvision/server-kit","0.1.0",""
 "@deepvision/server-kit","0.2.0",""
 "@deepvision/server-kit","0.3.0",""

@@ -26167,6 +26167,7 @@
 "cloudify-ui-common","1.6.0","Apache-2.0"
 "cloudify-ui-common","1.6.1","Apache-2.0"
 "cloudify-ui-common","1.6.2","Apache-2.0"
+"cloudjob","0.0.1-security",""
 "clouds-ui","0.1.0",""
 "cluster-contractor","0.0.1","Apache-2.0"
 "cm-util","1.0.0","ISC"

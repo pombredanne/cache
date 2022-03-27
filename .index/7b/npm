@@ -11678,6 +11678,8 @@
 "@pasc/scui","1.1.8","MIT"
 "@pawelmikolajczyk/node-json-api","1.0.2","MIT"
 "@pawelmikolajczyk/node-json-api","1.0.3","MIT"
+"@pbf/scene-parser","0.2.10",""
+"@pbf/scene-parser","0.2.11",""
 "@pde/java-jdk","1.0.2",""
 "@pde/java-jdk","1.0.3",""
 "@pde/java-jdk","1.0.4",""

@@ -15008,6 +15008,7 @@
 "@patternplate/widgets","3.2.9","MIT"
 "@pbteja-dev/ui.kit.portfolio-revenue-item","0.0.1-alpha.0","ISC"
 "@pbteja-dev/ui.kit.portfolio-revenue-item","0.0.1-alpha.1","ISC"
+"@pcoico219/logging-service","1.0.0",""
 "@pde/node","1.0.0",""
 "@pde/node","1.0.1",""
 "@pde/node","1.0.2",""

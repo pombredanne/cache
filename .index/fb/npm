@@ -8969,6 +8969,8 @@
 "@jadepool/crypto","2.0.3","MIT"
 "@jadepool/crypto","2.0.4","MIT"
 "@jahdielvargas/platzom","0.1.0","MIT"
+"@jamesdbruner/prettier-config","1.0.0",""
+"@jamesdbruner/prettier-config","1.1.0",""
 "@jaredpalmer/rollup-plugin-preserve-shebang","0.1.6","MIT"
 "@jaredpalmer/rollup-plugin-preserve-shebang","0.1.7","MIT"
 "@jayphelps/jay-scripts","0.0.1","MIT"

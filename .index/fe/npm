@@ -15795,6 +15795,7 @@
 "@trinasolar/auto-complete-code-webpack-plugin","0.0.7","MIT"
 "@trinasolar/auto-complete-code-webpack-plugin","0.0.8","MIT"
 "@trinasolar/auto-complete-code-webpack-plugin","0.0.9","MIT"
+"@tripleoak/ui","0.0.1",""
 "@trivago/preact-hooks-testing-library","1.0.4","MIT"
 "@trivago/preact-hooks-testing-library","1.0.5","MIT"
 "@trusted-solutions/sdit.models","0.5.0","ISC"

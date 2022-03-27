@@ -4149,6 +4149,7 @@
 "@dear-ui/core","4.0.0-alpha2.0","MIT"
 "@deaven/unimplemented","1.0.0","MIT"
 "@deaven/unimplemented","1.0.1","MIT"
+"@deboxsoft/bytemd-sveltekit","2.0.0",""
 "@deboxsoft/user-accounts","0.0.5",""
 "@decent-bet/contract-slots","0.1.0",""
 "@decent-bet/contract-slots","1.0.0-alpha.1",""
