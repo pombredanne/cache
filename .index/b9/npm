@@ -10246,6 +10246,7 @@
 "@mammut-fe/hive-parser","0.3.0","ISC"
 "@mammut-fe/hive-parser","1.0.3","ISC"
 "@mango-solution/mangoui","0.0.1","MIT"
+"@manuel42/demo-lib","0.0.1",""
 "@mapbox/mapbox-studio-dark","2.1.1",""
 "@mapbox/react-code-snippet","0.1.0","SEE LICENSE IN LICENSE_Mapbox"
 "@mapbox/react-code-snippet","0.1.1","SEE LICENSE IN LICENSE_Mapbox"
