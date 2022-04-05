@@ -29,6 +29,7 @@ func main() {
 			cache.Flush()
 		}
 	} else {
-		fmt.Println("Please specify an ecosystem")
+		fmt.Println("Usage:")
+		fmt.Println("\tgo run main.go ecosystem")
 	}
 }
