@@ -28024,6 +28024,7 @@
 "express-mongodb-session","2.5.1",""
 "express-mongodb-session","2.5.2",""
 "express-mongodb-session","3.2.0",""
+"express-mongodb-session","3.2.1",""
 "express-resetter","1.0.0","BSD"
 "express-resetter","1.0.1","BSD"
 "express-resetter","1.1.0","BSD"

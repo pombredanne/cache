@@ -14946,6 +14946,7 @@
 "@pubcore/generator-selfsigned-tls","1.0.3","MIT"
 "@pubcore/generator-selfsigned-tls","1.0.4","MIT"
 "@pubcore/generator-selfsigned-tls","1.0.5","MIT"
+"@pulumi-packs/cert-manager","1.7.0-alpha.0",""
 "@puride/daimyo","0.1.0",""
 "@putout/plugin-remove-process-exit","1.0.0","MIT"
 "@putout/plugin-remove-process-exit","1.0.1","MIT"
