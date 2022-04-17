@@ -21554,6 +21554,7 @@
 "basix","1.0.1","ISC"
 "basix","1.0.2","ISC"
 "basix","1.0.3","ISC"
+"bats-snapshot","0.1.0",""
 "bats-support","0.3.0","CC0-1.0"
 "bauhaus-ui-module-utils","0.0.1","MIT"
 "bauhaus-ui-module-utils","0.0.2","MIT"

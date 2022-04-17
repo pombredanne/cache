@@ -17528,6 +17528,7 @@
 "@tourstream/tstr-booking-manager-connector","7.3.3","MIT"
 "@tourstream/tstr-booking-manager-connector","7.4.0","MIT"
 "@tourstream/tstr-booking-manager-connector","8.0.0","MIT"
+"@tpx91/tpxrx","0.0.0",""
 "@troveng/swagger-gen-ts","3.0.0-beta.14","UNLICENSED"
 "@troveng/swagger-gen-ts","3.0.0-beta.15","UNLICENSED"
 "@troveng/swagger-gen-ts","3.0.0-beta.16","UNLICENSED"

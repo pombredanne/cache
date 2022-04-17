@@ -13048,6 +13048,8 @@
 "@myuw-web-components/myuw-banner","1.1.0","Apache-2.0"
 "@myuw-web-components/myuw-banner","1.1.1","Apache-2.0"
 "@myuw-web-components/myuw-banner","1.2.0","Apache-2.0"
+"@n0b0dy/eslint-plugin-vue3","1.0.0",""
+"@n0b0dy/eslint-plugin-vue3","1.0.1",""
 "@naisone/ngx-toastr","8.0.0","MIT"
 "@naisone/ngx-toastr","8.0.1","MIT"
 "@namely/eslint-config-namely","2.0.0","MIT"
