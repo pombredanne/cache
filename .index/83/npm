@@ -10130,6 +10130,8 @@
 "@nuofe/ndk-user","8.0.0-alpha.7","MIT"
 "@nuofe/ndk-user","8.0.0-next.0","MIT"
 "@nuofe/ndk-user","8.0.0-next.1","MIT"
+"@nuskin/signin-react-native","0.0.1",""
+"@nuskin/signin-react-native","0.0.2",""
 "@nutility/bcrypt","1.0.2","MIT"
 "@nutility/bcrypt","1.0.3","MIT"
 "@nutility/bcrypt","1.0.5","MIT"

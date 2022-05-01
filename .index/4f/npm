@@ -8931,6 +8931,7 @@
 "@ijprest/kle-serial","0.15.0","MIT"
 "@ijprest/kle-serial","0.15.1","MIT"
 "@ikecode/ngx-json-viewer","1.0.1","ISC"
+"@inclouded/amsmart2-events-js","0.1.2",""
 "@increment/theme","0.10.0",""
 "@increment/theme","0.11.0",""
 "@increment/theme","0.12.0",""

@@ -15489,6 +15489,7 @@
 "@superset-ui/legacy-plugin-chart-word-cloud","0.11.0","Apache-2.0"
 "@superset-ui/legacy-plugin-chart-word-cloud","0.11.12","Apache-2.0"
 "@superset-ui/legacy-plugin-chart-word-cloud","0.11.15","Apache-2.0"
+"@superz666/test","0.0.0",""
 "@swatch/mintcream","1.0.0","ISC"
 "@swatch/mintcream","1.1.0","ISC"
 "@swiftcarrot/react-native-kit","0.1.1","MIT"
