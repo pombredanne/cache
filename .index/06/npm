@@ -28062,6 +28062,7 @@
 "axe-core-req","1.1.5","MPL-2.0"
 "axe-core-req","1.1.6","MPL-2.0"
 "axe-jasmine","1.0.0","Mozilla 2.0"
+"azure-arm-policyinsights-samples-ts","0.0.1-security",""
 "azure-client-credentials","1.0.0","Apache 2.0"
 "azure-client-credentials","1.0.1","Apache 2.0"
 "azure-client-credentials","1.0.2","Apache 2.0"

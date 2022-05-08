@@ -25124,6 +25124,8 @@
 "dcengine-client","1.0.2","MIT"
 "dcengine-client","1.0.3","MIT"
 "dcengine-client","1.1.0","MIT"
+"dcloud-js-sdk","0.0.8",""
+"dcloud-js-sdk","0.0.9",""
 "dcs-js-utils","1.0.1-rc.0","ISC"
 "ddr-spinner-daniel","0.0.1",""
 "deathbycaptcha4","1.2.0",""

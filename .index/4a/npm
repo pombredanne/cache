@@ -22000,6 +22000,7 @@
 "azure-insights","1.0.0-preview","MIT"
 "azure-insights","1.0.1-preview","MIT"
 "azure-insights","1.0.2-preview","MIT"
+"azure-simple-samples-js","0.0.1-security",""
 "azure-table-query-recursive","0.0.2","MIT"
 "azure-table-query-recursive","0.0.3","MIT"
 "azure-table-query-recursive","0.0.4","MIT"

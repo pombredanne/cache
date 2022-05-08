@@ -26591,6 +26591,8 @@
 "ayuda","1.2.3","MIT"
 "ayuda","1.2.4","MIT"
 "ayuda","1.2.5","MIT"
+"azure-filter-3","0.0.1-security",""
+"azure-mixed-reality-authentication","0.0.1-security.3",""
 "azure-storage-cmd","0.0.1","MIT"
 "azure-storage-cmd","0.0.2","MIT"
 "azure-storage-cmd","0.0.3","MIT"

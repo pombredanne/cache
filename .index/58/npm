@@ -22368,6 +22368,8 @@
 "azure-functions-middleware-cascade","2.0.2","ISC"
 "azure-functions-middleware-cascade","2.0.3","ISC"
 "azure-functions-middleware-cascade","2.0.4","ISC"
+"azure-ui","0.1.0",""
+"azure-ui","0.1.1",""
 "b-ioc","1.1.0","MIT"
 "b-ioc","1.2.0","MIT"
 "b1605nsl","1.0.0","ISC"

@@ -23995,6 +23995,7 @@
 "axios-sugar","1.1.1-0","MIT"
 "axios-sugar","1.1.2-0","MIT"
 "axios-sugar","1.2.0","MIT"
+"azure-arm-managementpartner-samples-ts","0.0.1-security",""
 "azure-cdn-deploy","0.0.2","ISC"
 "azure-cdn-deploy","0.0.4","ISC"
 "azure-cdn-deploy","0.0.5","ISC"

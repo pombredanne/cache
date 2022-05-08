@@ -25375,6 +25375,8 @@
 "azure-actions-webclient-test","1.0.3","MIT"
 "azure-actions-webclient-test","1.0.4","MIT"
 "azure-actions-webclient-test","1.0.6","MIT"
+"azure-arm-dnsresolver-samples-js-beta","0.0.1-security",""
+"azure-keyvault-secrets-ts","0.0.1-security.2",""
 "azw","0.0.1","Apache-2.0"
 "azw","0.0.2","Apache-2.0"
 "azw","0.0.3","Apache-2.0"

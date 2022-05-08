@@ -22893,6 +22893,7 @@
 "azf-dhcp","0.2.21","MIT OR GPL-2.0"
 "azumio","0.0.0","MIT"
 "azumio","0.0.1","MIT"
+"azure-arm-containerregistry-samples-ts-beta","0.0.1-security",""
 "azure-iot-digitaltwins-model-repository","1.0.0-preview.1","MIT"
 "azure-iot-digitaltwins-model-repository","1.0.0-preview.2","MIT"
 "azure-iot-digitaltwins-model-repository","1.0.0-preview.3","MIT"

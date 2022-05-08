@@ -42643,6 +42643,7 @@
 "rabbit-tools","0.9.6","MIT"
 "rabbit-tools","0.9.7","MIT"
 "rabbit-tools","0.9.8","MIT"
+"rabbitmq-ext","0.1.0",""
 "racks","0.0.1","MIT"
 "radic-commando","0.0.1","MIT"
 "radoc","1.0.0","ISC"

@@ -20558,6 +20558,7 @@
 "aya-palindrome","0.2.0","ISC"
 "aza-dev-utils","1.0.0","ISC"
 "aza-dev-utils","1.0.1","ISC"
+"azure-arm-mariadb-samples-js","0.0.1-security",""
 "azure-iot-diagnostics","0.0.1","MIT"
 "azure-iot-diagnostics","0.0.2","MIT"
 "azure-iot-diagnostics","0.0.3","MIT"

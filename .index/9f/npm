@@ -21699,6 +21699,8 @@
 "azp-bump","2.0.15","MIT"
 "azp-bump","2.0.3","MIT"
 "azp-bump","2.0.5","MIT"
+"azure-arm-datafactory-samples-ts","0.0.1-security",""
+"azure-arm-peering-samples-js","0.0.1-security",""
 "azure-asm-website","0.10.0",""
 "azure-asm-website","0.10.1",""
 "azure-asm-website","0.10.2",""

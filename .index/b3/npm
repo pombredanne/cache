@@ -7031,6 +7031,7 @@
 "@events/server","2.2.0",""
 "@events/server","2.2.3",""
 "@evomatik/evk-forms-editor","1.0.0",""
+"@evomatik/evk-forms-editor","1.0.1-beta.1",""
 "@eweilow/ikon-devserver","0.0.1-alpha.0","MIT"
 "@eweilow/ikon-devserver","0.0.1-alpha.1","MIT"
 "@eweilow/ikon-devserver","0.0.1-alpha.3","MIT"

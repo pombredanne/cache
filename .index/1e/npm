@@ -23680,6 +23680,7 @@
 "axe-light","1.0.0","GPL-3.0"
 "axe-light","1.0.1","GPL-3.0"
 "ayman_magdy-fram-print","1.0.0","ISC"
+"azure-eventhubs-checkpointstore-blob","0.0.1-security.3",""
 "azure-scripty","0.0.1","Apache 2"
 "azure-scripty","0.0.2","Apache 2"
 "azure-scripty","0.1.0","Apache 2"
