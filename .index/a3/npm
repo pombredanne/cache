@@ -13493,6 +13493,7 @@
 "@mrbatista/grunt-excel-as-json","2.2.1","MIT"
 "@mrbatista/grunt-excel-as-json","2.2.2","MIT"
 "@mrbatista/grunt-excel-as-json","2.2.3","MIT"
+"@mycelial/wasm","0.1.1",""
 "@mycure/bolt-builder","0.1.0","ISC"
 "@mycure/bolt-builder","0.1.2","ISC"
 "@mycure/bolt-builder","0.1.4","ISC"

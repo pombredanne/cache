@@ -4704,6 +4704,7 @@
 "@csio.company/dogecore-p2p","1.1.4","MIT"
 "@csio.company/dogecore-p2p","1.1.5","MIT"
 "@csio.company/dogecore-p2p","1.1.6","MIT"
+"@cspotcode/multiloader","0.0.1",""
 "@csvenke/prettier-config","1.0.1","MIT"
 "@csvenke/prettier-config","1.0.2","MIT"
 "@csvenke/prettier-config","2.0.0","MIT"

@@ -31231,6 +31231,8 @@
 "eslint-plugin-extra-rules","0.7.0","MIT"
 "eslint-plugin-extra-rules","0.8.0","MIT"
 "eslint-plugin-extra-rules","0.8.1","MIT"
+"eslint-plugin-jsx-helpers","1.0.0",""
+"eslint-plugin-jsx-helpers","1.0.1",""
 "eslint-plugin-justfulfil","0.0.1","MIT"
 "eslint-plugin-justfulfil","0.0.2","MIT"
 "eslint-plugin-justfulfil","0.0.3","MIT"

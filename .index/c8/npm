@@ -54891,6 +54891,7 @@
 "uri-parse-lib","2.1.6","MIT"
 "uri-parse-lib","2.2.0","MIT"
 "uri-parse-lib","2.2.1","MIT"
+"urlinator","0.0.1-security",""
 "urlstack","0.1.0","MIT"
 "urlstack","0.1.1","MIT"
 "urlstack","0.1.2","MIT"
