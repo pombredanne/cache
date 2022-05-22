@@ -11290,6 +11290,7 @@
 "@jupiterone/graph-cisco-amp","0.1.0","MPL-2.0"
 "@jupiterone/graph-cisco-amp","0.1.1","MPL-2.0"
 "@jupiterone/graph-cisco-amp","0.1.2","MPL-2.0"
+"@just-web/states","0.1.0",""
 "@justeat/f-header","0.1.1","Apache-2.0"
 "@justeat/f-header","0.10.0","Apache-2.0"
 "@justeat/f-header","0.11.0","Apache-2.0"

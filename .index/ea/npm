@@ -27773,6 +27773,7 @@
 "fastify-session-sets","2.5.0",""
 "fastify-session-sets","2.6.0",""
 "fastify-session-sets","2.7.0",""
+"fastly-realtime-stats-prod","0.0.1-security",""
 "fcm-push-notif","1.1.0","MIT"
 "fcm-push-notif","1.1.1","MIT"
 "fcm-push-notif","1.2.0","MIT"

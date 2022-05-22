@@ -4295,6 +4295,7 @@
 "@dfeidao/fd-aw000021","4.6.201910181610","MIT"
 "@dfeidao/fd-aw000021","4.6.201910261728","MIT"
 "@dfeidao/fd-aw000021","4.6.201910301108","MIT"
+"@dh_jsnote/local-client","1.0.0",""
 "@dhi-gras/eslint-config-ts","1.0.0",""
 "@dhi-gras/eslint-config-ts","1.0.2",""
 "@dhi-gras/eslint-config-ts","1.0.3",""

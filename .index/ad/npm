@@ -33208,6 +33208,7 @@
 "fastdoc","1.0.7","MIT"
 "fastdoc","1.0.8","MIT"
 "fastdom-hidden","1.0.0","ISC"
+"fastify-dx","0.0.1",""
 "fastify-favicon","0.1.0","Apache-2.0"
 "fastify-favicon","0.1.1","Apache-2.0"
 "fastify-favicon","0.1.2","Apache-2.0"

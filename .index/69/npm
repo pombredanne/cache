@@ -4799,6 +4799,8 @@
 "@device.farm/si-stm32-i2c","1.0.7",""
 "@device.farm/si-stm32-i2c","1.0.8",""
 "@device.farm/si-stm32-i2c","1.0.9",""
+"@devoteam/prettier-config","0.1.0",""
+"@devoteam/prettier-config","1.0.0",""
 "@dexon-foundation/ethereumjs-vm","2.4.0","MPL-2.0"
 "@dexon-foundation/ethereumjs-vm","2.4.1","MPL-2.0"
 "@dexon-foundation/ethereumjs-vm","2.4.2","MPL-2.0"

@@ -15307,6 +15307,7 @@
 "@vdjurdjevic/react-emotion-utils","3.1.1",""
 "@veams/plugin-store","0.0.1","MIT"
 "@veams/plugin-store","0.0.2","MIT"
+"@veva/eslint-config","1.0.3",""
 "@vff/gateway-static-client","0.1.2",""
 "@vff/gateway-static-client","0.2.0",""
 "@viberlab/scrollable","0.0.1-alpha.1",""

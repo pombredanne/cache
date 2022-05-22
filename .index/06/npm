@@ -24018,6 +24018,7 @@
 "@venditan/address-lookup","1.0.3","CC-BY-NC-4.0"
 "@venditan/address-lookup","1.0.4","CC-BY-NC-4.0"
 "@venditan/address-lookup","1.0.5","CC-BY-NC-4.0"
+"@vercel/edge-types","0.10.0",""
 "@vibhus/locale_modules-poc","1.0.0","MIT"
 "@vibhus/locale_modules-poc","1.0.1","MIT"
 "@vibhus/locale_modules-poc","1.0.2","MIT"

@@ -43338,6 +43338,7 @@
 "react-fluent-form","1.5.3","MIT"
 "react-flux-hook","1.0.0","MIT"
 "react-flux-hook","1.0.1","MIT"
+"react-font-size-by-text-length","0.1.0",""
 "react-form-schema","1.0.0","MIT"
 "react-format-currency","0.0.1","MIT"
 "react-format-currency","0.0.2","MIT"

@@ -9222,6 +9222,7 @@
 "@julusian/test-lib","1.0.0-0","MIT"
 "@jurekbarth/lambda-edge-auth","0.0.1","MIT"
 "@jurekbarth/lambda-edge-auth","0.0.2","MIT"
+"@just-web/commands","0.1.0",""
 "@justinc/matches-carousel-component","1.0.0","MIT"
 "@justinc/matches-carousel-component","1.0.1","MIT"
 "@kalamazoo/ci-scripts","1.0.0","Apache-2.0"
