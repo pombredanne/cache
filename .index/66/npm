@@ -15033,6 +15033,7 @@
 "@react-native-firebase/utils","6.0.0-alpha.7","Apache-2.0"
 "@react-native-firebase/utils","6.0.0-alpha.8","Apache-2.0"
 "@react-native-firebase/utils","6.0.0-alpha.9","Apache-2.0"
+"@react-to-styled/table","0.0.2",""
 "@react-types/textfield","3.0.0-rc.1","Apache-2.0"
 "@react-types/textfield","3.0.0-rc.2","Apache-2.0"
 "@react-vertex/buffer-hooks","0.1.10","MIT"

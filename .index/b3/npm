@@ -22219,6 +22219,8 @@
 "@react-spectre/toast","1.0.0-16","MIT"
 "@react-spectrum/divider","3.0.0-rc.1","Apache-2.0"
 "@react-spectrum/divider","3.0.0-rc.2","Apache-2.0"
+"@readybytes/rb-speech-to-text","0.1.0",""
+"@readybytes/rb-speech-to-text","0.1.1",""
 "@realez/tiny","1.0.0",""
 "@realez/tiny","2.0.0",""
 "@realtor2go/web","0.0.12","ISC"

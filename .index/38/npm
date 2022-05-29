@@ -4542,6 +4542,8 @@
 "@dnlowman/danger","7.1.0","MIT"
 "@dnlowman/danger","7.1.1","MIT"
 "@dnlowman/danger","7.1.2","MIT"
+"@docknetwork/wallet-sdk-credentials","0.1.0",""
+"@docknetwork/wallet-sdk-credentials","0.1.1",""
 "@dolsem/dynamoose","19.0.1","MIT"
 "@dolsem/dynamoose","19.0.2","MIT"
 "@dolsem/dynamoose","19.0.3","MIT"

@@ -43259,6 +43259,8 @@
 "react-redux-create","2.2.1","MIT"
 "react-redux-create","2.2.2","MIT"
 "react-redux-lazy","1.0.0","MIT"
+"react-remote-state","0.0.0",""
+"react-remote-state","0.0.1",""
 "react-render-in-browser","0.1.0",""
 "react-render-in-browser","0.2.0",""
 "react-render-in-browser","1.0.0",""

@@ -5575,6 +5575,8 @@
 "@dimensionfourcloud/validations","0.7.1","MIT"
 "@dkx/wait-promise","0.0.1","MIT"
 "@dmail/object-merge","0.0.1",""
+"@dogedefi/plugin-assets-preload","1.1.0",""
+"@dogedefi/plugin-assets-preload","1.1.1",""
 "@dolittle/build","1.0.0","ISC"
 "@dolittle/build","2.0.0","ISC"
 "@dolittle/build","2.0.1","ISC"

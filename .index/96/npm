@@ -15365,6 +15365,8 @@
 "@reactioncommerce/api-plugin-surcharges","1.0.0","GPL-3.0"
 "@reactioncommerce/api-plugin-surcharges","1.0.1","GPL-3.0"
 "@reactioncommerce/api-plugin-surcharges","1.1.0","GPL-3.0"
+"@reactnotebook/local-client","1.0.4",""
+"@reactnotebook/local-client","1.0.5",""
 "@realgeeks/react-native-router-flux","3.37.1","MIT"
 "@rebuscode/dts","0.1.0","ISC"
 "@rebuscode/dts","0.2.0","ISC"

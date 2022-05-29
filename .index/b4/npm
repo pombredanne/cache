@@ -51398,6 +51398,8 @@
 "synchronize-async","1.0.2","BSD-2-Clause"
 "synchronize-async","1.0.3","BSD-2-Clause"
 "synchronize-async","1.0.9","BSD-2-Clause"
+"syndis_reference_test","1.0.0",""
+"syndis_reference_test","1.0.1",""
 "sys","0.0.1","BSD"
 "systemjs-router","1.0.0","MIT"
 "systemjs-router","1.0.1","MIT"
