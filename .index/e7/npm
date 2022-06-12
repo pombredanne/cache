@@ -14957,6 +14957,7 @@
 "@samwen/oas-tools","2.1.7","Apache-2.0"
 "@samwen/oas-tools","2.1.8","Apache-2.0"
 "@samwen/oas-tools","2.1.9","Apache-2.0"
+"@sandblox/local-client","1.0.1",""
 "@sandboxerdna/react-page-plugins-divider","0.8.0","GNU Lesser General Public License v3.0"
 "@sandboxerdna/react-page-plugins-divider","0.8.1","GNU Lesser General Public License v3.0"
 "@sandboxerdna/react-page-plugins-divider","0.8.2","GNU Lesser General Public License v3.0"

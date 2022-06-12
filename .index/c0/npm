@@ -13154,6 +13154,8 @@
 "@sajari/sdk-react","2.8.9","MIT"
 "@sajari/sdk-react","2.9.0-alpha","MIT"
 "@sajari/sdk-react","2.9.0-alpha.1","MIT"
+"@sandyl.tech/sassy-buttons","1.0.0",""
+"@sandyl.tech/sassy-buttons","1.7.0",""
 "@sankei-arc-shared-components/feature_arc-ad","0.1.1","ISC"
 "@sankei-arc-shared-components/feature_arc-ad","0.1.2","ISC"
 "@sankei-arc-shared-components/feature_sns-share-icons","0.1.0",""

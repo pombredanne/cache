@@ -21817,6 +21817,8 @@
 "ac-redislock","1.0.4","MIT"
 "ac-redislock","1.0.5","MIT"
 "ac-redislock","1.0.6","MIT"
+"account-defaults","0.0.14",""
+"account-defaults","0.0.15",""
 "account-rest-api","1.0.0","ISC"
 "account-rest-api","1.1.0","ISC"
 "ack-angular-mobiscroll","0.0.1","MIT"

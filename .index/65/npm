@@ -5425,6 +5425,8 @@
 "@dso/shared","0.0.8",""
 "@dso/shared","0.0.9",""
 "@dtux/scaffold-ko-vue-sample","1.1.14",""
+"@dullaghan/eslint-config-react","0.5.0-alpha.3",""
+"@dullaghan/eslint-config-react","0.5.0-alpha.4",""
 "@dune-network-truffle/resolver","5.2.0-dune.7","MIT"
 "@dune-network/rpc","6.2.1-beta.0","MIT"
 "@dune-network/rpc","6.2.1-beta.3","MIT"

@@ -8880,6 +8880,8 @@
 "@lavadrop/throttle","0.4.0","MIT"
 "@lavadrop/throttle","0.4.1","MIT"
 "@lbennett/grape-jelly","1.0.1","MIT"
+"@leelaing/sveltekitbase","0.0.2",""
+"@leelaing/sveltekitbase","0.0.3",""
 "@leeqiang/q-router","1.0.2","ISC"
 "@leeqiang/q-router","1.0.3","ISC"
 "@leeqiang/q-router","1.0.4","ISC"

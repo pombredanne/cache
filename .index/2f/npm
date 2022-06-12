@@ -14028,6 +14028,7 @@
 "@salto-io/e2e-credentials-store","0.1.13","Apache-2.0"
 "@salto-io/e2e-credentials-store","0.1.14","Apache-2.0"
 "@salto-io/e2e-credentials-store","0.1.15","Apache-2.0"
+"@samelogic/microsurveys","0.0.1",""
 "@sammacbeth/dat-api-core","0.0.1","MIT"
 "@sammacbeth/dat-api-core","0.0.2","MIT"
 "@sammacbeth/dat-api-core","0.0.3","MIT"
