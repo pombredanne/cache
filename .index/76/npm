@@ -40988,6 +40988,7 @@
 "input-boolean","2.2.3","MIT"
 "input-boolean","2.2.4","MIT"
 "input-boolean","2.2.5","MIT"
+"input-floating-label","0.0.0",""
 "inquirer-select-fs","1.0.0","MIT"
 "insomnia-plugin-edgegrid","1.0.0","MIT"
 "insomnia-plugin-graphql-get","1.0.0","MIT"

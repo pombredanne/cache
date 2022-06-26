@@ -46338,6 +46338,7 @@
 "postcss","7.0.9","MIT"
 "postcss-clip-path","0.0.1","MIT"
 "postcss-clip-path","0.0.2","MIT"
+"postcss-figmacss","0.0.0",""
 "postcss-random-function","1.0.0","ISC"
 "postcss-rem-to-rpx","1.0.0","MIT"
 "postcss-rem-to-rpx","1.0.1","MIT"

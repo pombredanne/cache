@@ -13902,6 +13902,7 @@
 "@phenixs/cli-plugin-eslint","0.0.69","MIT"
 "@phenixs/cli-plugin-eslint","0.0.70","MIT"
 "@phenixs/cli-plugin-eslint","0.0.71","MIT"
+"@phoenix-plugin-registry/zeedijk","0.1.0",""
 "@phoenixreisen/notification","0.0.1","MIT"
 "@phoenixreisen/notification","0.0.2","MIT"
 "@phoenixreisen/notification","0.0.3","MIT"

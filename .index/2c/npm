@@ -13793,6 +13793,7 @@
 "@pinpt/uic.next","2.0.1-052ddae.0",""
 "@pinpt/uic.next","2.0.1-96dc72e.0",""
 "@pinpt/uic.next","2.0.1-d21c180.0",""
+"@pioneer-platform/eth-e2e-sdk-swap-metamask","8.1.42",""
 "@pipedreamhq/platform","0.0.2","ISC"
 "@pipedreamhq/platform","0.0.3","MIT"
 "@pipedreamhq/platform","0.0.4","MIT"

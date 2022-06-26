@@ -6830,6 +6830,7 @@
 "@glimmerx/core","0.2.3","MIT"
 "@globefish/utils","0.0.6","MIT"
 "@globefish/utils","0.0.7","MIT"
+"@gnchain/wallet-types","0.1.0",""
 "@gospl/kit","0.1.0","ISC"
 "@gospl/kit","0.1.1","ISC"
 "@gospl/kit","0.3.0","ISC"
