@@ -8732,6 +8732,7 @@
 "@js/components","0.0.2","MIT"
 "@jsmicro/is-number","1.0.2","MIT"
 "@jsnote-ks-sg/local-client","1.0.0",""
+"@jsnote-practice/local-client","1.0.0",""
 "@jumpstartjs/tsd-jsdoc","2.0.0-beta.6","MIT"
 "@jumpstartjs/tsd-jsdoc","2.0.1","MIT"
 "@jumpstartjs/tsd-jsdoc","2.0.2","MIT"

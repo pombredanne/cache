@@ -4895,6 +4895,7 @@
 "@design-systems/create","1.7.5-canary.251.5566.0","MIT"
 "@design-systems/create","1.7.5-canary.251.5572.0","MIT"
 "@design-systems/create","1.8.0","MIT"
+"@dev.envivo/vue-interface","0.1.0",""
 "@develbay/projector","0.0.1","ISC"
 "@dexdex/utils","0.0.1","MIT"
 "@dexdex/utils","0.0.13","MIT"

@@ -9308,6 +9308,8 @@
 "@js-factory/perf-budget-webpack-plugin","1.2.0","MIT"
 "@jsbit/spa-router","0.0.1","ISC"
 "@jsbit/spa-router","0.0.4","ISC"
+"@jsnote-o/local-client","1.0.0",""
+"@jsnote-o/local-client","1.0.1",""
 "@juandiegombr/vuejs-camera","0.1.0",""
 "@juliendargelos/shogi","1.0.0","MIT"
 "@juliendargelos/shogi","2.0.0","MIT"

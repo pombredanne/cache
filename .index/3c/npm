@@ -10784,6 +10784,7 @@
 "@jseditorbook/local-client","2.2.2",""
 "@jseditorbook/local-client","2.2.3",""
 "@jsnote-redux/local-client","1.0.0",""
+"@jsnote-tvo/local-client","1.0.0",""
 "@jsnote/local-client","1.0.0",""
 "@jupiterone/graph-pagerduty","1.0.2","MPL-2.0"
 "@jupiterone/graph-pagerduty","1.0.4","MPL-2.0"

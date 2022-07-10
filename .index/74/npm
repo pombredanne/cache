@@ -10156,6 +10156,7 @@
 "@jser/post-parser","1.0.3","MIT"
 "@jser/post-parser","1.1.0","MIT"
 "@jsnote-danbu/local-client","1.0.0",""
+"@jsnote-sr/local-client","2.0.0",""
 "@jspatrick/threejs","1.0.0",""
 "@julius-go/pb1111111","1.0.0","ISC"
 "@jumpitt/imed-components","0.0.1","MIT"

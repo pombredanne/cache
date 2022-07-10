@@ -19043,6 +19043,7 @@
 "@unilogin/commons","0.5.19","MIT"
 "@unilogin/commons","0.5.20","MIT"
 "@unilogin/commons","0.5.21","MIT"
+"@universal-json-schema-interceptors/translate-range-date","1.0.0",""
 "@useweb/scroll-back-to-top-icon","1.0.0",""
 "@useweb/scroll-back-to-top-icon","1.0.1",""
 "@useweb/scroll-back-to-top-icon","1.1.0",""

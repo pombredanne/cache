@@ -4279,6 +4279,7 @@
 "@devops-source/constants","1.0.1","ISC"
 "@devoteam/eslint-config","0.1.0",""
 "@devoteam/eslint-config","1.0.0",""
+"@devoteam/eslint-config","1.1.0",""
 "@devshack/react-native-storage","0.2.2","MIT"
 "@dewcms/router","0.1.0",""
 "@dewcms/router","0.2.0",""
