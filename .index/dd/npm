@@ -5097,6 +5097,8 @@
 "@dlghq/rx-grpc-web-gateway-client","2.16.3",""
 "@dlghq/rx-grpc-web-gateway-client","2.16.4",""
 "@dlghq/rx-grpc-web-gateway-client","2.16.5",""
+"@dlghq/rx-grpc-web-gateway-client","2.16.6",""
+"@dlghq/rx-grpc-web-gateway-client","2.16.7",""
 "@dlghq/rx-grpc-web-gateway-client","3.0.0",""
 "@dlghq/rx-grpc-web-gateway-client","3.0.10",""
 "@dlghq/rx-grpc-web-gateway-client","3.0.11",""

@@ -23532,6 +23532,8 @@
 "@vuepress/plugin-clean-urls","1.0.0-alpha.42","MIT"
 "@vuepress/plugin-clean-urls","1.0.0-alpha.43","MIT"
 "@vuepress/plugin-clean-urls","1.0.0-alpha.44","MIT"
+"@vuni/kit","0.0.1",""
+"@vuni/kit","0.0.2",""
 "@vzo/cli","1.0.0-alpha.0","ISC"
 "@vzo/cli","1.0.0-alpha.1","ISC"
 "@wadiwaw/wadiwaw-core","0.0.1",""
