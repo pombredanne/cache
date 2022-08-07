@@ -13796,6 +13796,8 @@
 "@jwalsh/eslint-config-esnext","1.6.1","ISC"
 "@jwalsh/eslint-config-esnext","1.6.2","ISC"
 "@jwize/barebones","1.0.0","MIT"
+"@jykang/eslint-config","1.0.0",""
+"@jykang/eslint-config","1.0.1",""
 "@jzez/custom_sku","1.0.0","ISC"
 "@jzez/custom_sku","1.0.1","ISC"
 "@k-suite/server","1.0.0","MIT"
