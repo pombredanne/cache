@@ -20034,6 +20034,7 @@
 "@winnie.ho.ama/ama-react-components","1.5.2","UNLICENSED"
 "@winnie.ho.ama/ama-react-components","1.6.0","UNLICENSED"
 "@winnie.ho.ama/ama-react-components","1.7.0","UNLICENSED"
+"@wix-velo/velo-external-db-core-2","1.0.5",""
 "@wmp-sbd/aws-xray-sdk-postgres","2.2.1","Apache-2.0"
 "@wmp-sbd/aws-xray-sdk-postgres","2.2.2","Apache-2.0"
 "@wmp-sbd/aws-xray-sdk-postgres","2.2.3","Apache-2.0"

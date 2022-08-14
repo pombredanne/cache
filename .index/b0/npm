@@ -18280,6 +18280,7 @@
 "@wisersolutions/transpile-js","0.0.7","MIT"
 "@wisersolutions/transpile-js","0.0.8","MIT"
 "@wisersolutions/transpile-js","0.0.9","MIT"
+"@wix-velo/external-db-testkit","1.0.0",""
 "@wize/doc-generator","1.0.0",""
 "@wize/doc-generator","1.0.1",""
 "@wize/doc-generator","1.0.2",""
