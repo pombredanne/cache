@@ -14742,6 +14742,7 @@
 "@stablelib/hmac-drbg","0.7.3","MIT"
 "@stablelib/hmac-drbg","0.7.4","MIT"
 "@stablelib/hmac-drbg","1.0.0","MIT"
+"@stacket.in/angular2-smart-table","2.1.0",""
 "@start-env/babel-preset","0.0.1","MIT"
 "@start-env/babel-preset","0.1.0","MIT"
 "@statechart/hast-xml-parse","0.1.0","MIT"

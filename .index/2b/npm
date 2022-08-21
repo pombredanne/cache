@@ -13428,6 +13428,8 @@
 "@newrelic/test-utilities","3.1.0",""
 "@newrelic/test-utilities","3.2.0",""
 "@newrelic/test-utilities","3.3.0",""
+"@nexo-stack/electron-cli","1.0.0-dev",""
+"@nexo-stack/electron-cli","1.0.0-dev.0",""
 "@ngsm/title","0.1.1",""
 "@ngsm/title","0.1.2",""
 "@ngx-kit/ui-ext-select","8.0.0-alpha.1","MIT"
