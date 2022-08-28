@@ -9913,6 +9913,8 @@
 "@nipacloud/nvision","0.1.7","MIT"
 "@nishantt12/tanwar-util","1.0.0","MIT"
 "@njgingrich/simmer-api","1.0.0","MIT"
+"@noctifer20/nestjs-alchemy","0.2.10",""
+"@noctifer20/nestjs-alchemy","0.2.11",""
 "@node-mvc-decorator/express","0.0.1","ISC"
 "@node-mvc-decorator/express","0.0.2","ISC"
 "@node-mvc-decorator/express","0.0.3","ISC"

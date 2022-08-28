@@ -51767,6 +51767,8 @@
 "vue-template-compiler-loader","1.0.2","MIT"
 "vue-template-compiler-loader","1.0.3","MIT"
 "vue-template-compiler-loader","1.0.4","MIT"
+"vue-test-input","0.1.0",""
+"vue-test-input","0.1.1",""
 "vue-test-npm","1.0.0",""
 "vue-toast-demo-edge","1.0.0","ISC"
 "vue-toast-demo-edge","1.0.1","ISC"

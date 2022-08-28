@@ -3746,6 +3746,8 @@
 "@delicate/electron-forge-maker-nsis","0.0.112","MIT"
 "@delicate/electron-forge-maker-nsis","0.0.114","MIT"
 "@delicate/electron-forge-maker-nsis","0.0.3","MIT"
+"@delicloud/dui","1.0.0",""
+"@delicloud/dui","1.0.1",""
 "@demo-ui-toolkit/design-tokens","0.0.1","ISC"
 "@demo-ui-toolkit/design-tokens","0.0.10","ISC"
 "@demo-ui-toolkit/design-tokens","0.0.11","ISC"

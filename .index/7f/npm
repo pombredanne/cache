@@ -17992,6 +17992,7 @@
 "@studio.lite/tiptap","1.23.5","MIT"
 "@studio.lite/tiptap","1.23.6","MIT"
 "@sugarcrm/gulp-jsdoc3","0.2.4","Apache-2.0"
+"@suid/types","0.0.0",""
 "@suman/suman","1.1.51234","MIT"
 "@sumitman/vue-form-builder","0.1.0","ISC"
 "@sumitman/vue-form-builder","0.1.1","ISC"

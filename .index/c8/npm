@@ -34348,6 +34348,7 @@
 "foo-test-test-test-blah-blah-blah","0.1.0","ISC"
 "foo-test-test-test-blah-blah-blah","0.1.0-rc.0","ISC"
 "foo-test-test-test-blah-blah-blah","0.2.0-rc.0","ISC"
+"footer-component","5.2.3",""
 "footer-example","0.0.0","MIT"
 "for-mirror","0.0.1","MIT"
 "for-mirror","0.0.2","MIT"
