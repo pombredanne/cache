@@ -21712,6 +21712,8 @@
 "@ng-apimock/dev-interface","1.2.0",""
 "@ng-apimock/dev-interface","2.0.0",""
 "@ng-apimock/dev-interface","3.0.0",""
+"@ng-apimock/dev-interface","3.1.0",""
+"@ng-apimock/dev-interface","3.1.1",""
 "@ng2-dynamic-forms/ui-primeng","1.0.0","ISC"
 "@ng2-dynamic-forms/ui-primeng","1.0.0-beta.10","ISC"
 "@ng2-dynamic-forms/ui-primeng","1.0.0-beta.11","ISC"
