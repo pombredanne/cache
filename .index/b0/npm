@@ -13215,6 +13215,7 @@
 "@pluginjs/sticky","0.8.3","GPL-3.0"
 "@pokusew/express-jwt","3.4.1",""
 "@pokusew/express-jwt","3.4.2",""
+"@polemic/parchment","0.7.0",""
 "@policar/react-redux-form","0.1.0","MIT"
 "@policar/react-redux-form","0.1.2","MIT"
 "@policar/react-redux-form","0.2.1","MIT"

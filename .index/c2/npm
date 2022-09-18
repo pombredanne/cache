@@ -15302,6 +15302,7 @@
 "@polyfill-io-aot/builder","4.0.4","MIT"
 "@polyfill-io-aot/builder","4.0.5","MIT"
 "@polytope/chello","0.0.0-development","MIT"
+"@pooley/core","0.0.1",""
 "@porch/babel-preset-porch","2.4.0","ISC"
 "@porch/babel-preset-porch","2.4.1","ISC"
 "@pr0da/cli-github-pages","2.0.0","MIT"

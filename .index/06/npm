@@ -17998,6 +17998,8 @@
 "@pluginjs/draggable","0.8.3","GPL-3.0"
 "@poltergeist/plugin-ampgist","0.0.1","BSD-2-Clause"
 "@poltergeist/plugin-ampgist","0.0.3","BSD-2-Clause"
+"@ponomarevlad/svg-text","0.6.1",""
+"@ponomarevlad/svg-text","0.6.2",""
 "@popdog/consent-manager","4.5.1","MIT"
 "@popdog/consent-manager","4.5.2","MIT"
 "@poryl/wasm-add","0.1.0","MIT/Apache-2.0"

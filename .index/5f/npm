@@ -17247,6 +17247,7 @@
 "@vidiun-ng/mc-shared","5.1.7","AGPL-3.0"
 "@vidiun-ng/mc-shared","5.1.8","AGPL-3.0"
 "@vimcal/hello-wasm","0.1.0",""
+"@vimeo-date-time/relative","0.0.1-security",""
 "@vimlesai/react-upload","0.0.0","GNU GPLv3"
 "@vimlet/eon-cli","0.0.1","MIT"
 "@vimlet/eon-cli","0.0.10","MIT"
