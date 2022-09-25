@@ -4032,6 +4032,7 @@
 "@drill4j/semver","0.4.0","Apache-2.0"
 "@dropintheme/antdv4","1.0.0","AGPL-3.0-or-later"
 "@drorgl/youtube-captions-scraper","1.0.2","MIT"
+"@dryprogrammer/cv-test","0.0.2",""
 "@ds-kit/flex","0.0.2","LicenseRef-LICENSE"
 "@ds-kit/flex","1.0.0","LicenseRef-LICENSE"
 "@ds-kit/flex","1.1.0","LicenseRef-LICENSE"
