@@ -52113,6 +52113,7 @@
 "umi-plugin-codegen","0.0.7","MIT"
 "umi-plugin-codegen","0.0.8","MIT"
 "umi-plugin-codegen","0.0.9","MIT"
+"umi-plugin-mf-async-entry","0.0.1",""
 "umi-plugin-module","0.0.1","MIT"
 "umi-plugin-module","0.0.2","MIT"
 "umi-plugin-nprogress","1.0.0","MIT"

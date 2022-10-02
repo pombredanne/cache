@@ -28771,6 +28771,7 @@
 "dw-switch","1.0.0-feat--initial-setup-.1","MIT"
 "dw-switch","1.0.0-initial-setup.1","MIT"
 "dwac","0.0.1-security",""
+"dwolla-adapter","0.0.1-security.0",""
 "dxlibs-middleware","1.0.0","MIT"
 "dxlibs-middleware","1.0.1","MIT"
 "dynamo2es-lambda","1.0.0","MIT"

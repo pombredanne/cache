@@ -4743,6 +4743,7 @@
 "@craigrmccown/apollo-codegen-typescript-legacy","0.28.2","MIT"
 "@craigrmccown/apollo-codegen-typescript-legacy","0.28.3","MIT"
 "@cranq-libs/set","0.0.1",""
+"@crx-template/chrome-extension-preact-js","0.0.0",""
 "@cryptography/aes","0.1.0","GPL-3.0-or-later"
 "@cryptography/aes","0.1.1","GPL-3.0-or-later"
 "@csn_chile/twocircleschart","1.0.0","GPL-3.0-or-later"
