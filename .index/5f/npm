@@ -9937,6 +9937,7 @@
 "@navch/testing","0.3.2","BSD-3-Clause"
 "@navch/testing","0.3.3","BSD-3-Clause"
 "@navch/testing","0.4.0","BSD-3-Clause"
+"@navigraph/cdk-dummy-construct","0.0.1",""
 "@navikt/helse-frontend-hooks","1.0.3","MIT"
 "@necessarylion/csv2array","1.0.0","ISC"
 "@nelsontk/angular-toaster","9.0.1",""

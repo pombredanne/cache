@@ -3730,6 +3730,7 @@
 "@datafire/traccar","5.0.0","MIT"
 "@datafire/traccar","5.0.1","MIT"
 "@datagica/match-entities","0.0.0","GPL-3.0"
+"@davidkhala/gcp","0.0.0",""
 "@db3dev/redis-rxjs","0.0.1","ISC"
 "@ddamdev/contracts","1.0.0-alpha","MIT"
 "@ddamdev/contracts","1.0.0-beta.0","MIT"

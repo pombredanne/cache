@@ -7087,6 +7087,8 @@
 "@datafire/wso2apistore_transform","2.0.0","MIT"
 "@datafire/wso2apistore_transform","3.0.0","MIT"
 "@datafire/wso2apistore_transform","4.0.0","MIT"
+"@datagrok/file-editors","0.1.0",""
+"@datagrok/file-editors","0.1.1",""
 "@dataloop/client","0.7.30","ISC"
 "@datapunt/amsterdam-amaps","3.0.0","ISC"
 "@datapunt/amsterdam-amaps","3.0.1","ISC"

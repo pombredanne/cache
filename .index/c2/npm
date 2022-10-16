@@ -4700,6 +4700,8 @@
 "@datagica/datanote-desktop-engine","0.0.7","GPL-3.0"
 "@datagica/datanote-desktop-engine","0.0.8","GPL-3.0"
 "@datagica/datanote-desktop-engine","0.0.9","GPL-3.0"
+"@datagrok/pubchemapi","0.0.1",""
+"@daveholst/nx-python-django","0.0.1",""
 "@dawsonbotsford/shell-history","2.0.0","MIT"
 "@db-plus/utils","1.0.0",""
 "@dbg-riskit/angular-login","0.0.0-SNAPSHOT","SEE LICENSE IN LICENSE"
