@@ -60,5 +60,10 @@ func (catalog *Catalog) Each(visitor core.Visitor[*core.Dependency]) {
 func fetch[T any](ctx context.Context, url string) T {
 	response := x.Must(otelhttp.Get(ctx, url))
 	defer response.Body.Close()
-	return x.Must(serde.From[T](response.Body, serde.JSON))
+	item, err := serde.From[T](response.Body, serde.JSON)
+	if err != nil {
+		fmt.Printf("error: %v\n", url)
+	}
+	x.Check(err)
+	return item
 }
