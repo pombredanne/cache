@@ -1,31 +1,37 @@
 package nuget
 
-import "time"
+import (
+	"time"
+
+	"github.com/gofrs/uuid"
+)
 
 type PackageItemDetails struct {
-	Id              string     `json:"@id"`
-	Type            string     `json:"@type"`
-	CommitId        string     `json:"commitId"`
-	CommitTimeStamp time.Time  `json:"commitTimeStamp"`
-	Entry           Dependency `json:"catalogEntry"`
+	Id              string      `json:"@id"`
+	Type            string      `json:"@type"`
+	CommitId        uuid.UUID   `json:"commitId"`
+	CommitTimeStamp time.Time   `json:"commitTimeStamp"`
+	Entry           *Dependency `json:"catalogEntry"`
+	PackageContent  string      `json:"packageContent"`
+	Registration    string      `json:"registration"`
 }
 
 type PackageItem struct {
-	Id              string               `json:"@id"`
-	Type            string               `json:"@type"`
-	CommitId        string               `json:"commitId"`
-	CommitTimeStamp time.Time            `json:"commitTimeStamp"`
-	Count           uint64               `json:"count"`
-	Items           []PackageItemDetails `json:"items"`
+	Id              string                `json:"@id"`
+	Type            string                `json:"@type"`
+	CommitId        uuid.UUID             `json:"commitId"`
+	CommitTimeStamp time.Time             `json:"commitTimeStamp"`
+	Count           uint64                `json:"count"`
+	Items           []*PackageItemDetails `json:"items"`
 }
 
 type PackageIndexData struct {
-	Id              string        `json:"@id"`
-	Type            []string      `json:"@type"`
-	CommitId        string        `json:"commitId"`
-	CommitTimeStamp time.Time     `json:"commitTimeStamp"`
-	Count           uint64        `json:"count"`
-	Items           []PackageItem `json:"items"`
+	Id              string         `json:"@id"`
+	Type            []string       `json:"@type"`
+	CommitId        uuid.UUID      `json:"commitId"`
+	CommitTimeStamp time.Time      `json:"commitTimeStamp"`
+	Count           uint64         `json:"count"`
+	Items           []*PackageItem `json:"items"`
 }
 
 type Vulnerability struct {
@@ -50,60 +56,65 @@ type DependencyGroup struct {
 }
 
 type Dependency struct {
-	Id                       string            `json:"@id"`
-	Type                     []string          `json:"@type"`
-	Authors                  string            `json:"authors"`
-	CommitId                 string            `json:"catalog:commitId"`
-	CommitTimeStamp          time.Time         `json:"catalog:commitTimeStamp"`
-	Copyright                string            `json:"copyright"`
-	Created                  time.Time         `json:"created"`
-	Description              string            `json:"description"`
-	IconUrl                  string            `json:"iconUrl"`
-	Name                     string            `json:"id"`
-	IsPrerelease             bool              `json:"isPrerelease"`
-	Language                 string            `json:"language"`
-	LicenseUrl               string            `json:"licenseUrl"`
-	LicenseExpression        string            `json:"licenseExpression"`
-	MinClientVersion         string            `json:"minClientVersion"`
-	LastEdited               time.Time         `json:"lastEdited"`
-	Listed                   bool              `json:"listed"`
-	PackageHash              string            `json:"packageHash"`
-	PackageHashAlgorithm     string            `json:"packageHashAlgorithm"`
-	ProjectUrl               string            `json:"projectUrl"`
-	Summary                  string            `json:"summary"`
-	Tags                     []string          `json:"tags"`
-	Title                    string            `json:"title"`
-	PackageSize              uint64            `json:"packageSize"`
-	Published                time.Time         `json:"published"`
-	ReleaseNotes             string            `json:"releaseNotes"`
-	RequireLicenseAcceptance bool              `json:"requireLicenseAcceptance"`
-	VerbatimVersion          string            `json:"verbatimVersion"`
-	Version                  string            `json:"version"`
-	DependencyGroups         []DependencyGroup `json:"dependencyGroups"`
-	Vulnerabilities          []Vulnerability   `json:"vulnerabilities"`
+	Id                       string    `json:"@id"`
+	Type                     string    `json:"@type"`
+	Authors                  string    `json:"authors"`
+	Description              string    `json:"description"`
+	IconUrl                  string    `json:"iconUrl"`
+	Name                     string    `json:"id"`
+	Language                 string    `json:"language"`
+	LicenseExpression        string    `json:"licenseExpression"`
+	LicenseUrl               string    `json:"licenseUrl"`
+	Listed                   bool      `json:"listed"`
+	MinClientVersion         string    `json:"minClientVersion"`
+	PackageContent           string    `json:"packageContent"`
+	ProjectUrl               string    `json:"projectUrl"`
+	Published                time.Time `json:"published"`
+	RequireLicenseAcceptance bool      `json:"requireLicenseAcceptance"`
+	Summary                  string    `json:"summary"`
+	Tags                     []string  `json:"tags"`
+	Title                    string    `json:"title"`
+	Version                  string    `json:"version"`
+
+	CommitId             string             `json:"catalog:commitId"`
+	CommitTimeStamp      time.Time          `json:"catalog:commitTimeStamp"`
+	Copyright            string             `json:"copyright"`
+	Created              time.Time          `json:"created"`
+	IsPrerelease         bool               `json:"isPrerelease"`
+	LastEdited           time.Time          `json:"lastEdited"`
+	PackageHash          string             `json:"packageHash"`
+	PackageHashAlgorithm string             `json:"packageHashAlgorithm"`
+	PackageSize          uint64             `json:"packageSize"`
+	ReleaseNotes         string             `json:"releaseNotes"`
+	VerbatimVersion      string             `json:"verbatimVersion"`
+	DependencyGroups     []*DependencyGroup `json:"dependencyGroups"`
+	Vulnerabilities      []*Vulnerability   `json:"vulnerabilities"`
 }
 
 type PackageDetails struct {
 	Id              string    `json:"@id"`
 	Type            string    `json:"@type"`
-	CommitId        string    `json:"commitId"`
 	CommitTimeStamp time.Time `json:"commitTimeStamp"`
 	Name            string    `json:"nuget:id"`
 	Version         string    `json:"nuget:version"`
+	CommitId        uuid.UUID `json:"commitId"`
 }
 
 type CatalogPageData struct {
-	Id              string           `json:"@id"`
-	CommitTimeStamp time.Time        `json:"commitTimeStamp"`
-	Count           int              `json:"count"`
-	Parent          string           `json:"parent"`
-	Items           []PackageDetails `json:"items"`
+	Id              string                 `json:"@id"`
+	Type            string                 `json:"@type"`
+	CommitId        uuid.UUID              `json:"commitId"`
+	CommitTimeStamp time.Time              `json:"commitTimeStamp"`
+	Count           int                    `json:"count"`
+	Items           []*PackageDetails      `json:"items"`
+	Parent          string                 `json:"parent"`
+	Context         map[string]interface{} `json:"@context"`
 }
 
 type CatalogPage struct {
 	Id              string    `json:"@id"`
 	Type            string    `json:"@type"`
-	CommitId        string    `json:"commitId"`
+	CommitId        uuid.UUID `json:"commitId"`
 	CommitTimeStamp time.Time `json:"commitTimeStamp"`
 	Count           int       `json:"count"`
 }
@@ -113,7 +124,7 @@ type Permalink struct{}
 type CatalogData struct {
 	Id              string         `json:"@id"`
 	Type            []string       `json:"@type"`
-	CommitId        string         `json:"commitId"`
+	CommitId        uuid.UUID      `json:"commitId"`
 	CommitTimeStamp time.Time      `json:"commitTimeStamp"`
 	Count           int            `json:"count"`
 	LastCreated     time.Time      `json:"nuget:lastCreated"`
