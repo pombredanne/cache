@@ -1,6 +1,8 @@
 package nuget
 
 import (
+	"fmt"
+	"strings"
 	"time"
 
 	"github.com/gofrs/uuid"
@@ -98,6 +100,10 @@ type PackageDetails struct {
 	Name            string    `json:"nuget:id"`
 	Version         string    `json:"nuget:version"`
 	CommitId        uuid.UUID `json:"commitId"`
+}
+
+func (p *PackageDetails) URL() string {
+	return fmt.Sprintf("https://api.nuget.org/v3/registration5-semver1/%s/index.json", strings.ToLower(p.Name))
 }
 
 type CatalogPageData struct {

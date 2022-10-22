@@ -3,7 +3,6 @@ package nuget
 import (
 	"context"
 	"fmt"
-	"strings"
 
 	"github.com/spandx/cache/pkg/core"
 	"github.com/xlgmokha/x/pkg/serde"
@@ -30,21 +29,20 @@ https://api.nuget.org/v3/registration5-semver1/egopdf.marcoregueira/index.json
 
 type Catalog struct {
 	ctx context.Context
+	url string
 }
 
 func NewCatalog(ctx context.Context) *Catalog {
 	return &Catalog{
 		ctx: ctx,
+		url: "https://api.nuget.org/v3/catalog0/index.json",
 	}
 }
 
 func (catalog *Catalog) Each(visitor core.Visitor[*core.Dependency]) {
-	const registrationBaseUrl = "https://api.nuget.org/v3/registration5-semver1"
-
-	for _, c := range fetch[*CatalogData](catalog.ctx, "https://api.nuget.org/v3/catalog0/index.json").Items {
+	for _, c := range fetch[*CatalogData](catalog.ctx, catalog.url).Items {
 		for _, item := range fetch[*CatalogPageData](catalog.ctx, c.Id).Items {
-			url := fmt.Sprintf("%s/%s/index.json", registrationBaseUrl, strings.ToLower(item.Name))
-			for _, x := range fetch[*PackageIndexData](catalog.ctx, url).Items {
+			for _, x := range fetch[*PackageIndexData](catalog.ctx, item.URL()).Items {
 				for _, y := range x.Items {
 					visitor(&core.Dependency{
 						Name:     y.Entry.Name,
@@ -63,7 +61,7 @@ func fetch[T any](ctx context.Context, url string) T {
 	item, err := serde.From[T](response.Body, serde.JSON)
 	if err != nil {
 		fmt.Printf("error: %v\n", url)
+		return x.Default[T]()
 	}
-	x.Check(err)
 	return item
 }
