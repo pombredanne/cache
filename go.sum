@@ -1,2 +1,6 @@
+github.com/google/jsonapi v1.0.0 h1:qIGgO5Smu3yJmSs+QlvhQnrscdZfFhiV6S8ryJAglqU=
+github.com/google/jsonapi v1.0.0/go.mod h1:YYHiRPJT8ARXGER8In9VuLv4qvLfDmA9ULQqptbLE4s=
+github.com/xlgmokha/x v0.0.0-20221022200215-841f1078f4e1 h1:jdSA8dru3i9hxT5lL4PE1WSQHeIuvwqLZerg6dK/ajo=
+github.com/xlgmokha/x v0.0.0-20221022200215-841f1078f4e1/go.mod h1:Hf/0a9FveTBuVKvZ+Emmw6BlJyLGlhgjQwa4dFXp48s=
 golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
 golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=

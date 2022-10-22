@@ -23,7 +23,7 @@ func main() {
 			fmt.Println("Unknown ecosystem")
 		} else {
 			cache := cache.NewCache(".index", ecosystem)
-			catalog.Each(func(item core.Dependency) {
+			catalog.Each(func(item *core.Dependency) {
 				cache.Write(item.Name, item.Version, item.Licenses)
 			})
 			cache.Flush()
