@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/spandx/cache/cache"
-	"github.com/spandx/cache/core"
-	"github.com/spandx/cache/npm"
-	"github.com/spandx/cache/nuget"
+	"github.com/spandx/cache/pkg/cache"
+	"github.com/spandx/cache/pkg/core"
+	"github.com/spandx/cache/pkg/npm"
+	"github.com/spandx/cache/pkg/nuget"
 )
 
 func main() {
