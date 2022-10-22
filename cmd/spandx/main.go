@@ -1,6 +1,7 @@
 package main
 
 import (
+	"context"
 	"fmt"
 	"os"
 
@@ -12,9 +13,12 @@ import (
 
 func main() {
 	if len(os.Args) == 2 {
+		ctx, cancel := context.WithCancel(context.Background())
+		defer cancel()
+
 		items := map[string]core.Catalog{
-			"nuget": nuget.NewCatalog(),
-			"npm":   npm.NewCatalog(),
+			"nuget": nuget.NewCatalog(ctx),
+			"npm":   npm.NewCatalog(ctx),
 		}
 
 		ecosystem := os.Args[1]

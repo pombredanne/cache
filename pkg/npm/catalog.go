@@ -2,6 +2,7 @@ package npm
 
 import (
 	"bufio"
+	"context"
 	"encoding/json"
 	"fmt"
 	"net/http"
@@ -27,10 +28,13 @@ type Dependency struct {
 }
 
 type Catalog struct {
+	ctx context.Context
 }
 
-func NewCatalog() *Catalog {
-	return &Catalog{}
+func NewCatalog(ctx context.Context) *Catalog {
+	return &Catalog{
+		ctx: ctx,
+	}
 }
 
 func (c *Catalog) Each(visitor core.Visitor[*core.Dependency]) {
