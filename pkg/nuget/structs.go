@@ -6,6 +6,7 @@ import (
 	"time"
 
 	"github.com/gofrs/uuid"
+	"github.com/spandx/cache/pkg/core"
 )
 
 type PackageItemDetails struct {
@@ -64,6 +65,7 @@ type Dependency struct {
 	Description              string    `json:"description"`
 	IconUrl                  string    `json:"iconUrl"`
 	Name                     string    `json:"id"`
+	NugetName                string    `json:"nuget:id"`
 	Language                 string    `json:"language"`
 	LicenseExpression        string    `json:"licenseExpression"`
 	LicenseUrl               string    `json:"licenseUrl"`
@@ -77,6 +79,7 @@ type Dependency struct {
 	Tags                     []string  `json:"tags"`
 	Title                    string    `json:"title"`
 	Version                  string    `json:"version"`
+	NugetVersion             string    `json:"nuget:version"`
 
 	CommitId             string             `json:"catalog:commitId"`
 	CommitTimeStamp      time.Time          `json:"catalog:commitTimeStamp"`
@@ -91,6 +94,23 @@ type Dependency struct {
 	VerbatimVersion      string             `json:"verbatimVersion"`
 	DependencyGroups     []*DependencyGroup `json:"dependencyGroups"`
 	Vulnerabilities      []*Vulnerability   `json:"vulnerabilities"`
+}
+
+func (d *Dependency) ToDependency() *core.Dependency {
+	name := d.Name
+	if name == "" {
+		name = d.NugetName
+	}
+	version := d.Version
+	if version == "" {
+		version = d.NugetVersion
+	}
+
+	return &core.Dependency{
+		Name:     name,
+		Version:  version,
+		Licenses: []string{d.LicenseExpression},
+	}
 }
 
 type PackageDetails struct {

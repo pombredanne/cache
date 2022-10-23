@@ -44,11 +44,7 @@ func (catalog *Catalog) Each(visitor core.Visitor[*core.Dependency]) {
 		for _, item := range fetch[*CatalogPageData](catalog.ctx, c.Id).Items {
 			for _, x := range fetch[*PackageIndexData](catalog.ctx, item.URL()).Items {
 				for _, y := range x.Items {
-					visitor(&core.Dependency{
-						Name:     y.Entry.Name,
-						Version:  y.Entry.Version,
-						Licenses: []string{y.Entry.LicenseExpression},
-					})
+					visitor(y.Entry.ToDependency())
 				}
 			}
 		}
