@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/gofrs/uuid v4.3.0+incompatible
-	github.com/xlgmokha/x v0.0.0-20221022200215-841f1078f4e1
+	github.com/xlgmokha/x v0.0.0-20221023040112-0610463739d1
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.36.4
 )
 
