@@ -51252,6 +51252,7 @@
 "qljs","0.2.4","MIT"
 "qljs","0.2.5","MIT"
 "qml-webpack-loader","0.0.2","MIT"
+"qms-common","0.0.2",""
 "qmuzik-materialtransferhistory","10.0.2",""
 "qmuzik-npereportset","10.0.2",""
 "qmuzik-partrevisioncrossref-shared","10.0.2",""
