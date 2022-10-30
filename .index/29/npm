@@ -19280,6 +19280,7 @@
 "@thi.ng/hiccup-dom-components","0.2.2","Apache-2.0"
 "@thiagodk/ami","0.0.3",""
 "@thiagodk/ami","0.0.4",""
+"@thirtyfox/tsconfig","1.0.0",""
 "@this-empathy/javascript-mask","1.0.0","BSD-2-Clause"
 "@this-empathy/javascript-mask","1.0.1","BSD-2-Clause"
 "@thundra/webpack-plugin","1.0.0","ISC"

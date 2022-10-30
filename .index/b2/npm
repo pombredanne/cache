@@ -37140,6 +37140,7 @@
 "material-toolbox","0.8.0","MIT"
 "material-toolbox","0.9.0","MIT"
 "material-ui-lab-umd","4.0.0-alpha.32","ISC"
+"material-ui-plugin-styles-provider-cache","0.0.1-security",""
 "math-digamma","1.0.0","MIT"
 "math-digamma","1.0.1","MIT"
 "math-digamma","1.0.2","MIT"
