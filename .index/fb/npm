@@ -16269,6 +16269,7 @@
 "@ta-interaktiv/react-feedback-message","2.5.5","ISC"
 "@ta-interaktiv/react-feedback-message","2.5.6","ISC"
 "@ta-interaktiv/react-feedback-message","3.0.0","ISC"
+"@tachyonjs/jwt","0.1.0",""
 "@tadasauciunas/aws-lambda-libreoffice","3.0.1","MIT"
 "@tadasauciunas/aws-lambda-libreoffice","3.0.2","MIT"
 "@tadasauciunas/aws-lambda-libreoffice","3.0.3","MIT"
