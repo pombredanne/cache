@@ -3710,6 +3710,7 @@
 "@dadi/web","7.0.4","SEE LICENSE IN GPL.md"
 "@dagonmetric/ng-log-facebook-analytics","1.0.0","MIT"
 "@dagonmetric/ng-log-facebook-analytics","1.0.1","MIT"
+"@daily-labs/miro-extension","0.1.0",""
 "@daltonnotetech/user-lib","0.0.1",""
 "@dananjoy-angular-lib/components","0.0.4",""
 "@daoyi/nmtl-ui","1.0.0",""

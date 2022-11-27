@@ -15060,6 +15060,7 @@
 "@seracio/kohonen","3.0.0","MIT"
 "@seracio/kohonen","3.0.1","MIT"
 "@seracio/kohonen","3.0.2","MIT"
+"@servita/tailwind-preset","1.0.0",""
 "@sglearn/dashboard-server","1.0.0","MIT"
 "@sglearn/dashboard-server","1.0.1","MIT"
 "@sglearn/dashboard-server","1.0.2","MIT"

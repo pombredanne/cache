@@ -4660,6 +4660,8 @@
 "@dadi/api-orbitdb","0.0.5-development","ISC"
 "@dadi/api-orbitdb","0.0.6","ISC"
 "@daichangxin/xlsx2json-cli","1.0.0","ISC"
+"@daily-labs/iframe-extension","0.1.0",""
+"@daily-labs/iframe-extension","0.1.1",""
 "@danielkoehler/exporter-zpages","0.0.9","Apache-2.0"
 "@danielsmilo/web3-eth","1.0.0-beta.42","LGPL-3.0"
 "@danielsmilo/web3-eth","1.0.0-beta.44","LGPL-3.0"

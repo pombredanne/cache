@@ -11915,6 +11915,7 @@
 "@mnergard/prime-pack-proc-cli","1.0.1","MIT"
 "@mnergard/prime-pack-proc-cli","1.0.2","MIT"
 "@mnergard/prime-pack-proc-cli","1.0.3","MIT"
+"@mondaydotcomorg/localtunnel-common","0.0.3",""
 "@monospaces/editor-core","0.0.1","MIT"
 "@monstrs/prettier-plugin-import-sort","0.1.10","MIT"
 "@monstrs/prettier-plugin-import-sort","0.1.11","MIT"
